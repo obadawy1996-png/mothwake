@@ -15,3 +15,4 @@
 | 2026-11-19 | **Samples must be fully animated** (no still-image slideshows) | Animated clips for every shot |
 | 2026-11-19 | **Animation engine: Google Flow, owner's AI Pro plan** (1,000 credits/month; Veo 3.1 Lite 10 / Fast 20 credits per clip) | No API, so Claude prepares paste-ready Flow packs, the owner generates in the browser, and Claude assembles. ElevenLabs video credits not needed. |
 | 2026-11-20 | **3-Short pilot approved** (SH012, SH019, SH025) with three fixes: (1) SH025 Part 1 ends on the vote, the reveal moves to Part 2; (2) multi-action clips split into single actions (+30 credits); (3) voices are picked by the owner before narration | `episodes/PILOT_01/` packs. Estimate 190 Flow credits first pass, 380 max. Original story JSONs left unchanged. |
+| 2026-11-20 | **Ivy's voice: Ana-Rita2** (wJqPPQ618aTW29mptyoc), eleven_v4 | Ivy narration generated for all 3 pilots, 1 take each, 740 credits measured |

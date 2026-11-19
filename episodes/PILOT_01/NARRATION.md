@@ -27,3 +27,13 @@ The only match is **Teddy Twinkle** `XjGYkUkzth8BPs29fmcV`, a cheerful cartoon b
 **SH025 Part 1:** "Normal evening. Bike, keys, shopping." · "Two doors say nine. Only one is mine." · "Which do I open? Decide now."
 
 **Open point:** SH019 calls Theo "my little brother" in the test title, but the Asset Kit says he is Ivy's nephew. The lines above work for both. Pick one before the title is final.
+
+## Generated 2026-11-20 (owner chose Ivy = Ana-Rita2)
+ElevenLabs flow `kdSu925On1uAvgqQLTO7` "MOTHWAKE PILOT_01 narration", model eleven_v4, **1 take each** to stay inside the approved ~930 budget (the default 2 takes would have cost about 1,500).
+| Node | Short | Lines | Credits (measured, ElevenLabs result) |
+|---|---|---|---|
+| IfkrDVYGAMu1SWlkFQsz | SH012 | all Ivy lines | 313 |
+| cDyzYHmh4Jof3c4kpxdy | SH019 | Ivy lines only (Theo pending his voice) | 260 |
+| kun0LRSTTLRnyaVmYdmq | SH025 P1 | all Ivy lines | 167 |
+| | **Total** | | **740** (about 190 left of the pilot's ~930 estimate, for Theo and retakes) |
+Takes still to be downloaded to `episodes/PILOT_01/audio/vo/` and reviewed by ear. They're cut into lines in post.
