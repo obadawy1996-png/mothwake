@@ -1,0 +1,66 @@
+{
+  "id": "MW010",
+  "title": "Smile Check",
+  "category": "Psychological twist",
+  "format": "short",
+  "setting_type": "home",
+  "twist_type": "reflection-independent",
+  "concept": "A phone's new 'smile check' unlock feature starts rejecting a teenager's smile — and accepting someone else's.",
+  "characters": [
+    "Leo (16)"
+  ],
+  "setting": "Bedroom, bathroom mirror, phone screen.",
+  "conflict": "Leo is locked out of his own phone.",
+  "escalation": "The phone unlocks when he's not touching it. Photos appear of him sleeping.",
+  "reveal": "The phone isn't wrong. The face it learned during setup wasn't his — it was the thing standing behind him.",
+  "ending": "'Face recognised.' Leo hasn't looked at the screen.",
+  "emotional_objective": "Tech dread, personal and relatable.",
+  "visual_requirements": [
+    "phone UI",
+    "mirror",
+    "dark bedroom"
+  ],
+  "production_effort": "low",
+  "hooks": [
+    {
+      "structure": "impossible situation",
+      "line": "My phone won't recognise my face anymore. It recognises someone else's.",
+      "first_visual": "Phone: FACE NOT RECOGNISED."
+    },
+    {
+      "structure": "disturbing discovery",
+      "line": "There are photos in my camera roll of me sleeping.",
+      "first_visual": "Gallery grid of dark bedroom photos."
+    },
+    {
+      "structure": "question with visual answer",
+      "line": "Whose face did my phone learn?",
+      "first_visual": "Setup screen recording, a second face blurred behind."
+    },
+    {
+      "structure": "strange message",
+      "line": "'Smile check passed.' I wasn't smiling.",
+      "first_visual": "Notification pops up."
+    },
+    {
+      "structure": "unexpected visitor",
+      "line": "My phone unlocked by itself at 3 a.m.",
+      "first_visual": "Phone lights up on nightstand."
+    }
+  ],
+  "originality_review": "Original; avoid any real brand UI. Generic phone interface only.",
+  "scores": {
+    "topic_demand": 4,
+    "audience_curiosity": 5,
+    "hook_strength": 5,
+    "emotional_impact": 3,
+    "story_clarity": 5,
+    "suspense": 4,
+    "retention_potential": 4,
+    "rewatch_potential": 4,
+    "shareability": 5,
+    "production_complexity": 1,
+    "originality": 4,
+    "brand_suitability": 4
+  }
+}

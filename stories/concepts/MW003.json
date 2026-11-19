@@ -1,0 +1,67 @@
+{
+  "id": "MW003",
+  "title": "Lost Moth Poster",
+  "category": "Supernatural encounter",
+  "format": "short",
+  "setting_type": "town",
+  "twist_type": "the-searcher-is-the-lost-thing",
+  "concept": "Missing-pet posters appear around town for a moth. A child keeps finding the moth. Each time, the poster updates.",
+  "characters": [
+    "Iris (10, curious)",
+    "Unseen poster-maker"
+  ],
+  "setting": "Telephone poles, a laundromat, Iris's bedroom window.",
+  "conflict": "Iris wants the reward; the posters keep changing to describe her.",
+  "escalation": "'LAST SEEN: Laundromat' → 'LAST SEEN: Elm St' → 'LAST SEEN: Her bedroom window'.",
+  "reveal": "The posters aren't looking for the moth. The moth is looking for Iris; the posters are its notes.",
+  "ending": "Final poster, with a crayon drawing of Iris: 'FOUND.'",
+  "emotional_objective": "Playful curiosity that tightens into being hunted. Brand-defining (the moth motif).",
+  "visual_requirements": [
+    "poster close-ups (text-driven)",
+    "moth character",
+    "bedroom window at night"
+  ],
+  "production_effort": "low",
+  "hooks": [
+    {
+      "structure": "strange message",
+      "line": "Someone in my town is putting up posters for a lost moth.",
+      "first_visual": "A taped poster: LOST MOTH, REWARD."
+    },
+    {
+      "structure": "disturbing discovery",
+      "line": "The lost moth poster updated. It knows where I was today.",
+      "first_visual": "Poster text changing via cut."
+    },
+    {
+      "structure": "question with visual answer",
+      "line": "Who loses a moth?",
+      "first_visual": "Child holding a jar with a moth, poster behind."
+    },
+    {
+      "structure": "dangerous decision",
+      "line": "I found the lost moth. I should not have called the number.",
+      "first_visual": "Phone screen dialing; moth in jar."
+    },
+    {
+      "structure": "mysterious rule",
+      "line": "If you see the lost moth, do not tell it your name.",
+      "first_visual": "Handwritten line at bottom of poster."
+    }
+  ],
+  "originality_review": "Wholly original; uses MOTHWAKE's own motif, potential recurring element.",
+  "scores": {
+    "topic_demand": 3,
+    "audience_curiosity": 5,
+    "hook_strength": 5,
+    "emotional_impact": 4,
+    "story_clarity": 5,
+    "suspense": 4,
+    "retention_potential": 5,
+    "rewatch_potential": 4,
+    "shareability": 5,
+    "production_complexity": 1,
+    "originality": 5,
+    "brand_suitability": 5
+  }
+}

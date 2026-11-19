@@ -1,0 +1,68 @@
+{
+  "id": "MW001",
+  "status": "hold-rework (research 2026-11-19: overlaps an existing 2026 moths/porch-light/door video)",
+  "title": "The Porch Light Rule",
+  "category": "Urban legend (original)",
+  "format": "short",
+  "setting_type": "suburb",
+  "twist_type": "rule-follower-was-the-threat",
+  "concept": "Every house on Linden Row leaves its porch light on all night. A new tenant turns hers off and learns why the street keeps the light burning.",
+  "characters": [
+    "Nadia (30s, new tenant, practical)",
+    "Mr. Okafor (elderly neighbour, kind, frightened)"
+  ],
+  "setting": "A quiet cul-de-sac at 2 a.m.; every porch lit except one.",
+  "conflict": "Nadia thinks the rule is superstition and an electricity waste.",
+  "escalation": "After she switches it off, porch lights down the street go dark one by one, moving toward her house.",
+  "reveal": "The lights aren't protection for the residents — they mark houses that are already 'taken'. Hers was the only one still safe.",
+  "ending": "Nadia reaches for the switch to turn it back on. Her finger stops. Something on the other side of the door turns it on for her.",
+  "emotional_objective": "Dread built from a mundane rule, then a cold inversion.",
+  "visual_requirements": [
+    "night street with 8 porches",
+    "light-off cascade (simple layer animation)",
+    "door, switch close-up"
+  ],
+  "production_effort": "low",
+  "hooks": [
+    {
+      "structure": "mysterious rule",
+      "line": "On my street, you never turn off the porch light. I found out why on my first night.",
+      "first_visual": "A row of lit porches; one goes dark."
+    },
+    {
+      "structure": "dangerous decision",
+      "line": "I turned off my porch light at 2 a.m. The whole street noticed.",
+      "first_visual": "Finger on a switch, click, darkness."
+    },
+    {
+      "structure": "impossible situation",
+      "line": "The lights on my street are going out one by one. Mine is next.",
+      "first_visual": "Overhead shot: lights blinking off toward camera."
+    },
+    {
+      "structure": "strange message",
+      "line": "My neighbour left a note: 'Keep it on. Please. Not for you.'",
+      "first_visual": "A shaky handwritten note taped to a door."
+    },
+    {
+      "structure": "question with visual answer",
+      "line": "Why is mine the only house on the street with the light off?",
+      "first_visual": "Wide shot: one dark house among glowing porches."
+    }
+  ],
+  "originality_review": "Original premise. Avoids known 'rules' creepypasta structures by inverting the purpose of the rule; no borrowed characters or text.",
+  "scores": {
+    "topic_demand": 4,
+    "audience_curiosity": 5,
+    "hook_strength": 5,
+    "emotional_impact": 4,
+    "story_clarity": 5,
+    "suspense": 4,
+    "retention_potential": 4,
+    "rewatch_potential": 4,
+    "shareability": 4,
+    "production_complexity": 2,
+    "originality": 4,
+    "brand_suitability": 5
+  }
+}

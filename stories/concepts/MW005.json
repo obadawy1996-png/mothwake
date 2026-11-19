@@ -1,0 +1,65 @@
+{
+  "id": "MW005",
+  "title": "The Night Inventory",
+  "category": "Psychological horror",
+  "format": "short",
+  "setting_type": "workplace",
+  "twist_type": "count-is-wrong-by-one",
+  "concept": "A stock clerk counts mannequins in a closed department store every night. Tonight there is one more than the inventory sheet.",
+  "characters": [
+    "Dev (19, night clerk)"
+  ],
+  "setting": "Closed department store, emergency lighting.",
+  "conflict": "The count must match or he can't clock out.",
+  "escalation": "Each recount, the extra mannequin is closer to the stockroom where Dev stands.",
+  "reveal": "The sheet isn't wrong. Last night's clerk is listed as a mannequin.",
+  "ending": "Dev's own name is printed on tomorrow's inventory sheet.",
+  "emotional_objective": "Escalating recount tension; mundane job horror.",
+  "visual_requirements": [
+    "store floor with mannequins (reusable asset)",
+    "clipboard inserts"
+  ],
+  "production_effort": "medium",
+  "hooks": [
+    {
+      "structure": "impossible situation",
+      "line": "There are 41 mannequins in this store. Tonight I counted 42.",
+      "first_visual": "Torch beam sweeping across mannequins."
+    },
+    {
+      "structure": "mysterious rule",
+      "line": "My night job has one rule: the count has to match.",
+      "first_visual": "Clipboard with a tally."
+    },
+    {
+      "structure": "disturbing discovery",
+      "line": "The extra mannequin is wearing the last night clerk's badge.",
+      "first_visual": "Close-up of a name badge."
+    },
+    {
+      "structure": "question with visual answer",
+      "line": "Which one of these wasn't here yesterday?",
+      "first_visual": "Line-up of mannequins, one slightly turned."
+    },
+    {
+      "structure": "dangerous decision",
+      "line": "I should have just written 41.",
+      "first_visual": "Pen hovering over a number."
+    }
+  ],
+  "originality_review": "Mannequin horror is common; the inventory-count mechanic and reveal are original. Check similarity against competitor mannequin stories before scripting.",
+  "scores": {
+    "topic_demand": 4,
+    "audience_curiosity": 4,
+    "hook_strength": 5,
+    "emotional_impact": 3,
+    "story_clarity": 5,
+    "suspense": 5,
+    "retention_potential": 4,
+    "rewatch_potential": 4,
+    "shareability": 4,
+    "production_complexity": 3,
+    "originality": 3,
+    "brand_suitability": 4
+  }
+}

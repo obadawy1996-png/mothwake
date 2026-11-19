@@ -3,3 +3,4 @@ __pycache__/
 *.pyc
 episodes/*/render/
 *.tmp
+episodes/*/render/

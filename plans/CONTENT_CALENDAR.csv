@@ -1,0 +1,69 @@
+pilot_day,platform,type,title,story_id,experiment,notes
+1,YouTube,short,Lost Moth Poster,MW003,E1-rule,35-60 s
+2,Instagram,reel,Lost Moth Poster,MW003,E1-rule,
+2,TikTok,short,Lost Moth Poster,MW003,E1-rule,
+3,Facebook,reel,Lost Moth Poster,MW003,E1-rule,
+3,YouTube,short,Smile Check,MW010,E1-impossible,35-60 s
+4,Instagram,reel,Smile Check,MW010,E1-impossible,
+4,TikTok,short,Smile Check,MW010,E1-impossible,
+5,Facebook,reel,Smile Check,MW010,E1-impossible,
+5,YouTube,long-form,The Quiet Hour,MW012,,8-14 min
+5,YouTube,short,Quiet Hour trailer,MW012,E2-trailer,35-60 s
+6,Facebook,native video,The Quiet Hour,MW012,,
+6,Instagram,reel,Quiet Hour trailer,MW012,E2-trailer,
+6,TikTok,1-3 min parts,The Quiet Hour (part 1),MW012,,>=60 s for Creator Rewards
+6,TikTok,short,Quiet Hour trailer,MW012,E2-trailer,
+7,Facebook,reel,Quiet Hour trailer,MW012,E2-trailer,
+7,YouTube,short,Voicemail From Tomorrow,MW004,E1-impossible,35-60 s
+8,Instagram,reel,Voicemail From Tomorrow,MW004,E1-impossible,
+8,TikTok,short,Voicemail From Tomorrow,MW004,E1-impossible,
+8,YouTube,short,Extra Floor,MW002,E1-impossible,35-60 s
+9,Facebook,reel,Voicemail From Tomorrow,MW004,E1-impossible,
+9,Instagram,reel,Extra Floor,MW002,E1-impossible,
+9,TikTok,short,Extra Floor,MW002,E1-impossible,
+10,Facebook,reel,Extra Floor,MW002,E1-impossible,
+10,YouTube,short,The Night Inventory,MW005,E1-rule,35-60 s
+11,Instagram,reel,The Night Inventory,MW005,E1-rule,
+11,TikTok,short,The Night Inventory,MW005,E1-rule,
+12,Facebook,reel,The Night Inventory,MW005,E1-rule,
+12,YouTube,long-form,The Lamp Census (winter),NEW-W1,E3/E4,8-14 min
+12,YouTube,short,Lamp Census trailer,NEW-W1,E2-trailer,35-60 s
+13,Facebook,native video,The Lamp Census (winter),NEW-W1,,
+13,Instagram,reel,Lamp Census trailer,NEW-W1,E2-trailer,
+13,TikTok,1-3 min parts,The Lamp Census (winter) (part 1),NEW-W1,,>=60 s for Creator Rewards
+13,TikTok,short,Lamp Census trailer,NEW-W1,E2-trailer,
+14,Facebook,reel,Lamp Census trailer,NEW-W1,E2-trailer,
+15,YouTube,short,The Babysitter's Third Rule,MW008,E2-standalone,35-60 s
+16,Instagram,reel,The Babysitter's Third Rule,MW008,E2-standalone,
+16,TikTok,short,The Babysitter's Third Rule,MW008,E2-standalone,
+17,Facebook,reel,The Babysitter's Third Rule,MW008,E2-standalone,
+17,YouTube,short,Last Bus to Halden,MW011,E2-standalone,35-60 s
+18,Instagram,reel,Last Bus to Halden,MW011,E2-standalone,
+18,TikTok,short,Last Bus to Halden,MW011,E2-standalone,
+19,Facebook,reel,Last Bus to Halden,MW011,E2-standalone,
+19,YouTube,long-form,Sleep Study,MW006,E3/E4,8-14 min
+19,YouTube,short,Sleep Study trailer,MW006,E2-trailer,35-60 s
+20,Facebook,native video,Sleep Study,MW006,,
+20,Instagram,reel,Sleep Study trailer,MW006,E2-trailer,
+20,TikTok,1-3 min parts,Sleep Study (part 1),MW006,,>=60 s for Creator Rewards
+20,TikTok,short,Sleep Study trailer,MW006,E2-trailer,
+21,Facebook,reel,Sleep Study trailer,MW006,E2-trailer,
+21,YouTube,short,Mile Marker 0,MW007,E2-standalone,35-60 s
+22,Instagram,reel,Mile Marker 0,MW007,E2-standalone,
+22,TikTok,short,Mile Marker 0,MW007,E2-standalone,
+22,YouTube,short,Signal Lake trailer,MW009,E2-trailer,35-60 s
+23,Facebook,reel,Mile Marker 0,MW007,E2-standalone,
+23,Instagram,reel,Signal Lake trailer,MW009,E2-trailer,
+23,TikTok,short,Signal Lake trailer,MW009,E2-trailer,
+24,Facebook,reel,Signal Lake trailer,MW009,E2-trailer,
+24,YouTube,short,Learning pick A,TBD,from week 1-3 data,35-60 s
+25,Instagram,reel,Learning pick A,TBD,from week 1-3 data,
+25,TikTok,short,Learning pick A,TBD,from week 1-3 data,
+26,Facebook,reel,Learning pick A,TBD,from week 1-3 data,
+26,YouTube,long-form,Signal Lake,MW009,E3/E4,8-14 min
+26,YouTube,short,Learning pick B,TBD,from week 1-3 data,35-60 s
+27,Facebook,native video,Signal Lake,MW009,,
+27,Instagram,reel,Learning pick B,TBD,from week 1-3 data,
+27,TikTok,1-3 min parts,Signal Lake (part 1),MW009,,>=60 s for Creator Rewards
+27,TikTok,short,Learning pick B,TBD,from week 1-3 data,
+28,Facebook,reel,Learning pick B,TBD,from week 1-3 data,

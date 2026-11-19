@@ -1,0 +1,2274 @@
+[
+ {
+  "query": "if your mom says horror",
+  "fetched_at": "2026-11-19T17:18:19Z",
+  "filter": "this month, sorted by views, videos",
+  "n_results": 20,
+  "top1_views": 3360570,
+  "median_views_top20": 293350,
+  "n_over_100k": 20,
+  "n_over_1m": 2,
+  "videos": [
+   {
+    "title": "THAT'S NOT MY MOM..",
+    "channel": "Foltyn",
+    "views": "2,934,069 views",
+    "published": "2w ago",
+    "duration": "32:01",
+    "id": "yB3UMzhxVtE"
+   },
+   {
+    "title": "If Your Mom Ever Says Goodnight to You Twice... LOCK YOUR DOOR",
+    "channel": "Lullorin",
+    "views": "3,360,570 views",
+    "published": "3w ago",
+    "duration": "13:39",
+    "id": "wU_PUYMs5Bo"
+   },
+   {
+    "title": "If Your Sibling Ever Asks What Your Name Is... LIE",
+    "channel": "Lullorin",
+    "views": "928,352 views",
+    "published": "2w ago",
+    "duration": "10:24",
+    "id": "kLXmB-ctWns"
+   },
+   {
+    "title": "ROBLOX THAT'S NOT MY MOM..",
+    "channel": "CaylusBlox",
+    "views": "690,632 views",
+    "published": "2w ago",
+    "duration": "22:41",
+    "id": "o5qUTgg64iY"
+   },
+   {
+    "title": "If Your Mom Says Goodnight Twice, LOCK THE DOOR..",
+    "channel": "Luvhilal",
+    "views": "556,384 views",
+    "published": "13d ago",
+    "duration": "29:20",
+    "id": "gxOEFEyFpms"
+   },
+   {
+    "title": "If Your Mom Wakes You At 3AM To Help In The Kitchen... DON’T LEAVE YOUR ROOM",
+    "channel": "Dreadify",
+    "views": "514,213 views",
+    "published": "2w ago",
+    "duration": "10:03",
+    "id": "rG_hx-BM3-c"
+   },
+   {
+    "title": "If Your Mom Says Goodnight Twice..YOU'RE COOKED",
+    "channel": "RICHLEV",
+    "views": "477,952 views",
+    "published": "8d ago",
+    "duration": "24:13",
+    "id": "kjIklogOmhE"
+   },
+   {
+    "title": "If Your Bed is Ever Already Warm... GET OUT SLOWLY",
+    "channel": "Lullorin",
+    "views": "512,795 views",
+    "published": "2w ago",
+    "duration": "9:35",
+    "id": "W4zEEBGSNQ8"
+   },
+   {
+    "title": "If Your Sister Ever Counts to Ten Twice... STAY HIDDEN",
+    "channel": "Office of Quiet Hours",
+    "views": "387,102 views",
+    "published": "2w ago",
+    "duration": "11:42",
+    "id": "vdWKZBgQ25M"
+   },
+   {
+    "title": "If Find My iPhone Ever Shows You at Home When You're Not... DON'T GO HOME",
+    "channel": "Lullorin",
+    "views": "371,348 views",
+    "published": "12d ago",
+    "duration": "13:31",
+    "id": "tx0NADp5V_o"
+   },
+   {
+    "title": "If Your Mom Is Outside Your Window... CLOSE THE CURTAINS",
+    "channel": "Final Sight",
+    "views": "286,566 views",
+    "published": "2w ago",
+    "duration": "9:21",
+    "id": "KZKHpW682Vw"
+   },
+   {
+    "title": "If Your Dad Ever Checks on You After Midnight... KEEP SNORING",
+    "channel": "Lullorin",
+    "views": "293,350 views",
+    "published": "10d ago",
+    "duration": "12:16",
+    "id": "O_1kSOykgss"
+   },
+   {
+    "title": "If Your Mom Ever Leaves You a Voicemail While Sitting Next to You... DON'T PLAY IT",
+    "channel": "Lullorin",
+    "views": "256,102 views",
+    "published": "11d ago",
+    "duration": "13:16",
+    "id": "JLx3fRU6wVE"
+   },
+   {
+    "title": "If Your Mom Ever Drives Past Your Home... ACT NORMAL",
+    "channel": "Dreadify",
+    "views": "187,236 views",
+    "published": "9d ago",
+    "duration": "15:43",
+    "id": "ap6qnbV5xxs"
+   },
+   {
+    "title": "If Your AirPods Ever Connect to Someone Else's Phone... DON'T SAY ANYTHING",
+    "channel": "Lullorin",
+    "views": "191,452 views",
+    "published": "13d ago",
+    "duration": "14:09",
+    "id": "_Tbck9z2H9w"
+   },
+   {
+    "title": "If Your Dog Ever Growls At Your Mom When She Gets Home... DON'T OPEN THE DOOR",
+    "channel": "Dreadify",
+    "views": "155,916 views",
+    "published": "2w ago",
+    "duration": "11:13",
+    "id": "2eOCOPxN49w"
+   },
+   {
+    "title": "THAT'S NOT MY MOM..",
+    "channel": "Brook and Riley",
+    "views": "133,579 views",
+    "published": "2w ago",
+    "duration": "22:12",
+    "id": "Dz26WkzJLT0"
+   },
+   {
+    "title": "If Your Parents Ever Lock You Out of the House at Night... DON'T KNOCK",
+    "channel": "Lullorin",
+    "views": "135,397 views",
+    "published": "7d ago",
+    "duration": "12:48",
+    "id": "ohBUXBGHIeU"
+   },
+   {
+    "title": "If Your Smart Speaker Ever Says Goodnight First… DO NOT ANSWER",
+    "channel": "Seven Warnings",
+    "views": "119,711 views",
+    "published": "4w ago",
+    "duration": "4:37",
+    "id": "a9ly4g-efJA"
+   },
+   {
+    "title": "If Your Mom Says Goodnight Twice, CLOSE YOUR DOOR",
+    "channel": "YXL Plug",
+    "views": "133,042 views",
+    "published": "11d ago",
+    "duration": "31:21",
+    "id": "b_7EleiUHcI"
+   }
+  ]
+ },
+ {
+  "query": "horror stories to fall asleep to",
+  "fetched_at": "2026-11-19T17:18:20Z",
+  "filter": "this month, sorted by views, videos",
+  "n_results": 20,
+  "top1_views": 3462889,
+  "median_views_top20": 221932,
+  "n_over_100k": 19,
+  "n_over_1m": 4,
+  "videos": [
+   {
+    "title": "Trapped In Walmart After Closing 1 Year (Full Story)",
+    "channel": "One Year Inside",
+    "views": "3,462,889 views",
+    "published": "2w ago",
+    "duration": "48:48",
+    "id": "3pkkFlH7-pU"
+   },
+   {
+    "title": "Spooky Scary Stories | Reading Reddit Stories",
+    "channel": "Smosh Pit",
+    "views": "3,419,900 views",
+    "published": "2w ago",
+    "duration": "1:14:02",
+    "id": "biPsM4c0F7M"
+   },
+   {
+    "title": "TOP 5 Bingeable SCARY STORIES • Halloween 2026 Edition",
+    "channel": "MrBallen",
+    "views": "2,290,088 views",
+    "published": "3w ago",
+    "duration": "55:31",
+    "id": "FhiSrxOcChY"
+   },
+   {
+    "title": "3 Terrifying TRUE Horror Stories",
+    "channel": "Mr. Nightmare",
+    "views": "1,128,391 views",
+    "published": "3w ago",
+    "duration": "28:12",
+    "id": "kwRXWbEwY2k"
+   },
+   {
+    "title": "3 Terrifying TRUE Fall Camping Horror Stories",
+    "channel": "Mr. Nightmare",
+    "views": "959,674 views",
+    "published": "4w ago",
+    "duration": "23:44",
+    "id": "LPrD0f-bP2k"
+   },
+   {
+    "title": "3 Terrifying TRUE Travel Horror Stories",
+    "channel": "Mr. Nightmare",
+    "views": "918,132 views",
+    "published": "3w ago",
+    "duration": "29:18",
+    "id": "8ZFTlvcVWLg"
+   },
+   {
+    "title": "Don’t Open the Door At 2 AM : Lansdowne Guesthouse Horror Story",
+    "channel": "SR PAY STORIES",
+    "views": "781,359 views",
+    "published": "4w ago",
+    "duration": "37:50",
+    "id": "GKS4ukbWXtM"
+   },
+   {
+    "title": "If Your Bed is Ever Already Warm... GET OUT SLOWLY",
+    "channel": "Lullorin",
+    "views": "512,795 views",
+    "published": "2w ago",
+    "duration": "9:35",
+    "id": "W4zEEBGSNQ8"
+   },
+   {
+    "title": "3 Hours of Horrifying Stories That Still Give Me Chills",
+    "channel": "Lets Read!",
+    "views": "369,580 views",
+    "published": "4w ago",
+    "duration": "3:22:30",
+    "id": "VhC7EL_OQzw"
+   },
+   {
+    "title": "24 SCARY True Horror Stories ANIMATED",
+    "channel": "Horror Shorts Party",
+    "views": "264,736 views",
+    "published": "2w ago",
+    "duration": "2:18:58",
+    "id": "T9ga16YCO5o"
+   },
+   {
+    "title": "5 Terrifying Horror Stories You Should NEVER Watch Alone | 1-Hour Halloween Special 🎃",
+    "channel": "Beauties & Beasts",
+    "views": "221,932 views",
+    "published": "2w ago",
+    "duration": "1:00:03",
+    "id": "hSVXTZjEM64"
+   },
+   {
+    "title": "The Woman from the Pig Farm & More: True Listener Submitted Horror Stories | Spooky Scary Storytime",
+    "channel": "ashleeinc",
+    "views": "166,439 views",
+    "published": "3w ago",
+    "duration": "45:39",
+    "id": "l6tTcjifQc8"
+   },
+   {
+    "title": "Scary Stories For A Sinister, Sleepless And Grim Night",
+    "channel": "Be. Busta",
+    "views": "110,915 views",
+    "published": "3w ago",
+    "duration": "3:53:32",
+    "id": "b4MbPXsBmYQ"
+   },
+   {
+    "title": "3 True Fall Horror Stories for a Cold October Night",
+    "channel": "Whispered Diaries",
+    "views": "145,921 views",
+    "published": "3w ago",
+    "duration": "26:19",
+    "id": "GOhIixepQCc"
+   },
+   {
+    "title": "Scary Stories For A Sleepless, Uneasy And Cold Night",
+    "channel": "Be. Busta",
+    "views": "104,065 views",
+    "published": "2w ago",
+    "duration": "3:55:06",
+    "id": "MSV9VyeoJvI"
+   },
+   {
+    "title": "MrBallen Sleep Edition: The Appalachian Trail a Famous Hiking Trail in the United States",
+    "channel": "Mr Sleepy Stories",
+    "views": "187,448 views",
+    "published": "3w ago",
+    "duration": "1:27:44",
+    "id": "MzVY1JKxc3o"
+   },
+   {
+    "title": "3 True Trick-or-Treat Horror Stories Animated",
+    "channel": "IMR Scary Tales",
+    "views": "109,980 views",
+    "published": "3w ago",
+    "duration": "17:48",
+    "id": "a3gyGgj2l7I"
+   },
+   {
+    "title": "3 True Red Room Horror Stories Animated",
+    "channel": "IMR Scary Tales",
+    "views": "96,200 views",
+    "published": "3w ago",
+    "duration": "19:40",
+    "id": "f9IXVv0Bjvo"
+   },
+   {
+    "title": "20 TRUE Horror Stories Animated (OCTOBER COMPILATION)",
+    "channel": "Mort",
+    "views": "109,735 views",
+    "published": "6d ago",
+    "duration": "2:30:52",
+    "id": "y1fRFjj1sQ4"
+   },
+   {
+    "title": "[Legendary Viewer Horror Stories to Fall Asleep To] Ninano's \"My Sibling Who Sees Ghosts\"",
+    "channel": "상상상상",
+    "views": "124,324 views",
+    "published": "3w ago",
+    "duration": "1:53:02",
+    "id": "VXLOAOAXEgA"
+   }
+  ]
+ },
+ {
+  "query": "appalachian horror stories",
+  "fetched_at": "2026-11-19T17:18:22Z",
+  "filter": "this month, sorted by views, videos",
+  "n_results": 20,
+  "top1_views": 2290088,
+  "median_views_top20": 250192,
+  "n_over_100k": 18,
+  "n_over_1m": 3,
+  "videos": [
+   {
+    "title": "TOP 5 Bingeable SCARY STORIES • Halloween 2026 Edition",
+    "channel": "MrBallen",
+    "views": "2,290,088 views",
+    "published": "3w ago",
+    "duration": "55:31",
+    "id": "FhiSrxOcChY"
+   },
+   {
+    "title": "The Story of the Crole Clan — Appalachia’s Most Unholy Bloodline",
+    "channel": "Blue Ridge Whispers",
+    "views": "1,535,107 views",
+    "published": "4w ago",
+    "duration": "1:57:05",
+    "id": "ipn-FJ48WYs"
+   },
+   {
+    "title": "Investigating the Haunted Mountains Where People Go Missing!",
+    "channel": "Kash World",
+    "views": "1,006,532 views",
+    "published": "11d ago",
+    "duration": "44:13",
+    "id": "zfplQW0dIfQ"
+   },
+   {
+    "title": "MIMIC | Short Horror Film (Pt. 4)",
+    "channel": "The Noctuary",
+    "views": "802,437 views",
+    "published": "3w ago",
+    "duration": "13:44",
+    "id": "XSk01xV_AE8"
+   },
+   {
+    "title": "\"I WILL NOT Go Out There At Night\" | REAL Appalachian HORROR STORIES | Ghosts, Cryptids & More...",
+    "channel": "The Paranormal Files (Official Channel)",
+    "views": "928,895 views",
+    "published": "3w ago",
+    "duration": "1:18:01",
+    "id": "vp1s7AtJH4c"
+   },
+   {
+    "title": "Deep in APPALACHIA: The Abandoned Homes Hidden in the Hollers",
+    "channel": "Adam Mark Explores",
+    "views": "900,940 views",
+    "published": "4w ago",
+    "duration": "45:26",
+    "id": "XSVvJEuOQKk"
+   },
+   {
+    "title": "When Teens Caught an Appalachian Serial Killer",
+    "channel": "Heart Starts Pounding w/ Kaelyn Moore",
+    "views": "653,592 views",
+    "published": "2w ago",
+    "duration": "47:47",
+    "id": "FYESQKS_pmM"
+   },
+   {
+    "title": "The MOST HAUNTED HOUSE in APPALACHIA: Anchorage Mansion (SCARY Paranormal Activity On Camera)",
+    "channel": "The Paranormal Files (Official Channel)",
+    "views": "457,253 views",
+    "published": "1mo ago",
+    "duration": "3:32:19",
+    "id": "MS8Lwp5pzd4"
+   },
+   {
+    "title": "We Broke EVERY RULE In APPALACHIA (it tried to kill us)",
+    "channel": "The Paranormal Files (Official Channel)",
+    "views": "440,063 views",
+    "published": "2w ago",
+    "duration": "2:33:20",
+    "id": "mNKRhkqbepI"
+   },
+   {
+    "title": "The Terrifying Untold Story of the Walker Sisters of Appalachia",
+    "channel": "Blue Ridge Whispers",
+    "views": "301,303 views",
+    "published": "2w ago",
+    "duration": "1:56:27",
+    "id": "SCgZFhJX-1Q"
+   },
+   {
+    "title": "Someone Doesn’t Want Us Investigating NORTH APPALACHIA...",
+    "channel": "HypeMyke",
+    "views": "250,192 views",
+    "published": "3w ago",
+    "duration": "25:33",
+    "id": "bXo8FQgLaMw"
+   },
+   {
+    "title": "8 Giant Statues Caught Moving on Camera in the Appalachian Mountains",
+    "channel": "Blue Ridge Whispers",
+    "views": "172,449 views",
+    "published": "4w ago",
+    "duration": "1:49:06",
+    "id": "_bFV7Q_TSfc"
+   },
+   {
+    "title": "Appalachian Coal Miner REVEALS What's Hiding Beneath West Virginia's Sealed Mines...",
+    "channel": "Mark's Appalachian Horrors",
+    "views": "179,601 views",
+    "published": "2w ago",
+    "duration": "39:14",
+    "id": "13masfmvnJE"
+   },
+   {
+    "title": "APPALACHIA MOUNTAINS Are Terrifying at Night! Drummond Bridge ",
+    "channel": "Adam Mark Explores",
+    "views": "175,922 views",
+    "published": "2w ago",
+    "duration": "44:51",
+    "id": "G2raqNqS7b4"
+   },
+   {
+    "title": "MrBallen Sleep Edition: The Appalachian Trail a Famous Hiking Trail in the United States",
+    "channel": "Mr Sleepy Stories",
+    "views": "187,448 views",
+    "published": "3w ago",
+    "duration": "1:27:44",
+    "id": "MzVY1JKxc3o"
+   },
+   {
+    "title": "What They Don't Tell You About Appalachia",
+    "channel": "Darkness Prevails",
+    "views": "117,280 views",
+    "published": "2d ago",
+    "duration": "57:54",
+    "id": "7s9WCkJ6x3Q"
+   },
+   {
+    "title": "A Scary Skinwalker Story from Rural Arizona (Parts 1 & 2)",
+    "channel": "JUST CREEPY",
+    "views": "100,409 views",
+    "published": "3w ago",
+    "duration": "2:42:44",
+    "id": "w88f9F40nPw"
+   },
+   {
+    "title": "7 Appalachian Horror Stories That Will Leave You Terrified",
+    "channel": "Blue Ridge Whispers",
+    "views": "65,630 views",
+    "published": "4w ago",
+    "duration": "2:05:09",
+    "id": "JdP6_IFg63s"
+   },
+   {
+    "title": "7 Real Camping Encounters Caught on Camera In Appalachian Mountains | Scary Comp. V403",
+    "channel": "Grim Encounters",
+    "views": "101,271 views",
+    "published": "12d ago",
+    "duration": "41:18",
+    "id": "f3qsgO_-wQI"
+   },
+   {
+    "title": "We Rented a Cabin Deep in the Appalachian Mountains. My Friend Never Came Back.",
+    "channel": "Dark Night Tales",
+    "views": "76,240 views",
+    "published": "2w ago",
+    "duration": "55:48",
+    "id": "3Shjw-8flR0"
+   }
+  ]
+ },
+ {
+  "query": "mimic horror",
+  "fetched_at": "2026-11-19T17:18:24Z",
+  "filter": "this month, sorted by views, videos",
+  "n_results": 20,
+  "top1_views": 3408312,
+  "median_views_top20": 683029,
+  "n_over_100k": 20,
+  "n_over_1m": 6,
+  "videos": [
+   {
+    "title": "The Scariest Roblox Horror Game...",
+    "channel": "Joe Bart Games",
+    "views": "3,408,312 views",
+    "published": "1mo ago",
+    "duration": "47:27",
+    "id": "bYq75h51RYA"
+   },
+   {
+    "title": "Trolling Foltyn As The MIMIC in Roblox..",
+    "channel": "CaylusBlox and Foltyn",
+    "views": "2,328,754 views",
+    "published": "5d ago",
+    "duration": "16:52",
+    "id": "TzQSKilJgHI"
+   },
+   {
+    "title": "Mimic Party 2v2 Challenge with OG Gang",
+    "channel": "Live Insaan",
+    "views": "2,086,955 views",
+    "published": "6d ago",
+    "duration": "46:25",
+    "id": "9WhZelTctA4"
+   },
+   {
+    "title": "Killing the monster in HE ATE THEM..",
+    "channel": "steak",
+    "views": "1,266,714 views",
+    "published": "Streamed 2w ago",
+    "duration": "19:45",
+    "id": "tYww-Gbevzk"
+   },
+   {
+    "title": "Surviving the NIGHTMARE CIRCUS in Roblox Mimic!",
+    "channel": "ItsFunneh",
+    "views": "1,079,424 views",
+    "published": "2w ago",
+    "duration": "26:55",
+    "id": "uGcG9AyqI00"
+   },
+   {
+    "title": "THIS MONKEY (MIMIC👁️‍🗨️) COPIES YOUR APPEARANCE TO TRICK YOU IN SCARY BABOON in Roblox",
+    "channel": "JehxTp",
+    "views": "908,840 views",
+    "published": "2w ago",
+    "duration": "21:47",
+    "id": "OrpXhlELpJE"
+   },
+   {
+    "title": "MIMIC PARTY GONE EXTREMELY WRONG WITH FRIENDS 🤣| 18+",
+    "channel": "NotGamerFleet",
+    "views": "1,052,874 views",
+    "published": "2w ago",
+    "duration": "53:50",
+    "id": "UB4G3knFwOk"
+   },
+   {
+    "title": "Finally GRANNY Multiplayer Ch- 1 New Escape😱",
+    "channel": "Target siblings Gamerz",
+    "views": "836,732 views",
+    "published": "2w ago",
+    "duration": "26:48",
+    "id": "XgHk3XlskFs"
+   },
+   {
+    "title": "MIMIC | Short Horror Film (Pt. 4)",
+    "channel": "The Noctuary",
+    "views": "802,437 views",
+    "published": "3w ago",
+    "duration": "13:44",
+    "id": "XSk01xV_AE8"
+   },
+   {
+    "title": "FUNNIEST MIMIC PARTY With YOUTUBERS! @XyaaLive @ABHI9AV",
+    "channel": "SenpaiVerse and SenpaiExtras",
+    "views": "805,055 views",
+    "published": "2w ago",
+    "duration": "48:16",
+    "id": "JHwGOnhYPrY"
+   },
+   {
+    "title": "INSANE!! Monkey Anomaly Can Mimic Friends & Become Our Bestie 🙊🙂🙊 | Scary Baboon Reimagined Indon...",
+    "channel": "HaYoGo",
+    "views": "645,304 views",
+    "published": "2w ago",
+    "duration": "31:03",
+    "id": "V3EEIbu757M"
+   },
+   {
+    "title": "We Played Mimic Party Together! 😂",
+    "channel": "The Savage Square and The Savage Siblings",
+    "views": "683,029 views",
+    "published": "12d ago",
+    "duration": "11:23",
+    "id": "ldydCi9ivzI"
+   },
+   {
+    "title": "Becoming the MIMIC in HE ATE THEM..",
+    "channel": "steak",
+    "views": "621,177 views",
+    "published": "Streamed 4d ago",
+    "duration": "37:49",
+    "id": "91Lt9wKNZOU"
+   },
+   {
+    "title": "What If I Become a MIMIC!? - Scary Baboon Reimagined | Roblox",
+    "channel": "espera",
+    "views": "446,946 views",
+    "published": "2w ago",
+    "duration": "6:35",
+    "id": "h9k6IPc6dzg"
+   },
+   {
+    "title": "Short Film: Can STEAK Save ROMY from MIMIC?",
+    "channel": "AppleB33",
+    "views": "457,899 views",
+    "published": "9d ago",
+    "duration": "10:27",
+    "id": "gbClickqhdM"
+   },
+   {
+    "title": "First Time Playing Mimic Party",
+    "channel": "Kristian PH",
+    "views": "454,861 views",
+    "published": "4w ago",
+    "duration": "24:32",
+    "id": "yZ6LA5fbiN8"
+   },
+   {
+    "title": "What if I BECOME RANDOM MONSTER!? Scary Baboon Reimagined[UPDATE👁‍🗨] - Roblox",
+    "channel": "KatsuRoblox",
+    "views": "422,032 views",
+    "published": "2w ago",
+    "duration": "9:09",
+    "id": "rZwo7ntcMT0"
+   },
+   {
+    "title": "Building a Minecraft Horror Mod that Mimics You",
+    "channel": "ItsJim",
+    "views": "681,803 views",
+    "published": "2w ago",
+    "duration": "27:48",
+    "id": "74QYqhvNHWk"
+   },
+   {
+    "title": "Decide If The Pets At Your Door Are Mimics Or Not - Adopt Me Please",
+    "channel": "ManlyBadassHero",
+    "views": "653,746 views",
+    "published": "2w ago",
+    "duration": "1:27:07",
+    "id": "tDaXWkHBx2s"
+   },
+   {
+    "title": "This Monster Can Disguise Itself as Your Friend | Scary Baboon Indonesia",
+    "channel": "BokuRegi Play",
+    "views": "373,976 views",
+    "published": "2w ago",
+    "duration": "14:30",
+    "id": "rAVyq8cD8wM"
+   }
+  ]
+ },
+ {
+  "query": "no ai horror animation",
+  "fetched_at": "2026-11-19T17:18:25Z",
+  "filter": "this month, sorted by views, videos",
+  "n_results": 20,
+  "top1_views": 3360570,
+  "median_views_top20": 884820,
+  "n_over_100k": 20,
+  "n_over_1m": 9,
+  "videos": [
+   {
+    "title": "KARAAL - Hindi Horror Story for 16+ | Animated Horror Short film - Horror Tales",
+    "channel": "Horror Tales",
+    "views": "3,175,375 views",
+    "published": "3w ago",
+    "duration": "9:10",
+    "id": "1Nf31RmR-8I"
+   },
+   {
+    "title": "If Your Mom Ever Says Goodnight to You Twice... LOCK YOUR DOOR",
+    "channel": "Lullorin",
+    "views": "3,360,570 views",
+    "published": "3w ago",
+    "duration": "13:39",
+    "id": "wU_PUYMs5Bo"
+   },
+   {
+    "title": "ডাইনির গ্রামে মোমো খেতেই | Bhuter Cartoon | DAINI MOMO VILLAGE | Horror Stories | Notun Bangla Golpo",
+    "channel": "FairyToons Bhuter Cartoon",
+    "views": "3,264,614 views",
+    "published": "3w ago",
+    "duration": "14:06",
+    "id": "-H-y1vQrg6E"
+   },
+   {
+    "title": "Annabelle Horror Story | Hindi Horror Stories | Scary Pumpkin",
+    "channel": "Scary Pumpkin",
+    "views": "2,483,564 views",
+    "published": "2w ago",
+    "duration": "16:43",
+    "id": "GAYvkxf6Vmo"
+   },
+   {
+    "title": "Zombie Outbreak Survival: Trapped In a Farm Day 1 To Day 100 (Full Movie!)",
+    "channel": "DoodleSurvivals",
+    "views": "1,807,029 views",
+    "published": "3w ago",
+    "duration": "1:07:18",
+    "id": "9LVdlATk5Zw"
+   },
+   {
+    "title": "Terror of the Chhalawa | Horror Stories | Scary Owl | 18+ Adult Horror Story | Horror Story in Hindi",
+    "channel": "Scary Owl",
+    "views": "1,441,561 views",
+    "published": "3w ago",
+    "duration": "20:50",
+    "id": "2CPVyxA4JOw"
+   },
+   {
+    "title": "Junji Ito Collection Full Series Watch Party (LIMITED TIME)",
+    "channel": "Crunchyroll",
+    "views": "2,052,925 views",
+    "published": "2w ago",
+    "duration": "5:06:01",
+    "id": "wM5s2ugDpos"
+   },
+   {
+    "title": "Delhi’s Haunted Gym - Real Horror Story | Horror Story in Hindi | सच्ची कहानी | Khooni Monday E352🔥🔥",
+    "channel": "Khooni Monday",
+    "views": "1,334,429 views",
+    "published": "3w ago",
+    "duration": "12:01",
+    "id": "Moc11rDBLxA"
+   },
+   {
+    "title": "নর পিশাচ | হাড় কাঁপানো ভয়ের গল্প | Bengali Horror Stories | Vuther Golpo | Bhoot Ghar",
+    "channel": "Bhoot Ghar",
+    "views": "967,769 views",
+    "published": "9d ago",
+    "duration": "29:03",
+    "id": "Nt1YktPGSQk"
+   },
+   {
+    "title": "Diwali | Horror Stories | Scary Owl | 18+ Adult Horror Story | Horror Story in Hindi",
+    "channel": "Scary Owl",
+    "views": "799,892 views",
+    "published": "2w ago",
+    "duration": "20:49",
+    "id": "QuxXvBm1fHk"
+   },
+   {
+    "title": "শাঁকচুন্নির ভয়ংকর উৎপাত | ভৌতিক গল্প | Bhoutik Golpo | Shakchunni Horror Cartoon | Story Bird",
+    "channel": "Story Bird",
+    "views": "884,820 views",
+    "published": "7d ago",
+    "duration": "15:56",
+    "id": "n-iB_sdmURA"
+   },
+   {
+    "title": "দহন | Dhohon | Paranormal Thriller | Emotional Horror Story | Bengali Ghost Story |",
+    "channel": "AtmaToons Bangla",
+    "views": "731,746 views",
+    "published": "3w ago",
+    "duration": "27:47",
+    "id": "sg-ig_z_wa8"
+   },
+   {
+    "title": "How to Make Viral Animated Shorts Using Claude (Full Workflow)",
+    "channel": "Mr omi",
+    "views": "1,225,989 views",
+    "published": "2w ago",
+    "duration": "11:53",
+    "id": "OtbLL6OBNE4"
+   },
+   {
+    "title": "রাত ১০ টা! Bhuter Cartoon | True Horror Animated Story | Bengali Ghost | Bangla Bhuter Golpo",
+    "channel": "Bangla Bhuter Golpo (Animated)",
+    "views": "818,279 views",
+    "published": "1mo ago",
+    "duration": "11:38",
+    "id": "EevEH81DMVs"
+   },
+   {
+    "title": "Terror of the Phantom -02 | Horror Stories | Scary Owl | 18+ Adult Horror Story | Horror Story in...",
+    "channel": "Scary Owl",
+    "views": "508,896 views",
+    "published": "2w ago",
+    "duration": "18:52",
+    "id": "yclzvKicbgc"
+   },
+   {
+    "title": "রাত ২ টার শেষ লোকাল | Bhuter Cartoon | Bengali Horror Cartoon | Vuter Golpo | Sonar Ayna",
+    "channel": "Sonar Ayna",
+    "views": "717,791 views",
+    "published": "2w ago",
+    "duration": "15:12",
+    "id": "fMwLXt3wi-Y"
+   },
+   {
+    "title": "Terrifying Mythical Creatures From USA Folklore [NO AI]",
+    "channel": "Just a Rock in Space",
+    "views": "432,064 views",
+    "published": "2w ago",
+    "duration": "20:11",
+    "id": "ek7Fh8NkIcQ"
+   },
+   {
+    "title": "Haunted Forest | Horror Stories | Scary Owl | 18+ Adult Horror Story | Horror Story in Hindi",
+    "channel": "Scary Owl",
+    "views": "447,637 views",
+    "published": "11d ago",
+    "duration": "19:47",
+    "id": "GyO0bgPz7p8"
+   },
+   {
+    "title": "3 HALLOWEEN True Horror Stories ANIMATED",
+    "channel": "Horror Shorts Party",
+    "views": "381,773 views",
+    "published": "4w ago",
+    "duration": "19:28",
+    "id": "kTPpr9a60oM"
+   },
+   {
+    "title": "GULLI BULLI IN DASHAHARA II GULLI BULLI ll HORROR STORY II MAKE JOKE IN HORROR",
+    "channel": "MAKE JOKE IN HORROR ",
+    "views": "438,045 views",
+    "published": "3w ago",
+    "duration": "8:57",
+    "id": "pupf0TbrBcI"
+   }
+  ]
+ },
+ {
+  "query": "horror animation short film",
+  "fetched_at": "2026-11-19T17:18:27Z",
+  "filter": "this month, sorted by views, videos",
+  "n_results": 20,
+  "top1_views": 6479949,
+  "median_views_top20": 1450579,
+  "n_over_100k": 20,
+  "n_over_1m": 16,
+  "videos": [
+   {
+    "title": "Namak Mangnewali Chudail | Hindi Horror Stories | Scary Pumpkin",
+    "channel": "Scary Pumpkin",
+    "views": "6,479,949 views",
+    "published": "3w ago",
+    "duration": "23:13",
+    "id": "mNPAKRq0mno"
+   },
+   {
+    "title": "Playing as Granny vs Grandpa's Shaadi Army !! Gameplay Animation (p.35)",
+    "channel": "Funny Horror",
+    "views": "3,715,654 views",
+    "published": "3w ago",
+    "duration": "23:09",
+    "id": "7FQ1CpTqMo4"
+   },
+   {
+    "title": "Final Fight Scene | BACKROOMS (2026) Movie CLIP 4K",
+    "channel": "JoBlo Movie Clips",
+    "views": "3,459,991 views",
+    "published": "2w ago",
+    "duration": "8:17",
+    "id": "22a-Q2Q5X_4"
+   },
+   {
+    "title": "KARAAL - Hindi Horror Story for 16+ | Animated Horror Short film - Horror Tales",
+    "channel": "Horror Tales",
+    "views": "3,175,375 views",
+    "published": "3w ago",
+    "duration": "9:10",
+    "id": "1Nf31RmR-8I"
+   },
+   {
+    "title": "Annabelle Horror Story | Hindi Horror Stories | Scary Pumpkin",
+    "channel": "Scary Pumpkin",
+    "views": "2,483,564 views",
+    "published": "2w ago",
+    "duration": "16:43",
+    "id": "GAYvkxf6Vmo"
+   },
+   {
+    "title": "Train me Kamla Chudail | Horror Stories | Train me Bhoot | Rkg Toon",
+    "channel": "RKG TOON",
+    "views": "1,953,430 views",
+    "published": "4w ago",
+    "duration": "8:45",
+    "id": "tT637oTQSFI"
+   },
+   {
+    "title": "Bullied To Death Scene | MONSTER HOUSE (2006) Movie CLIP 4K",
+    "channel": "JoBlo Animation 4K",
+    "views": "1,746,273 views",
+    "published": "1mo ago",
+    "duration": "9:56",
+    "id": "-NXI5HrUM4k"
+   },
+   {
+    "title": "Terror of the Chhalawa | Horror Stories | Scary Owl | 18+ Adult Horror Story | Horror Story in Hindi",
+    "channel": "Scary Owl",
+    "views": "1,441,561 views",
+    "published": "3w ago",
+    "duration": "20:50",
+    "id": "2CPVyxA4JOw"
+   },
+   {
+    "title": "Granny Horror Game Story",
+    "channel": "Midnight crossing ",
+    "views": "1,444,056 views",
+    "published": "4w ago",
+    "duration": "12:14",
+    "id": "yxzJmvINTrs"
+   },
+   {
+    "title": "Chakwa Horror Story | Hindi Horror Stories | Scary Pumpkin",
+    "channel": "Scary Pumpkin",
+    "views": "2,279,993 views",
+    "published": "5d ago",
+    "duration": "14:28",
+    "id": "HhvaXnyhUgY"
+   },
+   {
+    "title": "Gulli Bulli's Dussehra Fair | Gulli Bulli Cartoon || Dussehra Special | HORROR STORY @KHOONIBABATV",
+    "channel": "KHOONI BABA TV",
+    "views": "1,450,579 views",
+    "published": "1mo ago",
+    "duration": "8:36",
+    "id": "8vWB6YJPUoY"
+   },
+   {
+    "title": "My Chemical Romance & Lauren Tsai - Prelude to The End (An Animated Short Film)",
+    "channel": "My Chemical Romance and Lauren Tsai",
+    "views": "1,696,022 views",
+    "published": "2w ago",
+    "duration": "7:42",
+    "id": "BpJikRTDqdk"
+   },
+   {
+    "title": "GHOST RIDER vs JEEPERS CREEPERS – Can He Kill the Creeper? | FULL HORROR FAN FILM",
+    "channel": "THE NEXUS SHORT FILMS",
+    "views": "1,726,661 views",
+    "published": "2w ago",
+    "duration": "10:21",
+    "id": "imaYo_kDZjE"
+   },
+   {
+    "title": "Delhi’s Haunted Gym - Real Horror Story | Horror Story in Hindi | सच्ची कहानी | Khooni Monday E352🔥🔥",
+    "channel": "Khooni Monday",
+    "views": "1,334,429 views",
+    "published": "3w ago",
+    "duration": "12:01",
+    "id": "Moc11rDBLxA"
+   },
+   {
+    "title": "ตุ๊กตานางรำ • หนังสั้นเดอะโกสท์ | The Ghost Studio",
+    "channel": "The Ghost Studio",
+    "views": "894,039 views",
+    "published": "13d ago",
+    "duration": "18:00",
+    "id": "KIm5mcyWgSc"
+   },
+   {
+    "title": "BLADE vs SUPER PREDATOR: THE HUNTER BECOMES THE HUNTED - PART 2 [HORROR MOVIE]",
+    "channel": "THE NEXUS SHORT FILMS",
+    "views": "1,108,827 views",
+    "published": "3w ago",
+    "duration": "10:26",
+    "id": "ImxM-UWWoA0"
+   },
+   {
+    "title": "GHOST RIDER vs PENNYWISE: LOOK INTO MY EYES, CLOWN [FAN ANIMATED SHORT]",
+    "channel": "THE NEXUS",
+    "views": "1,383,519 views",
+    "published": "2w ago",
+    "duration": "10:42",
+    "id": "in9IMZKiIWA"
+   },
+   {
+    "title": "HACHISHAKUSAMA Urban Horror Legend STORY😱",
+    "channel": "Bixu",
+    "views": "770,579 views",
+    "published": "2w ago",
+    "duration": "15:49",
+    "id": "0T4Zuy2-dHE"
+   },
+   {
+    "title": "3:00 AM | Animated Horror Short",
+    "channel": "Someone Fishy ",
+    "views": "792,089 views",
+    "published": "2w ago",
+    "duration": "4:15",
+    "id": "9BX0A18o1FA"
+   },
+   {
+    "title": "দহন | Dhohon | Paranormal Thriller | Emotional Horror Story | Bengali Ghost Story |",
+    "channel": "AtmaToons Bangla",
+    "views": "731,746 views",
+    "published": "3w ago",
+    "duration": "27:47",
+    "id": "sg-ig_z_wa8"
+   }
+  ]
+ },
+ {
+  "query": "return to silent hill moth",
+  "fetched_at": "2026-11-19T17:18:29Z",
+  "filter": "this month, sorted by views, videos",
+  "n_results": 3,
+  "top1_views": 122482,
+  "median_views_top20": 23461,
+  "n_over_100k": 1,
+  "n_over_1m": 0,
+  "videos": [
+   {
+    "title": "Moth Mary Transformation | RETURN TO SILENT HILL (2026) Movie CLIP 4K",
+    "channel": "JoBlo Movie Clips",
+    "views": "122,482 views",
+    "published": "5d ago",
+    "duration": "8:10",
+    "id": "Kt9BWpPfY6c"
+   },
+   {
+    "title": "Don't Make A Sound | RETURN TO SILENT HILL (2026) Movie CLIP 4K",
+    "channel": "JoBlo Movie Clips",
+    "views": "23,461 views",
+    "published": "5d ago",
+    "duration": "8:13",
+    "id": "hRDLcJx4Ga8"
+   },
+   {
+    "title": "☆ back to silent hill ☆ Shattered Memories",
+    "channel": "Luna Moth",
+    "views": "97 views",
+    "published": "Streamed 3w ago",
+    "duration": "4:09:23",
+    "id": "V55XTwXtub4"
+   }
+  ]
+ },
+ {
+  "query": "the classrooms game",
+  "fetched_at": "2026-11-19T17:18:30Z",
+  "filter": "this month, sorted by views, videos",
+  "n_results": 20,
+  "top1_views": 4744766,
+  "median_views_top20": 1849732,
+  "n_over_100k": 20,
+  "n_over_1m": 19,
+  "videos": [
+   {
+    "title": "The Classrooms Live Stream #shorts #theclassrooms #horrorlive",
+    "channel": "HarryGamingYT",
+    "views": "4,744,766 views",
+    "published": "Streamed 9d ago",
+    "duration": "1:12:32",
+    "id": "l6fAUDyT5kE"
+   },
+   {
+    "title": "The Classrooms: New Horror Game! 🤫 #TheClassrooms #HorrorGame #liminalspaces",
+    "channel": "HarryGamingYT",
+    "views": "3,236,184 views",
+    "published": "Streamed 5h ago",
+    "duration": "1:00:16",
+    "id": "aofgttn6oSQ"
+   },
+   {
+    "title": "THE CLASSROOMS MULTIPLAYER UPDATE",
+    "channel": "Synergy",
+    "views": "998,471 views",
+    "published": "2w ago",
+    "duration": "42:05",
+    "id": "z6v-QH2E_3A"
+   },
+   {
+    "title": "The Classrooms: New Horror Game! 🤫 #TheClassrooms #HorrorGame #shorts",
+    "channel": "Beastoplive2.0",
+    "views": "2,269,628 views",
+    "published": "Streamed 4w ago",
+    "duration": "8:38:39",
+    "id": "1HuuCRgrXDo"
+   },
+   {
+    "title": "🔴 LIVE NOW | The classrooms horror game #theclassrooms #horrorgaming #shortsfeed #usa",
+    "channel": "Feniix.0",
+    "views": "2,467,385 views",
+    "published": "Streamed 10d ago",
+    "duration": "1:01:18",
+    "id": "YM1ElT51g9M"
+   },
+   {
+    "title": "The Classrooms Live Stream #shorts #theclassrooms #horrorlive",
+    "channel": "HarryGamingYT",
+    "views": "2,412,740 views",
+    "published": "Streamed 6d ago",
+    "duration": "1:13:27",
+    "id": "yL7voW6CgQk"
+   },
+   {
+    "title": "🔴 LIVE NOW | The classrooms horror game #theclassrooms #horrorgaming #shortsfeed #usa",
+    "channel": "Feniix.0",
+    "views": "2,436,862 views",
+    "published": "Streamed 11d ago",
+    "duration": "49:34",
+    "id": "ONCWazzLIkM"
+   },
+   {
+    "title": "🔴 LIVE NOW | The classrooms horror game #theclassrooms #horrorgaming #shortsfeed #usa",
+    "channel": "Feniix.0",
+    "views": "2,442,382 views",
+    "published": "Streamed 9d ago",
+    "duration": "1:04:07",
+    "id": "MLkrSXW9sb8"
+   },
+   {
+    "title": "The Classrooms Live Stream #shorts #theclassrooms #horrorlive",
+    "channel": "HarryGamingYT",
+    "views": "1,859,458 views",
+    "published": "Streamed 2w ago",
+    "duration": "1:02:48",
+    "id": "22iVIbv5Sfk"
+   },
+   {
+    "title": "The Classrooms Live Stream #shorts #theclassrooms #horrorlive",
+    "channel": "HarryGamingYT",
+    "views": "2,156,081 views",
+    "published": "Streamed 8d ago",
+    "duration": "53:27",
+    "id": "8nXQ3EvYX80"
+   },
+   {
+    "title": "The Classrooms: New Horror Game! 🤫 #theclassrooms #horrorgaming #shortsfeed",
+    "channel": "ARUU LIVE",
+    "views": "1,789,442 views",
+    "published": "Streamed 3w ago",
+    "duration": "1:01:03",
+    "id": "RTaWHm8qP0o"
+   },
+   {
+    "title": "🔴 LIVE NOW | The classrooms horror game #theclassrooms #horrorgaming #shortsfeed #usa",
+    "channel": "Feniix.0",
+    "views": "1,911,701 views",
+    "published": "Streamed 12d ago",
+    "duration": "1:08:59",
+    "id": "ZkuLX6AqSqc"
+   },
+   {
+    "title": "The Classrooms: New Horror Game! 🤫 #theclassrooms #horrorgaming #shortsfeed",
+    "channel": "ARUU LIVE",
+    "views": "1,583,408 views",
+    "published": "Streamed 3w ago",
+    "duration": "1:00:37",
+    "id": "CdyY3KI_Ws8"
+   },
+   {
+    "title": "The Classrooms Live Stream #shorts #theclassrooms #horrorlive",
+    "channel": "HarryGamingYT",
+    "views": "1,591,997 views",
+    "published": "Streamed 7d ago",
+    "duration": "1:13:19",
+    "id": "vxcu1vedtZ8"
+   },
+   {
+    "title": "The Classrooms: New Horror Game! 🤫 #theclassrooms #shortsfeed #horrorgaming",
+    "channel": "ARUU LIVE",
+    "views": "1,312,966 views",
+    "published": "Streamed 3w ago",
+    "duration": "43:26",
+    "id": "ykTws6_p7Xg"
+   },
+   {
+    "title": "The classrooms horror game #horrorgameplay #walkthrough #theclassrooms #horror #scary",
+    "channel": "Ekoss Zone",
+    "views": "1,458,901 views",
+    "published": "Streamed 4d ago",
+    "duration": "4:55:38",
+    "id": "im43xMayS0A"
+   },
+   {
+    "title": "The Classrooms: New Horror Game! 🤫 #theclassrooms #shortsfeed #horrorgaming",
+    "channel": "ARUU LIVE",
+    "views": "1,313,425 views",
+    "published": "Streamed 3w ago",
+    "duration": "50:26",
+    "id": "rWo381HexNs"
+   },
+   {
+    "title": "The classrooms horror game #horrorgameplay #walkthrough #theclassrooms #horror",
+    "channel": "uXr Gamerz",
+    "views": "1,241,665 views",
+    "published": "Streamed 8d ago",
+    "duration": "1:43:24",
+    "id": "wQn80A1sCEU"
+   },
+   {
+    "title": "The classrooms Horror 😱 Game #horrorgameplay #walkthrough #classroom #horror #beastoplive",
+    "channel": "Beastoplive2.0",
+    "views": "1,849,732 views",
+    "published": "Streamed 3w ago",
+    "duration": "1:01:33",
+    "id": "QKgGraPLkIY"
+   },
+   {
+    "title": "The classrooms horror game #horrorgameplay #walkthrough #theclassrooms #horror #scary",
+    "channel": "Ekoss Zone",
+    "views": "1,308,133 views",
+    "published": "Streamed 5d ago",
+    "duration": "6:30:01",
+    "id": "bkZByR49_1U"
+   }
+  ]
+ },
+ {
+  "query": "don't open the door horror",
+  "fetched_at": "2026-11-19T17:18:32Z",
+  "filter": "this month, sorted by views, videos",
+  "n_results": 20,
+  "top1_views": 4305659,
+  "median_views_top20": 667913,
+  "n_over_100k": 20,
+  "n_over_1m": 4,
+  "videos": [
+   {
+    "title": "👻😨 Don't Open the Door at 3 AM! 🏠👤👉 NEW EPISODE 🤫 Coming on October 23! 🎬 Masha and the Bear 2026",
+    "channel": "Masha and The Bear",
+    "views": "4,305,659 views",
+    "published": "4w ago",
+    "duration": "1:07:12",
+    "id": "HcOW9pqJF2E"
+   },
+   {
+    "title": "If Your Mom Ever Says Goodnight to You Twice... LOCK YOUR DOOR",
+    "channel": "Lullorin",
+    "views": "3,360,570 views",
+    "published": "3w ago",
+    "duration": "13:39",
+    "id": "wU_PUYMs5Bo"
+   },
+   {
+    "title": "Don't open the door 🚪 | The scariest game I've ever played!! 😰",
+    "channel": "Esraa Gaming ",
+    "views": "2,322,851 views",
+    "published": "3w ago",
+    "duration": "35:23",
+    "id": "1MfCAyqwZE8"
+   },
+   {
+    "title": "NEVER OPEN THE DOOR TO STRANGERS... (MOLDRISE)",
+    "channel": "SQUEEZIE GAMING",
+    "views": "1,578,100 views",
+    "published": "2w ago",
+    "duration": "1:07:07",
+    "id": "RBlzuocAo1U"
+   },
+   {
+    "title": "ROBLOX DON'T SPLASH..",
+    "channel": "CaylusBlox",
+    "views": "850,612 views",
+    "published": "3w ago",
+    "duration": "15:14",
+    "id": "v7ta6s14m0k"
+   },
+   {
+    "title": "ROBLOX Keep the Door Locked… NEVER OPEN THE DOOR 😨🔒",
+    "channel": "I am Khaleel 2",
+    "views": "750,797 views",
+    "published": "3w ago",
+    "duration": "22:06",
+    "id": "Vr5xGT5XusY"
+   },
+   {
+    "title": "Who Was At The Door? 😱 | Never Open The Door To Strangers! 🚪 | Moral Story For Kids In Urdu ",
+    "channel": "Taleem Town ",
+    "views": "651,150 views",
+    "published": "3w ago",
+    "duration": "4:23",
+    "id": "HxNvqPQp7hM"
+   },
+   {
+    "title": "DON'T OPEN THE DOOR... Roblox House 13!",
+    "channel": "ItsFunneh",
+    "views": "770,591 views",
+    "published": "3w ago",
+    "duration": "28:05",
+    "id": "gvkVQYQcd7g"
+   },
+   {
+    "title": "If A Hazmat Team Locks You In A Grocery Store... DON'T MOVE",
+    "channel": "Final Sight",
+    "views": "706,177 views",
+    "published": "2w ago",
+    "duration": "9:12",
+    "id": "qQA3tzgokw8"
+   },
+   {
+    "title": "MOMMY DON'T OPEN THE DOOR | Scary story",
+    "channel": "Елена Райтман",
+    "views": "725,539 views",
+    "published": "3w ago",
+    "duration": "29:51",
+    "id": "7bhrdwQgZ48"
+   },
+   {
+    "title": "Do NOT Open Your Door at 3AM in Roblox…",
+    "channel": "Lana's Life",
+    "views": "667,913 views",
+    "published": "12d ago",
+    "duration": "22:34",
+    "id": "7uK9v_u2Jng"
+   },
+   {
+    "title": "If Your Mom Says Goodnight Twice, LOCK THE DOOR..",
+    "channel": "Luvhilal",
+    "views": "556,384 views",
+    "published": "13d ago",
+    "duration": "29:20",
+    "id": "gxOEFEyFpms"
+   },
+   {
+    "title": "Don’t Open the Door At 2 AM : Lansdowne Guesthouse Horror Story",
+    "channel": "SR PAY STORIES",
+    "views": "781,359 views",
+    "published": "4w ago",
+    "duration": "37:50",
+    "id": "GKS4ukbWXtM"
+   },
+   {
+    "title": "If Your Dad Gets Home Before His Car Does... DON'T GO DOWNSTAIRS",
+    "channel": "The Rule Files",
+    "views": "567,637 views",
+    "published": "2w ago",
+    "duration": "12:12",
+    "id": "XNXxZpGlymg"
+   },
+   {
+    "title": "Sitter Wanted | Horror Short Film",
+    "channel": "It's Rayning Productions",
+    "views": "523,897 views",
+    "published": "3w ago",
+    "duration": "10:58",
+    "id": "uCtUJX3qrJw"
+   },
+   {
+    "title": "If Find My iPhone Ever Shows You at Home When You're Not... DON'T GO HOME",
+    "channel": "Lullorin",
+    "views": "371,348 views",
+    "published": "12d ago",
+    "duration": "13:31",
+    "id": "tx0NADp5V_o"
+   },
+   {
+    "title": "If Your Mom Is Outside Your Window... CLOSE THE CURTAINS",
+    "channel": "Final Sight",
+    "views": "286,566 views",
+    "published": "2w ago",
+    "duration": "9:21",
+    "id": "KZKHpW682Vw"
+   },
+   {
+    "title": "If Your Dad Ever Checks on You After Midnight... KEEP SNORING",
+    "channel": "Lullorin",
+    "views": "293,350 views",
+    "published": "10d ago",
+    "duration": "12:16",
+    "id": "O_1kSOykgss"
+   },
+   {
+    "title": "If You See A Horse In Your Driveway... LOCK THE DOORS",
+    "channel": "Final Sight",
+    "views": "259,171 views",
+    "published": "4w ago",
+    "duration": "6:24",
+    "id": "qmW03S04Cs4"
+   },
+   {
+    "title": "DON'T GO TO PINKIE PIES PARTY.. (Pinkie Promise)",
+    "channel": "FusionZGamer",
+    "views": "294,000 views",
+    "published": "2w ago",
+    "duration": "43:53",
+    "id": "EHnW61Cz8oM"
+   }
+  ]
+ },
+ {
+  "query": "winter folklore horror",
+  "fetched_at": "2026-11-19T17:18:34Z",
+  "filter": "this month, sorted by views, videos",
+  "n_results": 20,
+  "top1_views": 5487,
+  "median_views_top20": 263,
+  "n_over_100k": 0,
+  "n_over_1m": 0,
+  "videos": [
+   {
+    "title": "The Faceless Ones | Night VI | British Horror Story",
+    "channel": "The Empty County",
+    "views": "5,487 views",
+    "published": "2w ago",
+    "duration": "38:33",
+    "id": "Uq4Vgmm25BA"
+   },
+   {
+    "title": "The Wolf Beneath the Snow | Night IV | British Folk Horror",
+    "channel": "The Empty County",
+    "views": "4,587 views",
+    "published": "3w ago",
+    "duration": "42:03",
+    "id": "S-Z1G332S6w"
+   },
+   {
+    "title": "The Last Watch of the Night: The Haunting Haveli Dance |Village Horror Stories|Winter's Special",
+    "channel": "Nana Ji Ki Kahaniyan ",
+    "views": "3,095 views",
+    "published": "11d ago",
+    "duration": "28:31",
+    "id": "6b3-GXasKyU"
+   },
+   {
+    "title": "Beware of the Midnight Beggar | A Terrifying Village Ghost Story|Winter Horror Stories|Real Story",
+    "channel": "Nana Ji Ki Kahaniyan ",
+    "views": "2,684 views",
+    "published": "4d ago",
+    "duration": "29:51",
+    "id": "OTW5LWJmEN8"
+   },
+   {
+    "title": "The Foggy Night: Secrets of the Haunted Village Dhaba | True Horror|Winter Horror Stories ",
+    "channel": "Nana Ji Ki Kahaniyan ",
+    "views": "2,259 views",
+    "published": "2d ago",
+    "duration": "29:05",
+    "id": "yyNvY174r-8"
+   },
+   {
+    "title": "🌲🖤 COTTAGE IN THE WOODS – THE HAG | OFFICIAL MUSIC VIDEO 🖤🌲",
+    "channel": "PSG Reaper15 Music ",
+    "views": "549 views",
+    "published": "13d ago",
+    "duration": "5:14",
+    "id": "fyQCJXNMBrA"
+   },
+   {
+    "title": "5 Balkan Monsters That Can Kill You...",
+    "channel": "SlavLore",
+    "views": "614 views",
+    "published": "6d ago",
+    "duration": "11:19",
+    "id": "wQ9DEAqUkRs"
+   },
+   {
+    "title": "THE YULE CAT — IT KNOWS WHAT YOU WEAR! | Gothic Horror Rock (Official Music Video)",
+    "channel": "MONSTERLORIA",
+    "views": "263 views",
+    "published": "7d ago",
+    "duration": "4:57",
+    "id": "TxkzF-S-bC4"
+   },
+   {
+    "title": "10 DARK WINTER LEGENDS – When the Cold Awakens | German Horror Movie",
+    "channel": "NightmareWhisper",
+    "views": "389 views",
+    "published": "6d ago",
+    "duration": "38:12",
+    "id": "cnUJG-mWk1I"
+   },
+   {
+    "title": "5 True Wendigo Encounters | Never Leave Your Cabin Alone",
+    "channel": "Whispers From The Catacombs",
+    "views": "170 views",
+    "published": "3w ago",
+    "duration": "32:17",
+    "id": "Cw0q_v7NUlA"
+   },
+   {
+    "title": "The Wendigo of Kettle Lake | Scary Campfire Story Based on Real Folklore",
+    "channel": "Code Behelit - Scary Stories",
+    "views": "330 views",
+    "published": "4w ago",
+    "duration": "17:04",
+    "id": "rM3RKF11Yr8"
+   },
+   {
+    "title": "🅻🅸🆅🅴  Top 10 Horror Films with Meat & Alex",
+    "channel": "Grab A Stack of Rock",
+    "views": "284 views",
+    "published": "Streamed 3w ago",
+    "duration": "1:54:14",
+    "id": "w_6RjzuaCzc"
+   },
+   {
+    "title": "Something Followed a Trapper Through the Smokies for 9 Nights — Until the Granny Witch Lit the Fire",
+    "channel": "Midnight Dossier",
+    "views": "208 views",
+    "published": "12d ago",
+    "duration": "56:44",
+    "id": "vnMM2qforpk"
+   },
+   {
+    "title": "WENDIGO — THE HUNGER HAS A NAME | Gothic Horror Rock (Official Music Video)",
+    "channel": "MONSTERLORIA",
+    "views": "119 views",
+    "published": "5d ago",
+    "duration": "5:56",
+    "id": "CyOnzUzFj1I"
+   },
+   {
+    "title": "SNOW WASSET — SOMETHING MOVES BENEATH | Gothic Horror Rock (Official Music Video)",
+    "channel": "MONSTERLORIA",
+    "views": "162 views",
+    "published": "3d ago",
+    "duration": "3:37",
+    "id": "xq4wnqn91eo"
+   },
+   {
+    "title": "The Legend of Krampus (Heavy Metal Winter Folklore)",
+    "channel": "Nursery Nightmares",
+    "views": "108 views",
+    "published": "8d ago",
+    "duration": "5:22",
+    "id": "6YtExxjg4sM"
+   },
+   {
+    "title": "(1898) A Mountain Hotel Received the Same Guest Every Winter — He Never Aged",
+    "channel": "Stillwood Archive",
+    "views": "204 views",
+    "published": "3w ago",
+    "duration": "31:03",
+    "id": "bOMOP5bQZMo"
+   },
+   {
+    "title": "The Extra Chair | A Folk Horror Tale",
+    "channel": "Halflit",
+    "views": "196 views",
+    "published": "2w ago",
+    "duration": "6:35",
+    "id": "iRW65Dy4XgY"
+   },
+   {
+    "title": "THE HOUSE THAT WAITED | A Folk Horror AI Short Film",
+    "channel": "Parallel Worlds Studio",
+    "views": "134 views",
+    "published": "3w ago",
+    "duration": "0:58",
+    "id": "hxT3l6vlrr8"
+   },
+   {
+    "title": "For 9 Nights Something Circled His Cabin in the Smokies  Until the Granny Witch Told Him the Rule",
+    "channel": "Litany of Shadows",
+    "views": "57 views",
+    "published": "6d ago",
+    "duration": "1:04:39",
+    "id": "3xh4RncPxw8"
+   }
+  ]
+ },
+ {
+  "query": "krampus story",
+  "fetched_at": "2026-11-19T17:18:36Z",
+  "filter": "this month, sorted by views, videos",
+  "n_results": 20,
+  "top1_views": 55234,
+  "median_views_top20": 484,
+  "n_over_100k": 0,
+  "n_over_1m": 0,
+  "videos": [
+   {
+    "title": "Zenless Zone Zero Version 3.3 - Main Story Quest (Full Playthrough)",
+    "channel": "Streetwise Rhapsody",
+    "views": "54,240 views",
+    "published": "4w ago",
+    "duration": "3:25:14",
+    "id": "CLbAWd6Cf34"
+   },
+   {
+    "title": "Phoenix Being Chaotic for 13 Minutes Straight | ZZZ 3.3 Cutscenes",
+    "channel": "Arie seventline",
+    "views": "55,234 views",
+    "published": "3w ago",
+    "duration": "13:11",
+    "id": "vFBu441-z9k"
+   },
+   {
+    "title": "How Phoenix's Lore FUELS Her Kit! | Zenless Zone Zero",
+    "channel": "SekaiSamurai",
+    "views": "15,475 views",
+    "published": "3w ago",
+    "duration": "7:35",
+    "id": "z1HFVjgPcNc"
+   },
+   {
+    "title": "Krampus in South Tyrol: What's Behind the Masks?",
+    "channel": "Südtirol | Alto Adige | South Tyrol",
+    "views": "3,632 views",
+    "published": "12d ago",
+    "duration": "3:37",
+    "id": "SWTuCbFOjd8"
+   },
+   {
+    "title": "The Snow Queen & Krampus ❄️Dark Fantasy Romance 👹",
+    "channel": "CrimsonDropAI",
+    "views": "2,001 views",
+    "published": "2w ago",
+    "duration": "1:43",
+    "id": "SYqF8Pq0OlA"
+   },
+   {
+    "title": "Fallen Angels from South Tyrol - When the Krampus Awakens (Fallen Angels South Tyrol - Weltenwurzel)",
+    "channel": "Fabulös I Die Welt der Fabeln",
+    "views": "1,365 views",
+    "published": "2w ago",
+    "duration": "54:07",
+    "id": "Jo2jC9C4FYU"
+   },
+   {
+    "title": "Krampus (2015) Horror/Comedy | Adam Scott & Toni Collette American Movie English Fact & Story|Review",
+    "channel": "Dashing Movies 001",
+    "views": "1,229 views",
+    "published": "2w ago",
+    "duration": "1:33:49",
+    "id": "Jco50nUjONo"
+   },
+   {
+    "title": "Krampus BANNED?! The incredible truth behind it!",
+    "channel": "Geschichte, die knallt",
+    "views": "1,261 views",
+    "published": "6d ago",
+    "duration": "11:43",
+    "id": "GiaYuH69OWU"
+   },
+   {
+    "title": "THE DEMON THEY MADE【Krampus Daughter | Part 01】| NaomiBlueHeart",
+    "channel": "NaomiBlueHeart",
+    "views": "467 views",
+    "published": "2w ago",
+    "duration": "5:25",
+    "id": "9pPd6vrrcOc"
+   },
+   {
+    "title": "The Real Origin of Krampus and Why Christmas Needed a Devil",
+    "channel": "Folklore Fellow",
+    "views": "673 views",
+    "published": "2w ago",
+    "duration": "21:09",
+    "id": "_HGs8l13T_I"
+   },
+   {
+    "title": "What They Don't Tell You About the Christmas Monster",
+    "channel": "Shadow Worlds",
+    "views": "421 views",
+    "published": "2w ago",
+    "duration": "13:53",
+    "id": "DxG_jNRek8Q"
+   },
+   {
+    "title": "The Legend of Krampus | History for sleep ",
+    "channel": "Morpheus Sleepy History",
+    "views": "264 views",
+    "published": "1d ago",
+    "duration": "1:01:07",
+    "id": "RS1uwPszs24"
+   },
+   {
+    "title": "KRAMPUS | A Naughty Christmas Love Story | Short Film (2026)",
+    "channel": "Peach Project",
+    "views": "685 views",
+    "published": "1d ago",
+    "duration": "7:23",
+    "id": "0AS41uQH0Ak"
+   },
+   {
+    "title": "If You Hear Chains on Your Roof on December 5th... DON'T LOOK OUT THE WINDOW | Krampus",
+    "channel": "Stickmares",
+    "views": "223 views",
+    "published": "8d ago",
+    "duration": "9:49",
+    "id": "xAJsxBjbqoQ"
+   },
+   {
+    "title": "Phoenix Tries to Recruit Severian and Sigrid into Krampus! 😂 | ZZZ 3.3 Story",
+    "channel": "Matt Is Playing",
+    "views": "484 views",
+    "published": "3w ago",
+    "duration": "1:52",
+    "id": "aUL2wSBs2Is"
+   },
+   {
+    "title": "KRAMPUS: The Terrifying LEGEND of the CHRISTMAS Demon!",
+    "channel": "Arcanova",
+    "views": "282 views",
+    "published": "10d ago",
+    "duration": "28:59",
+    "id": "rfHrnxaygno"
+   },
+   {
+    "title": "The Legend of Krampus: Was the Christmas Devil Real?",
+    "channel": "The Grim Script",
+    "views": "276 views",
+    "published": "10d ago",
+    "duration": "8:40",
+    "id": "xTnS6XUYygM"
+   },
+   {
+    "title": "ക്രിസ്മസ് രാത്രിയിലെ ഭീകരൻ Krampus the Christmas Devil || The Dark Side of Chritmas #Krampus #story ",
+    "channel": "Edu Klang ",
+    "views": "171 views",
+    "published": "2w ago",
+    "duration": "13:09",
+    "id": "Wms_bTOAnE4"
+   },
+   {
+    "title": "Krampus Isn't as Ancient as You Think",
+    "channel": "What the Myth Was",
+    "views": "246 views",
+    "published": "12d ago",
+    "duration": "14:16",
+    "id": "pIFW4-0WmAs"
+   },
+   {
+    "title": "They Promised to Arrest This Demon. With Paperwork.",
+    "channel": "Inky's Notebook",
+    "views": "76 views",
+    "published": "2w ago",
+    "duration": "3:50",
+    "id": "JeMA6rGwihI"
+   }
+  ]
+ },
+ {
+  "query": "wendigo animated",
+  "fetched_at": "2026-11-19T17:18:37Z",
+  "filter": "this month, sorted by views, videos",
+  "n_results": 20,
+  "top1_views": 289119,
+  "median_views_top20": 636,
+  "n_over_100k": 1,
+  "n_over_1m": 0,
+  "videos": [
+   {
+    "title": "The Wicker Devil Vs The 99 Nights Deer | Epic Halloween Battle | Sticknodes",
+    "channel": "DinoLewisaur",
+    "views": "289,119 views",
+    "published": "2w ago",
+    "duration": "3:42",
+    "id": "PEYc21xx93s"
+   },
+   {
+    "title": "The Bigger Man | Beetlejuice VS Alastor Villain Song | Hazbin Hotel AMV",
+    "channel": "Katara Kamen – Anime Music Videos",
+    "views": "55,381 views",
+    "published": "3w ago",
+    "duration": "5:57",
+    "id": "KMDhsjVJ_Lo"
+   },
+   {
+    "title": "Wendigo Hillbillies | Animated Short Film",
+    "channel": "MrCrobe",
+    "views": "76,193 views",
+    "published": "3w ago",
+    "duration": "4:18",
+    "id": "n4HL7O0Dv1M"
+   },
+   {
+    "title": "The Strangest Mythical Creatures That I Would Crack",
+    "channel": "Mhad",
+    "views": "18,023 views",
+    "published": "3w ago",
+    "duration": "11:47",
+    "id": "oBIY3LEYsuI"
+   },
+   {
+    "title": "WENDIGO Story feat Entropic Society",
+    "channel": "The Darkest Tales Animation Studio and Entropic Society",
+    "views": "14,171 views",
+    "published": "3w ago",
+    "duration": "15:01",
+    "id": "l5WuX7foLJs"
+   },
+   {
+    "title": "The Making Of Wendigo Hillbillies",
+    "channel": "MrCrobe",
+    "views": "4,266 views",
+    "published": "11d ago",
+    "duration": "5:12",
+    "id": "4VpLzDIiKqg"
+   },
+   {
+    "title": "The Wendigo of Mount Hood | Animated Horror Fiction [18+]",
+    "channel": "Silent Tales Animation ",
+    "views": "3,227 views",
+    "published": "3d ago",
+    "duration": "14:50",
+    "id": "ciFCPlw1m54"
+   },
+   {
+    "title": "Taylor Zander and the Wendigo Murders Comic Dub Serial Episode 1",
+    "channel": "Michael Francis and 8 more",
+    "views": "2,490 views",
+    "published": "2w ago",
+    "duration": "20:25",
+    "id": "TpdXZJKwgzc"
+   },
+   {
+    "title": "La fruta del Wendigo dark Hause intro",
+    "channel": "night moon ",
+    "views": "930 views",
+    "published": "2w ago",
+    "duration": "2:00",
+    "id": "mIbXtMFWiXg"
+   },
+   {
+    "title": "The Wendigo King | Animation",
+    "channel": "Dankmations",
+    "views": "670 views",
+    "published": "3w ago",
+    "duration": "12:37",
+    "id": "5Auy927H86o"
+   },
+   {
+    "title": "Moth-man Vs Wendigo ",
+    "channel": "Darboii 2",
+    "views": "636 views",
+    "published": "2w ago",
+    "duration": "4:19",
+    "id": "yF3en2frKQM"
+   },
+   {
+    "title": "The owner of the forest. WENDIGO (АТ2) (DC2) Рисуем мультфильмы 2",
+    "channel": "🍺𝙰𝚕𝚎𝚡? •",
+    "views": "450 views",
+    "published": "3w ago",
+    "duration": "1:33",
+    "id": "ci7aBbb5KcA"
+   },
+   {
+    "title": "WENDIGO WALK - AGGRESSIVE [BASS BOOSTED] PHONK BEAT BY BEATBOUNTY ",
+    "channel": "BEATBOUNTY ",
+    "views": "279 views",
+    "published": "4w ago",
+    "duration": "2:46",
+    "id": "-QQLeX1c75U"
+   },
+   {
+    "title": "New Cryptid Sightings: Is it the Rake Creature, Skinwalker, Wendigo? Animated Eyewitness Accounts",
+    "channel": "Twilight Phenomena",
+    "views": "288 views",
+    "published": "4d ago",
+    "duration": "12:27",
+    "id": "6z4jiP2eGAM"
+   },
+   {
+    "title": "USA Urban Legends: Ohio & Minnesota",
+    "channel": "Lotus Moon",
+    "views": "577 views",
+    "published": "2w ago",
+    "duration": "2:40",
+    "id": "qFjP-eLmUEE"
+   },
+   {
+    "title": "Wendigo vs Rainbow friends ( roblox) ",
+    "channel": "STICKMSN NODES BACK",
+    "views": "245 views",
+    "published": "4w ago",
+    "duration": "0:59",
+    "id": "nsXRnc_9EZM"
+   },
+   {
+    "title": "THESE ANIMATIONS ARE BRUTAL! 🤣✋🏻 [ANIMATION REACTION #50]",
+    "channel": "Godzilla fr",
+    "views": "252 views",
+    "published": "9d ago",
+    "duration": "43:05",
+    "id": "GQleze5bo-o"
+   },
+   {
+    "title": "Wendigo vs lector",
+    "channel": "volcanic tormentor",
+    "views": "175 views",
+    "published": "12d ago",
+    "duration": "0:35",
+    "id": "cWQbX14_DxQ"
+   },
+   {
+    "title": "The Wendigo Horror Story | Animated Horror Story | elevenlabs.io",
+    "channel": "Hollow Hours",
+    "views": "183 views",
+    "published": "5d ago",
+    "duration": "5:16",
+    "id": "IqyG21IYfMQ"
+   },
+   {
+    "title": "Wendigo — Animated Horror Creature | Game Ready 3D Character | UE5 & Unity",
+    "channel": "SDKwarrior",
+    "views": "159 views",
+    "published": "4w ago",
+    "duration": "1:42",
+    "id": "LQ5nhSMH5Nk"
+   }
+  ]
+ },
+ {
+  "query": "frozen wilderness horror",
+  "fetched_at": "2026-11-19T17:18:39Z",
+  "filter": "this month, sorted by views, videos",
+  "n_results": 20,
+  "top1_views": 203089,
+  "median_views_top20": 769,
+  "n_over_100k": 1,
+  "n_over_1m": 0,
+  "videos": [
+   {
+    "title": "Frozen 2010",
+    "channel": "YogiFlix",
+    "views": "203,089 views",
+    "published": "3d ago",
+    "duration": "20:53",
+    "id": "Ij1tJhPrflE"
+   },
+   {
+    "title": "A Terrifying Wendigo Encounter in the Frozen Wilderness",
+    "channel": "JUST CREEPY",
+    "views": "54,647 views",
+    "published": "5d ago",
+    "duration": "1:44:31",
+    "id": "HgPNKax_nYM"
+   },
+   {
+    "title": "🚨 PIPE HEAD HUNTED US… Then ICE SIREN HEAD Appeared! | Minecraft Horror Survival",
+    "channel": "TIMS | Minecraft",
+    "views": "26,154 views",
+    "published": "2w ago",
+    "duration": "13:02",
+    "id": "Ko6TYGML780"
+   },
+   {
+    "title": "They Left a Beautiful Woman to Die on a Frozen Island… But the Predator Had Other Plans",
+    "channel": "Ghost Frame JB",
+    "views": "8,525 views",
+    "published": "6d ago",
+    "duration": "10:03",
+    "id": "ciPm2p57BJY"
+   },
+   {
+    "title": "She Was Sent to Die on a Frozen Island… But the Predator Had Other Plans",
+    "channel": "HitFlip Studio",
+    "views": "2,895 views",
+    "published": "5d ago",
+    "duration": "9:00",
+    "id": "DJ75d_SCPJ0"
+   },
+   {
+    "title": "Deadly Secrets of the Frozen Wilderness | Full Movie",
+    "channel": "MovieZonic",
+    "views": "2,515 views",
+    "published": "12d ago",
+    "duration": "1:26:24",
+    "id": "rUeHfW2rBg4"
+   },
+   {
+    "title": "Skinwalkers Hunting Hunters in the Frozen Wilderness | True Horror",
+    "channel": "Midnight Cryptid",
+    "views": "1,339 views",
+    "published": "13d ago",
+    "duration": "2:16:45",
+    "id": "YuDxWWgD6rU"
+   },
+   {
+    "title": "Secret Creature Beneath the Snow | Full Movie",
+    "channel": "FrameStorm Studios",
+    "views": "820 views",
+    "published": "9d ago",
+    "duration": "15:09",
+    "id": "T8kOiXsJwgA"
+   },
+   {
+    "title": "THE LAST HUNT 🩸 | NO ONE SURVIVES (2026) | Full Horror Movie",
+    "channel": "Durrani Films",
+    "views": "769 views",
+    "published": "8d ago",
+    "duration": "40:02",
+    "id": "lMZoU0YqsII"
+   },
+   {
+    "title": "IT CAME BACK | Full AI Fantasy Horror Movie (2026)",
+    "channel": "ClarityTales",
+    "views": "1,595 views",
+    "published": "3w ago",
+    "duration": "18:03",
+    "id": "Z6uPz3PHD6w"
+   },
+   {
+    "title": "TRAPPED IN THE FROZEN WILDERNESS | Giant River Monster & Deadly Flying Creature | LYRIS ",
+    "channel": "LYRIS",
+    "views": "538 views",
+    "published": "1d ago",
+    "duration": "10:41",
+    "id": "oN-_lSLxGxo"
+   },
+   {
+    "title": "They Gave Me 72 Hours to Survive the Frozen Montana Wilderness",
+    "channel": "Lost Wilderness",
+    "views": "993 views",
+    "published": "2w ago",
+    "duration": "42:31",
+    "id": "z-Gmd3mnmJc"
+   },
+   {
+    "title": "WINTER HORROR STORIES – Terrifying Encounters in the Frozen Wilderness / The sound of snowstorms ",
+    "channel": "Dark Forest Files and Graven Stories",
+    "views": "574 views",
+    "published": "4d ago",
+    "duration": "4:19:00",
+    "id": "9cZ_oY_MgwE"
+   },
+   {
+    "title": "5 True Winter Horror Stories – Something Was Waiting Out In The Snow 😱",
+    "channel": "Silent Spooks",
+    "views": "475 views",
+    "published": "1d ago",
+    "duration": "52:38",
+    "id": "HPKrtYj2c3w"
+   },
+   {
+    "title": "5 True Snowstorm Horror Stories – Trapped in a Blizzard With Something Watching Us 😱",
+    "channel": "Silent Spooks",
+    "views": "396 views",
+    "published": "8d ago",
+    "duration": "59:13",
+    "id": "VEFeTet3Ytw"
+   },
+   {
+    "title": "8 True Alaskan Horror Stories | “Something Was Watching Us in the Frozen Wilderness…” 😱",
+    "channel": "Night Time Creeps",
+    "views": "466 views",
+    "published": "4d ago",
+    "duration": "1:21:13",
+    "id": "ao90SrCAyL0"
+   },
+   {
+    "title": "8 Terrifying Winter Horror Stories | \"Something Was Moving in the Blizzard 😱",
+    "channel": "Empty Hours",
+    "views": "207 views",
+    "published": "4w ago",
+    "duration": "1:10:15",
+    "id": "1sGgGoXCCfY"
+   },
+   {
+    "title": "NOAH AND HIS POLAR BEAR  |Episode1&2: THE FORBIDDEN SNOW LAND & THE CURSE OF THE WITCHES | AI HORROR",
+    "channel": "Testat Creation",
+    "views": "199 views",
+    "published": "2w ago",
+    "duration": "13:39",
+    "id": "2_onHrqhBhI"
+   },
+   {
+    "title": "I Found My Sister’s Boyfriend Alive Inside an Alaska Glacier",
+    "channel": "Insomnia Hush and Insomnia Vanta",
+    "views": "291 views",
+    "published": "12d ago",
+    "duration": "29:41",
+    "id": "o9xDu0RW0Wg"
+   },
+   {
+    "title": "HELL IN ALASKA: A terrifying story of a frozen wilderness nightmare & 5 tales - mrballen",
+    "channel": "Sinister Slumber Stories",
+    "views": "135 views",
+    "published": "2w ago",
+    "duration": "4:31:53",
+    "id": "fT2hQ6MvJTs"
+   }
+  ]
+ },
+ {
+  "query": "analog horror christmas",
+  "fetched_at": "2026-11-19T17:18:40Z",
+  "filter": "this month, sorted by views, videos",
+  "n_results": 20,
+  "top1_views": 145727,
+  "median_views_top20": 201,
+  "n_over_100k": 1,
+  "n_over_1m": 0,
+  "videos": [
+   {
+    "title": "This GUMBALL FANMADE should be ILLEGAL...",
+    "channel": "JoseliTops",
+    "views": "145,727 views",
+    "published": "2w ago",
+    "duration": "11:22",
+    "id": "na2gqtD39ZQ"
+   },
+   {
+    "title": "PENJELASAN A CHILDHOOD IN PIECES DALAM 8 MENIT",
+    "channel": "RazCH",
+    "views": "15,954 views",
+    "published": "12d ago",
+    "duration": "8:01",
+    "id": "wOz6BIBzHh0"
+   },
+   {
+    "title": "A CHRISTMAS TALE : RETOLD | Analog Horror",
+    "channel": "ScrapX",
+    "views": "9,116 views",
+    "published": "3w ago",
+    "duration": "21:25",
+    "id": "8TK5fczjZ34"
+   },
+   {
+    "title": "Family Game Night (Analog Horror)",
+    "channel": "LARA'S HORROR SOUNDS",
+    "views": "8,381 views",
+    "published": "2w ago",
+    "duration": "2:44",
+    "id": "SaUvLujOme4"
+   },
+   {
+    "title": "EAS Scenario | Blue’s Clues (#125) (An Analog Horror)",
+    "channel": "EASRawRises",
+    "views": "1,022 views",
+    "published": "11d ago",
+    "duration": "24:12",
+    "id": "0z23GP3lB4U"
+   },
+   {
+    "title": "A CHRISTMAS TALE : RETOLD | Teaser 2",
+    "channel": "ScrapX",
+    "views": "839 views",
+    "published": "4w ago",
+    "duration": "0:42",
+    "id": "eKp4Cm9Pv2I"
+   },
+   {
+    "title": "If You Hear Footsteps on Christmas Eve... Do NOT Go Downstairs",
+    "channel": "Eyes Shut",
+    "views": "434 views",
+    "published": "13d ago",
+    "duration": "10:27",
+    "id": "dQpsgTU8ok0"
+   },
+   {
+    "title": "Hypershock vs omnidroid analog horror animation by me",
+    "channel": "Christmas bulletproof mark ",
+    "views": "600 views",
+    "published": "3w ago",
+    "duration": "0:24",
+    "id": "30e5xcmOw7w"
+   },
+   {
+    "title": "THE CHRISTMAS DEMON IS HERE || Krampus Analog Horror series || REACTION",
+    "channel": "ROMIE",
+    "views": "400 views",
+    "published": "3w ago",
+    "duration": "39:25",
+    "id": "mM5pdCH_CRk"
+   },
+   {
+    "title": "If Everyone In Church Turns To Look At You… KEEP SINGING",
+    "channel": "dysrational",
+    "views": "179 views",
+    "published": "2w ago",
+    "duration": "10:57",
+    "id": "XiTv5flwbtU"
+   },
+   {
+    "title": "HE IS THE KRAMPUS || The boy Who created the Krampus (Analog Horror) || REACTION",
+    "channel": "ROMIE",
+    "views": "201 views",
+    "published": "1d ago",
+    "duration": "13:03",
+    "id": "C6L5pH0-W_I"
+   },
+   {
+    "title": "The Christmas Visitor Wasn't Santa | Horror Stories",
+    "channel": "The Elsewhere Signal",
+    "views": "607 views",
+    "published": "11d ago",
+    "duration": "4:33",
+    "id": "cVIUOw3AteQ"
+   },
+   {
+    "title": "JACOB YOU MONSTER || A CHRISTMAS TALE : RETOLD | Analog Horror || REACTION",
+    "channel": "ROMIE",
+    "views": "142 views",
+    "published": "10d ago",
+    "duration": "20:46",
+    "id": "lb0fJrdQIl0"
+   },
+   {
+    "title": "A nightmare I had at Christmas. ",
+    "channel": "Cr0n0t1p3",
+    "views": "110 views",
+    "published": "12d ago",
+    "duration": "2:04",
+    "id": "Pk7CbFqVYUw"
+   },
+   {
+    "title": "I Digitized My Family’s Christmas Tapes. A Stranger Is in Every One | CREEPY STORY",
+    "channel": "Wrong Save",
+    "views": "86 views",
+    "published": "2d ago",
+    "duration": "10:54",
+    "id": "4rSjPHSxsSU"
+   },
+   {
+    "title": "If Your Family Ever Puts Up the Christmas Tree Without You… DON'T COUNT THE ORNAMENTS",
+    "channel": "Labib Yt 1",
+    "views": "67 views",
+    "published": "4d ago",
+    "duration": "9:44",
+    "id": "7lFsp1cZDvI"
+   },
+   {
+    "title": "Why Hampton Roads Is Trapped Under the Worst White Christmas Ever",
+    "channel": "The EAS Fanatic26",
+    "views": "65 views",
+    "published": "8d ago",
+    "duration": "12:28",
+    "id": "eAnQaEZzv5w"
+   },
+   {
+    "title": "Angel Hill - \"The Christmas Play\" teaser",
+    "channel": "ANGEL HILL",
+    "views": "113 views",
+    "published": "2w ago",
+    "duration": "0:37",
+    "id": "bMXKCf2KMls"
+   },
+   {
+    "title": "If Your Cat Won't Go Near The Christmas Tree… DON'T PUT THE STAR ON",
+    "channel": "3AM Advisory",
+    "views": "34 views",
+    "published": "7d ago",
+    "duration": "7:52",
+    "id": "qldSYHAjG3c"
+   },
+   {
+    "title": "He brung the monster to life | Friday Night Fright: SEASON 2 [#125]",
+    "channel": "ItssmeKG",
+    "views": "76 views",
+    "published": "2w ago",
+    "duration": "1:21:32",
+    "id": "fqEvdFV50k0"
+   }
+  ]
+ }
+]

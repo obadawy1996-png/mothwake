@@ -1,0 +1,68 @@
+{
+  "id": "MW012",
+  "title": "The Quiet Hour",
+  "category": "Dark mystery",
+  "format": "long",
+  "setting_type": "town",
+  "twist_type": "town-feeds-the-silence",
+  "concept": "In the town of Wrenfield, everyone stops speaking between 1 and 2 a.m. A journalist arrives to find out why and decides to talk.",
+  "characters": [
+    "Cal (30s, podcaster)",
+    "Ines (diner owner, mute by choice)",
+    "The town"
+  ],
+  "setting": "A small town diner, empty streets, a radio tower.",
+  "conflict": "Cal wants a story; the town wants him silent.",
+  "escalation": "The first night he speaks, something in the dark answers in his voice. Each night it knows more words.",
+  "reveal": "The silence keeps the thing from learning to speak. Every outsider who talked taught it a little more. It's nearly fluent.",
+  "ending": "Cal's podcast episode uploads by itself. The narrator sounds like Cal. Cal is not in the room.",
+  "emotional_objective": "Atmospheric dread, mystery solved with a chilling escalation.",
+  "visual_requirements": [
+    "diner",
+    "night town",
+    "radio tower"
+  ],
+  "production_effort": "high",
+  "hooks": [
+    {
+      "structure": "mysterious rule",
+      "line": "In this town, nobody speaks between 1 and 2 a.m. Not even in an emergency.",
+      "first_visual": "Diner clock at 1:00; everyone falls silent."
+    },
+    {
+      "structure": "dangerous decision",
+      "line": "I'm a podcaster. I decided to talk.",
+      "first_visual": "Microphone red light on."
+    },
+    {
+      "structure": "disturbing discovery",
+      "line": "Something outside repeated my sentence. Badly. Then better.",
+      "first_visual": "A dark window; faint breath on glass."
+    },
+    {
+      "structure": "strange message",
+      "line": "A sign at the town line: 'Visitors — please learn to be quiet.'",
+      "first_visual": "Weathered sign in headlights."
+    },
+    {
+      "structure": "question with visual answer",
+      "line": "What's listening during the quiet hour?",
+      "first_visual": "The radio tower's red light blinks in rhythm."
+    }
+  ],
+  "originality_review": "Original. Distinguish from silence-based monster films; no sound-hunting creature, the threat is learning language.",
+  "scores": {
+    "topic_demand": 4,
+    "audience_curiosity": 5,
+    "hook_strength": 5,
+    "emotional_impact": 4,
+    "story_clarity": 4,
+    "suspense": 5,
+    "retention_potential": 4,
+    "rewatch_potential": 3,
+    "shareability": 4,
+    "production_complexity": 4,
+    "originality": 4,
+    "brand_suitability": 5
+  }
+}

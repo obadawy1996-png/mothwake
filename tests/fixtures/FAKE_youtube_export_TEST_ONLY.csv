@@ -1,0 +1,5 @@
+Content,Video title,Video publish time,Duration,Views,Engaged views,Stayed to watch (%),Average view duration,Average percentage viewed (%),Likes,Comments added,Shares,Subscribers gained
+Total,,,,,,,,,,,,
+t1,TEST short A,2026-12-01,45,1000,900,62.5,0:00:31,70.1,50,5,7,3
+t2,TEST short B,2026-12-02,52,2000,1800,58,0:00:33,64,80,9,12,6
+t3,TEST long A,2026-12-03,640,500,,,0:04:10,39,20,4,1,2

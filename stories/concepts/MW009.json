@@ -1,0 +1,68 @@
+{
+  "id": "MW009",
+  "title": "Signal Lake",
+  "category": "Paranormal mystery",
+  "format": "long",
+  "setting_type": "wilderness",
+  "twist_type": "the-rescue-call-is-the-lure",
+  "concept": "A volunteer radio operator keeps receiving a rescue call from a lake that drained thirty years ago.",
+  "characters": [
+    "Elliot (60s, retired radio ham)",
+    "Sasha (his granddaughter, skeptical)",
+    "The caller"
+  ],
+  "setting": "A ham radio shack, a dry lakebed with a drowned town's rooftops exposed.",
+  "conflict": "Every rescue attempt to the lakebed reveals more of the town — and less of the way back.",
+  "escalation": "Coordinates shift each night; Sasha finds Elliot's own callsign in the town's 1994 radio log.",
+  "reveal": "Elliot was the operator who ignored the original call in 1994. The caller isn't asking to be rescued; it's offering Elliot a chance to stay.",
+  "ending": "Sasha hears her grandfather's voice on the frequency now, calmly giving coordinates.",
+  "emotional_objective": "Guilt, grief, and an eerie, beautiful setting.",
+  "visual_requirements": [
+    "radio shack",
+    "dry lakebed town",
+    "night sky"
+  ],
+  "production_effort": "high",
+  "hooks": [
+    {
+      "structure": "strange message",
+      "line": "My grandfather's radio picked up a rescue call from a lake that hasn't existed for 30 years.",
+      "first_visual": "A dial glowing; static."
+    },
+    {
+      "structure": "disturbing discovery",
+      "line": "The drowned town under the lake still has its lights on.",
+      "first_visual": "Rooftops in dry mud, one window lit."
+    },
+    {
+      "structure": "question with visual answer",
+      "line": "Who's still calling for help down there?",
+      "first_visual": "Old CB handset on a dashboard in the mud."
+    },
+    {
+      "structure": "dangerous decision",
+      "line": "We drove out to the coordinates.",
+      "first_visual": "Headlights across cracked earth."
+    },
+    {
+      "structure": "impossible situation",
+      "line": "The coordinates move every night. Closer to the house.",
+      "first_visual": "Map with pins marching toward a cottage."
+    }
+  ],
+  "originality_review": "Original. Drowned-town imagery is a real-world phenomenon; story is fictional and must not reference any real disaster.",
+  "scores": {
+    "topic_demand": 3,
+    "audience_curiosity": 4,
+    "hook_strength": 4,
+    "emotional_impact": 5,
+    "story_clarity": 4,
+    "suspense": 4,
+    "retention_potential": 4,
+    "rewatch_potential": 3,
+    "shareability": 3,
+    "production_complexity": 4,
+    "originality": 5,
+    "brand_suitability": 5
+  }
+}

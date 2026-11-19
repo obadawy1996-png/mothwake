@@ -1,0 +1,66 @@
+{
+  "id": "MW007",
+  "title": "Mile Marker 0",
+  "category": "Urban legend (original)",
+  "format": "short",
+  "setting_type": "road",
+  "twist_type": "countdown-to-self",
+  "concept": "A trucker notices the mile markers on an empty highway are counting down to a number that isn't on any map.",
+  "characters": [
+    "Rosa (50s, long-haul driver)"
+  ],
+  "setting": "Empty desert highway at night, cab interior.",
+  "conflict": "No exits; fuel dropping; markers falling faster than she drives.",
+  "escalation": "The markers start showing her truck's plate number underneath.",
+  "reveal": "Mile 0 is a roadside memorial with her name and tomorrow's date.",
+  "ending": "Rosa pulls over to avoid reaching it. In the mirror, the memorial is now behind her — freshly planted flowers.",
+  "emotional_objective": "Highway isolation, fate.",
+  "visual_requirements": [
+    "road loop background (reusable)",
+    "marker signs",
+    "cab"
+  ],
+  "production_effort": "low",
+  "hooks": [
+    {
+      "structure": "impossible situation",
+      "line": "The mile markers on this highway are counting down. To what?",
+      "first_visual": "Green sign: MILE 9 → MILE 4."
+    },
+    {
+      "structure": "disturbing discovery",
+      "line": "My licence plate is printed under the mile marker.",
+      "first_visual": "Headlights on a sign with a plate number."
+    },
+    {
+      "structure": "dangerous decision",
+      "line": "I could stop. But stopping is how you end up at mile zero.",
+      "first_visual": "Hand gripping a gearstick."
+    },
+    {
+      "structure": "question with visual answer",
+      "line": "What's at mile zero?",
+      "first_visual": "Distant roadside cross in headlights."
+    },
+    {
+      "structure": "strange message",
+      "line": "The CB radio keeps reading out my distance to zero.",
+      "first_visual": "Glowing CB unit."
+    }
+  ],
+  "originality_review": "Original; road-ghost genre conventions only.",
+  "scores": {
+    "topic_demand": 3,
+    "audience_curiosity": 4,
+    "hook_strength": 4,
+    "emotional_impact": 4,
+    "story_clarity": 5,
+    "suspense": 4,
+    "retention_potential": 4,
+    "rewatch_potential": 3,
+    "shareability": 3,
+    "production_complexity": 1,
+    "originality": 4,
+    "brand_suitability": 4
+  }
+}

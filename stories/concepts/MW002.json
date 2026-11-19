@@ -1,0 +1,66 @@
+{
+  "id": "MW002",
+  "title": "Extra Floor",
+  "category": "Haunted location",
+  "format": "short",
+  "setting_type": "apartment",
+  "twist_type": "protagonist-is-the-anomaly",
+  "concept": "A night-shift worker's elevator stops at floor 7½, a floor that doesn't exist on the panel.",
+  "characters": [
+    "Theo (20s, night-shift nurse)"
+  ],
+  "setting": "An old apartment block elevator and an identical-but-wrong corridor.",
+  "conflict": "Theo needs to get home; the elevator only opens on 7½.",
+  "escalation": "The corridor has his own apartment number, his own doormat, his own shoes outside — still wet from tonight's rain.",
+  "reveal": "Floor 7½ is where his building keeps the version of him that didn't come home one night years ago.",
+  "ending": "Back in the elevator, the panel now shows 7½ as a normal button. The real floor 8 is gone.",
+  "emotional_objective": "Uncanny familiarity; the safe place made wrong.",
+  "visual_requirements": [
+    "elevator interior",
+    "corridor with subtle wrong details",
+    "panel insert"
+  ],
+  "production_effort": "low",
+  "hooks": [
+    {
+      "structure": "impossible situation",
+      "line": "My elevator stopped between the 7th and 8th floors. The doors opened anyway.",
+      "first_visual": "Panel: a lit button between 7 and 8."
+    },
+    {
+      "structure": "disturbing discovery",
+      "line": "There's a floor in my building with my apartment on it. I don't live there.",
+      "first_visual": "A door with the same number, a familiar doormat."
+    },
+    {
+      "structure": "strange message",
+      "line": "The floor sign just says: WELCOME BACK.",
+      "first_visual": "Hand-painted sign under flickering light."
+    },
+    {
+      "structure": "question with visual answer",
+      "line": "Why are my shoes outside a door I've never seen?",
+      "first_visual": "Wet shoes on a doormat."
+    },
+    {
+      "structure": "unexpected visitor",
+      "line": "Someone on floor 7½ has been waiting for me to come home.",
+      "first_visual": "Silhouette behind frosted glass."
+    }
+  ],
+  "originality_review": "Liminal-space genre convention (impossible floor) used generically; story beats, characters and reveal are original.",
+  "scores": {
+    "topic_demand": 4,
+    "audience_curiosity": 5,
+    "hook_strength": 5,
+    "emotional_impact": 3,
+    "story_clarity": 4,
+    "suspense": 4,
+    "retention_potential": 4,
+    "rewatch_potential": 4,
+    "shareability": 4,
+    "production_complexity": 2,
+    "originality": 3,
+    "brand_suitability": 5
+  }
+}

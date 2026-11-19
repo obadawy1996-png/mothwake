@@ -1,0 +1,66 @@
+{
+  "id": "MW011",
+  "title": "Last Bus to Halden",
+  "category": "Supernatural encounter",
+  "format": "short",
+  "setting_type": "transport",
+  "twist_type": "passengers-are-memories",
+  "concept": "On the last bus home, each stop's passengers are people from a woman's past — in reverse order of when she last saw them.",
+  "characters": [
+    "Amara (35)",
+    "The driver (never shows face)"
+  ],
+  "setting": "Night bus interior, rain-streaked windows.",
+  "conflict": "She needs to get off; the bell doesn't work.",
+  "escalation": "Her childhood best friend boards, then her late father, then — her as a child.",
+  "reveal": "The bus runs backwards through her life to the night she was supposed to be on it — the night it crashed.",
+  "ending": "Amara pulls the bell. It works. She steps off into 1998, and the bus drives away with her younger self waving.",
+  "emotional_objective": "Melancholic horror; bittersweet chill.",
+  "visual_requirements": [
+    "bus interior (reusable)",
+    "character variety"
+  ],
+  "production_effort": "medium",
+  "hooks": [
+    {
+      "structure": "unexpected visitor",
+      "line": "On the last bus home, my dad got on. He died six years ago.",
+      "first_visual": "Bus doors fold open; a silhouette."
+    },
+    {
+      "structure": "impossible situation",
+      "line": "Every stop, someone I used to know gets on. In reverse order.",
+      "first_visual": "Passengers in rain-blurred windows."
+    },
+    {
+      "structure": "mysterious rule",
+      "line": "On the last bus, you don't ring the bell until it's your stop. You'll know.",
+      "first_visual": "Red STOP button."
+    },
+    {
+      "structure": "question with visual answer",
+      "line": "Where does the last bus actually go?",
+      "first_visual": "Destination board flickers: HALDEN 1998."
+    },
+    {
+      "structure": "disturbing discovery",
+      "line": "The little girl at the back has my face.",
+      "first_visual": "A child in a yellow raincoat."
+    }
+  ],
+  "originality_review": "Original.",
+  "scores": {
+    "topic_demand": 3,
+    "audience_curiosity": 4,
+    "hook_strength": 5,
+    "emotional_impact": 5,
+    "story_clarity": 4,
+    "suspense": 3,
+    "retention_potential": 4,
+    "rewatch_potential": 4,
+    "shareability": 4,
+    "production_complexity": 3,
+    "originality": 4,
+    "brand_suitability": 5
+  }
+}

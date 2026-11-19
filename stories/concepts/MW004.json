@@ -1,0 +1,67 @@
+{
+  "id": "MW004",
+  "title": "Voicemail From Tomorrow",
+  "category": "Unexplained phenomenon",
+  "format": "short",
+  "setting_type": "home",
+  "twist_type": "warning-causes-the-event",
+  "concept": "A woman receives a voicemail from her own number, timestamped tomorrow, telling her not to open the door at 9:14.",
+  "characters": [
+    "June (40s, nurse)",
+    "Her own recorded voice"
+  ],
+  "setting": "Kitchen, phone, front door.",
+  "conflict": "Trust the warning or not.",
+  "escalation": "Events from the voicemail happen in order: the rain, the dog barking, the knock at 9:14.",
+  "reveal": "She doesn't open the door. At 9:15 she records the voicemail to warn herself — and realises the knock was her, trying to get back in.",
+  "ending": "Outside, in the rain, a June with no phone knocks again.",
+  "emotional_objective": "Clockwork tension; a loop the viewer reconstructs on rewatch.",
+  "visual_requirements": [
+    "phone UI",
+    "clock inserts",
+    "door from inside/outside"
+  ],
+  "production_effort": "low",
+  "hooks": [
+    {
+      "structure": "strange message",
+      "line": "I got a voicemail from my own number. It was dated tomorrow.",
+      "first_visual": "Phone screen: missed call, ME."
+    },
+    {
+      "structure": "dangerous decision",
+      "line": "The voicemail said: don't open the door at 9:14. It's 9:13.",
+      "first_visual": "Microwave clock flips to 9:13."
+    },
+    {
+      "structure": "impossible situation",
+      "line": "Everything the message predicted is happening in order.",
+      "first_visual": "Montage of rain, dog, knock."
+    },
+    {
+      "structure": "question with visual answer",
+      "line": "Who is knocking with my voice?",
+      "first_visual": "Door peephole: dark rain."
+    },
+    {
+      "structure": "disturbing discovery",
+      "line": "There's a second voicemail. It's me, crying.",
+      "first_visual": "Second notification appears."
+    }
+  ],
+  "originality_review": "Time-loop is a broad trope; this specific loop structure, characters and visuals are original.",
+  "scores": {
+    "topic_demand": 4,
+    "audience_curiosity": 5,
+    "hook_strength": 5,
+    "emotional_impact": 4,
+    "story_clarity": 3,
+    "suspense": 5,
+    "retention_potential": 5,
+    "rewatch_potential": 5,
+    "shareability": 4,
+    "production_complexity": 2,
+    "originality": 3,
+    "brand_suitability": 4
+  }
+}

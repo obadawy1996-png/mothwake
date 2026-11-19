@@ -1,0 +1,67 @@
+{
+  "id": "MW008",
+  "title": "The Babysitter's Third Rule",
+  "category": "Suspense",
+  "format": "short",
+  "setting_type": "home",
+  "twist_type": "the-protected-is-the-danger",
+  "concept": "Rules on the fridge for a babysitter: 1. Bedtime is 8. 2. No sugar. 3. If he asks to be let out of his room, he is already in bed.",
+  "characters": [
+    "Priya (17, babysitter)",
+    "Sam (6, very polite)"
+  ],
+  "setting": "Family kitchen, upstairs landing, a locked child's room.",
+  "conflict": "A small voice behind the door begs to be let out; Sam is also asleep in his bed.",
+  "escalation": "Both 'Sams' start asking Priya which one is real.",
+  "reveal": "The parents' rules were never about the one in the room — the one in the bed is the one they're afraid of.",
+  "ending": "Priya opens the bedroom door to check. The bed is empty. The voice behind the locked door goes silent and says 'thank you.'",
+  "emotional_objective": "Choice paralysis; who to trust.",
+  "visual_requirements": [
+    "fridge note",
+    "two doors",
+    "child silhouette"
+  ],
+  "production_effort": "medium",
+  "hooks": [
+    {
+      "structure": "mysterious rule",
+      "line": "Rule 3 on the fridge said: if he asks to be let out, he's already in bed.",
+      "first_visual": "A fridge note held by a magnet."
+    },
+    {
+      "structure": "impossible situation",
+      "line": "The boy I'm babysitting is asleep in his bed. He's also knocking on his door.",
+      "first_visual": "Split: bed / door."
+    },
+    {
+      "structure": "dangerous decision",
+      "line": "Only one of them could be real. I had to open one door.",
+      "first_visual": "Hand on doorknob."
+    },
+    {
+      "structure": "unexpected visitor",
+      "line": "'Priya, it's me. Let me out. The other one isn't me.'",
+      "first_visual": "Small fingers under a door."
+    },
+    {
+      "structure": "question with visual answer",
+      "line": "Which one would you let out?",
+      "first_visual": "Two doors, one hallway."
+    }
+  ],
+  "originality_review": "Babysitter-in-peril is a classic set-up; the two-children rule twist is original. Watch similarity against existing 'rules' channels.",
+  "scores": {
+    "topic_demand": 5,
+    "audience_curiosity": 5,
+    "hook_strength": 5,
+    "emotional_impact": 4,
+    "story_clarity": 4,
+    "suspense": 5,
+    "retention_potential": 5,
+    "rewatch_potential": 4,
+    "shareability": 5,
+    "production_complexity": 3,
+    "originality": 3,
+    "brand_suitability": 4
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "id": "MW006",
+  "title": "Sleep Study",
+  "category": "Psychological twist",
+  "format": "long",
+  "setting_type": "clinic",
+  "twist_type": "observer-is-observed",
+  "concept": "A volunteer in a paid sleep study watches the overnight footage and sees herself get up, walk to the camera, and whisper something every night at 3:07.",
+  "characters": [
+    "Mara (28, broke grad student)",
+    "Dr. Fell (calm researcher)",
+    "Other volunteer, Kwame"
+  ],
+  "setting": "Sleep clinic: bedrooms, monitoring room, corridor.",
+  "conflict": "Mara needs the money; the study needs her to stay.",
+  "escalation": "Night 1: she stands. Night 2: she walks to the camera. Night 3: she whispers. Night 4: the audio is enhanced — she is giving instructions to someone off-camera. Kwame stops showing up.",
+  "reveal": "The study isn't measuring sleep. It's recruiting whatever answers through sleepers; Mara's whispers are its replies.",
+  "ending": "Mara leaves, paid. At home she sets up her own camera. At 3:07, two figures stand up.",
+  "emotional_objective": "Slow-burn paranoia with a complete, satisfying reveal.",
+  "visual_requirements": [
+    "night-vision footage look",
+    "clinic set",
+    "monitor UI"
+  ],
+  "production_effort": "high",
+  "hooks": [
+    {
+      "structure": "disturbing discovery",
+      "line": "I joined a paid sleep study. Then they showed me the footage.",
+      "first_visual": "Grainy night-vision: a figure sits up."
+    },
+    {
+      "structure": "impossible situation",
+      "line": "Every night at 3:07, I walk to the camera. I don't remember any of it.",
+      "first_visual": "Timestamp 03:07:00."
+    },
+    {
+      "structure": "strange message",
+      "line": "They enhanced the audio. I was giving someone directions.",
+      "first_visual": "Waveform on a monitor."
+    },
+    {
+      "structure": "question with visual answer",
+      "line": "Who was I talking to?",
+      "first_visual": "Empty chair beside the camera."
+    },
+    {
+      "structure": "dangerous decision",
+      "line": "I signed up for one more night.",
+      "first_visual": "Signature on a consent form."
+    }
+  ],
+  "originality_review": "Original. Avoid resemblance to found-footage films; no borrowed scenes.",
+  "scores": {
+    "topic_demand": 4,
+    "audience_curiosity": 5,
+    "hook_strength": 5,
+    "emotional_impact": 4,
+    "story_clarity": 4,
+    "suspense": 5,
+    "retention_potential": 4,
+    "rewatch_potential": 3,
+    "shareability": 4,
+    "production_complexity": 4,
+    "originality": 4,
+    "brand_suitability": 5
+  }
+}
