@@ -49,3 +49,9 @@ Each background gets at least 3 dressing variants (props and signage swapped), s
   - **Moth flutter:** a 6-frame loop
 
 **Limited but intentional motion:** the camera and lights move constantly while characters move economically. Full motion is saved for the scare beat.
+
+### Added 2026-11-19 (EP001 storyboard need)
+
+| Preset | Use | Key | Fill/shadow | Notes |
+|---|---|---|---|---|
+| L6 Overcast Day | Daytime exteriors and interiors (EP001 town by day, library, porch) | Soft, flat Bone-grey sky light (#E7E2D8 at low saturation) | Charcoal #25232B, shadows lifted, no hard sun | The town looks friendly but drained of colour. Keep Lamp only on practical lights. |

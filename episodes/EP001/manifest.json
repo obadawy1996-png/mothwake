@@ -1,0 +1,3185 @@
+{
+  "id": "EP001",
+  "title": "The Quiet Hour",
+  "story_id": "MW012",
+  "format": "long",
+  "status": "in production — DO NOT PUBLISH until owner_final approval",
+  "resolution": [
+    1920,
+    1080
+  ],
+  "fps": 30,
+  "loudness_lufs": -14,
+  "brand_assets": {
+    "logo_primary": "brand/logo/mothwake_primary_transparent.svg",
+    "watermark": "brand/kit/watermark_gold.png",
+    "watermark_light_scenes": "brand/kit/watermark_white.png",
+    "font_display": "brand/fonts/Cinzel[wght].ttf",
+    "font_title": "brand/fonts/CormorantGaramond[wght].ttf",
+    "font_caption": "brand/fonts/Inter[opsz,wght].ttf",
+    "sound_signature": "brand/sound/mothwake_signature.wav",
+    "sound_outro": "brand/sound/mothwake_outro.wav",
+    "outro_16x9": "brand/video/mothwake_outro_1920x1080.mp4",
+    "outro_9x16": "brand/video/mothwake_outro_1080x1920.mp4"
+  },
+  "originality_review": "See script.md 'Originality note' (distinct from Pontypool: no infection, radio only as backstory, no DJ) and stories/concepts/MW012.json",
+  "voices": {
+    "CAL": "Chris vrZ1gMhrsD9LI0gRKrLh (also ECHO)",
+    "VISITOR_1974": "Nathan kEH1WsKbJExFkw3GULds",
+    "ECHO_1981": "Nathan",
+    "ECHO_coffee": "Luke H1CuHzAGVrv9ODHDEOZe",
+    "ECHO_1996": "Daniel Calder lQqvnBXwXksgKqT9o1di",
+    "ECHO_2009": "Rowan RQirksf9cwYYdznttqcq"
+  },
+  "licence_ledger": [
+    {
+      "asset": "audio/vo/*.mp3",
+      "licence": "ElevenLabs paid plan (owner) — commercial; owner to confirm tier"
+    },
+    {
+      "asset": "brand/*",
+      "licence": "original MOTHWAKE (approved 2026-11-19)"
+    },
+    {
+      "asset": "art/flow/*",
+      "licence": "PENDING — Google Flow terms unverified for owner's account"
+    },
+    {
+      "asset": "art/*.png (layered stills)",
+      "licence": "PENDING — not yet created"
+    }
+  ],
+  "paid_usage": [
+    {
+      "service": "ElevenLabs",
+      "credits": 6678,
+      "date": "2026-11-19",
+      "approved_by": "owner"
+    }
+  ],
+  "approvals": {
+    "concept": "owner 2026-11-19 (pilot plan)",
+    "script": null,
+    "character_sheets": null,
+    "ref_style": null,
+    "owner_final": null
+  },
+  "pipeline": {
+    "script": {
+      "status": "done (v3) — awaiting owner review"
+    },
+    "voice": {
+      "status": "done — 15 takes; review reel sent"
+    },
+    "storyboard": {
+      "status": "done (draft) — 98 shots, 501 s",
+      "notes": "Act I/II cuts estimated by word share; re-time to real line starts before assembly"
+    },
+    "flow_pack": {
+      "status": "done — awaiting owner generation in Flow"
+    },
+    "character_sheets": {
+      "status": "done (draft) — awaiting owner approval"
+    },
+    "art": {
+      "status": "not started"
+    },
+    "assembly": {
+      "status": "blocked: art + assembler video-clip support"
+    },
+    "qc": {
+      "status": "not started"
+    },
+    "packaging": {
+      "status": "not started"
+    }
+  },
+  "issues": [
+    "Hook: first narration ~6 s; guide wants ≤1.5 s — move cold-open line to start over the freeze",
+    "Runtime ~8:21 picture (in approved 8–14 min range); no padding planned",
+    "Act II ~2.6 min exposition without threat on screen — consider trimming radio-backstory lines",
+    "Notepad pages ~11 s silent — confirm intended",
+    "Ines's flat not established before ending — add 2–3 s exterior",
+    "assemble.py: add video-clip layers, 'static' move, end-screen step",
+    "QC: whitelist intentional silences (S091 4 s hold, 1:00 sound cuts)"
+  ],
+  "audio": {
+    "narration": [],
+    "sfx": [],
+    "music": [],
+    "note": "placement pending line re-timing"
+  },
+  "shots": [
+    {
+      "id": "S001",
+      "section": "Cold open",
+      "framing": "ECU",
+      "background": "BG01A",
+      "layers": [
+        {
+          "src": "art/BG01_bg.png",
+          "depth": 0.0
+        },
+        {
+          "src": "art/BG01_clock_1259.png",
+          "depth": 0.6
+        },
+        {
+          "src": "art/BG01_fx_lamps.png",
+          "depth": 0.8
+        }
+      ],
+      "duration": 2.0,
+      "move": "push",
+      "strength": 0.03,
+      "lighting": "L1",
+      "vo": [],
+      "fade_in": 0.4
+    },
+    {
+      "id": "S002",
+      "section": "Cold open",
+      "framing": "WS",
+      "background": "BG01A",
+      "layers": [
+        {
+          "src": "art/BG01_bg.png",
+          "depth": 0.0
+        },
+        {
+          "src": "art/BG01_far.png",
+          "depth": 0.25
+        },
+        {
+          "src": "art/BG01A_mid.png",
+          "depth": 0.55
+        },
+        {
+          "src": "art/BG01_fx_lamps.png",
+          "depth": 0.7
+        },
+        {
+          "src": "art/BG01A_near_truckers.png",
+          "depth": 0.85
+        },
+        {
+          "src": "art/BG01_fx_steam.png",
+          "depth": 0.9
+        }
+      ],
+      "duration": 2.5,
+      "move": "drift",
+      "strength": 0.02,
+      "lighting": "L1",
+      "vo": []
+    },
+    {
+      "id": "S003",
+      "section": "Cold open",
+      "framing": "CU",
+      "background": "BG02A",
+      "layers": [
+        {
+          "src": "art/BG02_bg.png",
+          "depth": 0.0
+        },
+        {
+          "src": "art/BG02A_mid_cup.png",
+          "depth": 0.6
+        },
+        {
+          "src": "art/BG02A_near_pot.png",
+          "depth": 0.9
+        }
+      ],
+      "duration": 6.0,
+      "move": "push",
+      "strength": 0.04,
+      "lighting": "L1",
+      "vo": [
+        "L001"
+      ],
+      "hero_clip": "H01",
+      "caption": {
+        "text": "In Wrenfield, nobody speaks between one and two in the morning.",
+        "key": "speaks",
+        "y": 0.8,
+        "from": 1.0
+      }
+    },
+    {
+      "id": "S004",
+      "section": "Cold open",
+      "framing": "MS",
+      "background": "BG01C",
+      "layers": [
+        {
+          "src": "art/BG01_bg.png",
+          "depth": 0.0
+        },
+        {
+          "src": "art/BG01_far.png",
+          "depth": 0.25
+        },
+        {
+          "src": "art/BG01C_mid.png",
+          "depth": 0.55
+        },
+        {
+          "src": "art/BG01C_near_truckers.png",
+          "depth": 0.85
+        }
+      ],
+      "duration": 6.0,
+      "move": "push",
+      "strength": 0.04,
+      "lighting": "L1",
+      "vo": [
+        "L002"
+      ],
+      "caption": {
+        "text": "Not to answer a phone. Not to call for help.",
+        "key": "help",
+        "y": 0.8
+      }
+    },
+    {
+      "id": "S005",
+      "section": "Cold open",
+      "framing": "WS",
+      "background": "BG03A",
+      "layers": [
+        {
+          "src": "art/BG03_bg.png",
+          "depth": 0.0
+        },
+        {
+          "src": "art/BG03_far_tower.png",
+          "depth": 0.2
+        },
+        {
+          "src": "art/BG03A_mid_glass.png",
+          "depth": 0.6
+        },
+        {
+          "src": "art/BG03_fg_frame.png",
+          "depth": 1.0
+        }
+      ],
+      "duration": 6.5,
+      "move": "push",
+      "strength": 0.03,
+      "lighting": "L4",
+      "vo": [
+        "L003"
+      ],
+      "hero_clip": "H02",
+      "caption": {
+        "text": "I went there to find out why. I should have just listened.",
+        "key": "listened",
+        "y": 0.8,
+        "from": 1.0
+      }
+    },
+    {
+      "id": "S006",
+      "section": "Title",
+      "framing": "card",
+      "background": "TITLE",
+      "layers": [
+        {
+          "src": "art/TITLE_card.png",
+          "depth": 0.0
+        }
+      ],
+      "duration": 3.0,
+      "move": "static",
+      "strength": 0.0,
+      "lighting": "n/a",
+      "vo": [],
+      "fade_in": 0.3,
+      "hide_watermark": true
+    },
+    {
+      "id": "S007",
+      "section": "Act I",
+      "framing": "WS",
+      "background": "BG04A",
+      "layers": [
+        {
+          "src": "art/BG04_bg.png",
+          "depth": 0.0
+        },
+        {
+          "src": "art/BG04A_far.png",
+          "depth": 0.3
+        },
+        {
+          "src": "art/BG04A_mid_car.png",
+          "depth": 0.6
+        },
+        {
+          "src": "art/BG04_fx_rain.png",
+          "depth": 0.95
+        }
+      ],
+      "duration": 7.0,
+      "move": "pan_left",
+      "strength": 0.03,
+      "lighting": "L3",
+      "vo": [
+        "L004"
+      ],
+      "caption": {
+        "text": "I make a podcast about small towns with strange habits.",
+        "key": "podcast",
+        "y": 0.8
+      }
+    },
+    {
+      "id": "S008",
+      "section": "Act I",
+      "framing": "MS",
+      "background": "BG04B",
+      "layers": [
+        {
+          "src": "art/BG04A_far.png",
+          "depth": 0.0
+        },
+        {
+          "src": "art/BG04B_mid_cal.png",
+          "depth": 0.6
+        },
+        {
+          "src": "art/BG04B_fg_cabin.png",
+          "depth": 1.0
+        },
+        {
+          "src": "art/BG04_fx_rain.png",
+          "depth": 0.9
+        }
+      ],
+      "duration": 5.5,
+      "move": "drift",
+      "strength": 0.02,
+      "lighting": "L3",
+      "vo": [
+        "L004"
+      ],
+      "caption": {
+        "text": "A festival nobody remembers starting. A grudge between two families.",
+        "key": "grudge",
+        "y": 0.8
+      }
+    },
+    {
+      "id": "S009",
+      "section": "Act I",
+      "framing": "CU",
+      "background": "BG04B",
+      "layers": [
+        {
+          "src": "art/BG04A_far.png",
+          "depth": 0.0
+        },
+        {
+          "src": "art/BG04B_near_cal_cu.png",
+          "depth": 0.8
+        },
+        {
+          "src": "art/BG04B_fg_cabin.png",
+          "depth": 1.0
+        }
+      ],
+      "duration": 4.5,
+      "move": "push",
+      "strength": 0.03,
+      "lighting": "L3",
+      "vo": [
+        "L004"
+      ],
+      "caption": {
+        "text": "People liked them because nothing bad ever happened at the end.",
+        "key": "bad",
+        "y": 0.8
+      }
+    },
+    {
+      "id": "S010",
+      "section": "Act I",
+      "framing": "WS",
+      "background": "BG04C",
+      "layers": [
+        {
+          "src": "art/BG04_bg.png",
+          "depth": 0.0
+        },
+        {
+          "src": "art/BG04C_far.png",
+          "depth": 0.3
+        },
+        {
+          "src": "art/BG04_mid_sign.png",
+          "depth": 0.6
+        },
+        {
+          "src": "art/BG04_fx_rain.png",
+          "depth": 0.95
+        }
+      ],
+      "duration": 2.0,
+      "move": "push",
+      "strength": 0.04,
+      "lighting": "L3",
+      "vo": []
+    },
+    {
+      "id": "S011",
+      "section": "Act I",
+      "framing": "insert",
+      "background": "BG04C",
+      "layers": [
+        {
+          "src": "art/BG04_bg.png",
+          "depth": 0.0
+        },
+        {
+          "src": "art/BG04_near_board.png",
+          "depth": 0.7
+        },
+        {
+          "src": "art/BG04_fx_rain.png",
+          "depth": 0.95
+        }
+      ],
+      "duration": 5.0,
+      "move": "push",
+      "strength": 0.05,
+      "lighting": "L3",
+      "vo": [
+        "L005"
+      ],
+      "caption": {
+        "text": "Wrenfield's habit was already on the sign. That's rare.",
+        "key": "sign",
+        "y": 0.8
+      }
+    },
+    {
+      "id": "S012",
+      "section": "Act I",
+      "framing": "MS",
+      "background": "BG02B",
+      "layers": [
+        {
+          "src": "art/BG02_bg.png",
+          "depth": 0.0
+        },
+        {
+          "src": "art/BG02B_mid_desk.png",
+          "depth": 0.5
+        },
+        {
+          "src": "art/BG02B_near_owner.png",
+          "depth": 0.8
+        }
+      ],
+      "duration": 5.5,
+      "move": "drift",
+      "strength": 0.02,
+      "lighting": "L1",
+      "vo": [
+        "L006"
+      ],
+      "caption": {
+        "text": "The motel owner didn't explain it.",
+        "key": "explain",
+        "y": 0.8
+      }
+    },
+    {
+      "id": "S013",
+      "section": "Act I",
+      "framing": "insert",
+      "background": "BG02B",
+      "layers": [
+        {
+          "src": "art/BG02_bg.png",
+          "depth": 0.0
+        },
+        {
+          "src": "art/BG02B_mid_card.png",
+          "depth": 0.6
+        },
+        {
+          "src": "art/BG02B_near_finger.png",
+          "depth": 0.9
+        }
+      ],
+      "duration": 6.0,
+      "move": "push",
+      "strength": 0.04,
+      "lighting": "L1",
+      "vo": [
+        "L006"
+      ],
+      "caption": {
+        "text": "It was nine in the evening. He could have talked.",
+        "key": "talked",
+        "y": 0.8
+      }
+    },
+    {
+      "id": "S014",
+      "section": "Act I",
+      "framing": "WS",
+      "background": "BG06C",
+      "layers": [
+        {
+          "src": "art/BG06_bg.png",
+          "depth": 0.0
+        },
+        {
+          "src": "art/BG06_far.png",
+          "depth": 0.3
+        },
+        {
+          "src": "art/BG06C_mid_forecourt.png",
+          "depth": 0.6
+        },
+        {
+          "src": "art/BG06C_fx_tube.png",
+          "depth": 0.8
+        }
+      ],
+      "duration": 7.0,
+      "move": "pan_right",
+      "strength": 0.03,
+      "lighting": "L3",
+      "vo": [
+        "L007"
+      ],
+      "flicker": true,
+      "caption": {
+        "text": "The kid at the gas station was more relaxed about it.",
+        "key": "relaxed",
+        "y": 0.8
+      }
+    },
+    {
+      "id": "S015",
+      "section": "Act I",
+      "framing": "MS",
+      "background": "BG02C",
+      "layers": [
+        {
+          "src": "art/BG02_bg.png",
+          "depth": 0.0
+        },
+        {
+          "src": "art/BG02C_mid_till.png",
+          "depth": 0.5
+        },
+        {
+          "src": "art/BG02C_near_attendant.png",
+          "depth": 0.8
+        }
+      ],
+      "duration": 7.5,
+      "move": "drift",
+      "strength": 0.02,
+      "lighting": "L3",
+      "vo": [
+        "L007"
+      ],
+      "flicker": true,
+      "caption": {
+        "text": "Then I asked what happened to people who didn't.",
+        "key": "didn't",
+        "y": 0.8
+      }
+    },
+    {
+      "id": "S016",
+      "section": "Act I",
+      "framing": "CU",
+      "background": "BG02C",
+      "layers": [
+        {
+          "src": "art/BG02_bg.png",
+          "depth": 0.0
+        },
+        {
+          "src": "art/BG02C_mid_tray.png",
+          "depth": 0.6
+        },
+        {
+          "src": "art/BG02C_near_hands.png",
+          "depth": 0.9
+        }
+      ],
+      "duration": 10.5,
+      "move": "push",
+      "strength": 0.05,
+      "lighting": "L3",
+      "vo": [
+        "L008"
+      ],
+      "hero_clip": "H05",
+      "flicker": true,
+      "caption": {
+        "text": "You're not staying long, are you?",
+        "key": "long",
+        "y": 0.8,
+        "from": 0.5
+      }
+    },
+    {
+      "id": "S017",
+      "section": "Act I",
+      "framing": "WS",
+      "background": "BG06A",
+      "layers": [
+        {
+          "src": "art/BG06_bg.png",
+          "depth": 0.0
+        },
+        {
+          "src": "art/BG06_far.png",
+          "depth": 0.3
+        },
+        {
+          "src": "art/BG06A_mid_lantern.png",
+          "depth": 0.6
+        },
+        {
+          "src": "art/BG06_fx_dust.png",
+          "depth": 0.9
+        }
+      ],
+      "duration": 5.5,
+      "move": "push",
+      "strength": 0.03,
+      "lighting": "L1",
+      "vo": [
+        "L009"
+      ],
+      "caption": {
+        "text": "The only place open after midnight was a diner called the Lantern.",
+        "key": "Lantern",
+        "y": 0.8
+      }
+    },
+    {
+      "id": "S018",
+      "section": "Act I",
+      "framing": "MS",
+      "background": "BG01B",
+      "layers": [
+        {
+          "src": "art/BG01_bg.png",
+          "depth": 0.0
+        },
+        {
+          "src": "art/BG01_far.png",
+          "depth": 0.25
+        },
+        {
+          "src": "art/BG01B_mid.png",
+          "depth": 0.55
+        },
+        {
+          "src": "art/BG01B_near_ines.png",
+          "depth": 0.85
+        }
+      ],
+      "duration": 5.0,
+      "move": "push",
+      "strength": 0.03,
+      "lighting": "L1",
+      "vo": [
+        "L009"
+      ],
+      "caption": {
+        "text": "She didn't speak at all. Not just during the hour. Ever.",
+        "key": "Ever",
+        "y": 0.8
+      }
+    },
+    {
+      "id": "S019",
+      "section": "Act I",
+      "framing": "CU",
+      "background": "BG01B",
+      "layers": [
+        {
+          "src": "art/BG01_bg.png",
+          "depth": 0.0
+        },
+        {
+          "src": "art/BG01B_near_ines_cu.png",
+          "depth": 0.7
+        },
+        {
+          "src": "art/BG01_fg_pad.png",
+          "depth": 1.0
+        }
+      ],
+      "duration": 4.5,
+      "move": "static",
+      "strength": 0.0,
+      "lighting": "L1",
+      "vo": [
+        "L010"
+      ],
+      "hero_clip": "H03",
+      "caption": {
+        "text": "She wrote everything on a little pad she wore around her neck.",
+        "key": "pad",
+        "y": 0.8
+      }
+    },
+    {
+      "id": "S020",
+      "section": "Act I",
+      "framing": "insert",
+      "background": "BG01B",
+      "layers": [
+        {
+          "src": "art/BG01_bg.png",
+          "depth": 0.0
+        },
+        {
+          "src": "art/BG01_fg_pad.png",
+          "depth": 1.0
+        }
+      ],
+      "duration": 4.5,
+      "move": "push",
+      "strength": 0.03,
+      "lighting": "L1",
+      "vo": [
+        "L010"
+      ],
+      "hero_clip": "H03",
+      "caption": {
+        "text": "When I asked why the town went silent, she wrote one word.",
+        "key": "word",
+        "y": 0.8,
+        "from": 1.0
+      }
+    },
+    {
+      "id": "S021",
+      "section": "Act I",
+      "framing": "CU",
+      "background": "BG02A",
+      "layers": [
+        {
+          "src": "art/BG02_bg.png",
+          "depth": 0.0
+        },
+        {
+          "src": "art/BG02A_mid_counter.png",
+          "depth": 0.5
+        },
+        {
+          "src": "art/BG02A_near_hands.png",
+          "depth": 0.9
+        }
+      ],
+      "duration": 11.5,
+      "move": "static",
+      "strength": 0.0,
+      "lighting": "L1",
+      "vo": [
+        "L011"
+      ],
+      "hero_clip": "H04",
+      "caption": {
+        "text": "Like it was something that shouldn't be left lying around.",
+        "key": "lying",
+        "y": 0.8
+      }
+    },
+    {
+      "id": "S022",
+      "section": "Act I",
+      "framing": "insert",
+      "background": "BG02A",
+      "layers": [
+        {
+          "src": "art/BG02_bg.png",
+          "depth": 0.0
+        },
+        {
+          "src": "art/BG02A_mid_recorder.png",
+          "depth": 0.6
+        },
+        {
+          "src": "art/BG02A_fx_led.png",
+          "depth": 0.8
+        }
+      ],
+      "duration": 4.0,
+      "move": "push",
+      "strength": 0.04,
+      "lighting": "L1",
+      "vo": [
+        "L012"
+      ],
+      "caption": {
+        "text": "I stayed until one. I wanted to hear it for myself.",
+        "key": "hear",
+        "y": 0.8
+      }
+    },
+    {
+      "id": "S023",
+      "section": "Act I",
+      "framing": "MS",
+      "background": "BG01B",
+      "layers": [
+        {
+          "src": "art/BG01_bg.png",
+          "depth": 0.0
+        },
+        {
+          "src": "art/BG01_far.png",
+          "depth": 0.25
+        },
+        {
+          "src": "art/BG01B_mid.png",
+          "depth": 0.55
+        },
+        {
+          "src": "art/BG01B_near_customers.png",
+          "depth": 0.85
+        }
+      ],
+      "duration": 3.5,
+      "move": "drift",
+      "strength": 0.02,
+      "lighting": "L1",
+      "vo": [
+        "L013"
+      ],
+      "caption": {
+        "text": "You could feel the whole room getting ready.",
+        "key": "ready",
+        "y": 0.8
+      }
+    },
+    {
+      "id": "S024",
+      "section": "Act I",
+      "framing": "CU",
+      "background": "BG01B",
+      "layers": [
+        {
+          "src": "art/BG01_bg.png",
+          "depth": 0.0
+        },
+        {
+          "src": "art/BG01B_near_goodbye.png",
+          "depth": 0.8
+        },
+        {
+          "src": "art/BG01_fx_lamps.png",
+          "depth": 0.9
+        }
+      ],
+      "duration": 4.0,
+      "move": "push",
+      "strength": 0.03,
+      "lighting": "L1",
+      "vo": [
+        "L013"
+      ],
+      "caption": {
+        "text": "People said goodbye to each other at two minutes to one.",
+        "key": "goodbye",
+        "y": 0.8
+      }
+    },
+    {
+      "id": "S025",
+      "section": "Act I",
+      "framing": "ECU",
+      "background": "BG01B",
+      "layers": [
+        {
+          "src": "art/BG01_bg.png",
+          "depth": 0.0
+        },
+        {
+          "src": "art/BG01_clock_0100.png",
+          "depth": 0.6
+        },
+        {
+          "src": "art/BG01_fx_lamps.png",
+          "depth": 0.8
+        }
+      ],
+      "duration": 2.0,
+      "move": "push",
+      "strength": 0.05,
+      "lighting": "L1",
+      "vo": []
+    },
+    {
+      "id": "S026",
+      "section": "Act I",
+      "framing": "insert",
+      "background": "BG02A",
+      "layers": [
+        {
+          "src": "art/BG02_bg.png",
+          "depth": 0.0
+        },
+        {
+          "src": "art/BG02A_mid_recorder.png",
+          "depth": 0.6
+        },
+        {
+          "src": "art/BG02A_fx_led_low.png",
+          "depth": 0.8
+        }
+      ],
+      "duration": 4.5,
+      "move": "push",
+      "strength": 0.04,
+      "lighting": "L1",
+      "vo": [
+        "L014"
+      ],
+      "caption": {
+        "text": "How loud a room full of people being quiet is.",
+        "key": "quiet",
+        "y": 0.8,
+        "from": 0.5
+      }
+    },
+    {
+      "id": "S027",
+      "section": "Act I",
+      "framing": "WS",
+      "background": "BG01C",
+      "layers": [
+        {
+          "src": "art/BG01_bg.png",
+          "depth": 0.0
+        },
+        {
+          "src": "art/BG01_far.png",
+          "depth": 0.25
+        },
+        {
+          "src": "art/BG01C_mid.png",
+          "depth": 0.55
+        },
+        {
+          "src": "art/BG01C_near.png",
+          "depth": 0.85
+        }
+      ],
+      "duration": 5.0,
+      "move": "push",
+      "strength": 0.03,
+      "lighting": "L1",
+      "vo": [
+        "L014"
+      ],
+      "caption": {
+        "text": "It isn't calm. It's effort. Everybody holding something in.",
+        "key": "effort",
+        "y": 0.8
+      }
+    },
+    {
+      "id": "S028",
+      "section": "Act I",
+      "framing": "CU",
+      "background": "BG01C",
+      "layers": [
+        {
+          "src": "art/BG01_bg.png",
+          "depth": 0.0
+        },
+        {
+          "src": "art/BG01C_near_ines_cu.png",
+          "depth": 0.7
+        },
+        {
+          "src": "art/BG01_fg_pad.png",
+          "depth": 1.0
+        }
+      ],
+      "duration": 3.5,
+      "move": "static",
+      "strength": 0.0,
+      "lighting": "L1",
+      "vo": [],
+      "hero_clip": "H03"
+    },
+    {
+      "id": "S029",
+      "section": "Act I",
+      "framing": "WS",
+      "background": "BG03A",
+      "layers": [
+        {
+          "src": "art/BG03_bg.png",
+          "depth": 0.0
+        },
+        {
+          "src": "art/BG03_far_tower.png",
+          "depth": 0.2
+        },
+        {
+          "src": "art/BG03A_mid_glass.png",
+          "depth": 0.6
+        },
+        {
+          "src": "art/BG03_fg_frame.png",
+          "depth": 1.0
+        }
+      ],
+      "duration": 4.0,
+      "move": "push",
+      "strength": 0.02,
+      "lighting": "L4",
+      "vo": [],
+      "hero_clip": "H02"
+    },
+    {
+      "id": "S030",
+      "section": "Act I",
+      "framing": "WS",
+      "background": "BG01A",
+      "layers": [
+        {
+          "src": "art/BG01_bg.png",
+          "depth": 0.0
+        },
+        {
+          "src": "art/BG01_far.png",
+          "depth": 0.25
+        },
+        {
+          "src": "art/BG01A_mid.png",
+          "depth": 0.55
+        },
+        {
+          "src": "art/BG01_fx_lamps.png",
+          "depth": 0.7
+        },
+        {
+          "src": "art/BG01A_near_truckers.png",
+          "depth": 0.85
+        }
+      ],
+      "duration": 6.5,
+      "move": "drift",
+      "strength": 0.02,
+      "lighting": "L1",
+      "vo": [
+        "L015"
+      ],
+      "caption": {
+        "text": "At two o'clock, everyone exhaled at once.",
+        "key": "exhaled",
+        "y": 0.8
+      }
+    },
+    {
+      "id": "S031",
+      "section": "Act I",
+      "framing": "MS",
+      "background": "BG01A",
+      "layers": [
+        {
+          "src": "art/BG01_bg.png",
+          "depth": 0.0
+        },
+        {
+          "src": "art/BG01A_mid.png",
+          "depth": 0.55
+        },
+        {
+          "src": "art/BG01A_near_cal.png",
+          "depth": 0.85
+        }
+      ],
+      "duration": 5.5,
+      "move": "push",
+      "strength": 0.03,
+      "lighting": "L1",
+      "vo": [
+        "L015"
+      ],
+      "caption": {
+        "text": "I didn't say a word that first night.",
+        "key": "word",
+        "y": 0.8
+      }
+    },
+    {
+      "id": "S032",
+      "section": "Act II",
+      "framing": "WS",
+      "background": "BG05A",
+      "layers": [
+        {
+          "src": "art/BG05_bg.png",
+          "depth": 0.0
+        },
+        {
+          "src": "art/BG05A_mid.png",
+          "depth": 0.5
+        },
+        {
+          "src": "art/BG05A_near_cal.png",
+          "depth": 0.8
+        },
+        {
+          "src": "art/BG05_fx_screen.png",
+          "depth": 0.9
+        }
+      ],
+      "duration": 5.0,
+      "move": "push",
+      "strength": 0.03,
+      "lighting": "L4",
+      "vo": [
+        "L016"
+      ],
+      "caption": {
+        "text": "Back at the motel I went through the recording.",
+        "key": "recording",
+        "y": 0.8
+      }
+    },
+    {
+      "id": "S033",
+      "section": "Act II",
+      "framing": "insert",
+      "background": "BG05S",
+      "layers": [
+        {
+          "src": "art/BG05_bg_blur.png",
+          "depth": 0.0
+        },
+        {
+          "src": "art/BG05S_mid_waveform_flat.png",
+          "depth": 0.6
+        }
+      ],
+      "duration": 4.5,
+      "move": "pan_left",
+      "strength": 0.04,
+      "lighting": "L2",
+      "vo": [
+        "L016"
+      ],
+      "caption": {
+        "text": "One o'clock: nothing. Just the fridge and forty people breathing.",
+        "key": "nothing",
+        "y": 0.8
+      }
+    },
+    {
+      "id": "S034",
+      "section": "Act II",
+      "framing": "ECU",
+      "background": "BG05S",
+      "layers": [
+        {
+          "src": "art/BG05_bg_blur.png",
+          "depth": 0.0
+        },
+        {
+          "src": "art/BG05S_mid_waveform_blip.png",
+          "depth": 0.6
+        }
+      ],
+      "duration": 4.0,
+      "move": "push",
+      "strength": 0.06,
+      "lighting": "L2",
+      "vo": [
+        "L017"
+      ],
+      "caption": {
+        "text": "Except at one thirty-seven. Something very small.",
+        "key": "small",
+        "y": 0.8
+      }
+    },
+    {
+      "id": "S035",
+      "section": "Act II",
+      "framing": "CU",
+      "background": "BG05A",
+      "layers": [
+        {
+          "src": "art/BG05_bg.png",
+          "depth": 0.0
+        },
+        {
+          "src": "art/BG05A_near_cal_cu.png",
+          "depth": 0.8
+        },
+        {
+          "src": "art/BG05_fx_screen.png",
+          "depth": 0.9
+        }
+      ],
+      "duration": 6.5,
+      "move": "push",
+      "strength": 0.05,
+      "lighting": "L2",
+      "vo": [
+        "L018"
+      ],
+      "caption": {
+        "text": "…ffee…",
+        "key": "…ffee…",
+        "y": 0.8,
+        "from": 1.0
+      }
+    },
+    {
+      "id": "S036",
+      "section": "Act II",
+      "framing": "MS",
+      "background": "BG05A",
+      "layers": [
+        {
+          "src": "art/BG05_bg.png",
+          "depth": 0.0
+        },
+        {
+          "src": "art/BG05A_mid.png",
+          "depth": 0.5
+        },
+        {
+          "src": "art/BG05A_near_cal.png",
+          "depth": 0.8
+        }
+      ],
+      "duration": 7.5,
+      "move": "static",
+      "strength": 0.0,
+      "lighting": "L2",
+      "vo": [
+        "L019"
+      ],
+      "caption": {
+        "text": "It sounded like someone practising the word coffee.",
+        "key": "coffee",
+        "y": 0.8
+      }
+    },
+    {
+      "id": "S037",
+      "section": "Act II",
+      "framing": "WS",
+      "background": "BG06B",
+      "layers": [
+        {
+          "src": "art/BG06_bg_day.png",
+          "depth": 0.0
+        },
+        {
+          "src": "art/BG06_far.png",
+          "depth": 0.3
+        },
+        {
+          "src": "art/BG06B_mid.png",
+          "depth": 0.6
+        },
+        {
+          "src": "art/BG06B_near_kid.png",
+          "depth": 0.9
+        }
+      ],
+      "duration": 5.0,
+      "move": "pan_right",
+      "strength": 0.03,
+      "lighting": "DAY*",
+      "vo": [
+        "L020"
+      ],
+      "caption": {
+        "text": "In daylight, Wrenfield was the friendliest town I've ever been to.",
+        "key": "friendliest",
+        "y": 0.8
+      }
+    },
+    {
+      "id": "S038",
+      "section": "Act II",
+      "framing": "MS",
+      "background": "BG06B",
+      "layers": [
+        {
+          "src": "art/BG06_bg_day.png",
+          "depth": 0.0
+        },
+        {
+          "src": "art/BG06B_mid.png",
+          "depth": 0.5
+        },
+        {
+          "src": "art/BG06B_near_townsfolk.png",
+          "depth": 0.85
+        }
+      ],
+      "duration": 5.5,
+      "move": "drift",
+      "strength": 0.02,
+      "lighting": "DAY*",
+      "vo": [
+        "L020"
+      ],
+      "caption": {
+        "text": "As if they were getting it all out of their system.",
+        "key": "system",
+        "y": 0.8
+      }
+    },
+    {
+      "id": "S039",
+      "section": "Act II",
+      "framing": "WS",
+      "background": "BG07A",
+      "layers": [
+        {
+          "src": "art/BG07_bg.png",
+          "depth": 0.0
+        },
+        {
+          "src": "art/BG07A_mid.png",
+          "depth": 0.5
+        },
+        {
+          "src": "art/BG07_fx_dust.png",
+          "depth": 0.9
+        }
+      ],
+      "duration": 5.0,
+      "move": "push",
+      "strength": 0.03,
+      "lighting": "DAY*",
+      "vo": [
+        "L021"
+      ],
+      "caption": {
+        "text": "The library kept tapes. Interviews with visitors.",
+        "key": "tapes",
+        "y": 0.8
+      }
+    },
+    {
+      "id": "S040",
+      "section": "Act II",
+      "framing": "insert",
+      "background": "BG07B",
+      "layers": [
+        {
+          "src": "art/BG07_bg.png",
+          "depth": 0.0
+        },
+        {
+          "src": "art/BG07B_mid_drawer.png",
+          "depth": 0.6
+        }
+      ],
+      "duration": 6.0,
+      "move": "pan_left",
+      "strength": 0.03,
+      "lighting": "DAY*",
+      "vo": [
+        "L021"
+      ],
+      "caption": {
+        "text": "A stranger who'd come to ask about the quiet hour.",
+        "key": "stranger",
+        "y": 0.8
+      }
+    },
+    {
+      "id": "S041",
+      "section": "Act II",
+      "framing": "MS",
+      "background": "BG07C",
+      "layers": [
+        {
+          "src": "art/BG07_bg.png",
+          "depth": 0.0
+        },
+        {
+          "src": "art/BG07C_mid_booth.png",
+          "depth": 0.5
+        },
+        {
+          "src": "art/BG07C_near_cal.png",
+          "depth": 0.85
+        }
+      ],
+      "duration": 6.0,
+      "move": "push",
+      "strength": 0.03,
+      "lighting": "L1",
+      "vo": [
+        "L022"
+      ],
+      "caption": {
+        "text": "So what happens if I talk? Hello? Hello?",
+        "key": "Hello",
+        "y": 0.8
+      }
+    },
+    {
+      "id": "S042",
+      "section": "Act II",
+      "framing": "CU",
+      "background": "BG07C",
+      "layers": [
+        {
+          "src": "art/BG07_bg.png",
+          "depth": 0.0
+        },
+        {
+          "src": "art/BG07C_mid_deck.png",
+          "depth": 0.7
+        }
+      ],
+      "duration": 5.0,
+      "move": "push",
+      "strength": 0.04,
+      "lighting": "L1",
+      "vo": [
+        "L023"
+      ],
+      "caption": {
+        "text": "Each tape ended the same way. The visitor talked during the hour.",
+        "key": "talked",
+        "y": 0.8
+      }
+    },
+    {
+      "id": "S043",
+      "section": "Act II",
+      "framing": "MS",
+      "background": "BG07C",
+      "layers": [
+        {
+          "src": "art/BG07_bg.png",
+          "depth": 0.0
+        },
+        {
+          "src": "art/BG07C_mid_booth.png",
+          "depth": 0.5
+        },
+        {
+          "src": "art/BG07C_near_cal.png",
+          "depth": 0.85
+        }
+      ],
+      "duration": 5.5,
+      "move": "drift",
+      "strength": 0.02,
+      "lighting": "L1",
+      "vo": [
+        "L023"
+      ],
+      "caption": {
+        "text": "Afterwards, the historian went outside and recorded the silence.",
+        "key": "silence",
+        "y": 0.8
+      }
+    },
+    {
+      "id": "S044",
+      "section": "Act II",
+      "framing": "insert",
+      "background": "BG07C",
+      "layers": [
+        {
+          "src": "art/BG07_bg.png",
+          "depth": 0.0
+        },
+        {
+          "src": "art/BG07C_mid_tape1981.png",
+          "depth": 0.7
+        }
+      ],
+      "duration": 3.0,
+      "move": "push",
+      "strength": 0.04,
+      "lighting": "L1",
+      "vo": [
+        "L024"
+      ],
+      "caption": {
+        "text": "…hello…",
+        "key": "…hello…",
+        "y": 0.8,
+        "from": 0.5
+      }
+    },
+    {
+      "id": "S045",
+      "section": "Act II",
+      "framing": "insert",
+      "background": "BG07C",
+      "layers": [
+        {
+          "src": "art/BG07_bg.png",
+          "depth": 0.0
+        },
+        {
+          "src": "art/BG07C_mid_tape1996.png",
+          "depth": 0.7
+        }
+      ],
+      "duration": 3.5,
+      "move": "push",
+      "strength": 0.04,
+      "lighting": "L1",
+      "vo": [
+        "L025"
+      ],
+      "caption": {
+        "text": "…what happens if I…",
+        "key": "happens",
+        "y": 0.8
+      }
+    },
+    {
+      "id": "S046",
+      "section": "Act II",
+      "framing": "insert",
+      "background": "BG07C",
+      "layers": [
+        {
+          "src": "art/BG07_bg.png",
+          "depth": 0.0
+        },
+        {
+          "src": "art/BG07C_mid_tape2009.png",
+          "depth": 0.7
+        }
+      ],
+      "duration": 4.0,
+      "move": "push",
+      "strength": 0.05,
+      "lighting": "L1",
+      "vo": [
+        "L026"
+      ],
+      "caption": {
+        "text": "…is anybody… out there…",
+        "key": "anybody…",
+        "y": 0.8,
+        "from": 0.5
+      }
+    },
+    {
+      "id": "S047",
+      "section": "Act II",
+      "framing": "CU",
+      "background": "BG07C",
+      "layers": [
+        {
+          "src": "art/BG07_bg.png",
+          "depth": 0.0
+        },
+        {
+          "src": "art/BG07C_near_cal_cu.png",
+          "depth": 0.8
+        }
+      ],
+      "duration": 6.0,
+      "move": "push",
+      "strength": 0.04,
+      "lighting": "L1",
+      "vo": [
+        "L027"
+      ],
+      "caption": {
+        "text": "It wasn't just repeating them. It was keeping them.",
+        "key": "keeping",
+        "y": 0.8
+      }
+    },
+    {
+      "id": "S048",
+      "section": "Act II",
+      "framing": "WS",
+      "background": "BG07B",
+      "layers": [
+        {
+          "src": "art/BG07_bg.png",
+          "depth": 0.0
+        },
+        {
+          "src": "art/BG07B_mid_drawer.png",
+          "depth": 0.6
+        },
+        {
+          "src": "art/BG07_fx_dust.png",
+          "depth": 0.9
+        }
+      ],
+      "duration": 6.0,
+      "move": "push",
+      "strength": 0.04,
+      "lighting": "DAY*",
+      "vo": [
+        "L027"
+      ],
+      "caption": {
+        "text": "Fifty years of tourists, teaching it one sentence at a time.",
+        "key": "teaching",
+        "y": 0.8
+      }
+    },
+    {
+      "id": "S049",
+      "section": "Act II",
+      "framing": "WS",
+      "background": "BG08A",
+      "layers": [
+        {
+          "src": "art/BG08_bg.png",
+          "depth": 0.0
+        },
+        {
+          "src": "art/BG08A_mid_porch.png",
+          "depth": 0.5
+        },
+        {
+          "src": "art/BG08A_near_woman.png",
+          "depth": 0.8
+        }
+      ],
+      "duration": 6.5,
+      "move": "drift",
+      "strength": 0.02,
+      "lighting": "DAY*",
+      "vo": [
+        "L028"
+      ],
+      "caption": {
+        "text": "I tried to get someone to say it on the record.",
+        "key": "record",
+        "y": 0.8
+      }
+    },
+    {
+      "id": "S050",
+      "section": "Act II",
+      "framing": "MS",
+      "background": "BG08A",
+      "layers": [
+        {
+          "src": "art/BG08_bg.png",
+          "depth": 0.0
+        },
+        {
+          "src": "art/BG08A_mid_porch.png",
+          "depth": 0.5
+        },
+        {
+          "src": "art/BG08A_near_both.png",
+          "depth": 0.85
+        }
+      ],
+      "duration": 7.0,
+      "move": "push",
+      "strength": 0.03,
+      "lighting": "DAY*",
+      "vo": [
+        "L028"
+      ],
+      "caption": {
+        "text": "As long as I turned off the recorder first.",
+        "key": "recorder",
+        "y": 0.8
+      }
+    },
+    {
+      "id": "S051",
+      "section": "Act II",
+      "framing": "CU",
+      "background": "BG08A",
+      "layers": [
+        {
+          "src": "art/BG08_bg.png",
+          "depth": 0.0
+        },
+        {
+          "src": "art/BG08A_near_woman_cu.png",
+          "depth": 0.8
+        }
+      ],
+      "duration": 5.5,
+      "move": "push",
+      "strength": 0.03,
+      "lighting": "DAY*",
+      "vo": [
+        "L029"
+      ],
+      "caption": {
+        "text": "The town still had a night-time radio show.",
+        "key": "radio",
+        "y": 0.8
+      }
+    },
+    {
+      "id": "S052",
+      "section": "Act II",
+      "framing": "WS",
+      "background": "BG09A",
+      "layers": [
+        {
+          "src": "art/BG09_bg.png",
+          "depth": 0.0
+        },
+        {
+          "src": "art/BG09A_mid_man.png",
+          "depth": 0.6
+        },
+        {
+          "src": "art/BG09_fx_grain.png",
+          "depth": 1.0
+        }
+      ],
+      "duration": 6.0,
+      "move": "drift",
+      "strength": 0.02,
+      "lighting": "L1",
+      "vo": [
+        "L029"
+      ],
+      "fade_in": 0.5,
+      "caption": {
+        "text": "Requests, weather, a man reading the news.",
+        "key": "news",
+        "y": 0.8
+      }
+    },
+    {
+      "id": "S053",
+      "section": "Act II",
+      "framing": "MS",
+      "background": "BG09B",
+      "layers": [
+        {
+          "src": "art/BG09_bg.png",
+          "depth": 0.0
+        },
+        {
+          "src": "art/BG09B_mid_empty.png",
+          "depth": 0.6
+        },
+        {
+          "src": "art/BG09B_fx_onair.png",
+          "depth": 0.8
+        },
+        {
+          "src": "art/BG09_fx_grain.png",
+          "depth": 1.0
+        }
+      ],
+      "duration": 4.5,
+      "move": "push",
+      "strength": 0.04,
+      "lighting": "L1",
+      "vo": [
+        "L029"
+      ],
+      "flicker": true,
+      "caption": {
+        "text": "The station kept broadcasting after the man went home.",
+        "key": "home",
+        "y": 0.8
+      }
+    },
+    {
+      "id": "S054",
+      "section": "Act II",
+      "framing": "CU",
+      "background": "BG09C",
+      "layers": [
+        {
+          "src": "art/BG09_bg.png",
+          "depth": 0.0
+        },
+        {
+          "src": "art/BG03_far_tower.png",
+          "depth": 0.2
+        },
+        {
+          "src": "art/BG09C_mid_mic.png",
+          "depth": 0.7
+        },
+        {
+          "src": "art/BG09_fx_grain.png",
+          "depth": 1.0
+        }
+      ],
+      "duration": 7.0,
+      "move": "push",
+      "strength": 0.04,
+      "lighting": "L1",
+      "vo": [
+        "L030"
+      ],
+      "flicker": true,
+      "caption": {
+        "text": "Nobody was in the booth. But something kept talking.",
+        "key": "talking",
+        "y": 0.8
+      }
+    },
+    {
+      "id": "S055",
+      "section": "Act II",
+      "framing": "WS",
+      "background": "BG03C",
+      "layers": [
+        {
+          "src": "art/BG03C_bg_spring.png",
+          "depth": 0.0
+        },
+        {
+          "src": "art/BG03_far_tower.png",
+          "depth": 0.3
+        },
+        {
+          "src": "art/BG09_fx_grain.png",
+          "depth": 1.0
+        }
+      ],
+      "duration": 9.0,
+      "move": "push",
+      "strength": 0.03,
+      "lighting": "DAY*",
+      "vo": [
+        "L030"
+      ],
+      "caption": {
+        "text": "They tore the transmitter out in the spring. The tower's still there.",
+        "key": "transmitter",
+        "y": 0.8
+      }
+    },
+    {
+      "id": "S056",
+      "section": "Act II",
+      "framing": "CU",
+      "background": "BG08B",
+      "layers": [
+        {
+          "src": "art/BG08_bg.png",
+          "depth": 0.0
+        },
+        {
+          "src": "art/BG08B_near_hands.png",
+          "depth": 0.8
+        }
+      ],
+      "duration": 9.0,
+      "move": "static",
+      "strength": 0.0,
+      "lighting": "DAY*",
+      "vo": [
+        "L031"
+      ],
+      "caption": {
+        "text": "Honey, it's always been out there.",
+        "key": "always",
+        "y": 0.8
+      }
+    },
+    {
+      "id": "S057",
+      "section": "Act II",
+      "framing": "MS",
+      "background": "BG06A",
+      "layers": [
+        {
+          "src": "art/BG06_bg.png",
+          "depth": 0.0
+        },
+        {
+          "src": "art/BG06A_mid_lantern.png",
+          "depth": 0.4
+        },
+        {
+          "src": "art/BG04B_mid_cal_parked.png",
+          "depth": 0.8
+        },
+        {
+          "src": "art/BG04B_fg_cabin.png",
+          "depth": 1.0
+        }
+      ],
+      "duration": 6.5,
+      "move": "drift",
+      "strength": 0.02,
+      "lighting": "L3",
+      "vo": [
+        "L032"
+      ],
+      "caption": {
+        "text": "I should have left then. But I'm a podcaster.",
+        "key": "left",
+        "y": 0.8
+      }
+    },
+    {
+      "id": "S058",
+      "section": "Act II",
+      "framing": "CU",
+      "background": "BG06A",
+      "layers": [
+        {
+          "src": "art/BG06_bg.png",
+          "depth": 0.0
+        },
+        {
+          "src": "art/BG04B_near_cal_cu.png",
+          "depth": 0.8
+        },
+        {
+          "src": "art/BG04B_fg_cabin.png",
+          "depth": 1.0
+        }
+      ],
+      "duration": 7.0,
+      "move": "push",
+      "strength": 0.04,
+      "lighting": "L3",
+      "vo": [
+        "L032"
+      ],
+      "caption": {
+        "text": "I had the best story of my life sitting in a drawer.",
+        "key": "story",
+        "y": 0.8
+      }
+    },
+    {
+      "id": "S059",
+      "section": "Act II · second night",
+      "framing": "MS",
+      "background": "BG01B",
+      "layers": [
+        {
+          "src": "art/BG01_bg.png",
+          "depth": 0.0
+        },
+        {
+          "src": "art/BG01_far.png",
+          "depth": 0.25
+        },
+        {
+          "src": "art/BG01B_mid.png",
+          "depth": 0.55
+        },
+        {
+          "src": "art/BG01B_near_ines_no.png",
+          "depth": 0.85
+        }
+      ],
+      "duration": 4.0,
+      "move": "push",
+      "strength": 0.03,
+      "lighting": "L1",
+      "vo": [
+        "L033"
+      ],
+      "caption": {
+        "text": "The second night, I talked.",
+        "key": "talked",
+        "y": 0.8,
+        "from": 1.0
+      }
+    },
+    {
+      "id": "S060",
+      "section": "Act II · second night",
+      "framing": "ECU",
+      "background": "BG01C",
+      "layers": [
+        {
+          "src": "art/BG01_bg.png",
+          "depth": 0.0
+        },
+        {
+          "src": "art/BG01_clock_0100.png",
+          "depth": 0.6
+        },
+        {
+          "src": "art/BG01_fx_lamps.png",
+          "depth": 0.8
+        }
+      ],
+      "duration": 1.5,
+      "move": "push",
+      "strength": 0.05,
+      "lighting": "L1",
+      "vo": []
+    },
+    {
+      "id": "S061",
+      "section": "Act II · second night",
+      "framing": "CU",
+      "background": "BG02A",
+      "layers": [
+        {
+          "src": "art/BG02_bg.png",
+          "depth": 0.0
+        },
+        {
+          "src": "art/BG02A_mid_recorder.png",
+          "depth": 0.6
+        },
+        {
+          "src": "art/BG02A_near_cal_cu.png",
+          "depth": 0.9
+        }
+      ],
+      "duration": 5.0,
+      "move": "push",
+      "strength": 0.05,
+      "lighting": "L1",
+      "vo": [
+        "L034"
+      ],
+      "caption": {
+        "text": "It's one o'clock in Wrenfield, and I'm going to say something.",
+        "key": "something",
+        "y": 0.8
+      }
+    },
+    {
+      "id": "S062",
+      "section": "Act II · second night",
+      "framing": "WS",
+      "background": "BG01C",
+      "layers": [
+        {
+          "src": "art/BG01_bg.png",
+          "depth": 0.0
+        },
+        {
+          "src": "art/BG01_far.png",
+          "depth": 0.25
+        },
+        {
+          "src": "art/BG01C_mid_turn.png",
+          "depth": 0.55
+        },
+        {
+          "src": "art/BG01C_near_turn.png",
+          "depth": 0.85
+        }
+      ],
+      "duration": 2.5,
+      "move": "static",
+      "strength": 0.0,
+      "lighting": "L1",
+      "vo": [],
+      "hero_clip": "H06"
+    },
+    {
+      "id": "S063",
+      "section": "Act II · second night",
+      "framing": "MS",
+      "background": "BG01C",
+      "layers": [
+        {
+          "src": "art/BG01_bg.png",
+          "depth": 0.0
+        },
+        {
+          "src": "art/BG01C_near_mother.png",
+          "depth": 0.8
+        }
+      ],
+      "duration": 2.0,
+      "move": "push",
+      "strength": 0.03,
+      "lighting": "L1",
+      "vo": []
+    },
+    {
+      "id": "S064",
+      "section": "Act II · second night",
+      "framing": "CU",
+      "background": "BG03B",
+      "layers": [
+        {
+          "src": "art/BG03_bg.png",
+          "depth": 0.0
+        },
+        {
+          "src": "art/BG03_far_tower.png",
+          "depth": 0.2
+        },
+        {
+          "src": "art/BG03A_mid_glass.png",
+          "depth": 0.6
+        },
+        {
+          "src": "art/BG03B_fx_fog.png",
+          "depth": 0.8
+        },
+        {
+          "src": "art/BG03_fg_frame.png",
+          "depth": 1.0
+        }
+      ],
+      "duration": 7.0,
+      "move": "push",
+      "strength": 0.04,
+      "lighting": "L4",
+      "vo": [
+        "L035"
+      ],
+      "hero_clip": "H07",
+      "caption": {
+        "text": "…it's one o'clock… in…",
+        "key": "one",
+        "y": 0.8,
+        "from": 1.0
+      }
+    },
+    {
+      "id": "S065",
+      "section": "Act II · second night",
+      "framing": "CU",
+      "background": "BG01C",
+      "layers": [
+        {
+          "src": "art/BG01_bg.png",
+          "depth": 0.0
+        },
+        {
+          "src": "art/BG03B_fx_fog.png",
+          "depth": 0.3
+        },
+        {
+          "src": "art/BG01C_near_cal_cu.png",
+          "depth": 0.85
+        }
+      ],
+      "duration": 3.5,
+      "move": "push",
+      "strength": 0.03,
+      "lighting": "L1",
+      "vo": [
+        "L036"
+      ],
+      "caption": {
+        "text": "It used my voice. Not well.",
+        "key": "voice",
+        "y": 0.8
+      }
+    },
+    {
+      "id": "S066",
+      "section": "Act II · second night",
+      "framing": "insert",
+      "background": "BG01C",
+      "layers": [
+        {
+          "src": "art/BG01_bg.png",
+          "depth": 0.0
+        },
+        {
+          "src": "art/BG01C_near_ines_eyes.png",
+          "depth": 0.7
+        },
+        {
+          "src": "art/BG01_fg_pad.png",
+          "depth": 1.0
+        }
+      ],
+      "duration": 5.0,
+      "move": "static",
+      "strength": 0.0,
+      "lighting": "L1",
+      "vo": [
+        "L036"
+      ],
+      "caption": {
+        "text": "Like someone wearing a coat that doesn't fit yet.",
+        "key": "coat",
+        "y": 0.8,
+        "from": 1.0
+      }
+    },
+    {
+      "id": "S067",
+      "section": "Act II · second night",
+      "framing": "WS",
+      "background": "BG01D",
+      "layers": [
+        {
+          "src": "art/BG01_bg.png",
+          "depth": 0.0
+        },
+        {
+          "src": "art/BG01_far.png",
+          "depth": 0.25
+        },
+        {
+          "src": "art/BG01D_mid.png",
+          "depth": 0.55
+        },
+        {
+          "src": "art/BG01D_near_leaving.png",
+          "depth": 0.85
+        }
+      ],
+      "duration": 7.5,
+      "move": "drift",
+      "strength": 0.02,
+      "lighting": "L1",
+      "vo": [
+        "L037"
+      ],
+      "caption": {
+        "text": "At two o'clock, nobody said goodbye. They just left.",
+        "key": "left",
+        "y": 0.8
+      }
+    },
+    {
+      "id": "S068",
+      "section": "Act II · second night",
+      "framing": "MS",
+      "background": "BG01D",
+      "layers": [
+        {
+          "src": "art/BG01_bg.png",
+          "depth": 0.0
+        },
+        {
+          "src": "art/BG01D_mid.png",
+          "depth": 0.55
+        },
+        {
+          "src": "art/BG01D_near_ines_door.png",
+          "depth": 0.85
+        }
+      ],
+      "duration": 4.5,
+      "move": "push",
+      "strength": 0.03,
+      "lighting": "L1",
+      "vo": [
+        "L037"
+      ],
+      "caption": {
+        "text": "Ines locked the door behind the last of them.",
+        "key": "locked",
+        "y": 0.8
+      }
+    },
+    {
+      "id": "S069",
+      "section": "Act II · second night",
+      "framing": "MS",
+      "background": "BG01D",
+      "layers": [
+        {
+          "src": "art/BG01_bg.png",
+          "depth": 0.0
+        },
+        {
+          "src": "art/BG01D_mid.png",
+          "depth": 0.55
+        },
+        {
+          "src": "art/BG01D_near_ines_point.png",
+          "depth": 0.85
+        }
+      ],
+      "duration": 7.0,
+      "move": "static",
+      "strength": 0.0,
+      "lighting": "L1",
+      "vo": [
+        "L037"
+      ],
+      "caption": {
+        "text": "It was the clearest sentence anyone said to me in Wrenfield.",
+        "key": "clearest",
+        "y": 0.8,
+        "from": 0.5
+      }
+    },
+    {
+      "id": "S070",
+      "section": "Act III",
+      "framing": "WS",
+      "background": "BG05B",
+      "layers": [
+        {
+          "src": "art/BG05_bg.png",
+          "depth": 0.0
+        },
+        {
+          "src": "art/BG05B_mid_notes.png",
+          "depth": 0.5
+        },
+        {
+          "src": "art/BG05B_near_cal.png",
+          "depth": 0.85
+        }
+      ],
+      "duration": 8.5,
+      "move": "push",
+      "strength": 0.03,
+      "lighting": "L1",
+      "vo": [
+        "L038"
+      ],
+      "caption": {
+        "text": "I stayed in my room with every light on.",
+        "key": "light",
+        "y": 0.8
+      }
+    },
+    {
+      "id": "S071",
+      "section": "Act III",
+      "framing": "insert",
+      "background": "BG05C",
+      "layers": [
+        {
+          "src": "art/BG05C_bg_bedside.png",
+          "depth": 0.0
+        },
+        {
+          "src": "art/BG05C_mid_clock.png",
+          "depth": 0.6
+        }
+      ],
+      "duration": 2.0,
+      "move": "push",
+      "strength": 0.04,
+      "lighting": "L1",
+      "vo": []
+    },
+    {
+      "id": "S072",
+      "section": "Act III",
+      "framing": "MS",
+      "background": "BG05B",
+      "layers": [
+        {
+          "src": "art/BG05_bg.png",
+          "depth": 0.0
+        },
+        {
+          "src": "art/BG05B_mid_wall.png",
+          "depth": 0.5
+        },
+        {
+          "src": "art/BG05B_near_cal_turn.png",
+          "depth": 0.85
+        }
+      ],
+      "duration": 7.0,
+      "move": "push",
+      "strength": 0.05,
+      "lighting": "L1",
+      "vo": [
+        "L039"
+      ],
+      "caption": {
+        "text": "…I make a podcast about small towns… with strange habits…",
+        "key": "podcast",
+        "y": 0.8,
+        "from": 0.5
+      }
+    },
+    {
+      "id": "S073",
+      "section": "Act III",
+      "framing": "CU",
+      "background": "BG05B",
+      "layers": [
+        {
+          "src": "art/BG05_bg.png",
+          "depth": 0.0
+        },
+        {
+          "src": "art/BG05B_near_cal_cu.png",
+          "depth": 0.85
+        }
+      ],
+      "duration": 6.0,
+      "move": "push",
+      "strength": 0.04,
+      "lighting": "L1",
+      "vo": [
+        "L040"
+      ],
+      "caption": {
+        "text": "That was my intro. Word for word.",
+        "key": "intro",
+        "y": 0.8
+      }
+    },
+    {
+      "id": "S074",
+      "section": "Act III",
+      "framing": "MS",
+      "background": "BG05B",
+      "layers": [
+        {
+          "src": "art/BG05_bg.png",
+          "depth": 0.0
+        },
+        {
+          "src": "art/BG05B_mid_notes.png",
+          "depth": 0.5
+        },
+        {
+          "src": "art/BG05B_near_cal.png",
+          "depth": 0.85
+        }
+      ],
+      "duration": 5.5,
+      "move": "drift",
+      "strength": 0.02,
+      "lighting": "L1",
+      "vo": [
+        "L040"
+      ],
+      "caption": {
+        "text": "In the car. In the motel. Every time I talked to myself.",
+        "key": "myself",
+        "y": 0.8
+      }
+    },
+    {
+      "id": "S075",
+      "section": "Act III",
+      "framing": "insert",
+      "background": "BG05C",
+      "layers": [
+        {
+          "src": "art/BG05C_bg_bedside.png",
+          "depth": 0.0
+        },
+        {
+          "src": "art/BG05C_mid_phone_home.png",
+          "depth": 0.6
+        },
+        {
+          "src": "art/BG05_fx_screen.png",
+          "depth": 0.8
+        }
+      ],
+      "duration": 4.0,
+      "move": "push",
+      "strength": 0.04,
+      "lighting": "L2",
+      "vo": [],
+      "hero_clip": "H08"
+    },
+    {
+      "id": "S076",
+      "section": "Act III",
+      "framing": "insert",
+      "background": "BG05C",
+      "layers": [
+        {
+          "src": "art/BG05C_bg_bedside.png",
+          "depth": 0.0
+        },
+        {
+          "src": "art/BG05C_mid_phone_vm.png",
+          "depth": 0.6
+        },
+        {
+          "src": "art/BG05_fx_screen.png",
+          "depth": 0.8
+        }
+      ],
+      "duration": 6.0,
+      "move": "push",
+      "strength": 0.05,
+      "lighting": "L2",
+      "vo": [
+        "L041"
+      ],
+      "hero_clip": "H08",
+      "caption": {
+        "text": "Pick up. I want to tell you about the town.",
+        "key": "town",
+        "y": 0.8
+      }
+    },
+    {
+      "id": "S077",
+      "section": "Act III",
+      "framing": "CU",
+      "background": "BG05B",
+      "layers": [
+        {
+          "src": "art/BG05_bg.png",
+          "depth": 0.0
+        },
+        {
+          "src": "art/BG05B_near_cal_cu.png",
+          "depth": 0.85
+        },
+        {
+          "src": "art/BG05_fx_screen.png",
+          "depth": 0.9
+        }
+      ],
+      "duration": 9.5,
+      "move": "push",
+      "strength": 0.03,
+      "lighting": "L2",
+      "vo": [
+        "L042"
+      ],
+      "caption": {
+        "text": "The only person who calls me from home is me.",
+        "key": "home",
+        "y": 0.8
+      }
+    },
+    {
+      "id": "S078",
+      "section": "Act III",
+      "framing": "insert",
+      "background": "BG05S",
+      "layers": [
+        {
+          "src": "art/BG05_bg_blur.png",
+          "depth": 0.0
+        },
+        {
+          "src": "art/BG05S_mid_dashboard.png",
+          "depth": 0.6
+        }
+      ],
+      "duration": 8.0,
+      "move": "push",
+      "strength": 0.05,
+      "lighting": "L2",
+      "vo": [
+        "L043"
+      ],
+      "caption": {
+        "text": "The one place where a voice can go on talking.",
+        "key": "talking",
+        "y": 0.8,
+        "from": 1.0
+      }
+    },
+    {
+      "id": "S079",
+      "section": "Act III",
+      "framing": "WS",
+      "background": "BG01E",
+      "layers": [
+        {
+          "src": "art/BG01_bg_day.png",
+          "depth": 0.0
+        },
+        {
+          "src": "art/BG01_far.png",
+          "depth": 0.25
+        },
+        {
+          "src": "art/BG01E_mid.png",
+          "depth": 0.55
+        },
+        {
+          "src": "art/BG01E_near_ines.png",
+          "depth": 0.85
+        }
+      ],
+      "duration": 1.5,
+      "move": "push",
+      "strength": 0.03,
+      "lighting": "DAY*",
+      "vo": []
+    },
+    {
+      "id": "S080",
+      "section": "Act III",
+      "framing": "insert",
+      "background": "BG02A",
+      "layers": [
+        {
+          "src": "art/BG02_bg_day.png",
+          "depth": 0.0
+        },
+        {
+          "src": "art/BG02A_mid_counter.png",
+          "depth": 0.5
+        },
+        {
+          "src": "art/BG01_fg_pad.png",
+          "depth": 1.0
+        }
+      ],
+      "duration": 3.0,
+      "move": "push",
+      "strength": 0.02,
+      "lighting": "DAY*",
+      "vo": [],
+      "hero_clip": "H09"
+    },
+    {
+      "id": "S081",
+      "section": "Act III",
+      "framing": "insert",
+      "background": "BG02A",
+      "layers": [
+        {
+          "src": "art/BG02_bg_day.png",
+          "depth": 0.0
+        },
+        {
+          "src": "art/BG02A_mid_counter.png",
+          "depth": 0.5
+        },
+        {
+          "src": "art/BG01_fg_pad.png",
+          "depth": 1.0
+        }
+      ],
+      "duration": 2.5,
+      "move": "push",
+      "strength": 0.02,
+      "lighting": "DAY*",
+      "vo": [],
+      "hero_clip": "H09"
+    },
+    {
+      "id": "S082",
+      "section": "Act III",
+      "framing": "insert",
+      "background": "BG02A",
+      "layers": [
+        {
+          "src": "art/BG02_bg_day.png",
+          "depth": 0.0
+        },
+        {
+          "src": "art/BG02A_mid_counter.png",
+          "depth": 0.5
+        },
+        {
+          "src": "art/BG01_fg_pad.png",
+          "depth": 1.0
+        }
+      ],
+      "duration": 2.5,
+      "move": "push",
+      "strength": 0.02,
+      "lighting": "DAY*",
+      "vo": [],
+      "hero_clip": "H09"
+    },
+    {
+      "id": "S083",
+      "section": "Act III",
+      "framing": "insert",
+      "background": "BG02A",
+      "layers": [
+        {
+          "src": "art/BG02_bg_day.png",
+          "depth": 0.0
+        },
+        {
+          "src": "art/BG02A_mid_counter.png",
+          "depth": 0.5
+        },
+        {
+          "src": "art/BG01_fg_pad.png",
+          "depth": 1.0
+        }
+      ],
+      "duration": 3.0,
+      "move": "push",
+      "strength": 0.02,
+      "lighting": "DAY*",
+      "vo": [],
+      "hero_clip": "H09"
+    },
+    {
+      "id": "S084",
+      "section": "Act III",
+      "framing": "MS",
+      "background": "BG01E",
+      "layers": [
+        {
+          "src": "art/BG01_bg_day.png",
+          "depth": 0.0
+        },
+        {
+          "src": "art/BG01E_mid.png",
+          "depth": 0.55
+        },
+        {
+          "src": "art/BG01E_near_ines_look.png",
+          "depth": 0.85
+        }
+      ],
+      "duration": 6.0,
+      "move": "push",
+      "strength": 0.03,
+      "lighting": "DAY*",
+      "vo": [
+        "L044"
+      ],
+      "caption": {
+        "text": "I asked her what happens when it finishes.",
+        "key": "finishes",
+        "y": 0.8
+      }
+    },
+    {
+      "id": "S085",
+      "section": "Act III",
+      "framing": "CU",
+      "background": "BG02A",
+      "layers": [
+        {
+          "src": "art/BG02_bg_day.png",
+          "depth": 0.0
+        },
+        {
+          "src": "art/BG02A_mid_radio.png",
+          "depth": 0.7
+        }
+      ],
+      "duration": 6.5,
+      "move": "push",
+      "strength": 0.05,
+      "lighting": "DAY*",
+      "vo": [
+        "L044"
+      ],
+      "caption": {
+        "text": "The way you look at a door you're not allowed to open.",
+        "key": "door",
+        "y": 0.8
+      }
+    },
+    {
+      "id": "S086",
+      "section": "Act III",
+      "framing": "WS",
+      "background": "BG01E",
+      "layers": [
+        {
+          "src": "art/BG01_bg_day.png",
+          "depth": 0.0
+        },
+        {
+          "src": "art/BG01_far.png",
+          "depth": 0.25
+        },
+        {
+          "src": "art/BG01E_mid.png",
+          "depth": 0.55
+        },
+        {
+          "src": "art/BG01E_near_both.png",
+          "depth": 0.85
+        }
+      ],
+      "duration": 9.0,
+      "move": "drift",
+      "strength": 0.02,
+      "lighting": "DAY*",
+      "vo": [
+        "L045"
+      ],
+      "caption": {
+        "text": "The silence was never a superstition. It was a wall.",
+        "key": "wall",
+        "y": 0.8
+      }
+    },
+    {
+      "id": "S087",
+      "section": "Act III",
+      "framing": "MS",
+      "background": "BG06D",
+      "layers": [
+        {
+          "src": "art/BG06_bg_day.png",
+          "depth": 0.0
+        },
+        {
+          "src": "art/BG06D_mid_car.png",
+          "depth": 0.5
+        },
+        {
+          "src": "art/BG04B_fg_cabin.png",
+          "depth": 1.0
+        }
+      ],
+      "duration": 5.0,
+      "move": "push",
+      "strength": 0.03,
+      "lighting": "DAY*",
+      "vo": [
+        "L046"
+      ],
+      "caption": {
+        "text": "So I decided to leave without saying another word.",
+        "key": "leave",
+        "y": 0.8
+      }
+    },
+    {
+      "id": "S088",
+      "section": "Act III",
+      "framing": "insert",
+      "background": "BG05S",
+      "layers": [
+        {
+          "src": "art/BG05_bg_blur.png",
+          "depth": 0.0
+        },
+        {
+          "src": "art/BG05S_mid_delete.png",
+          "depth": 0.6
+        }
+      ],
+      "duration": 5.5,
+      "move": "static",
+      "strength": 0.0,
+      "lighting": "L2",
+      "vo": [
+        "L046"
+      ],
+      "caption": {
+        "text": "I deleted the episode. I'd make something else.",
+        "key": "deleted",
+        "y": 0.8
+      }
+    },
+    {
+      "id": "S089",
+      "section": "Act III",
+      "framing": "CU",
+      "background": "BG06D",
+      "layers": [
+        {
+          "src": "art/BG06_bg_day.png",
+          "depth": 0.0
+        },
+        {
+          "src": "art/BG04B_near_cal_cu.png",
+          "depth": 0.8
+        },
+        {
+          "src": "art/BG04B_fg_cabin.png",
+          "depth": 1.0
+        }
+      ],
+      "duration": 4.5,
+      "move": "push",
+      "strength": 0.03,
+      "lighting": "DAY*",
+      "vo": [
+        "L046"
+      ],
+      "caption": {
+        "text": "Something where nothing bad happens at the end.",
+        "key": "nothing",
+        "y": 0.8
+      }
+    },
+    {
+      "id": "S090",
+      "section": "Act III",
+      "framing": "WS",
+      "background": "BG04D",
+      "layers": [
+        {
+          "src": "art/BG04_bg.png",
+          "depth": 0.0
+        },
+        {
+          "src": "art/BG04D_far.png",
+          "depth": 0.3
+        },
+        {
+          "src": "art/BG04_mid_sign.png",
+          "depth": 0.6
+        },
+        {
+          "src": "art/BG04D_fx_taillights.png",
+          "depth": 0.8
+        }
+      ],
+      "duration": 3.5,
+      "move": "static",
+      "strength": 0.0,
+      "lighting": "L3",
+      "vo": [],
+      "hero_clip": "H10"
+    },
+    {
+      "id": "S091",
+      "section": "Act III",
+      "framing": "WS",
+      "background": "BG03D",
+      "layers": [
+        {
+          "src": "art/BG03D_bg_night.png",
+          "depth": 0.0
+        },
+        {
+          "src": "art/BG03_far_tower.png",
+          "depth": 0.3
+        }
+      ],
+      "duration": 4.0,
+      "move": "static",
+      "strength": 0.0,
+      "lighting": "L4",
+      "vo": [],
+      "hero_clip": "H02"
+    },
+    {
+      "id": "S092",
+      "section": "Ending",
+      "framing": "WS",
+      "background": "BG10A",
+      "layers": [
+        {
+          "src": "art/BG10_bg.png",
+          "depth": 0.0
+        },
+        {
+          "src": "art/BG10A_mid.png",
+          "depth": 0.5
+        },
+        {
+          "src": "art/BG10A_near_ines.png",
+          "depth": 0.85
+        }
+      ],
+      "duration": 2.0,
+      "move": "push",
+      "strength": 0.02,
+      "lighting": "L4",
+      "vo": [],
+      "fade_in": 0.5,
+      "hide_watermark": true
+    },
+    {
+      "id": "S093",
+      "section": "Ending",
+      "framing": "CU",
+      "background": "BG10A",
+      "layers": [
+        {
+          "src": "art/BG10_bg.png",
+          "depth": 0.0
+        },
+        {
+          "src": "art/BG10A_mid_radio.png",
+          "depth": 0.7
+        },
+        {
+          "src": "art/BG10_fx_dial.png",
+          "depth": 0.9
+        }
+      ],
+      "duration": 5.5,
+      "move": "push",
+      "strength": 0.04,
+      "lighting": "L4",
+      "vo": [
+        "L047"
+      ],
+      "hero_clip": "H11",
+      "hide_watermark": true,
+      "caption": {
+        "text": "I make a podcast about small towns with strange habits.",
+        "key": "podcast",
+        "y": 0.8
+      }
+    },
+    {
+      "id": "S094",
+      "section": "Ending",
+      "framing": "MS",
+      "background": "BG10A",
+      "layers": [
+        {
+          "src": "art/BG10_bg.png",
+          "depth": 0.0
+        },
+        {
+          "src": "art/BG10A_near_ines_lit.png",
+          "depth": 0.85
+        },
+        {
+          "src": "art/BG10_fx_dial.png",
+          "depth": 0.9
+        }
+      ],
+      "duration": 2.5,
+      "move": "push",
+      "strength": 0.03,
+      "lighting": "L4",
+      "vo": [
+        "L047"
+      ],
+      "hide_watermark": true,
+      "caption": {
+        "text": "This week: a town called Wrenfield. I'm here now.",
+        "key": "here",
+        "y": 0.8
+      }
+    },
+    {
+      "id": "S095",
+      "section": "Ending",
+      "framing": "CU",
+      "background": "BG10A",
+      "layers": [
+        {
+          "src": "art/BG10_bg.png",
+          "depth": 0.0
+        },
+        {
+          "src": "art/BG10A_mid_radio.png",
+          "depth": 0.7
+        },
+        {
+          "src": "art/BG10A_near_hand.png",
+          "depth": 0.9
+        },
+        {
+          "src": "art/BG10_fx_dial.png",
+          "depth": 0.95
+        }
+      ],
+      "duration": 4.0,
+      "move": "static",
+      "strength": 0.0,
+      "lighting": "L4",
+      "vo": [
+        "L047"
+      ],
+      "hero_clip": "H11",
+      "hide_watermark": true,
+      "caption": {
+        "text": "And I'm going to talk for as long as you'll let me.",
+        "key": "talk",
+        "y": 0.8,
+        "from": 0.5
+      }
+    },
+    {
+      "id": "S096",
+      "section": "Ending",
+      "framing": "MS",
+      "background": "BG10B",
+      "layers": [
+        {
+          "src": "art/BG10_bg.png",
+          "depth": 0.0
+        },
+        {
+          "src": "art/BG10B_mid_door.png",
+          "depth": 0.6
+        },
+        {
+          "src": "art/BG10B_fx_underdoor.png",
+          "depth": 0.8
+        }
+      ],
+      "duration": 3.0,
+      "move": "push",
+      "strength": 0.03,
+      "lighting": "L5",
+      "vo": [],
+      "hide_watermark": true
+    },
+    {
+      "id": "S097",
+      "section": "Ending",
+      "framing": "CU",
+      "background": "BG10C",
+      "layers": [
+        {
+          "src": "art/BG10C_bg_window.png",
+          "depth": 0.0
+        },
+        {
+          "src": "art/BG10C_mid_glass.png",
+          "depth": 0.5
+        },
+        {
+          "src": "art/BG10C_near_moth.png",
+          "depth": 0.8
+        },
+        {
+          "src": "art/BG10_fx_dial.png",
+          "depth": 0.9
+        }
+      ],
+      "duration": 4.0,
+      "move": "push",
+      "strength": 0.03,
+      "lighting": "L4",
+      "vo": [],
+      "hero_clip": "H12",
+      "hide_watermark": true
+    },
+    {
+      "id": "S098",
+      "section": "Ending",
+      "framing": "black",
+      "background": "-",
+      "layers": [
+        {
+          "src": "art/BLACK.png",
+          "depth": 0.0
+        }
+      ],
+      "duration": 1.5,
+      "move": "static",
+      "strength": 0.0,
+      "lighting": "n/a",
+      "vo": [],
+      "hide_watermark": true
+    }
+  ],
+  "exports": [
+    {
+      "platform": "youtube",
+      "watermark": true,
+      "outro": "outro_16x9"
+    }
+  ]
+}

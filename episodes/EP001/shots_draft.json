@@ -1,8 +1,8 @@
 {
   "episode": "EP001",
   "status": "draft — storyboard v1, not yet reviewed",
-  "note": "Layer PNGs are placeholders (art/*.png do not exist yet). Durations are estimates from vo.json word counts at 145 wpm + 0.8 s/beat + visual pads; replace with measured narration timings. Extra keys (id, section, framing, background, lighting, vo, hero_clip) are ignored by assemble.py.",
-  "estimated_total_seconds": 589.0,
+  "note": "Layer PNGs are placeholders (art/*.png do not exist yet). Shot durations = measured length of the processed narration file for the block (ffprobe, 2026-11-19), split across lines and shots by word share (estimate), plus visual pads; re-time against real line onsets before assembly. Extra keys (id, section, framing, background, lighting, vo, hero_clip) are ignored by assemble.py.",
+  "estimated_total_seconds": 501.0,
   "shots": [
     {
       "id": "S001",
@@ -86,7 +86,7 @@
           "depth": 0.9
         }
       ],
-      "duration": 7.0,
+      "duration": 6.0,
       "move": "push",
       "strength": 0.04,
       "lighting": "L1",
@@ -124,7 +124,7 @@
           "depth": 0.85
         }
       ],
-      "duration": 7.5,
+      "duration": 6.0,
       "move": "push",
       "strength": 0.04,
       "lighting": "L1",
@@ -160,7 +160,7 @@
           "depth": 1.0
         }
       ],
-      "duration": 8.0,
+      "duration": 6.5,
       "move": "push",
       "strength": 0.03,
       "lighting": "L4",
@@ -217,7 +217,7 @@
           "depth": 0.95
         }
       ],
-      "duration": 9.0,
+      "duration": 7.0,
       "move": "pan_left",
       "strength": 0.03,
       "lighting": "L3",
@@ -253,7 +253,7 @@
           "depth": 0.9
         }
       ],
-      "duration": 7.5,
+      "duration": 5.5,
       "move": "drift",
       "strength": 0.02,
       "lighting": "L3",
@@ -285,7 +285,7 @@
           "depth": 1.0
         }
       ],
-      "duration": 6.0,
+      "duration": 4.5,
       "move": "push",
       "strength": 0.03,
       "lighting": "L3",
@@ -346,7 +346,7 @@
           "depth": 0.95
         }
       ],
-      "duration": 6.5,
+      "duration": 5.0,
       "move": "push",
       "strength": 0.05,
       "lighting": "L3",
@@ -378,7 +378,7 @@
           "depth": 0.8
         }
       ],
-      "duration": 7.0,
+      "duration": 5.5,
       "move": "drift",
       "strength": 0.02,
       "lighting": "L1",
@@ -410,7 +410,7 @@
           "depth": 0.9
         }
       ],
-      "duration": 7.5,
+      "duration": 6.0,
       "move": "push",
       "strength": 0.04,
       "lighting": "L1",
@@ -446,7 +446,7 @@
           "depth": 0.8
         }
       ],
-      "duration": 9.0,
+      "duration": 7.0,
       "move": "pan_right",
       "strength": 0.03,
       "lighting": "L3",
@@ -479,7 +479,7 @@
           "depth": 0.8
         }
       ],
-      "duration": 9.5,
+      "duration": 7.5,
       "move": "drift",
       "strength": 0.02,
       "lighting": "L3",
@@ -512,7 +512,7 @@
           "depth": 0.9
         }
       ],
-      "duration": 13.5,
+      "duration": 10.5,
       "move": "push",
       "strength": 0.05,
       "lighting": "L3",
@@ -551,7 +551,7 @@
           "depth": 0.9
         }
       ],
-      "duration": 7.5,
+      "duration": 5.5,
       "move": "push",
       "strength": 0.03,
       "lighting": "L1",
@@ -587,7 +587,7 @@
           "depth": 0.85
         }
       ],
-      "duration": 6.5,
+      "duration": 5.0,
       "move": "push",
       "strength": 0.03,
       "lighting": "L1",
@@ -619,7 +619,7 @@
           "depth": 1.0
         }
       ],
-      "duration": 6.0,
+      "duration": 4.5,
       "move": "static",
       "strength": 0.0,
       "lighting": "L1",
@@ -648,7 +648,7 @@
           "depth": 1.0
         }
       ],
-      "duration": 5.5,
+      "duration": 4.5,
       "move": "push",
       "strength": 0.03,
       "lighting": "L1",
@@ -682,7 +682,7 @@
           "depth": 0.9
         }
       ],
-      "duration": 15.0,
+      "duration": 11.5,
       "move": "static",
       "strength": 0.0,
       "lighting": "L1",
@@ -715,7 +715,7 @@
           "depth": 0.8
         }
       ],
-      "duration": 5.0,
+      "duration": 4.0,
       "move": "push",
       "strength": 0.04,
       "lighting": "L1",
@@ -751,7 +751,7 @@
           "depth": 0.85
         }
       ],
-      "duration": 5.0,
+      "duration": 3.5,
       "move": "drift",
       "strength": 0.02,
       "lighting": "L1",
@@ -783,7 +783,7 @@
           "depth": 0.9
         }
       ],
-      "duration": 5.5,
+      "duration": 4.0,
       "move": "push",
       "strength": 0.03,
       "lighting": "L1",
@@ -840,7 +840,7 @@
           "depth": 0.8
         }
       ],
-      "duration": 5.5,
+      "duration": 4.5,
       "move": "push",
       "strength": 0.04,
       "lighting": "L1",
@@ -877,7 +877,7 @@
           "depth": 0.85
         }
       ],
-      "duration": 6.0,
+      "duration": 5.0,
       "move": "push",
       "strength": 0.03,
       "lighting": "L1",
@@ -973,7 +973,7 @@
           "depth": 0.85
         }
       ],
-      "duration": 8.5,
+      "duration": 6.5,
       "move": "drift",
       "strength": 0.02,
       "lighting": "L1",
@@ -1005,7 +1005,7 @@
           "depth": 0.85
         }
       ],
-      "duration": 7.0,
+      "duration": 5.5,
       "move": "push",
       "strength": 0.03,
       "lighting": "L1",
@@ -1041,7 +1041,7 @@
           "depth": 0.9
         }
       ],
-      "duration": 6.0,
+      "duration": 5.0,
       "move": "push",
       "strength": 0.03,
       "lighting": "L4",
@@ -1069,7 +1069,7 @@
           "depth": 0.6
         }
       ],
-      "duration": 5.5,
+      "duration": 4.5,
       "move": "pan_left",
       "strength": 0.04,
       "lighting": "L2",
@@ -1097,7 +1097,7 @@
           "depth": 0.6
         }
       ],
-      "duration": 4.5,
+      "duration": 4.0,
       "move": "push",
       "strength": 0.06,
       "lighting": "L2",
@@ -1129,7 +1129,7 @@
           "depth": 0.9
         }
       ],
-      "duration": 3.0,
+      "duration": 6.5,
       "move": "push",
       "strength": 0.05,
       "lighting": "L2",
@@ -1162,7 +1162,7 @@
           "depth": 0.8
         }
       ],
-      "duration": 9.0,
+      "duration": 7.5,
       "move": "static",
       "strength": 0.0,
       "lighting": "L2",
@@ -1198,7 +1198,7 @@
           "depth": 0.9
         }
       ],
-      "duration": 6.0,
+      "duration": 5.0,
       "move": "pan_right",
       "strength": 0.03,
       "lighting": "DAY*",
@@ -1230,7 +1230,7 @@
           "depth": 0.85
         }
       ],
-      "duration": 6.5,
+      "duration": 5.5,
       "move": "drift",
       "strength": 0.02,
       "lighting": "DAY*",
@@ -1262,7 +1262,7 @@
           "depth": 0.9
         }
       ],
-      "duration": 6.5,
+      "duration": 5.0,
       "move": "push",
       "strength": 0.03,
       "lighting": "DAY*",
@@ -1290,7 +1290,7 @@
           "depth": 0.6
         }
       ],
-      "duration": 7.5,
+      "duration": 6.0,
       "move": "pan_left",
       "strength": 0.03,
       "lighting": "DAY*",
@@ -1322,7 +1322,7 @@
           "depth": 0.85
         }
       ],
-      "duration": 4.0,
+      "duration": 6.0,
       "move": "push",
       "strength": 0.03,
       "lighting": "L1",
@@ -1350,7 +1350,7 @@
           "depth": 0.7
         }
       ],
-      "duration": 6.0,
+      "duration": 5.0,
       "move": "push",
       "strength": 0.04,
       "lighting": "L1",
@@ -1382,7 +1382,7 @@
           "depth": 0.85
         }
       ],
-      "duration": 6.5,
+      "duration": 5.5,
       "move": "drift",
       "strength": 0.02,
       "lighting": "L1",
@@ -1410,7 +1410,7 @@
           "depth": 0.7
         }
       ],
-      "duration": 2.5,
+      "duration": 3.0,
       "move": "push",
       "strength": 0.04,
       "lighting": "L1",
@@ -1496,7 +1496,7 @@
           "depth": 0.8
         }
       ],
-      "duration": 7.0,
+      "duration": 6.0,
       "move": "push",
       "strength": 0.04,
       "lighting": "L1",
@@ -1528,7 +1528,7 @@
           "depth": 0.9
         }
       ],
-      "duration": 7.0,
+      "duration": 6.0,
       "move": "push",
       "strength": 0.04,
       "lighting": "DAY*",
@@ -1560,7 +1560,7 @@
           "depth": 0.8
         }
       ],
-      "duration": 8.0,
+      "duration": 6.5,
       "move": "drift",
       "strength": 0.02,
       "lighting": "DAY*",
@@ -1592,7 +1592,7 @@
           "depth": 0.85
         }
       ],
-      "duration": 8.5,
+      "duration": 7.0,
       "move": "push",
       "strength": 0.03,
       "lighting": "DAY*",
@@ -1620,7 +1620,7 @@
           "depth": 0.8
         }
       ],
-      "duration": 6.5,
+      "duration": 5.5,
       "move": "push",
       "strength": 0.03,
       "lighting": "DAY*",
@@ -1652,7 +1652,7 @@
           "depth": 1.0
         }
       ],
-      "duration": 7.5,
+      "duration": 6.0,
       "move": "drift",
       "strength": 0.02,
       "lighting": "L1",
@@ -1689,7 +1689,7 @@
           "depth": 1.0
         }
       ],
-      "duration": 5.5,
+      "duration": 4.5,
       "move": "push",
       "strength": 0.04,
       "lighting": "L1",
@@ -1726,7 +1726,7 @@
           "depth": 1.0
         }
       ],
-      "duration": 9.0,
+      "duration": 7.0,
       "move": "push",
       "strength": 0.04,
       "lighting": "L1",
@@ -1759,7 +1759,7 @@
           "depth": 1.0
         }
       ],
-      "duration": 11.5,
+      "duration": 9.0,
       "move": "push",
       "strength": 0.03,
       "lighting": "DAY*",
@@ -1787,7 +1787,7 @@
           "depth": 0.8
         }
       ],
-      "duration": 11.0,
+      "duration": 9.0,
       "move": "static",
       "strength": 0.0,
       "lighting": "DAY*",
@@ -1823,7 +1823,7 @@
           "depth": 1.0
         }
       ],
-      "duration": 8.0,
+      "duration": 6.5,
       "move": "drift",
       "strength": 0.02,
       "lighting": "L3",
@@ -1855,7 +1855,7 @@
           "depth": 1.0
         }
       ],
-      "duration": 8.5,
+      "duration": 7.0,
       "move": "push",
       "strength": 0.04,
       "lighting": "L3",
@@ -2040,7 +2040,7 @@
           "depth": 1.0
         }
       ],
-      "duration": 5.0,
+      "duration": 7.0,
       "move": "push",
       "strength": 0.04,
       "lighting": "L4",
@@ -2106,7 +2106,7 @@
           "depth": 1.0
         }
       ],
-      "duration": 5.5,
+      "duration": 5.0,
       "move": "static",
       "strength": 0.0,
       "lighting": "L1",
@@ -2143,7 +2143,7 @@
           "depth": 0.85
         }
       ],
-      "duration": 8.0,
+      "duration": 7.5,
       "move": "drift",
       "strength": 0.02,
       "lighting": "L1",
@@ -2175,7 +2175,7 @@
           "depth": 0.85
         }
       ],
-      "duration": 5.0,
+      "duration": 4.5,
       "move": "push",
       "strength": 0.03,
       "lighting": "L1",
@@ -2207,7 +2207,7 @@
           "depth": 0.85
         }
       ],
-      "duration": 7.5,
+      "duration": 7.0,
       "move": "static",
       "strength": 0.0,
       "lighting": "L1",
@@ -2240,7 +2240,7 @@
           "depth": 0.85
         }
       ],
-      "duration": 10.5,
+      "duration": 8.5,
       "move": "push",
       "strength": 0.03,
       "lighting": "L1",
@@ -2322,7 +2322,7 @@
           "depth": 0.85
         }
       ],
-      "duration": 7.5,
+      "duration": 6.0,
       "move": "push",
       "strength": 0.04,
       "lighting": "L1",
@@ -2354,7 +2354,7 @@
           "depth": 0.85
         }
       ],
-      "duration": 7.0,
+      "duration": 5.5,
       "move": "drift",
       "strength": 0.02,
       "lighting": "L1",
@@ -2412,7 +2412,7 @@
           "depth": 0.8
         }
       ],
-      "duration": 8.0,
+      "duration": 6.0,
       "move": "push",
       "strength": 0.05,
       "lighting": "L2",
@@ -2445,7 +2445,7 @@
           "depth": 0.9
         }
       ],
-      "duration": 11.5,
+      "duration": 9.5,
       "move": "push",
       "strength": 0.03,
       "lighting": "L2",
@@ -2473,7 +2473,7 @@
           "depth": 0.6
         }
       ],
-      "duration": 9.5,
+      "duration": 8.0,
       "move": "push",
       "strength": 0.05,
       "lighting": "L2",
@@ -2639,7 +2639,7 @@
           "depth": 0.85
         }
       ],
-      "duration": 7.0,
+      "duration": 6.0,
       "move": "push",
       "strength": 0.03,
       "lighting": "DAY*",
@@ -2667,7 +2667,7 @@
           "depth": 0.7
         }
       ],
-      "duration": 7.5,
+      "duration": 6.5,
       "move": "push",
       "strength": 0.05,
       "lighting": "DAY*",
@@ -2703,7 +2703,7 @@
           "depth": 0.85
         }
       ],
-      "duration": 11.0,
+      "duration": 9.0,
       "move": "drift",
       "strength": 0.02,
       "lighting": "DAY*",
@@ -2735,7 +2735,7 @@
           "depth": 1.0
         }
       ],
-      "duration": 6.0,
+      "duration": 5.0,
       "move": "push",
       "strength": 0.03,
       "lighting": "DAY*",
@@ -2763,7 +2763,7 @@
           "depth": 0.6
         }
       ],
-      "duration": 6.5,
+      "duration": 5.5,
       "move": "static",
       "strength": 0.0,
       "lighting": "L2",
@@ -2795,7 +2795,7 @@
           "depth": 1.0
         }
       ],
-      "duration": 5.5,
+      "duration": 4.5,
       "move": "push",
       "strength": 0.03,
       "lighting": "DAY*",
@@ -2906,7 +2906,7 @@
           "depth": 0.9
         }
       ],
-      "duration": 8.5,
+      "duration": 5.5,
       "move": "push",
       "strength": 0.04,
       "lighting": "L4",
@@ -2940,7 +2940,7 @@
           "depth": 0.9
         }
       ],
-      "duration": 4.5,
+      "duration": 2.5,
       "move": "push",
       "strength": 0.03,
       "lighting": "L4",
@@ -2977,7 +2977,7 @@
           "depth": 0.95
         }
       ],
-      "duration": 6.5,
+      "duration": 4.0,
       "move": "static",
       "strength": 0.0,
       "lighting": "L4",
