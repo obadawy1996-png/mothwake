@@ -33,7 +33,7 @@ The lead line is "In this town, nobody speaks between 1 and 2 a.m. Not even in a
 | Assembly, master and exports | Video Assembly | `master/`, `exports/` | No |
 | QC | Quality Control | `QC_REPORT.md` | No |
 | Thumbnails A/B (watcher, light) + title | Packaging | `package/` | No |
-| Trailer Short cut (OpusClip or FFmpeg) | Video Assembly | 45 s 9:16 | OpusClip paid plan if used |
+| Trailer Short cut (FFmpeg pipeline) | Video Assembly | 45 s 9:16 | No |
 | **Your final approval** | You | `approvals.owner_final` | — |
 
 ## Title options (plain-sentence style, which research shows performs for new-wave channels)

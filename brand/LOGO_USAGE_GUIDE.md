@@ -7,12 +7,12 @@ Previews are in `brand/previews/concept_A.png`, `concept_B.png` and `concept_C.p
 | Concept | Idea | Strengths | Weaknesses |
 |---|---|---|---|
 | A — Nocturnal Moth | A resting moth with a point of light above it | Clear silhouette and a direct "drawn to the light" story | Without the light dot it could be any moth or nature brand |
-| **B — The Watcher (selected, provisional)** | A moth whose forewing eyespots read as a face looking back | Distinctive and slightly unsettling, with a double read that matches the tagline. Holds at 32 px. | At 16 px the eyespots merge, though the silhouette still reads |
+| **B — The Watcher (APPROVED 2026-11-19)** | A moth whose forewing eyespots read as a face looking back | Distinctive and slightly unsettling, with a double read that matches the tagline. Holds at 32 px. | At 16 px the eyespots merge, though the silhouette still reads |
 | C — Awakening | Abstract wing shards around a vertical slit-eye, with a light above | Minimal and modern | Less ownable, reads as generic "eye" iconography, weaker as a profile icon |
 
 **Why B:** it is the only concept that says *horror* and *moth* at once without gore or clip-art, and it stays recognisable inside a circular crop.
 
-> **Owner decision required:** approve B, or choose A or C. Swapping is one line (`sel` in `scripts/brand/build_brand.py`). Every asset regenerates with identical geometry.
+> **Approved by the owner on 2026-11-19.** Any future change needs a new approval, then `scripts/brand_validator.py lock`.
 
 ## Construction
 

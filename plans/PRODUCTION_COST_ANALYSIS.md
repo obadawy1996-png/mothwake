@@ -17,7 +17,7 @@ Prices are USD list prices from `research/TOOL_STACK_VERIFICATION.md`, checked 2
 | Scenario | Stack | USD / month |
 |---|---|---|
 | **A — Lean (recommended start)** | ElevenLabs **Creator** USD 22 (121k credits, commercial) + Google AI **Pro** USD 19.99 (1,000 Flow credits ≈ 100 Lite gens) + Resolve Free + FFmpeg pipeline + Metricool Free | **≈ 42** |
-| A + clipping | + OpusClip Starter USD 15 (commercial use; whether it removes the watermark is unverified) | ≈ 57 |
+| ~~A + clipping~~ | OpusClip declined by owner; FFmpeg pipeline instead | — |
 | B — Heavier animation | ElevenLabs Creator USD 22 + Google AI **Ultra** USD 99.99 (10,000 credits) + OpusClip Starter USD 15 | ≈ 137 |
 | One-off option | DaVinci Resolve Studio USD 295 (enables scripting); not needed for the pilot | one-time |
 
@@ -35,7 +35,7 @@ The isolation and brand systems, logo and kit generation, thumbnail renderer, so
 
 ## Approval checklist (nothing has been bought)
 
-- [ ] ElevenLabs Creator (or Starter, at 30k credits, if narration volume is cut)
-- [ ] Google AI Pro
-- [ ] OpusClip Starter (optional)
+- [x] ElevenLabs: owner already has a paid plan (connector to be reconnected)
+- [x] Google AI Pro: approved, owner buys
+- [ ] ~~OpusClip Starter~~: declined
 - [ ] Any top-up credits

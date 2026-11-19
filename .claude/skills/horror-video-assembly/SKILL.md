@@ -5,7 +5,7 @@ description: Assemble an episode from its manifest into a clean master and platf
 
 # horror-video-assembly
 
-`.venv/bin/python scripts/production/assemble.py episodes/<id>/manifest.json` — refuses to render if the brand validator fails. Long-to-short cut-downs/captions: OpusClip (paid plan, owner approval), then re-run QC. Resolve Free hand-off via FCPXML/OTIO (no scripting in Free).
+`.venv/bin/python scripts/production/assemble.py episodes/<id>/manifest.json` — refuses to render if the brand validator fails. Long-to-short cut-downs/captions: FFmpeg pipeline (OpusClip paid plan declined 2026-11-19; free plan is non-commercial), then re-run QC. Resolve Free hand-off via FCPXML/OTIO (no scripting in Free).
 
 ## Always
 - Run `.venv/bin/python scripts/verify_isolation.py verify` first; stop on failure.

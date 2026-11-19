@@ -1,6 +1,6 @@
 # MOTHWAKE — Brand Guidelines
 
-**Status:** Implemented and tested. The logo concept is a **provisional selection pending owner approval** (see LOGO_USAGE_GUIDE.md).
+**Status:** Implemented and tested. Logo concept B approved by the owner on 2026-11-19.
 
 ## Brand core
 

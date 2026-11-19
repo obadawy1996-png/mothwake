@@ -101,7 +101,8 @@ Each episode gets `episodes/<id>/manifest.json`, which records its step status, 
 - Exports: a clean master with no watermark, plus platform variants for YouTube Shorts, long-form, TikTok, Instagram Reels and Facebook (9:16 / 16:9, specific safe zones).
 - DaVinci Resolve hand-off: FCPXML or EDL plus stems, tested against your installed version.
 - Automated QC: brand validator, resolution and frame rate, loudness, black or frozen frames, caption safe area, duration targets (Shorts 35–60 s, long-form 5–10 min), licence ledger complete, and no unapproved assets.
-- **AI Producer by OpusClip is the chosen tool (owner decision, 2026-11-19)** for cutting Shorts from long-form stories, AI captions, reframing to 9:16, and platform-ready variants. The FFmpeg pipeline remains the fallback and produces the clean master.
+- **Update 2026-11-19: OpusClip paid plan declined.** The free plan is non-commercial and watermarked, so OpusClip is **not used for published content**. Shorts cut-downs, captions and reframing use the FFmpeg pipeline. Original note follows for reference:
+- ~~AI Producer by OpusClip is the chosen tool~~ for cutting Shorts from long-form stories, AI captions, reframing to 9:16, and platform-ready variants. The FFmpeg pipeline remains the fallback and produces the clean master.
   - Before first use: verify its plan, credit costs, commercial rights to outputs, export formats and caption styling. Captions must use MOTHWAKE fonts and colours, or be restyled.
   - Every OpusClip export goes through the brand validator and QC before approval.
   - OpusClip credits are only spent with your approval. Its scheduling and publishing features are never used without your explicit approval.

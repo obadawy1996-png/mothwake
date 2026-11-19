@@ -45,7 +45,7 @@ def lock():
             if p.is_file() and not p.name.startswith("."):
                 files[str(p.relative_to(ROOT))] = sha(p)
     LOCK.write_text(json.dumps({"locked": datetime.now(timezone.utc).isoformat(timespec="seconds"),
-                                "status": "PROVISIONAL - pending owner approval",
+                                "status": "APPROVED by owner 2026-11-19 (logo concept B)",
                                 "roles": ROLES, "files": files}, indent=2))
     print(f"locked {len(files)} assets → {LOCK.relative_to(ROOT)}")
     return 0

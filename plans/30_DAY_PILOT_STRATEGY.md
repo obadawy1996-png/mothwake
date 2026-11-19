@@ -1,6 +1,6 @@
 # 30-Day Pilot Strategy
 
-**Status:** Planned. The start date depends on your approvals and paid-plan decisions (see section 6). Nothing is published without your approval.
+**Status:** Plan changes APPROVED by owner 2026-11-19 (see `DECISIONS.md`). The start date depends on your approvals and paid-plan decisions (see section 6). Nothing is published without your approval.
 **Calendar:** `plans/CONTENT_CALENDAR.csv`, with separate rows per platform.
 
 ## 1. Proposed changes to the original brief (your decision)

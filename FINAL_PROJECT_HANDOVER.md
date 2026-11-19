@@ -12,7 +12,7 @@ Labels: **Implemented** · **Tested** · **Partially implemented** · **Planned*
 | 3 | Market research report | Implemented | `research/MARKET_OPPORTUNITY_REPORT.md`, `CONTENT_GAP_ANALYSIS.md`. Reddit and Google Trends were blocked, so they are qualitative only. |
 | 4 | Competitor database | Implemented | `research/COMPETITOR_DATABASE.csv`: 63 channels, 62 with measured subscribers. Likes and comments unknown (blocked). |
 | 5 | Trend intelligence system | Implemented, Partially | `TREND_DATABASE.csv` (42 rows), `WEEKLY_TREND_REPORT.md`, re-runnable `research/collectors/`. Per-country Trends data is **Blocked** by network policy. |
-| 6 | Complete Brand Kit | Implemented, Tested | `brand/` with 8 guides, 53/53 brand tests. **The logo choice (B) is provisional until you approve it.** |
+| 6 | Complete Brand Kit | Implemented, Tested | `brand/` with 8 guides, 53/53 brand tests. Logo B approved 2026-11-19. |
 | 7 | Logo files and source files | Implemented, Tested | `brand/logo/` (14 SVG with outlined text, 14 PNG), generator `scripts/brand/build_brand.py` |
 | 8 | YouTube profile picture | Implemented, Tested | `brand/kit/youtube_profile_800.png` (circle-crop test) |
 | 9 | YouTube banner | Implemented, Tested | `brand/kit/youtube_banner_2560x1440.png`; content inside the strictest safe area; guide overlay in `brand/previews/` |
@@ -34,18 +34,17 @@ Labels: **Implemented** · **Tested** · **Partially implemented** · **Planned*
 | 25 | Production cost analysis | Implemented | `plans/PRODUCTION_COST_ANALYSIS.md` (lean stack about USD 42/month) |
 | 26 | This handover | Implemented | |
 
-## Still blocked or waiting on you
+## Decisions (2026-11-19) and what's still open
 
-| # | Item | What to do |
+Decisions are logged in `DECISIONS.md`. Done: GitHub repository, logo B, brand kit and plan changes approved. OpusClip paid plan declined (FFmpeg pipeline used instead).
+
+| # | Open item | What to do |
 |---|---|---|
-| 1 | **No GitHub repository** (critical: the container is temporary) | Create an empty repository and tell me its name |
-| 2 | **Approvals:** logo concept B, brand kit, plan changes (14 Shorts, 8–14 min long-form) | Reply "approve" or give changes |
-| 3 | **ElevenLabs connector** needs reconnecting | claude.ai/customize/connectors → ElevenLabs → reconnect |
-| 4 | **OpusClip tools** aren't loaded in sessions | Same page → AI Producer by OpusClip → allow its tools, then start a new session |
-| 5 | **Paid plans** (commercial rights) | Approve ElevenLabs Creator and Google AI Pro; OpusClip Starter optional |
-| 6 | **Network access** for research: trends.google.com, reddit.com, socialblade.com, support.google.com, suggestqueries.google.com, i.ytimg.com | Approve an environment network change when I request it |
-| 7 | **YouTube Data API key** (optional; improves competitor data) | Create a key; I'll request it through the secure credential form |
-| 8 | **Channels and handles** | Create them yourself; MOTHWAKE never claims availability |
+| 1 | **ElevenLabs** connector (you have a paid plan) | claude.ai/customize/connectors → ElevenLabs → reconnect |
+| 2 | **Google AI Pro** | Buy it yourself (approved); Claude never purchases |
+| 3 | **Network access** (approved, but the automated change was rejected) | Session title bar → cloud environment menu → Edit → Network access → Allowed domains: trends.google.com, www.reddit.com, old.reddit.com, socialblade.com, support.google.com, suggestqueries.google.com, i.ytimg.com, www.googleapis.com. Keep "Allow package managers" ticked. |
+| 4 | **YouTube Data API key** (approved) | The credential form can't send it in YouTube's header. Add it in the same environment settings as a variable named `YOUTUBE_API_KEY`. Treat it as a secret: restrict the key to YouTube Data API v3 in Google Cloud. |
+| 5 | **Channels and handles** | Create them yourself |
 
 ## Not done (honestly)
 
