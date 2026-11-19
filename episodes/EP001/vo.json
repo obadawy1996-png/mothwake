@@ -1,0 +1,381 @@
+{
+  "source": "episodes/EP001/script.md",
+  "lines": [
+    {
+      "id": "L001",
+      "speaker": "NARR",
+      "note": null,
+      "direction": "",
+      "text": "In Wrenfield, nobody speaks between one and two in the morning.",
+      "beats": 1
+    },
+    {
+      "id": "L002",
+      "speaker": "NARR",
+      "note": null,
+      "direction": "",
+      "text": "Not to answer a phone. Not to call for help. Not even in their sleep.",
+      "beats": 1
+    },
+    {
+      "id": "L003",
+      "speaker": "NARR",
+      "note": null,
+      "direction": "",
+      "text": "I went there to find out why. I should have just listened.",
+      "beats": 1
+    },
+    {
+      "id": "L004",
+      "speaker": "NARR",
+      "note": null,
+      "direction": "",
+      "text": "I make a podcast about small towns with strange habits. Most of them turn out to be nothing. A festival nobody remembers starting. A grudge between two families. A founder with a funny will. I'd done forty-one episodes. People liked them because nothing bad ever happened at the end.",
+      "beats": 1
+    },
+    {
+      "id": "L005",
+      "speaker": "NARR",
+      "note": null,
+      "direction": "",
+      "text": "Wrenfield's habit was already on the sign. That's rare. Usually you have to dig.",
+      "beats": 0
+    },
+    {
+      "id": "L006",
+      "speaker": "NARR",
+      "note": null,
+      "direction": "",
+      "text": "The motel owner didn't explain it. He just tapped the card twice and watched me until I nodded. It was nine in the evening. He could have talked. He chose not to.",
+      "beats": 1
+    },
+    {
+      "id": "L007",
+      "speaker": "NARR",
+      "note": null,
+      "direction": "",
+      "text": "The kid at the gas station was more relaxed about it. He said it was like Sunday church, or not walking on the cracks. Something your grandparents did, so you did it too. Then I asked what happened to people who didn't.",
+      "beats": 1
+    },
+    {
+      "id": "L008",
+      "speaker": "NARR",
+      "note": null,
+      "direction": "",
+      "text": "He counted my change twice. And he never answered the question. He just said, \"You're not staying long, are you?\" And it didn't sound like a question either.",
+      "beats": 1
+    },
+    {
+      "id": "L009",
+      "speaker": "NARR",
+      "note": null,
+      "direction": "",
+      "text": "The only place open after midnight was a diner called the Lantern. The woman who ran it was called Ines. She didn't speak at all. Not just during the hour. Ever.",
+      "beats": 1
+    },
+    {
+      "id": "L010",
+      "speaker": "NARR",
+      "note": null,
+      "direction": "",
+      "text": "She wrote everything on a little pad she wore around her neck. When I asked her why the town went silent, she wrote one word.",
+      "beats": 0
+    },
+    {
+      "id": "L011",
+      "speaker": "NARR",
+      "note": null,
+      "direction": "",
+      "text": "When I asked what happens if you talk, she tore the page off, folded it in half, and put it in her pocket. Like it was something that shouldn't be left lying around.",
+      "beats": 1
+    },
+    {
+      "id": "L012",
+      "speaker": "NARR",
+      "note": null,
+      "direction": "",
+      "text": "I stayed until one. I wanted to hear it for myself.",
+      "beats": 0
+    },
+    {
+      "id": "L013",
+      "speaker": "NARR",
+      "note": null,
+      "direction": "",
+      "text": "You could feel the whole room getting ready. People said goodbye to each other at two minutes to one, even though nobody was leaving.",
+      "beats": 0
+    },
+    {
+      "id": "L014",
+      "speaker": "NARR",
+      "note": null,
+      "direction": "",
+      "text": "It's hard to describe how loud a room full of people being quiet is. It isn't calm. It's effort. Everybody holding something in.",
+      "beats": 1
+    },
+    {
+      "id": "L015",
+      "speaker": "NARR",
+      "note": null,
+      "direction": "",
+      "text": "At two o'clock, everyone exhaled at once, and the room went back to normal, as if a song had ended. I didn't say a word that first night. I want that on the record.",
+      "beats": 1
+    },
+    {
+      "id": "L016",
+      "speaker": "NARR",
+      "note": null,
+      "direction": "",
+      "text": "Back at the motel I went through the recording. Twelve fifty-nine: chatter, cups, the jukebox. One o'clock: nothing. Just the fridge and forty people breathing.",
+      "beats": 0
+    },
+    {
+      "id": "L017",
+      "speaker": "NARR",
+      "note": null,
+      "direction": "",
+      "text": "Except at one thirty-seven. Something very small.",
+      "beats": 1
+    },
+    {
+      "id": "L018",
+      "speaker": "ECHO",
+      "note": null,
+      "direction": "barely, wrong",
+      "text": "…ffee…",
+      "beats": 0
+    },
+    {
+      "id": "L019",
+      "speaker": "NARR",
+      "note": null,
+      "direction": "",
+      "text": "It sounded like someone practising the word coffee. Nobody in that diner had moved their lips. I'd been watching.",
+      "beats": 1
+    },
+    {
+      "id": "L020",
+      "speaker": "NARR",
+      "note": null,
+      "direction": "",
+      "text": "In daylight, Wrenfield was the friendliest town I've ever been to. Everybody talked. Too much, almost. As if they were getting it all out of their system before night came.",
+      "beats": 0
+    },
+    {
+      "id": "L021",
+      "speaker": "NARR",
+      "note": null,
+      "direction": "",
+      "text": "The library kept tapes. Interviews with visitors, recorded by a town historian who died in 2011. Every tape was a stranger who'd come to ask about the quiet hour.",
+      "beats": 1
+    },
+    {
+      "id": "L022",
+      "speaker": "VISITOR 1974",
+      "note": "on tape",
+      "direction": "",
+      "text": "So what happens if I talk? Hello? Hello?",
+      "beats": 0
+    },
+    {
+      "id": "L023",
+      "speaker": "NARR",
+      "note": null,
+      "direction": "",
+      "text": "Each tape ended the same way. The visitor talked during the hour. On purpose, as a joke, or by accident. And afterwards, the historian went outside and recorded the silence.",
+      "beats": 0
+    },
+    {
+      "id": "L024",
+      "speaker": "ECHO",
+      "note": null,
+      "direction": "rough, a stranger's voice",
+      "text": "…hello…",
+      "beats": 0
+    },
+    {
+      "id": "L025",
+      "speaker": "ECHO",
+      "note": null,
+      "direction": "another voice",
+      "text": "…what happens if I…",
+      "beats": 0
+    },
+    {
+      "id": "L026",
+      "speaker": "ECHO",
+      "note": null,
+      "direction": "another voice",
+      "text": "…is anybody… out there…",
+      "beats": 0
+    },
+    {
+      "id": "L027",
+      "speaker": "NARR",
+      "note": null,
+      "direction": "",
+      "text": "It wasn't just repeating them. It was keeping them. Every visitor who spoke left it a few more words. Fifty years of tourists, teaching it one sentence at a time.",
+      "beats": 1
+    },
+    {
+      "id": "L028",
+      "speaker": "NARR",
+      "note": null,
+      "direction": "",
+      "text": "I tried to get someone to say it on the record. An old woman on Fenner Street, who'd lived in Wrenfield for eighty years, agreed to talk to me, as long as I turned off the recorder first.",
+      "beats": 0
+    },
+    {
+      "id": "L029",
+      "speaker": "NARR",
+      "note": null,
+      "direction": "",
+      "text": "She told me that when she was a girl, the town still had a night-time radio show. A local station, broadcasting through the small hours. Requests, weather, a man reading the news. One winter, the station kept broadcasting after the man went home.",
+      "beats": 1
+    },
+    {
+      "id": "L030",
+      "speaker": "NARR",
+      "note": null,
+      "direction": "",
+      "text": "Nobody was in the booth. But for one hour every night, something kept talking. Bits of the request show. Bits of the weather. Bits of people's names. They tore the transmitter out in the spring. The tower's still there. The town has been quiet ever since.",
+      "beats": 1
+    },
+    {
+      "id": "L031",
+      "speaker": "NARR",
+      "note": null,
+      "direction": "",
+      "text": "I asked her whether it was still out there. She said, \"Honey, it's always been out there. We just stopped giving it anything to say.\"",
+      "beats": 0
+    },
+    {
+      "id": "L032",
+      "speaker": "NARR",
+      "note": null,
+      "direction": "",
+      "text": "I should have left then. But I'm a podcaster. Talking is the only thing I've ever been any good at. And I had the best story of my life sitting in a drawer in a library.",
+      "beats": 1
+    },
+    {
+      "id": "L033",
+      "speaker": "NARR",
+      "note": null,
+      "direction": "",
+      "text": "The second night, I talked.",
+      "beats": 0
+    },
+    {
+      "id": "L034",
+      "speaker": "CAL",
+      "note": null,
+      "direction": "",
+      "text": "It's one o'clock in Wrenfield, and I'm going to say something.",
+      "beats": 0
+    },
+    {
+      "id": "L035",
+      "speaker": "ECHO",
+      "note": null,
+      "direction": "Cal's voice, flat and late, from outside",
+      "text": "…it's one o'clock… in…",
+      "beats": 0
+    },
+    {
+      "id": "L036",
+      "speaker": "NARR",
+      "note": null,
+      "direction": "",
+      "text": "It used my voice. Not well. Like someone wearing a coat that doesn't fit yet.",
+      "beats": 1
+    },
+    {
+      "id": "L037",
+      "speaker": "NARR",
+      "note": null,
+      "direction": "",
+      "text": "At two o'clock, nobody said goodbye. They just left. Ines locked the door behind the last of them. Then she pointed at me, at the door, and at the road out of town. It was the clearest sentence anyone said to me in Wrenfield.",
+      "beats": 1
+    },
+    {
+      "id": "L038",
+      "speaker": "NARR",
+      "note": null,
+      "direction": "",
+      "text": "The third night I didn't go to the diner. I stayed in my room with every light on, and I said nothing at all.",
+      "beats": 0
+    },
+    {
+      "id": "L039",
+      "speaker": "ECHO",
+      "note": null,
+      "direction": "Cal's voice, smoother",
+      "text": "…I make a podcast about small towns… with strange habits…",
+      "beats": 0
+    },
+    {
+      "id": "L040",
+      "speaker": "NARR",
+      "note": null,
+      "direction": "",
+      "text": "That was my intro. Word for word. It had been listening the whole time. Not just during the hour. In the car. In the motel. Every time I talked to myself.",
+      "beats": 1
+    },
+    {
+      "id": "L041",
+      "speaker": "ECHO",
+      "note": null,
+      "direction": "Cal's voice, almost natural",
+      "text": "Hey, it's me. Pick up. I want to tell you about the town.",
+      "beats": 1
+    },
+    {
+      "id": "L042",
+      "speaker": "NARR",
+      "note": null,
+      "direction": "",
+      "text": "I live alone. The only person who calls me from home is me, when I've left my phone somewhere and I'm trying to find it.",
+      "beats": 1
+    },
+    {
+      "id": "L043",
+      "speaker": "NARR",
+      "note": null,
+      "direction": "",
+      "text": "And it had found the one place where a voice can go on talking without anybody in the room.",
+      "beats": 0
+    },
+    {
+      "id": "L044",
+      "speaker": "NARR",
+      "note": null,
+      "direction": "",
+      "text": "I asked her what happens when it finishes. She didn't write anything. She just looked at the radio behind the counter, the way you look at a door you're not allowed to open.",
+      "beats": 1
+    },
+    {
+      "id": "L045",
+      "speaker": "NARR",
+      "note": null,
+      "direction": "",
+      "text": "The silence was never a superstition. It was a wall. And one word at a time, people like me had been taking it down.",
+      "beats": 1
+    },
+    {
+      "id": "L046",
+      "speaker": "NARR",
+      "note": null,
+      "direction": "",
+      "text": "So I decided to leave without saying another word. Not to Ines. Not to the man at the gas station. Not even to myself. I deleted the episode. I'd make something else. Something where nothing bad happens at the end.",
+      "beats": 1
+    },
+    {
+      "id": "L047",
+      "speaker": "ECHO",
+      "note": null,
+      "direction": "as Cal, flawless, warm",
+      "text": "I make a podcast about small towns with strange habits. This week: a town called Wrenfield. I'm here now. And I'm going to talk for as long as you'll let me.",
+      "beats": 2
+    }
+  ]
+}

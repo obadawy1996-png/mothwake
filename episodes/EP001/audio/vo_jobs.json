@@ -1,0 +1,102 @@
+[
+ {
+  "id": "N00",
+  "speaker": "NARR",
+  "section": "COLD OPEN (0:00–0:30)",
+  "prompt": "In Wrenfield, nobody speaks between one and two in the morning. [pause] [pause] Not to answer a phone. Not to call for help. [pause] Not even in their sleep. [pause] I went there to find out why. [pause] I should have just listened."
+ },
+ {
+  "id": "N02",
+  "speaker": "NARR",
+  "section": "ACT I — THE RULE (0:36–3:50)",
+  "prompt": "I make a podcast about small towns with strange habits. Most of them turn out to be nothing. A festival nobody remembers starting. A grudge between two families. A founder with a funny will. [pause] I'd done forty-one episodes. People liked them because nothing bad ever happened at the end. [pause] Wrenfield's habit was already on the sign. That's rare. Usually you have to dig. [pause] The motel owner didn't explain it. He just tapped the card twice and watched me until I nodded. [pause] It was nine in the evening. He could have talked. He chose not to. [pause] The kid at the gas station was more relaxed about it. He said it was like Sunday church, or not walking on the cracks. Something your grandparents did, so you did it too. [pause] Then I asked what happened to people who didn't. [pause] He counted my change twice. And he never answered the question. [pause] He just said, \"You're not staying long, are you?\" And it didn't sound like a question either. [pause] The only place open after midnight was a diner called the Lantern. The woman who ran it was called Ines. [pause] She didn't speak at all. Not just during the hour. Ever. [pause] She wrote everything on a little pad she wore around her neck. When I asked her why the town went silent, she wrote one word. [pause] When I asked what happens if you talk, she tore the page off, folded it in half, and put it in her pocket. [pause] Like it was something that shouldn't be left lying around. [pause] I stayed until one. I wanted to hear it for myself. [pause] You could feel the whole room getting ready. People said goodbye to each other at two minutes to one, even though nobody was leaving. [pause] It's hard to describe how loud a room full of people being quiet is. [pause] It isn't calm. It's effort. Everybody holding something in. [pause] At two o'clock, everyone exhaled at once, and the room went back to normal, as if a song had ended. [pause] I didn't say a word that first night. I want that on the record."
+ },
+ {
+  "id": "N03",
+  "speaker": "NARR",
+  "section": "ACT II — THE ECHO (3:50–7:30)",
+  "prompt": "Back at the motel I went through the recording. Twelve fifty-nine: chatter, cups, the jukebox. One o'clock: nothing. Just the fridge and forty people breathing. [pause] Except at one thirty-seven. [pause] Something very small. [pause] It sounded like someone practising the word coffee. [pause] Nobody in that diner had moved their lips. I'd been watching. [pause] In daylight, Wrenfield was the friendliest town I've ever been to. Everybody talked. Too much, almost. As if they were getting it all out of their system before night came. [pause] The library kept tapes. Interviews with visitors, recorded by a town historian who died in 2011. [pause] Every tape was a stranger who'd come to ask about the quiet hour. [pause] Each tape ended the same way. The visitor talked during the hour. On purpose, as a joke, or by accident. And afterwards, the historian went outside and recorded the silence. [pause] It wasn't just repeating them. [pause] It was keeping them. Every visitor who spoke left it a few more words. Fifty years of tourists, teaching it one sentence at a time. [pause] I tried to get someone to say it on the record. An old woman on Fenner Street, who'd lived in Wrenfield for eighty years, agreed to talk to me, as long as I turned off the recorder first. [pause] She told me that when she was a girl, the town still had a night-time radio show. A local station, broadcasting through the small hours. Requests, weather, a man reading the news. [pause] One winter, the station kept broadcasting after the man went home. [pause] Nobody was in the booth. But for one hour every night, something kept talking. Bits of the request show. Bits of the weather. Bits of people's names. [pause] They tore the transmitter out in the spring. The tower's still there. The town has been quiet ever since. [pause] I asked her whether it was still out there. She said, \"Honey, it's always been out there. We just stopped giving it anything to say.\" [pause] I should have left then. [pause] But I'm a podcaster. Talking is the only thing I've ever been any good at. And I had the best story of my life sitting in a drawer in a library."
+ },
+ {
+  "id": "ECHO031",
+  "speaker": "ECHO",
+  "section": "ACT II — THE ECHO (3:50–7:30)",
+  "raw": "(barely, wrong) …ffee…",
+  "prompt": "[softly] …ffee…"
+ },
+ {
+  "id": "VISI032",
+  "speaker": "VISITOR 1974",
+  "section": "ACT II — THE ECHO (3:50–7:30)",
+  "raw": "So what happens if I talk? Hello? *Hello?*",
+  "prompt": "So what happens if I talk? Hello? Hello?"
+ },
+ {
+  "id": "ECHO033",
+  "speaker": "ECHO",
+  "section": "ACT II — THE ECHO (3:50–7:30)",
+  "raw": "(rough, a stranger's voice) …hello…",
+  "prompt": "…hello…"
+ },
+ {
+  "id": "ECHO034",
+  "speaker": "ECHO",
+  "section": "ACT II — THE ECHO (3:50–7:30)",
+  "raw": "(another voice) …what happens if I…",
+  "prompt": "…what happens if I…"
+ },
+ {
+  "id": "ECHO035",
+  "speaker": "ECHO",
+  "section": "ACT II — THE ECHO (3:50–7:30)",
+  "raw": "(another voice) …is anybody… out there…",
+  "prompt": "…is anybody… out there…"
+ },
+ {
+  "id": "N04",
+  "speaker": "NARR",
+  "section": "The second night",
+  "prompt": "The second night, I talked. [pause] It used my voice. [pause] Not well. Like someone wearing a coat that doesn't fit yet. [pause] At two o'clock, nobody said goodbye. They just left. [pause] Ines locked the door behind the last of them. Then she pointed at me, at the door, and at the road out of town. It was the clearest sentence anyone said to me in Wrenfield."
+ },
+ {
+  "id": "CAL041",
+  "speaker": "CAL",
+  "section": "The second night",
+  "raw": "It's one o'clock in Wrenfield, and I'm going to say something.",
+  "prompt": "It's one o'clock in Wrenfield, and I'm going to say something."
+ },
+ {
+  "id": "ECHO042",
+  "speaker": "ECHO",
+  "section": "The second night",
+  "raw": "(Cal's voice, flat and late, from outside) …it's one o'clock… in…",
+  "prompt": "…it's one o'clock… in…"
+ },
+ {
+  "id": "N05",
+  "speaker": "NARR",
+  "section": "ACT III — FLUENCY (7:30–10:00)",
+  "prompt": "The third night I didn't go to the diner. I stayed in my room with every light on, and I said nothing at all. [pause] That was my intro. Word for word. [pause] It had been listening the whole time. Not just during the hour. In the car. In the motel. Every time I talked to myself. [pause] I live alone. [pause] The only person who calls me from home is me, when I've left my phone somewhere and I'm trying to find it. [pause] And it had found the one place where a voice can go on talking without anybody in the room. [pause] I asked her what happens when it finishes. [pause] She didn't write anything. She just looked at the radio behind the counter, the way you look at a door you're not allowed to open. [pause] The silence was never a superstition. [pause] It was a wall. And one word at a time, people like me had been taking it down. [pause] So I decided to leave without saying another word. Not to Ines. Not to the man at the gas station. Not even to myself. [pause] I deleted the episode. I'd make something else. Something where nothing bad happens at the end."
+ },
+ {
+  "id": "ECHO051",
+  "speaker": "ECHO",
+  "section": "ACT III — FLUENCY (7:30–10:00)",
+  "raw": "(Cal's voice, smoother) …I make a podcast about small towns… with strange habits…",
+  "prompt": "…I make a podcast about small towns… with strange habits…"
+ },
+ {
+  "id": "ECHO052",
+  "speaker": "ECHO",
+  "section": "ACT III — FLUENCY (7:30–10:00)",
+  "raw": "(Cal's voice, almost natural) Hey, it's me. (beat) Pick up. I want to tell you about the town.",
+  "prompt": "Hey, it's me. [pause] Pick up. I want to tell you about the town."
+ },
+ {
+  "id": "ECHO061",
+  "speaker": "ECHO",
+  "section": "ENDING (10:00–10:50)",
+  "raw": "(as Cal, flawless, warm) I make a podcast about small towns with strange habits. (beat) This week: a town called Wrenfield. I'm here now. (beat) And I'm going to talk for as long as you'll let me.",
+  "prompt": "I make a podcast about small towns with strange habits. [pause] This week: a town called Wrenfield. I'm here now. [pause] And I'm going to talk for as long as you'll let me."
+ }
+]

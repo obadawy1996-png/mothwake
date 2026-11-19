@@ -4,3 +4,4 @@ __pycache__/
 episodes/*/render/
 *.tmp
 episodes/*/render/
+episodes/*/audio/processed/
