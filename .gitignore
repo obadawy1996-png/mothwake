@@ -5,3 +5,6 @@ episodes/*/render/
 *.tmp
 episodes/*/render/
 episodes/*/audio/processed/
+episodes/EP001_sample/master/
+episodes/EP001_sample/exports/
+episodes/EP001_sample/art/s/

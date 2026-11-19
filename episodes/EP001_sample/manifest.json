@@ -1,0 +1,376 @@
+{
+ "id": "EP001S",
+ "title": "The Quiet Hour — visual proof of concept (INTERNAL, NOT FOR PUBLISHING)",
+ "story_id": "MW012",
+ "format": "long",
+ "duration_blocking": false,
+ "status": "internal sample — DO NOT PUBLISH (Magnific free-plan images are non-commercial)",
+ "resolution": [
+  1920,
+  1080
+ ],
+ "fps": 30,
+ "loudness_lufs": -14,
+ "brand_assets": {
+  "logo_primary": "brand/logo/mothwake_primary_transparent.svg",
+  "watermark": "brand/kit/watermark_gold.png",
+  "watermark_light_scenes": "brand/kit/watermark_white.png",
+  "font_display": "brand/fonts/Cinzel[wght].ttf",
+  "font_title": "brand/fonts/CormorantGaramond[wght].ttf",
+  "font_caption": "brand/fonts/Inter[opsz,wght].ttf",
+  "sound_signature": "brand/sound/mothwake_signature.wav",
+  "sound_outro": "brand/sound/mothwake_outro.wav",
+  "outro_16x9": "brand/video/mothwake_outro_1920x1080.mp4",
+  "outro_9x16": "brand/video/mothwake_outro_1080x1920.mp4"
+ },
+ "originality_review": "see EP001 script",
+ "licence_ledger": [
+  {
+   "asset": "art/*",
+   "licence": "Magnific FREE plan — non-commercial, internal evaluation only"
+  },
+  {
+   "asset": "audio (EP001 narration)",
+   "licence": "ElevenLabs paid plan (owner)"
+  },
+  {
+   "asset": "brand",
+   "licence": "original"
+  }
+ ],
+ "approvals": {},
+ "shots": [
+  {
+   "layers": [
+    {
+     "src": "art/s/01_diner_wide.png",
+     "depth": 0.5
+    }
+   ],
+   "duration": 5.0,
+   "move": "push",
+   "strength": 0.05,
+   "caption": {
+    "text": "In Wrenfield, nobody speaks between one and two.",
+    "key": "nobody",
+    "from": 0.4,
+    "y": 0.84
+   },
+   "fade_in": 0.4
+  },
+  {
+   "layers": [
+    {
+     "src": "art/s/02_coffee.png",
+     "depth": 0.5
+    }
+   ],
+   "duration": 3.6,
+   "move": "push",
+   "strength": 0.08,
+   "caption": {
+    "text": "Not to answer a phone. Not to call for help.",
+    "key": "help",
+    "from": 0.1,
+    "y": 0.84
+   }
+  },
+  {
+   "layers": [
+    {
+     "src": "art/s/08_frozen_diner.png",
+     "depth": 0.5
+    }
+   ],
+   "duration": 3.4,
+   "move": "drift",
+   "strength": 0.03,
+   "caption": {
+    "text": "Not even in their sleep.",
+    "key": "sleep",
+    "from": 0.6,
+    "y": 0.84
+   }
+  },
+  {
+   "layers": [
+    {
+     "src": "art/s/03_tower.png",
+     "depth": 0.5
+    }
+   ],
+   "duration": 4.0,
+   "move": "push",
+   "strength": 0.06,
+   "caption": {
+    "text": "I should have just listened.",
+    "key": "listened",
+    "from": 1.4,
+    "y": 0.84
+   },
+   "flicker": true
+  },
+  {
+   "layers": [
+    {
+     "src": "art/s/00_title.png",
+     "depth": 0.5
+    }
+   ],
+   "duration": 3.0,
+   "move": "push",
+   "strength": 0.015,
+   "hide_watermark": true,
+   "fade_in": 0.4
+  },
+  {
+   "layers": [
+    {
+     "src": "art/s/04_highway.png",
+     "depth": 0.5
+    }
+   ],
+   "duration": 12.2,
+   "move": "drift",
+   "strength": 0.05,
+   "caption": {
+    "text": "I make a podcast about small towns with strange habits.",
+    "key": "habits",
+    "from": 0.3,
+    "y": 0.84
+   }
+  },
+  {
+   "layers": [
+    {
+     "src": "art/s/07_cal.png",
+     "depth": 0.5
+    }
+   ],
+   "duration": 5.8,
+   "move": "push",
+   "strength": 0.05,
+   "caption": {
+    "text": "People liked them because nothing bad ever happened.",
+    "key": "nothing",
+    "from": 0.2,
+    "y": 0.84
+   }
+  },
+  {
+   "layers": [
+    {
+     "src": "art/s/04_highway.png",
+     "depth": 0.5
+    }
+   ],
+   "duration": 6.4,
+   "move": "push",
+   "strength": 0.16,
+   "caption": {
+    "text": "Wrenfield's habit was already on the sign.",
+    "key": "sign",
+    "from": 0.2,
+    "y": 0.84
+   }
+  },
+  {
+   "layers": [
+    {
+     "src": "art/s/05_motel.png",
+     "depth": 0.5
+    }
+   ],
+   "duration": 9.8,
+   "move": "push",
+   "strength": 0.06,
+   "caption": {
+    "text": "He could have talked. He chose not to.",
+    "key": "chose",
+    "from": 4.0,
+    "y": 0.84
+   }
+  },
+  {
+   "layers": [
+    {
+     "src": "art/s/01_diner_wide.png",
+     "depth": 0.5
+    }
+   ],
+   "duration": 6.2,
+   "move": "drift",
+   "strength": 0.04,
+   "caption": {
+    "text": "The only place open after midnight was the Lantern.",
+    "key": "Lantern",
+    "from": 0.2,
+    "y": 0.84
+   }
+  },
+  {
+   "layers": [
+    {
+     "src": "art/s/06_ines.png",
+     "depth": 0.5
+    }
+   ],
+   "duration": 6.6,
+   "move": "push",
+   "strength": 0.05,
+   "caption": {
+    "text": "She didn't speak at all. Ever.",
+    "key": "Ever.",
+    "from": 0.4,
+    "y": 0.84
+   }
+  },
+  {
+   "layers": [
+    {
+     "src": "art/s/06b_ines_habit.png",
+     "depth": 0.5
+    }
+   ],
+   "duration": 13.5,
+   "move": "push",
+   "strength": 0.07,
+   "caption": {
+    "text": "She tore the page off and put it in her pocket.",
+    "key": "pocket",
+    "from": 7.0,
+    "y": 0.84
+   }
+  },
+  {
+   "layers": [
+    {
+     "src": "art/s/08_frozen_diner.png",
+     "depth": 0.5
+    }
+   ],
+   "duration": 1.0,
+   "move": "static",
+   "strength": 0.0,
+   "hide_watermark": true,
+   "fade_in": 5.0
+  },
+  {
+   "layers": [
+    {
+     "src": "art/s/07_cal.png",
+     "depth": 0.5
+    }
+   ],
+   "duration": 5.0,
+   "move": "push",
+   "strength": 0.08,
+   "caption": {
+    "text": "It's one o'clock in Wrenfield, and I'm going to say something.",
+    "key": "something",
+    "from": 0.3,
+    "y": 0.84
+   }
+  },
+  {
+   "layers": [
+    {
+     "src": "art/s/09_breath_fog.png",
+     "depth": 0.5
+    }
+   ],
+   "duration": 6.0,
+   "move": "push",
+   "strength": 0.1,
+   "caption": {
+    "text": "…it's one o'clock… in…",
+    "key": "in…",
+    "from": 0.6,
+    "y": 0.84
+   },
+   "flicker": true
+  },
+  {
+   "layers": [
+    {
+     "src": "art/s/10_moth_radio.png",
+     "depth": 0.5
+    }
+   ],
+   "duration": 12.0,
+   "move": "push",
+   "strength": 0.07,
+   "caption": {
+    "text": "I'm going to talk for as long as you'll let me.",
+    "key": "talk",
+    "from": 6.5,
+    "y": 0.84
+   },
+   "hide_watermark": true
+  }
+ ],
+ "audio": {
+  "narration": [
+   {
+    "src": "../EP001/audio/processed/S00_coldopen.wav",
+    "at": 0.4
+   },
+   {
+    "src": "audio/N02a.wav",
+    "at": 19.3
+   },
+   {
+    "src": "audio/N02b.wav",
+    "at": 53.4
+   },
+   {
+    "src": "../EP001/audio/processed/CAL_onmic.wav",
+    "at": 80.9
+   },
+   {
+    "src": "../EP001/audio/processed/ECHO_night2_window.wav",
+    "at": 86.2,
+    "gain_db": 2
+   },
+   {
+    "src": "../EP001/audio/processed/ECHO_ending_radio.wav",
+    "at": 92.6
+   }
+  ],
+  "sfx": [
+   {
+    "src": "brand/sound/mothwake_open_sub.wav",
+    "at": 0.0
+   },
+   {
+    "src": "brand/sound/mothwake_signature.wav",
+    "at": 16.0,
+    "gain_db": -1
+   }
+  ],
+  "music": [
+   {
+    "src": "audio/ambience.wav",
+    "at": 0,
+    "gain_db": -8
+   },
+   {
+    "src": "audio/ambience.wav",
+    "at": 47.9,
+    "gain_db": -8
+   },
+   {
+    "src": "audio/ambience.wav",
+    "at": 95.8,
+    "gain_db": -8
+   }
+  ]
+ },
+ "exports": [
+  {
+   "platform": "review",
+   "watermark": true,
+   "outro": "outro_16x9"
+  }
+ ]
+}
