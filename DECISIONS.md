@@ -11,3 +11,6 @@
 | 2026-11-19 | **OpusClip paid plan declined** | OpusClip free = non-commercial + watermark → **not used for published content**. Shorts cut-downs, captions and reframing use the in-house FFmpeg pipeline (`scripts/production/`) |
 | 2026-11-19 | **Network access and YouTube Data API key approved** | Both need the owner to add them in environment settings (automated requests were rejected; see handover) |
 | 2026-11-19 | Channels and handles: the owner creates them | Claude never claims a handle is available |
+| 2026-11-19 | **Strategic pivot: short-form 2D micro horror first** (20–45 s; pillars 50% micro horror / 30% rules & survival / 20% interactive for the 30-Short experiment). Long-form cinematic (EP001 The Quiet Hour) becomes secondary. | Max 3 pilot Shorts first; no paid AI assets until the pilot plan is approved. Recommendations must be grounded in Google Trends, YouTube and Meta data. |
+| 2026-11-19 | **Samples must be fully animated** (no still-image slideshows) | Animated clips for every shot |
+| 2026-11-19 | **Animation engine: Google Flow, owner's AI Pro plan** (1,000 credits/month; Veo 3.1 Lite 10 / Fast 20 credits per clip) | No API, so Claude prepares paste-ready Flow packs, the owner generates in the browser, and Claude assembles. ElevenLabs video credits not needed. |
