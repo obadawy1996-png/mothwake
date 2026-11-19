@@ -89,3 +89,43 @@ Low-quality sources seen and **not** relied on: dyerbolical.com trend pieces, bl
 - The handle `@TheRuleFiles` was guessed. It is not verified to be the uploader seen in the topic scan.
 - Topic scans are single snapshots with no geo control, so "direction" relies on external evidence or is `unknown`.
 - Non-English channels seen in searches (Hindi, Bengali, French, Indonesian-run) are used only as market-structure evidence. The database keeps English-titled channels only.
+
+---
+
+## 6. Short-form pivot research (appended 2026-11-19, subagent)
+
+Isolation verifier run at start: 10/10 passed. Files were written only to `research/shortform/`, plus this appended section. No paid connector was called (no Semrush, Supermetrics, ElevenLabs, Magnific, OpusClip or Metricool). Nothing was published. No other project was touched.
+
+### 6.1 Files produced (`research/shortform/`)
+| File | Contents |
+|---|---|
+| `SHORTS_COMPETITORS.csv` | 47 rows: 43 core animated-horror Shorts channels plus 4 flagged contrast/adjacent rows |
+| `SHORTS_FORMAT_ANALYSIS.md` | Pillar analysis, saturation, policy, Meta access, and the "Data-driven topic & format ranking for the 30-Short pilot" |
+| `SHORTS_VS_LONGFORM.md` | Comparison and recommendation (hybrid) |
+| `GOOGLE_TRENDS.csv` | 320 rows: 20 terms × US/GB/CA/AU × YouTube/web × 12-month/7-day, ratio to the anchor "analog horror", momentum, related queries (US) |
+| `YT_AUTOCOMPLETE.csv` | 328 suggestions for 34 seeds |
+| `YT_SEED_SHORTS.csv` | 240 rows: top-10 shelf Shorts for 24 seeds |
+| `raw/*.json` | All raw responses |
+| `collectors/*.py` | Re-runnable collectors and builders (public pages only) |
+
+### 6.2 Sources and what happened
+| Source | Method | Result |
+|---|---|---|
+| youtube.com search (`sp=EgIYAQ%253D%253D`, under 4 min; `CAMSBAgEGAE%253D`, this month + under 4 min + by views) | 26 discovery queries + 24 seed queries | OK. The "this month" filter returned few, mostly non-English results (Thai series "The Rules", Hindi trailers). |
+| youtube.com `/shorts/<id>` pages | Exact views, length, publish date, likes, comments | **Partly blocked.** The first ~100 fetches worked. After that YouTube served pages with an empty player response, and `/watch` redirected to google.com/sorry (bot check). Collection was **stopped** rather than worked around. Exact detail exists for 88/240 seed Shorts and 70/188 discovery Shorts. |
+| youtube.com `/@handle/about`, `/shorts` tab | Subscribers, joined date, visible Shorts with rounded views | OK for all channels |
+| youtube.com `feeds/videos.xml?channel_id=` (public RSS) | Exact views and likes plus publish dates for the last 15 uploads | OK for 56 channels. This is the basis of `median_views_recent_shorts`. |
+| youtubei/v1/player (internal API with page key) | — | **Not used.** The permission system denied it, so I did not retry. |
+| suggestqueries.google.com (client=firefox, ds=yt) | 34 seeds | OK |
+| trends.google.com `/api/explore`, `/widgetdata/multiline`, `/widgetdata/relatedsearches` (hl=en-US, tz=0) | 4 groups × 4 geos × 2 properties × 2 timeframes = 64 series; 36 related-query sets | OK: 64/64 series, 36/36 related. One HTTP 429 at 21:20:28Z, recovered after the 30 s backoff (`raw/gtrends_errors_2026-11-19.json`). |
+| instagram.com, facebook.com (reel, hashtag, Ad Library), threads.net, tiktok.com | curl | **Blocked** at the session proxy (CONNECT 403). No Meta or TikTok data. |
+| WebSearch | Shorts RPM, subscriber conversion, inauthentic-content 2026 update, Meta Content Library access, Facebook Reels monetization | Snippets only. They are labelled "secondary". |
+| WebFetch air.io, tubefilter.com | — | **Blocked** (host not in allowed network). These sources are cited from search snippets only. |
+| YouTube Data API (network secret) | — | Not used (misconfigured, as briefed). |
+
+### 6.3 Caveats
+- Google Trends values are relative within each 5-term group. Cross-group comparison uses the anchor ratio. Ratios below about 0.01, and ratios in groups dominated by one huge term (backrooms or sleep paralysis on web), are low-precision.
+- Visual style, narration and sound columns were **not observed**. No video was watched. Annotations come from titles, descriptions and About text.
+- Excluded from the competitor CSV as off-niche: Serial Clips (streamer clips), Mr.spinechill (now Minecraft), ParaBlack (memes), Velvet Horror (misc), Studio Wrong (comedy animation), Transfuse (footage), amandaprescottfx (live action), Lumpy Touch (game memes). They remain in the raw files.
+- `RULES OF FEAR` appeared twice in the handle list (`@Rulesoffear` and its channel ID). It is deduplicated in the CSV.
+- Subscribers per 1K lifetime views compares Shorts-led core channels (n=28, median 2.73) with long-form risers chosen in the earlier research (n=10). The long-form set is biased toward winners.

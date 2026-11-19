@@ -142,6 +142,37 @@ def channel(handle, n_detail=8):
     return rec
 
 
+def about_and_rss(handle):
+    """Channel /about + the public RSS feed (last 15 uploads: publish date, exact views, likes).
+    Used when per-Short pages are throttled. RSS has no duration."""
+    base = "https://www.youtube.com/" + handle.lstrip("/")
+    rec = {"handle": handle, "url": base, "fetched_at": now()}
+    a = jvar(curl(base + "/about"), "ytInitialData")
+    av = walk(a, "aboutChannelViewModel") if a else []
+    if av:
+        av = av[0]
+        rec.update({"channel_id": av.get("channelId"), "subscribers": av.get("subscriberCountText"),
+                    "video_count": av.get("videoCountText"),
+                    "joined": (av.get("joinedDateText") or {}).get("content"),
+                    "total_views": av.get("viewCountText")})
+    md = walk(a, "channelMetadataRenderer") if a else []
+    if md:
+        rec["title"] = md[0].get("title")
+        rec["channel_id"] = rec.get("channel_id") or md[0].get("externalId")
+    rec["rss"] = []
+    if rec.get("channel_id"):
+        x = curl("https://www.youtube.com/feeds/videos.xml?channel_id=" + rec["channel_id"])
+        for e in re.findall(r"<entry>(.*?)</entry>", x, re.S):
+            g = lambda p: (re.search(p, e, re.S) or [None, None])[1]
+            rec["rss"].append({"id": g(r"<yt:videoId>(.*?)</yt:videoId>"),
+                               "title": g(r"<title>(.*?)</title>"),
+                               "is_short": "/shorts/" in (g(r'<link rel="alternate" href="(.*?)"') or ""),
+                               "published": g(r"<published>(.*?)</published>"),
+                               "views": g(r'<media:statistics views="(\d+)"'),
+                               "likes": g(r'<media:starRating count="(\d+)"')})
+    return rec
+
+
 def suggest(q):
     url = ("https://suggestqueries.google.com/complete/search?client=firefox&ds=yt&q=" +
            urllib.parse.quote_plus(q))
@@ -168,6 +199,13 @@ if __name__ == "__main__":
                 out.append({"handle": h, "error": repr(e), "fetched_at": now()})
             print(h, file=sys.stderr)
             time.sleep(1.0)
+    elif mode == "rss":
+        for h in lines:
+            try:
+                out.append(about_and_rss(h))
+            except Exception as e:
+                out.append({"handle": h, "error": repr(e), "fetched_at": now()})
+            time.sleep(1.5)
     elif mode == "suggest":
         for q in lines:
             out.append({"q": q, "suggestions": suggest(q), "fetched_at": now()})
