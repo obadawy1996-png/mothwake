@@ -1,7 +1,7 @@
 # PILOT_01 — reference image review (round 1)
 
 **Date:** 2026-11-20 · Flow project "MOTHWAKE PILOT_01 refs" (`87eb0830-95c6-45dc-8419-d304ad2bb5da`, account /u/1) · Nano Banana 2.1, 9:16, ×1, **0 credits each** (shown on screen).
-All 9 generated. **None refused**, including REF-THEO (a child alone, made inside Flow). Not downloaded yet. Owner approval is needed before any clip uses them.
+**OWNER APPROVED ALL 9 on 2026-11-20.** All 9 generated. **None refused**, including REF-THEO (a child alone, made inside Flow). Not downloaded yet. Owner approval is needed before any clip uses them.
 
 | REF | Claude's check (frame review, not owner approval) | Verdict |
 |---|---|---|

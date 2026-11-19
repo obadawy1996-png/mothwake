@@ -18,3 +18,4 @@
 | 2026-11-20 | **Ivy's voice: Ana-Rita2** (wJqPPQ618aTW29mptyoc), eleven_v4 | Ivy narration generated for all 3 pilots, 1 take each, 740 credits measured |
 | 2026-11-20 | **SH019 rewritten as v2:** Theo and Ivy never share a frame or touch (Flow refused child+adult frames on Chrono Tales) | `episodes/PILOT_01/CLIP_PROMPTS_SH019_v2.md` replaces the SH019 section of CLIP_PROMPTS.md (v1 kept). Pilot is now 220 first pass / 440 max. |
 | 2026-11-20 | **YouTube channel MOTHWAKE (@THEMOTHWAKE, UCYUbdvVeQ4I9ejn2Oe7eldQ) branded** on the owner's instruction: banner `brand/kit/youtube_banner_2560x1440.png`, profile picture `brand/kit/youtube_profile_800.png`, description from `brand/CHANNEL_COPY.md` | Published in YouTube Studio. Watermark, links and extended About not set. |
+| 2026-11-20 | **All 9 PILOT_01 reference images approved by the owner** ("Approve all 9"), Theo's look included | Clips may now use them as Flow ingredients (project 87eb0830, account u/1) |
