@@ -1,0 +1,30 @@
+{
+  "selected_concept": "B",
+  "palette": {
+    "obsidian": "#090A0D",
+    "charcoal": "#25232B",
+    "ash": "#77717D",
+    "gold": "#B89A68",
+    "bone": "#E7E2D8",
+    "lamp": "#F1DDB0"
+  },
+  "files": {
+    "concept_A": "brand/concepts/concept_A.svg",
+    "concept_B": "brand/concepts/concept_B.svg",
+    "concept_C": "brand/concepts/concept_C.svg",
+    "mothwake_primary_dark.svg": "brand/logo/mothwake_primary_dark.svg",
+    "mothwake_primary_light.svg": "brand/logo/mothwake_primary_light.svg",
+    "mothwake_primary_transparent.svg": "brand/logo/mothwake_primary_transparent.svg",
+    "mothwake_secondary_dark.svg": "brand/logo/mothwake_secondary_dark.svg",
+    "mothwake_secondary_light.svg": "brand/logo/mothwake_secondary_light.svg",
+    "mothwake_secondary_transparent.svg": "brand/logo/mothwake_secondary_transparent.svg",
+    "mothwake_icon_dark.svg": "brand/logo/mothwake_icon_dark.svg",
+    "mothwake_icon_light.svg": "brand/logo/mothwake_icon_light.svg",
+    "mothwake_icon_transparent.svg": "brand/logo/mothwake_icon_transparent.svg",
+    "mothwake_mono_black.svg": "brand/logo/mothwake_mono_black.svg",
+    "mothwake_mono_white.svg": "brand/logo/mothwake_mono_white.svg",
+    "mothwake_icon_mono_black.svg": "brand/logo/mothwake_icon_mono_black.svg",
+    "mothwake_icon_mono_white.svg": "brand/logo/mothwake_icon_mono_white.svg",
+    "mothwake_wordmark_gold.svg": "brand/logo/mothwake_wordmark_gold.svg"
+  }
+}
