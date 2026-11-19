@@ -55,3 +55,13 @@ Each background gets at least 3 dressing variants (props and signage swapped), s
 | Preset | Use | Key | Fill/shadow | Notes |
 |---|---|---|---|---|
 | L6 Overcast Day | Daytime exteriors and interiors (EP001 town by day, library, porch) | Soft, flat Bone-grey sky light (#E7E2D8 at low saturation) | Charcoal #25232B, shadows lifted, no hard sun | The town looks friendly but drained of colour. Keep Lamp only on practical lights. |
+
+## Update 2026-11-19: fully animated short-form (owner decision)
+
+This replaces the "limited but intentional motion" and parallax-still approach for **all Shorts and samples**:
+- **Every shot is an animated clip** (Google Flow, Veo 3.1, 4–8 s). No still-image slideshows.
+- **One simple action per clip.** Keep camera moves slow, so character consistency holds across clips.
+- **Reusable short-form kit:** see `stories/shorts/ASSET_KIT.md` (8 environments, 6 characters). The same 2–3 approved reference images are used as Flow Ingredients across a Short's clips.
+- **Text is never generated in video.** Rule cards, screens, door numbers and captions are added in post with brand type.
+- **Phone readability:** one subject per frame, faces at least 25% of frame height in reaction shots, strong silhouettes (see `brand/mobile/MOBILE_BRAND_PROPOSAL.md`).
+- The parallax-still method remains only as an emergency fallback for a failed clip, and as the long-form layering technique.
