@@ -1,0 +1,238 @@
+{
+  "id": "SH026",
+  "title": "The Kettle in the Glass",
+  "pillar": "Interactive Horror",
+  "category": "Interactive Horror",
+  "format": "short",
+  "status": "concept-proposal (Creative Director, 2026-11-19; not approved; awaiting owner review)",
+  "duration_target_s": 32,
+  "hook_line": "One thing in this kitchen is wrong. Find it.",
+  "first_visual": "Ivy's kitchen at 3 a.m. in a slow push; the window over the sink reflects the room.",
+  "beats": [
+    {
+      "t_s": 0,
+      "clip": 1,
+      "visual": "Slow push across the kitchen; the window over the sink reflects the room; in the reflection the kettle steams.",
+      "vo": "One thing in this kitchen is wrong. Find it.",
+      "sfx": "fridge hum"
+    },
+    {
+      "t_s": 4,
+      "clip": "post",
+      "visual": "On-screen 10-second timer over the continuing push (clip 1 extended/slowed).",
+      "vo": "",
+      "sfx": "ticks"
+    },
+    {
+      "t_s": 10,
+      "clip": 2,
+      "visual": "Ivy shuffles in, fills a glass at the sink, and doesn't look up.",
+      "vo": "I came down for water. Didn't notice. Did you?",
+      "sfx": "tap running"
+    },
+    {
+      "t_s": 16,
+      "clip": "post",
+      "visual": "Highlight circles: the cold real kettle, then the reflected kettle steaming.",
+      "vo": "The kettle in the glass is boiling. The real one's cold.",
+      "sfx": "tone"
+    },
+    {
+      "t_s": 21,
+      "clip": 3,
+      "visual": "Push into the reflection: a figure pours two cups and sets one at Ivy's reflected place.",
+      "vo": "Someone in there is making tea.",
+      "sfx": "pour"
+    },
+    {
+      "t_s": 26,
+      "clip": 4,
+      "visual": "Key moment: the reflected figure looks up; the real kettle clicks on; moth on the tea towel.",
+      "vo": "",
+      "sfx": "click, rising boil"
+    },
+    {
+      "t_s": 30,
+      "clip": "post",
+      "visual": "Card: 'How fast did you find it? Comment your time.'",
+      "vo": "",
+      "sfx": ""
+    }
+  ],
+  "ending": "The reflected figure looks up at Ivy's reflection; the real kettle clicks on by itself.",
+  "loop_note": "Yes. The last frame (kettle steaming in reality) loops to frame 1, where the kettle now matches the reflection.",
+  "interactive_prompt": {
+    "on_screen_question": "ONE THING IS WRONG. FIND IT. (10 s)",
+    "reveal": "in-video at 0:16 with highlight circles",
+    "comment_invite": "Comment how many seconds it took you.",
+    "fairness_note": "The steaming reflection is visible from frame 1. Red herrings (clock, ajar cupboard) are not claimed as the answer."
+  },
+  "environments": [
+    "E2 Night Kitchen"
+  ],
+  "characters": [
+    "CH-IVY",
+    "CH-TENANT",
+    "CH-MOTH"
+  ],
+  "animation_needs": [
+    {
+      "item": "Slow camera push across a dark kitchen; the window reflection shows a kettle steaming while the real one is still.",
+      "type": "flow-key-moment",
+      "clip": 1
+    },
+    {
+      "item": "Woman in pyjamas fills a glass at the sink without looking up.",
+      "type": "flow-simple-action",
+      "clip": 2
+    },
+    {
+      "item": "In a window reflection, a tall figure pours two cups of tea.",
+      "type": "flow-simple-action",
+      "clip": 3
+    },
+    {
+      "item": "A reflected figure looks up; a real kettle switches on by itself.",
+      "type": "flow-key-moment",
+      "clip": 4
+    },
+    {
+      "item": "On-screen 10-second timer over the continuing push (clip 1 extended/slowed).",
+      "type": "post-motion-graphics (animated overlay/UI/text; not a still)",
+      "clip": "post"
+    },
+    {
+      "item": "Highlight circles: the cold real kettle, then the reflected kettle steaming.",
+      "type": "post-motion-graphics (animated overlay/UI/text; not a still)",
+      "clip": "post"
+    },
+    {
+      "item": "Card: 'How fast did you find it? Comment your time.'",
+      "type": "post-motion-graphics (animated overlay/UI/text; not a still)",
+      "clip": "post"
+    },
+    {
+      "item": "tracked text/graphics composited onto Flow clips: timer",
+      "type": "post-motion-graphics",
+      "clip": "post"
+    }
+  ],
+  "est_production_effort": "low",
+  "production_effort": "low",
+  "flow_clips": [
+    {
+      "clip": 1,
+      "seconds": 8,
+      "use_s": 8,
+      "action": "Slow camera push across a dark kitchen; the window reflection shows a kettle steaming while the real one is still.",
+      "ingredients": [
+        "REF-E2-KITCHEN"
+      ],
+      "model": "fast",
+      "post_overlay": "timer"
+    },
+    {
+      "clip": 2,
+      "seconds": 6,
+      "use_s": 6,
+      "action": "Woman in pyjamas fills a glass at the sink without looking up.",
+      "ingredients": [
+        "REF-IVY",
+        "REF-E2-KITCHEN"
+      ],
+      "model": "lite",
+      "post_overlay": null
+    },
+    {
+      "clip": 3,
+      "seconds": 5,
+      "use_s": 5,
+      "action": "In a window reflection, a tall figure pours two cups of tea.",
+      "ingredients": [
+        "REF-TENANT",
+        "REF-E2-KITCHEN"
+      ],
+      "model": "lite",
+      "post_overlay": null
+    },
+    {
+      "clip": 4,
+      "seconds": 5,
+      "use_s": 5,
+      "action": "A reflected figure looks up; a real kettle switches on by itself.",
+      "ingredients": [
+        "REF-TENANT",
+        "REF-E2-KITCHEN",
+        "REF-MOTH"
+      ],
+      "model": "fast",
+      "post_overlay": null
+    }
+  ],
+  "flow_credits_est": {
+    "label": "estimate",
+    "basis": "owner brief 2026-11-19: Lite 10 / Fast 20 credits per generation; one retry per clip assumed; not measured",
+    "first_pass": 60,
+    "with_one_retry_each": 120,
+    "cap": 150
+  },
+  "word_count": 35,
+  "vo_wps_est": 1.09,
+  "originality_review": "Original spot-the-difference built on our kitchen kit. A wrong reflection is a common device; the second-kitchen tea-for-two payoff is ours. It does not copy the reflection twist in MW010.",
+  "scores": {
+    "topic_demand": 3,
+    "audience_curiosity": 4,
+    "hook_strength": 4,
+    "emotional_impact": 4,
+    "story_clarity": 5,
+    "suspense": 3,
+    "retention_potential": 5,
+    "rewatch_potential": 5,
+    "shareability": 4,
+    "production_complexity": 1,
+    "originality": 4,
+    "brand_suitability": 4
+  },
+  "scores_basis": "Initial editorial judgement, 2026-11-19. topic_demand is an estimate linked to research/WEEKLY_TREND_REPORT.md categories, not a measurement of this concept.",
+  "priority_est": 78.2,
+  "concept": "Spot-the-difference in Ivy's 3 a.m. kitchen. The wrong detail is in the window reflection: the reflected kettle is steaming while the real one is cold. Someone in the reflection is making tea for two, and then the real kettle clicks on.",
+  "hooks": [
+    {
+      "structure": "spot the wrong detail",
+      "line": "One thing in this kitchen is wrong. Find it.",
+      "first_visual": "Ivy's kitchen at 3 a.m. in a slow push; the window over the sink reflects the room."
+    },
+    {
+      "structure": "challenge",
+      "line": "Ten seconds. Find what's wrong before she does.",
+      "first_visual": "A kitchen frame with a subtle timer."
+    },
+    {
+      "structure": "wrong detail",
+      "line": "The kettle in the window is boiling. The real one isn't.",
+      "first_visual": "A cold kettle beside its steaming reflection."
+    },
+    {
+      "structure": "dread promise",
+      "line": "Someone in the reflection is making tea.",
+      "first_visual": "A reflected hand pouring two cups."
+    },
+    {
+      "structure": "question",
+      "line": "Did you check the glass?",
+      "first_visual": "A dark window over a sink."
+    }
+  ],
+  "setting": "Ivy's kitchen at night; the black window over the sink.",
+  "setting_type": "kit-e2",
+  "conflict": "Ivy doesn't notice; the viewer is challenged to.",
+  "escalation": "Timer, red herrings (clock, ajar cupboard), Ivy fetching water.",
+  "reveal": "Highlight: the steam exists only in the reflection.",
+  "emotional_objective": "Hunt, then 'it's been there all along'.",
+  "visual_requirements": [
+    "kitchen (E2) with reflective window",
+    "highlight circles (post)"
+  ],
+  "twist_type": "the-reflection-shows-another-kitchen",
+  "real_world_claims": "none (fiction; presented as 'A MOTHWAKE STORY')"
+}

@@ -37,11 +37,13 @@ def curl(url):
 
 
 def jvar(html, name):
-    m = re.search(r"var " + name + r" = (\{.*?\});(?:</script>|var )", html, re.S)
-    if not m:
+    """Decode the JSON object assigned to `var <name> = {...}` with a real JSON parser."""
+    i = html.find("var " + name + " = ")
+    if i < 0:
         return None
     try:
-        return json.loads(m.group(1))
+        obj, _ = json.JSONDecoder().raw_decode(html, i + len("var " + name + " = "))
+        return obj
     except ValueError:
         return None
 
@@ -82,15 +84,21 @@ def search(q, sp="EgIYAQ%253D%253D"):
     return out
 
 
-def short_detail(vid):
-    h = curl("https://www.youtube.com/shorts/" + vid)
-    pr = jvar(h, "ytInitialPlayerResponse") or {}
-    vd = pr.get("videoDetails", {})
+def short_detail(vid, tries=3):
+    # YouTube sometimes serves a page whose player response has no videoDetails;
+    # retry with a pause before recording the gap.
+    for attempt in range(tries):
+        h = curl("https://www.youtube.com/shorts/" + vid)
+        pr = jvar(h, "ytInitialPlayerResponse") or {}
+        vd = pr.get("videoDetails", {})
+        if vd.get("title"):
+            break
+        time.sleep(3 + 4 * attempt)
     mf = pr.get("microformat", {}).get("playerMicroformatRenderer", {})
     like = re.search(r'"likeCount":"(\d+)"', h)
     com = re.search(r'"accessibilityText":"View ([\d,\.KM]+) comments"', h)
     return {"id": vid, "title": vd.get("title"), "length_s": vd.get("lengthSeconds"),
-            "views": vd.get("viewCount"), "publish": mf.get("publishDate"),
+            "views": vd.get("viewCount") or mf.get("viewCount"), "publish": mf.get("publishDate"),
             "likes": like.group(1) if like else None,
             "comments": com.group(1) if com else None,
             "author": vd.get("author"), "channel_id": vd.get("channelId"),

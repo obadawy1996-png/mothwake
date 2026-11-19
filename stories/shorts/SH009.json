@@ -1,0 +1,243 @@
+{
+  "id": "SH009",
+  "title": "Still Counting",
+  "pillar": "Micro Horror Story",
+  "category": "Micro Horror Story",
+  "format": "short",
+  "status": "concept-proposal (Creative Director, 2026-11-19; not approved; awaiting owner review)",
+  "duration_target_s": 33,
+  "hook_line": "Theo always wins hide-and-seek. I learned why.",
+  "first_visual": "A dark pantry cupboard, door ajar; a small yellow-socked foot pulls back inside.",
+  "beats": [
+    {
+      "t_s": 0,
+      "clip": 1,
+      "visual": "Dark pantry, door ajar; a small yellow-socked foot pulls back inside.",
+      "vo": "Theo always wins hide-and-seek. I learned why.",
+      "sfx": "creak"
+    },
+    {
+      "t_s": 4,
+      "clip": 2,
+      "visual": "Ivy counts aloud against the fridge, eyes covered, then turns.",
+      "vo": "...nineteen, twenty. Coming.",
+      "sfx": "kitchen hum"
+    },
+    {
+      "t_s": 8,
+      "clip": 3,
+      "visual": "She opens the pantry at once: Theo crouched, terrified, finger to his lips.",
+      "vo": "'Shh. It's still counting.'",
+      "sfx": "door creak"
+    },
+    {
+      "t_s": 13,
+      "clip": 4,
+      "visual": "Silence; Ivy listens; a slow voice from deep in the flat counts on.",
+      "vo": "'...three thousand, four hundred and eleven...'",
+      "sfx": "distant slow voice"
+    },
+    {
+      "t_s": 19,
+      "clip": 4,
+      "visual": "Ivy's face: realisation.",
+      "vo": "He wasn't winning. He's been hiding. Since last winter.",
+      "sfx": "drone"
+    },
+    {
+      "t_s": 24,
+      "clip": "post",
+      "visual": "The counting stops (audio beat over held frame of the hallway).",
+      "vo": "'...ready or not.'",
+      "sfx": "silence, then a footstep"
+    },
+    {
+      "t_s": 27,
+      "clip": 5,
+      "visual": "Key moment: Theo pulls Ivy into the pantry; door shuts; two pairs of lamp-lit eyes; a tall shadow passes the crack.",
+      "vo": "'You're in the game now.'",
+      "sfx": "footsteps pass"
+    }
+  ],
+  "ending": "Theo pulls Ivy into the pantry. A tall shadow passes the crack. 'You're in the game now.'",
+  "loop_note": "Partial. It ends in the pantry; frame 1 is the pantry from outside.",
+  "interactive_prompt": null,
+  "environments": [
+    "E2 Night Kitchen"
+  ],
+  "characters": [
+    "CH-THEO",
+    "CH-IVY",
+    "CH-TENANT",
+    "CH-MOTH"
+  ],
+  "animation_needs": [
+    {
+      "item": "A small yellow-socked foot pulls back into a dark pantry cupboard.",
+      "type": "flow-simple-action",
+      "clip": 1
+    },
+    {
+      "item": "Woman covers her eyes against a fridge, then turns.",
+      "type": "flow-simple-action",
+      "clip": 2
+    },
+    {
+      "item": "Woman opens a pantry: a boy crouches with a finger to his lips.",
+      "type": "flow-simple-action",
+      "clip": 3
+    },
+    {
+      "item": "Woman stands still in a dark kitchen, listening, face slowly changing.",
+      "type": "flow-simple-action",
+      "clip": 4
+    },
+    {
+      "item": "Boy pulls woman into a pantry and shuts the door; through the crack a tall shadow passes.",
+      "type": "flow-key-moment",
+      "clip": 5
+    },
+    {
+      "item": "The counting stops (audio beat over held frame of the hallway).",
+      "type": "post-motion-graphics (animated overlay/UI/text; not a still)",
+      "clip": "post"
+    },
+    {
+      "item": "Watcher moth easter egg: 6-frame flutter sprite composited in post (one placement)",
+      "type": "post-motion-graphics",
+      "clip": "post"
+    }
+  ],
+  "est_production_effort": "low",
+  "production_effort": "low",
+  "flow_clips": [
+    {
+      "clip": 1,
+      "seconds": 4,
+      "use_s": 4,
+      "action": "A small yellow-socked foot pulls back into a dark pantry cupboard.",
+      "ingredients": [
+        "REF-THEO",
+        "REF-E2-KITCHEN"
+      ],
+      "model": "lite",
+      "post_overlay": null
+    },
+    {
+      "clip": 2,
+      "seconds": 4,
+      "use_s": 4,
+      "action": "Woman covers her eyes against a fridge, then turns.",
+      "ingredients": [
+        "REF-IVY",
+        "REF-E2-KITCHEN"
+      ],
+      "model": "lite",
+      "post_overlay": null
+    },
+    {
+      "clip": 3,
+      "seconds": 5,
+      "use_s": 5,
+      "action": "Woman opens a pantry: a boy crouches with a finger to his lips.",
+      "ingredients": [
+        "REF-IVY",
+        "REF-THEO",
+        "REF-E2-KITCHEN"
+      ],
+      "model": "lite",
+      "post_overlay": null
+    },
+    {
+      "clip": 4,
+      "seconds": 8,
+      "use_s": 8,
+      "action": "Woman stands still in a dark kitchen, listening, face slowly changing.",
+      "ingredients": [
+        "REF-IVY",
+        "REF-E2-KITCHEN"
+      ],
+      "model": "lite",
+      "post_overlay": null
+    },
+    {
+      "clip": 5,
+      "seconds": 6,
+      "use_s": 6,
+      "action": "Boy pulls woman into a pantry and shuts the door; through the crack a tall shadow passes.",
+      "ingredients": [
+        "REF-THEO",
+        "REF-IVY",
+        "REF-TENANT"
+      ],
+      "model": "fast",
+      "post_overlay": null
+    }
+  ],
+  "flow_credits_est": {
+    "label": "estimate",
+    "basis": "owner brief 2026-11-19: Lite 10 / Fast 20 credits per generation; one retry per clip assumed; not measured",
+    "first_pass": 60,
+    "with_one_retry_each": 120,
+    "cap": 150
+  },
+  "word_count": 45,
+  "vo_wps_est": 1.36,
+  "originality_review": "Original. A hide-and-seek game that never ended, with a counting entity, is our construction. It is not the 'hide and seek alone' ritual creepypasta: there is no doll and no ritual.",
+  "scores": {
+    "topic_demand": 3,
+    "audience_curiosity": 5,
+    "hook_strength": 4,
+    "emotional_impact": 4,
+    "story_clarity": 5,
+    "suspense": 4,
+    "retention_potential": 4,
+    "rewatch_potential": 4,
+    "shareability": 4,
+    "production_complexity": 2,
+    "originality": 4,
+    "brand_suitability": 4
+  },
+  "scores_basis": "Initial editorial judgement, 2026-11-19. topic_demand is an estimate linked to research/WEEKLY_TREND_REPORT.md categories, not a measurement of this concept.",
+  "priority_est": 76.6,
+  "concept": "Theo has not lost a game of hide-and-seek in a year. Ivy finds him at once because he was not hiding from her. Something else has been counting since last winter, and it has just reached 'ready or not'.",
+  "hooks": [
+    {
+      "structure": "record",
+      "line": "Theo always wins hide-and-seek. I learned why.",
+      "first_visual": "A dark pantry cupboard, door ajar; a small yellow-socked foot pulls back inside."
+    },
+    {
+      "structure": "whisper",
+      "line": "'Shh. It's still counting,' he whispered.",
+      "first_visual": "A boy crouched in a pantry, finger to his lips."
+    },
+    {
+      "structure": "number",
+      "line": "Three thousand four hundred and eleven. And counting.",
+      "first_visual": "A dark hallway; the voice comes from nowhere."
+    },
+    {
+      "structure": "wrong detail",
+      "line": "Nobody has found Theo in a year. I found him in five seconds.",
+      "first_visual": "A woman opening a cupboard door instantly."
+    },
+    {
+      "structure": "invitation",
+      "line": "You're in the game now.",
+      "first_visual": "Two pairs of eyes catching light in a dark cupboard."
+    }
+  ],
+  "setting": "Ivy's kitchen and the pantry cupboard; the dark flat beyond.",
+  "setting_type": "kit-e2",
+  "conflict": "Ivy plays a normal game, then has to understand Theo's terror.",
+  "escalation": "The whisper, the slow counting voice in the flat, then the count stopping.",
+  "reveal": "Theo has been hiding from something else for a year. 'Ready or not.'",
+  "emotional_objective": "A childhood game made deadly; protective dread.",
+  "visual_requirements": [
+    "kitchen + pantry (E2)",
+    "tall shadow pass"
+  ],
+  "twist_type": "the-game-never-ended",
+  "real_world_claims": "none (fiction; presented as 'A MOTHWAKE STORY')"
+}

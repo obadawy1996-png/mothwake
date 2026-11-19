@@ -1,0 +1,260 @@
+{
+  "id": "SH013",
+  "title": "The Previous Owners' Advent",
+  "pillar": "Micro Horror Story",
+  "category": "Micro Horror Story",
+  "format": "short",
+  "status": "concept-proposal (Creative Director, 2026-11-19; not approved; awaiting owner review)",
+  "duration_target_s": 38,
+  "hook_line": "Our advent calendar came with the flat.",
+  "first_visual": "A hand-painted advent calendar on a kitchen wall; door 1 open, a tiny painting of our building at night.",
+  "beats": [
+    {
+      "t_s": 0,
+      "clip": 1,
+      "visual": "Hand opens door 1 of a painted advent calendar; inside, a tiny painting of the building at night.",
+      "vo": "Our advent calendar came with the flat.",
+      "sfx": "paper tear, music box"
+    },
+    {
+      "t_s": 5,
+      "clip": "post",
+      "visual": "Montage of doors opening: in each painting one more window is dark (post-animated paintings).",
+      "vo": "Each day, one more window in the painting went dark.",
+      "sfx": "music box slows"
+    },
+    {
+      "t_s": 11,
+      "clip": 2,
+      "visual": "Ivy on Winter Lane looks up: the real windows are dark in the same pattern.",
+      "vo": "Then the real windows matched.",
+      "sfx": "wind"
+    },
+    {
+      "t_s": 16,
+      "clip": 3,
+      "visual": "Theo, guilty, opens door 24 early.",
+      "vo": "Theo opened twenty-four early.",
+      "sfx": "tear"
+    },
+    {
+      "t_s": 20,
+      "clip": "post",
+      "visual": "Painting 24: the whole building dark, a removal van, a new family looking up.",
+      "vo": "A removal van. A new family.",
+      "sfx": "sting"
+    },
+    {
+      "t_s": 25,
+      "clip": 4,
+      "visual": "Ivy opens door 25 herself.",
+      "vo": "Door twenty-five.",
+      "sfx": "tear"
+    },
+    {
+      "t_s": 28,
+      "clip": "post",
+      "visual": "Painting 25: the new family's Christmas; at our window, Ivy and Theo, pale, lamp-eyed.",
+      "vo": "Their first Christmas. And at our window, us.",
+      "sfx": "music box detunes"
+    },
+    {
+      "t_s": 33,
+      "clip": 5,
+      "visual": "Ivy turns the calendar over: a list of family names crossed out; MARR not yet crossed; moth on the hanging string.",
+      "vo": "Every family stays. One way or another.",
+      "sfx": "silence"
+    }
+  ],
+  "ending": "On the back, a list of family names, each crossed out except the newest: MARR.",
+  "loop_note": "No. It ends on the names list, a comment driver ('what happened to the others?').",
+  "interactive_prompt": null,
+  "environments": [
+    "E2 Night Kitchen",
+    "E6 Winter Lane"
+  ],
+  "characters": [
+    "CH-IVY",
+    "CH-THEO",
+    "CH-MOTH"
+  ],
+  "animation_needs": [
+    {
+      "item": "A hand opens a small paper door on a hand-painted advent calendar on a kitchen wall.",
+      "type": "flow-simple-action",
+      "clip": 1
+    },
+    {
+      "item": "Woman in winter coat looks up at an apartment building, windows dark in a pattern.",
+      "type": "flow-simple-action",
+      "clip": 2
+    },
+    {
+      "item": "Boy guiltily opens a calendar door early.",
+      "type": "flow-simple-action",
+      "clip": 3
+    },
+    {
+      "item": "Woman opens the last calendar door.",
+      "type": "flow-simple-action",
+      "clip": 4
+    },
+    {
+      "item": "Woman turns a calendar over and stares at the back.",
+      "type": "flow-key-moment",
+      "clip": 5
+    },
+    {
+      "item": "Montage of doors opening: in each painting one more window is dark (post-animated paintings).",
+      "type": "post-motion-graphics (animated overlay/UI/text; not a still)",
+      "clip": "post"
+    },
+    {
+      "item": "Painting 24: the whole building dark, a removal van, a new family looking up.",
+      "type": "post-motion-graphics (animated overlay/UI/text; not a still)",
+      "clip": "post"
+    },
+    {
+      "item": "Painting 25: the new family's Christmas; at our window, Ivy and Theo, pale, lamp-eyed.",
+      "type": "post-motion-graphics (animated overlay/UI/text; not a still)",
+      "clip": "post"
+    },
+    {
+      "item": "tracked text/graphics composited onto Flow clips: calendar numbers/paintings; door number; names list",
+      "type": "post-motion-graphics",
+      "clip": "post"
+    }
+  ],
+  "est_production_effort": "med",
+  "production_effort": "med",
+  "flow_clips": [
+    {
+      "clip": 1,
+      "seconds": 5,
+      "use_s": 5,
+      "action": "A hand opens a small paper door on a hand-painted advent calendar on a kitchen wall.",
+      "ingredients": [
+        "REF-IVY",
+        "REF-E2-KITCHEN"
+      ],
+      "model": "lite",
+      "post_overlay": "calendar numbers/paintings"
+    },
+    {
+      "clip": 2,
+      "seconds": 5,
+      "use_s": 5,
+      "action": "Woman in winter coat looks up at an apartment building, windows dark in a pattern.",
+      "ingredients": [
+        "REF-IVY",
+        "REF-E6-WINTERLANE"
+      ],
+      "model": "lite",
+      "post_overlay": null
+    },
+    {
+      "clip": 3,
+      "seconds": 4,
+      "use_s": 4,
+      "action": "Boy guiltily opens a calendar door early.",
+      "ingredients": [
+        "REF-THEO",
+        "REF-E2-KITCHEN"
+      ],
+      "model": "lite",
+      "post_overlay": "door number"
+    },
+    {
+      "clip": 4,
+      "seconds": 4,
+      "use_s": 3,
+      "action": "Woman opens the last calendar door.",
+      "ingredients": [
+        "REF-IVY",
+        "REF-E2-KITCHEN"
+      ],
+      "model": "lite",
+      "post_overlay": "door number"
+    },
+    {
+      "clip": 5,
+      "seconds": 5,
+      "use_s": 5,
+      "action": "Woman turns a calendar over and stares at the back.",
+      "ingredients": [
+        "REF-IVY",
+        "REF-E2-KITCHEN",
+        "REF-MOTH"
+      ],
+      "model": "fast",
+      "post_overlay": "names list"
+    }
+  ],
+  "flow_credits_est": {
+    "label": "estimate",
+    "basis": "owner brief 2026-11-19: Lite 10 / Fast 20 credits per generation; one retry per clip assumed; not measured",
+    "first_pass": 60,
+    "with_one_retry_each": 120,
+    "cap": 150
+  },
+  "word_count": 51,
+  "vo_wps_est": 1.34,
+  "originality_review": "Original. An inherited advent calendar that forecasts residents becoming the building's watchers is our own invention. It is not tied to Krampus or any folklore figure. Seasonal timing: publish before 1 December (WEEKLY_TREND_REPORT).",
+  "scores": {
+    "topic_demand": 4,
+    "audience_curiosity": 4,
+    "hook_strength": 4,
+    "emotional_impact": 4,
+    "story_clarity": 3,
+    "suspense": 4,
+    "retention_potential": 4,
+    "rewatch_potential": 4,
+    "shareability": 4,
+    "production_complexity": 3,
+    "originality": 5,
+    "brand_suitability": 4
+  },
+  "scores_basis": "Initial editorial judgement, 2026-11-19. topic_demand is an estimate linked to research/WEEKLY_TREND_REPORT.md categories, not a measurement of this concept.",
+  "priority_est": 74.2,
+  "concept": "An advent calendar left by the previous tenants paints the building one window darker each day. Behind door 25: the next family moving in, and at the upstairs window, Ivy and Theo, pale and watching.",
+  "hooks": [
+    {
+      "structure": "inheritance",
+      "line": "Our advent calendar came with the flat.",
+      "first_visual": "A hand-painted advent calendar on a kitchen wall; door 1 open, a tiny painting of our building at night."
+    },
+    {
+      "structure": "count escalation",
+      "line": "Every door: one more window in our building goes dark.",
+      "first_visual": "A row of open calendar doors, each painting darker."
+    },
+    {
+      "structure": "wrong detail",
+      "line": "Then the real windows matched the paintings.",
+      "first_visual": "A real apartment block at night, windows going out."
+    },
+    {
+      "structure": "rule break",
+      "line": "Theo opened door twenty-four early.",
+      "first_visual": "A small finger prising open a numbered paper door."
+    },
+    {
+      "structure": "reveal promise",
+      "line": "Door twenty-five showed who'd be watching next year.",
+      "first_visual": "Two pale faces at an upstairs window in a painting."
+    }
+  ],
+  "setting": "Ivy's kitchen wall; Winter Lane facing Vesper Court, December.",
+  "setting_type": "kit-e2",
+  "conflict": "Ivy dismisses it as a decoration until the real windows match.",
+  "escalation": "The painted windows go dark, then the real ones, then Theo opens 24 early.",
+  "reveal": "Door 25: a new family's first Christmas, and Ivy and Theo at the window, lamp-eyed.",
+  "emotional_objective": "Festive dread; a 'universe' hook for winter (G3).",
+  "visual_requirements": [
+    "calendar prop (painted doors animated in post)",
+    "building exterior (E6)",
+    "kitchen wall (E2)"
+  ],
+  "twist_type": "the-calendar-belongs-to-the-last-family",
+  "real_world_claims": "none (fiction; presented as 'A MOTHWAKE STORY')"
+}

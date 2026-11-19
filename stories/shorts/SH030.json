@@ -1,0 +1,260 @@
+{
+  "id": "SH030",
+  "title": "Three Moths",
+  "pillar": "Interactive Horror",
+  "category": "Interactive Horror",
+  "format": "short",
+  "status": "concept-proposal (Creative Director, 2026-11-19; not approved; awaiting owner review)",
+  "duration_target_s": 30,
+  "hook_line": "Three moths are hidden in this Short. Find them.",
+  "first_visual": "Winter Lane at night, snow falling past a streetlamp, an on-screen counter 'MOTHS FOUND 0/3'.",
+  "beats": [
+    {
+      "t_s": 0,
+      "clip": 1,
+      "visual": "Snow falling past a streetlamp; counter MOTHS FOUND 0/3 (post).",
+      "vo": "Three moths are hidden in this Short. Find them.",
+      "sfx": "wind"
+    },
+    {
+      "t_s": 4,
+      "clip": 2,
+      "visual": "Ivy with a shovel at 5 a.m.; moth 1 sits on the lamp head.",
+      "vo": "Every morning our path's already cleared. Nobody admits it.",
+      "sfx": "scrape"
+    },
+    {
+      "t_s": 10,
+      "clip": 2,
+      "visual": "Moth 2 is woven in Ivy's scarf pattern as she works.",
+      "vo": "So I got up first.",
+      "sfx": "scrape"
+    },
+    {
+      "t_s": 13,
+      "clip": 3,
+      "visual": "Ivy glances up at Dot's dark window: a moth-shaped mark on the glass.",
+      "vo": "Dot's away till Friday. Her flat's empty.",
+      "sfx": "wind"
+    },
+    {
+      "t_s": 17,
+      "clip": 4,
+      "visual": "Ivy stops; somewhere along the dark path, scraping continues.",
+      "vo": "I stopped shovelling. The scraping didn't.",
+      "sfx": "distant scrape"
+    },
+    {
+      "t_s": 21,
+      "clip": "post",
+      "visual": "Card: FOUND ALL THREE? PAUSE NOW. (2 s)",
+      "vo": "",
+      "sfx": "ticks"
+    },
+    {
+      "t_s": 23,
+      "clip": "post",
+      "visual": "Reveal circles on moths 1 and 2, then zoom on Dot's window: the wing-spots blink.",
+      "vo": "That third one isn't a moth.",
+      "sfx": "tone"
+    },
+    {
+      "t_s": 27,
+      "clip": 5,
+      "visual": "Key moment: the wing-spots blink in the dark window; black; the scraping stops just behind camera.",
+      "vo": "",
+      "sfx": "scrape stops, breath"
+    }
+  ],
+  "ending": "Black. The scraping stops right behind the camera.",
+  "loop_note": "Yes. Viewers rewatch to find the moths; the counter resets on frame 1.",
+  "interactive_prompt": {
+    "on_screen_question": "THREE MOTHS ARE HIDDEN. FIND THEM.",
+    "reveal": "in-video at 0:23 with circles",
+    "comment_invite": "Comment the timestamp where you found each one.",
+    "fairness_note": "All three are visible on screen before the reveal. Moth 3 is honestly a moth-shaped thing, and the narration says 'isn't a moth' at the reveal."
+  },
+  "environments": [
+    "E6 Winter Lane"
+  ],
+  "characters": [
+    "CH-IVY",
+    "CH-MOTH",
+    "CH-TENANT"
+  ],
+  "animation_needs": [
+    {
+      "item": "Snow falls past a warm streetlamp on a quiet residential street before dawn.",
+      "type": "flow-simple-action",
+      "clip": 1
+    },
+    {
+      "item": "Woman in a rust scarf shovels a snowy path under a streetlamp.",
+      "type": "flow-simple-action",
+      "clip": 2
+    },
+    {
+      "item": "Woman glances up at a dark upstairs window.",
+      "type": "flow-simple-action",
+      "clip": 3
+    },
+    {
+      "item": "Woman freezes mid-shovel, listening down the dark path.",
+      "type": "flow-simple-action",
+      "clip": 4
+    },
+    {
+      "item": "Two spots on a dark window, shaped like moth wings, blink like eyes.",
+      "type": "flow-key-moment",
+      "clip": 5
+    },
+    {
+      "item": "Card: FOUND ALL THREE? PAUSE NOW. (2 s)",
+      "type": "post-motion-graphics (animated overlay/UI/text; not a still)",
+      "clip": "post"
+    },
+    {
+      "item": "Reveal circles on moths 1 and 2, then zoom on Dot's window: the wing-spots blink.",
+      "type": "post-motion-graphics (animated overlay/UI/text; not a still)",
+      "clip": "post"
+    },
+    {
+      "item": "tracked text/graphics composited onto Flow clips: counter",
+      "type": "post-motion-graphics",
+      "clip": "post"
+    }
+  ],
+  "est_production_effort": "low",
+  "production_effort": "low",
+  "flow_clips": [
+    {
+      "clip": 1,
+      "seconds": 4,
+      "use_s": 4,
+      "action": "Snow falls past a warm streetlamp on a quiet residential street before dawn.",
+      "ingredients": [
+        "REF-E6-WINTERLANE",
+        "REF-MOTH"
+      ],
+      "model": "lite",
+      "post_overlay": "counter"
+    },
+    {
+      "clip": 2,
+      "seconds": 8,
+      "use_s": 8,
+      "action": "Woman in a rust scarf shovels a snowy path under a streetlamp.",
+      "ingredients": [
+        "REF-IVY",
+        "REF-E6-WINTERLANE",
+        "REF-MOTH"
+      ],
+      "model": "lite",
+      "post_overlay": null
+    },
+    {
+      "clip": 3,
+      "seconds": 4,
+      "use_s": 4,
+      "action": "Woman glances up at a dark upstairs window.",
+      "ingredients": [
+        "REF-IVY",
+        "REF-E6-WINTERLANE"
+      ],
+      "model": "lite",
+      "post_overlay": null
+    },
+    {
+      "clip": 4,
+      "seconds": 5,
+      "use_s": 5,
+      "action": "Woman freezes mid-shovel, listening down the dark path.",
+      "ingredients": [
+        "REF-IVY",
+        "REF-E6-WINTERLANE"
+      ],
+      "model": "lite",
+      "post_overlay": null
+    },
+    {
+      "clip": 5,
+      "seconds": 4,
+      "use_s": 4,
+      "action": "Two spots on a dark window, shaped like moth wings, blink like eyes.",
+      "ingredients": [
+        "REF-TENANT",
+        "REF-E6-WINTERLANE",
+        "REF-MOTH"
+      ],
+      "model": "fast",
+      "post_overlay": null
+    }
+  ],
+  "flow_credits_est": {
+    "label": "estimate",
+    "basis": "owner brief 2026-11-19: Lite 10 / Fast 20 credits per generation; one retry per clip assumed; not measured",
+    "first_pass": 60,
+    "with_one_retry_each": 120,
+    "cap": 150
+  },
+  "word_count": 42,
+  "vo_wps_est": 1.4,
+  "originality_review": "Original hidden-object hunt using our own Watcher moth easter egg. The snow-shovelling mystery is ours.",
+  "scores": {
+    "topic_demand": 3,
+    "audience_curiosity": 4,
+    "hook_strength": 4,
+    "emotional_impact": 3,
+    "story_clarity": 4,
+    "suspense": 3,
+    "retention_potential": 4,
+    "rewatch_potential": 4,
+    "shareability": 4,
+    "production_complexity": 1,
+    "originality": 4,
+    "brand_suitability": 5
+  },
+  "scores_basis": "Initial editorial judgement, 2026-11-19. topic_demand is an estimate linked to research/WEEKLY_TREND_REPORT.md categories, not a measurement of this concept.",
+  "priority_est": 73.4,
+  "concept": "A hidden-object hunt: three moths are in the Short. Ivy gets up early to catch whoever clears the path each night. The third 'moth', on Dot's dark window, has wing-spots that blink. They are eyes, and the scraping continues behind her.",
+  "hooks": [
+    {
+      "structure": "hidden-object dare",
+      "line": "Three moths are hidden in this Short. Find them.",
+      "first_visual": "Winter Lane at night, snow falling past a streetlamp, an on-screen counter 'MOTHS FOUND 0/3'."
+    },
+    {
+      "structure": "mystery",
+      "line": "Someone clears our path every night. Nobody admits it.",
+      "first_visual": "A freshly shovelled path at dawn, no footprints."
+    },
+    {
+      "structure": "wrong detail",
+      "line": "Dot's away. Something's at her window.",
+      "first_visual": "An upstairs window with a moth-shaped mark on the glass."
+    },
+    {
+      "structure": "sound",
+      "line": "I stopped shovelling. The scraping didn't.",
+      "first_visual": "A shovel blade frozen above snow."
+    },
+    {
+      "structure": "reveal promise",
+      "line": "That third one isn't a moth.",
+      "first_visual": "Wing-spots on a dark window that blink."
+    }
+  ],
+  "setting": "Winter Lane outside Vesper Court before dawn; Dot's upstairs window.",
+  "setting_type": "kit-e6",
+  "conflict": "Ivy wants to catch the night shoveller; the viewer hunts moths.",
+  "escalation": "Moth 1 on the lamp, moth 2 in her scarf pattern, moth 3 on Dot's window; the phantom scrape.",
+  "reveal": "Moth 3's wing-spots blink: lamp-lit eyes of the Tenant in Dot's empty flat.",
+  "emotional_objective": "Playful hunt, then a jolt; a brand easter-egg showcase.",
+  "visual_requirements": [
+    "Winter Lane (E6)",
+    "moth placements",
+    "counter and circles (post)"
+  ],
+  "twist_type": "the-third-moth-is-eyes",
+  "real_world_claims": "none (fiction; presented as 'A MOTHWAKE STORY')"
+}

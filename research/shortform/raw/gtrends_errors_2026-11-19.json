@@ -1,0 +1,8 @@
+[
+ {
+  "t": "2026-11-19T21:20:28Z",
+  "path": "/trends/api/widgetdata/relatedsearches",
+  "code": "429",
+  "backoff_next": 0
+ }
+]

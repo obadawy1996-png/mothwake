@@ -1,0 +1,208 @@
+{
+  "id": "SH002",
+  "title": "Nine Snow Angels",
+  "pillar": "Micro Horror Story",
+  "category": "Micro Horror Story",
+  "format": "short",
+  "status": "concept-proposal (Creative Director, 2026-11-19; not approved; awaiting owner review)",
+  "duration_target_s": 30,
+  "hook_line": "Theo made one snow angel. By morning there were nine.",
+  "first_visual": "Top-down: a small snow angel in a dark garden, a much larger one beside it.",
+  "beats": [
+    {
+      "t_s": 0,
+      "clip": 1,
+      "visual": "Top-down: a small angel by the gate, and beside it one twice the size.",
+      "vo": "Theo made one snow angel. By morning there were nine.",
+      "sfx": "wind, soft crunch"
+    },
+    {
+      "t_s": 5,
+      "clip": 1,
+      "visual": "Same shot: the camera rises to reveal more angels down the lane, with no tracks.",
+      "vo": "No footprints. Each one bigger than the last.",
+      "sfx": "wind"
+    },
+    {
+      "t_s": 9,
+      "clip": 2,
+      "visual": "Ivy in boots follows the line to the building; the last angel is upright on the wall by Theo's window.",
+      "vo": "The last one wasn't on the ground.",
+      "sfx": "boot crunch, breath"
+    },
+    {
+      "t_s": 15,
+      "clip": 3,
+      "visual": "Ivy bursts into Theo's room; he is asleep; the window is frosted.",
+      "vo": "He was fine. Asleep.",
+      "sfx": "door, heartbeat"
+    },
+    {
+      "t_s": 20,
+      "clip": 4,
+      "visual": "Close on the window: a winged frost shape, crisp, on the inside of the glass.",
+      "vo": "Then I saw the frost.",
+      "sfx": "ice tick"
+    },
+    {
+      "t_s": 25,
+      "clip": 4,
+      "visual": "Key moment: the frost arms sweep slowly as if lying in snow; Theo smiles; tiny moth in the frost.",
+      "vo": "It was on the inside. Still making it.",
+      "sfx": "scrape of frost, low drone"
+    }
+  ],
+  "ending": "Its frosted arms sweep slowly while Theo smiles in his sleep.",
+  "loop_note": "Partial. It ends on the frost angel moving; frame 1 shows an outdoor angel. The visual rhyme invites a rewatch rather than a seamless loop.",
+  "interactive_prompt": null,
+  "environments": [
+    "E6 Winter Lane",
+    "E3 Small Bedroom"
+  ],
+  "characters": [
+    "CH-THEO",
+    "CH-IVY",
+    "CH-MOTH"
+  ],
+  "animation_needs": [
+    {
+      "item": "Top-down camera rises over a snowy street revealing a line of growing snow angels.",
+      "type": "flow-simple-action",
+      "clip": 1
+    },
+    {
+      "item": "Ivy walks through snow following the angels to an upright imprint on a brick wall.",
+      "type": "flow-simple-action",
+      "clip": 2
+    },
+    {
+      "item": "Ivy opens a bedroom door; a boy sleeps; the window is frosted.",
+      "type": "flow-simple-action",
+      "clip": 3
+    },
+    {
+      "item": "Winged frost shape on the inside of a window slowly sweeps its arms.",
+      "type": "flow-key-moment",
+      "clip": 4
+    }
+  ],
+  "est_production_effort": "low",
+  "production_effort": "low",
+  "flow_clips": [
+    {
+      "clip": 1,
+      "seconds": 8,
+      "use_s": 8,
+      "action": "Top-down camera rises over a snowy street revealing a line of growing snow angels.",
+      "ingredients": [
+        "REF-E6-WINTERLANE"
+      ],
+      "model": "lite",
+      "post_overlay": null
+    },
+    {
+      "clip": 2,
+      "seconds": 6,
+      "use_s": 6,
+      "action": "Ivy walks through snow following the angels to an upright imprint on a brick wall.",
+      "ingredients": [
+        "REF-IVY",
+        "REF-E6-WINTERLANE"
+      ],
+      "model": "lite",
+      "post_overlay": null
+    },
+    {
+      "clip": 3,
+      "seconds": 5,
+      "use_s": 5,
+      "action": "Ivy opens a bedroom door; a boy sleeps; the window is frosted.",
+      "ingredients": [
+        "REF-IVY",
+        "REF-THEO",
+        "REF-E3-BEDROOM"
+      ],
+      "model": "lite",
+      "post_overlay": null
+    },
+    {
+      "clip": 4,
+      "seconds": 8,
+      "use_s": 8,
+      "action": "Winged frost shape on the inside of a window slowly sweeps its arms.",
+      "ingredients": [
+        "REF-E3-BEDROOM",
+        "REF-MOTH"
+      ],
+      "model": "fast",
+      "post_overlay": null
+    }
+  ],
+  "flow_credits_est": {
+    "label": "estimate",
+    "basis": "owner brief 2026-11-19: Lite 10 / Fast 20 credits per generation; one retry per clip assumed; not measured",
+    "first_pass": 50,
+    "with_one_retry_each": 100,
+    "cap": 150
+  },
+  "word_count": 42,
+  "vo_wps_est": 1.4,
+  "originality_review": "Original. A trail of objects that 'climbs' indoors is our own winter variant; it avoids the snowman, footprint and knock tropes. Seasonal fit (G3).",
+  "scores": {
+    "topic_demand": 4,
+    "audience_curiosity": 5,
+    "hook_strength": 5,
+    "emotional_impact": 4,
+    "story_clarity": 5,
+    "suspense": 4,
+    "retention_potential": 4,
+    "rewatch_potential": 4,
+    "shareability": 4,
+    "production_complexity": 2,
+    "originality": 4,
+    "brand_suitability": 4
+  },
+  "scores_basis": "Initial editorial judgement, 2026-11-19. topic_demand is an estimate linked to research/WEEKLY_TREND_REPORT.md categories, not a measurement of this concept.",
+  "priority_est": 82.3,
+  "concept": "A boy makes one snow angel at dusk. By morning a line of ever-larger angels with no footprints leads to the building, up the wall, and inside his frosted window, where one is still being made.",
+  "hooks": [
+    {
+      "structure": "count escalation",
+      "line": "Theo made one snow angel. By morning there were nine.",
+      "first_visual": "Top-down: a small snow angel in a dark garden, a much larger one beside it."
+    },
+    {
+      "structure": "wrong detail",
+      "line": "Nine snow angels, and not one footprint.",
+      "first_visual": "Crane shot: a line of snow angels down a snowy street, no tracks between them."
+    },
+    {
+      "structure": "question with visual answer",
+      "line": "Who finished my nephew's snow angels?",
+      "first_visual": "A child's mitten lying beside a snow angel twice his size."
+    },
+    {
+      "structure": "impossible situation",
+      "line": "The last snow angel was on the wall.",
+      "first_visual": "An upright snow-angel imprint pressed into the snow on a brick wall beside a window."
+    },
+    {
+      "structure": "dread promise",
+      "line": "I followed the snow angels. They ended in his room.",
+      "first_visual": "Frost on a child's window shaped like wings."
+    }
+  ],
+  "setting": "Winter Lane outside Vesper Court, after fresh snow; Theo's bedroom window.",
+  "setting_type": "kit-e6",
+  "conflict": "Ivy needs to know what made the angels and whether Theo is safe.",
+  "escalation": "The angels get bigger with no tracks, climb the wall, then appear on the inside of the frost.",
+  "reveal": "The frost angel is on the inside of the glass. It is in the room.",
+  "emotional_objective": "Winter wonder turned to intrusion.",
+  "visual_requirements": [
+    "snowy street, top-down (E6)",
+    "building wall",
+    "Theo's window frost (E3)"
+  ],
+  "twist_type": "the-trail-ends-inside",
+  "real_world_claims": "none (fiction; presented as 'A MOTHWAKE STORY')"
+}

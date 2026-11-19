@@ -1,0 +1,240 @@
+{
+  "id": "SH015",
+  "title": "They Fixed the Streetlamp",
+  "pillar": "Micro Horror Story",
+  "category": "Micro Horror Story",
+  "format": "short",
+  "status": "concept-proposal (Creative Director, 2026-11-19; not approved; awaiting owner review)",
+  "duration_target_s": 33,
+  "hook_line": "I reported the broken streetlamp. They fixed it.",
+  "first_visual": "A dead streetlamp outside a window; under it, a shape darker than the night.",
+  "beats": [
+    {
+      "t_s": 0,
+      "clip": 1,
+      "visual": "Dead streetlamp beyond Ivy's window; beneath it, a shape darker than the dark.",
+      "vo": "I reported the broken streetlamp. They fixed it.",
+      "sfx": "wind"
+    },
+    {
+      "t_s": 4,
+      "clip": "post",
+      "visual": "Phone form: 'Lamp WL-14 not working' (UI overlay).",
+      "vo": "Three years outside my window. Dead.",
+      "sfx": "taps"
+    },
+    {
+      "t_s": 8,
+      "clip": 2,
+      "visual": "Next night: the lamp blinks on, warm; Ivy smiles at the window.",
+      "vo": "They fixed it overnight.",
+      "sfx": "buzz, click"
+    },
+    {
+      "t_s": 11,
+      "clip": 2,
+      "visual": "In the cone, a tall figure stands beneath, face up toward the lamp.",
+      "vo": "And I saw what stood under it.",
+      "sfx": "drone"
+    },
+    {
+      "t_s": 16,
+      "clip": "post",
+      "visual": "Flicker-cut through old dark nights; the darker shape in every one (re-graded clip 1).",
+      "vo": "Every night. Three years.",
+      "sfx": "flicker"
+    },
+    {
+      "t_s": 20,
+      "clip": 3,
+      "visual": "Key moment: the figure slowly lowers its gaze from the lamp to Ivy's window; lamp eyes.",
+      "vo": "It had never been able to see me either.",
+      "sfx": "drone swell"
+    },
+    {
+      "t_s": 25,
+      "clip": 4,
+      "visual": "Ivy slaps off her bedroom light.",
+      "vo": "I turned my light off.",
+      "sfx": "switch"
+    },
+    {
+      "t_s": 28,
+      "clip": "post",
+      "visual": "Streetlamp clicks off; ping: 'Fault reported by resident. We're sending someone round.' Moth on the lamp.",
+      "vo": "",
+      "sfx": "ping, silence"
+    }
+  ],
+  "ending": "She kills her light, too late. The lamp clicks off. Ping: 'Fault reported by resident. We're sending someone round.'",
+  "loop_note": "Yes. The final dark lamp equals frame 1, now with the knowledge of what stands beneath.",
+  "interactive_prompt": null,
+  "environments": [
+    "E6 Winter Lane",
+    "E3 Small Bedroom",
+    "E7 Phone Screen (post-only UI kit)"
+  ],
+  "characters": [
+    "CH-IVY",
+    "CH-TENANT",
+    "CH-MOTH"
+  ],
+  "animation_needs": [
+    {
+      "item": "Night view from a window: a dead streetlamp over snow, a dark shape beneath.",
+      "type": "flow-simple-action",
+      "clip": 1
+    },
+    {
+      "item": "The streetlamp blinks on revealing a tall figure standing beneath it, face up.",
+      "type": "flow-simple-action",
+      "clip": 2
+    },
+    {
+      "item": "A tall figure under a streetlamp slowly lowers its gaze toward the camera.",
+      "type": "flow-key-moment",
+      "clip": 3
+    },
+    {
+      "item": "Woman at a window hits the light switch; room goes dark.",
+      "type": "flow-simple-action",
+      "clip": 4
+    },
+    {
+      "item": "Phone form: 'Lamp WL-14 not working' (UI overlay).",
+      "type": "post-motion-graphics (animated overlay/UI/text; not a still)",
+      "clip": "post"
+    },
+    {
+      "item": "Flicker-cut through old dark nights; the darker shape in every one (re-graded clip 1).",
+      "type": "post-motion-graphics (animated overlay/UI/text; not a still)",
+      "clip": "post"
+    },
+    {
+      "item": "Streetlamp clicks off; ping: 'Fault reported by resident. We're sending someone round.' Moth on the lamp.",
+      "type": "post-motion-graphics (animated overlay/UI/text; not a still)",
+      "clip": "post"
+    }
+  ],
+  "est_production_effort": "low",
+  "production_effort": "low",
+  "flow_clips": [
+    {
+      "clip": 1,
+      "seconds": 4,
+      "use_s": 4,
+      "action": "Night view from a window: a dead streetlamp over snow, a dark shape beneath.",
+      "ingredients": [
+        "REF-E6-WINTERLANE",
+        "REF-TENANT"
+      ],
+      "model": "lite",
+      "post_overlay": null
+    },
+    {
+      "clip": 2,
+      "seconds": 8,
+      "use_s": 8,
+      "action": "The streetlamp blinks on revealing a tall figure standing beneath it, face up.",
+      "ingredients": [
+        "REF-E6-WINTERLANE",
+        "REF-TENANT",
+        "REF-MOTH"
+      ],
+      "model": "lite",
+      "post_overlay": null
+    },
+    {
+      "clip": 3,
+      "seconds": 5,
+      "use_s": 5,
+      "action": "A tall figure under a streetlamp slowly lowers its gaze toward the camera.",
+      "ingredients": [
+        "REF-TENANT",
+        "REF-E6-WINTERLANE"
+      ],
+      "model": "fast",
+      "post_overlay": null
+    },
+    {
+      "clip": 4,
+      "seconds": 4,
+      "use_s": 3,
+      "action": "Woman at a window hits the light switch; room goes dark.",
+      "ingredients": [
+        "REF-IVY",
+        "REF-E3-BEDROOM"
+      ],
+      "model": "lite",
+      "post_overlay": null
+    }
+  ],
+  "flow_credits_est": {
+    "label": "estimate",
+    "basis": "owner brief 2026-11-19: Lite 10 / Fast 20 credits per generation; one retry per clip assumed; not measured",
+    "first_pass": 50,
+    "with_one_retry_each": 100,
+    "cap": 150
+  },
+  "word_count": 43,
+  "vo_wps_est": 1.3,
+  "originality_review": "Original and on-brand (light reveals both ways). It does not use the porch-light/door premise flagged in research; this is a public streetlamp and a mutual-sight twist.",
+  "scores": {
+    "topic_demand": 3,
+    "audience_curiosity": 5,
+    "hook_strength": 5,
+    "emotional_impact": 4,
+    "story_clarity": 5,
+    "suspense": 4,
+    "retention_potential": 4,
+    "rewatch_potential": 5,
+    "shareability": 5,
+    "production_complexity": 2,
+    "originality": 5,
+    "brand_suitability": 5
+  },
+  "scores_basis": "Initial editorial judgement, 2026-11-19. topic_demand is an estimate linked to research/WEEKLY_TREND_REPORT.md categories, not a measurement of this concept.",
+  "priority_est": 87.9,
+  "concept": "Ivy reports the dead streetlamp outside her window. Fixed, its light reveals a tall figure that has stood beneath it every night. Now that the street is lit, it can see her too.",
+  "hooks": [
+    {
+      "structure": "good news inverted",
+      "line": "I reported the broken streetlamp. They fixed it.",
+      "first_visual": "A dead streetlamp outside a window; under it, a shape darker than the night."
+    },
+    {
+      "structure": "reveal promise",
+      "line": "For three years I couldn't see what stood under it.",
+      "first_visual": "A warm lamp cone flicking on over snow."
+    },
+    {
+      "structure": "wrong detail",
+      "line": "The lamp's fixed. Someone's standing under it.",
+      "first_visual": "A tall figure in a pool of lamplight, face up."
+    },
+    {
+      "structure": "mutual sight",
+      "line": "The dark wasn't hiding it from me. It was hiding me.",
+      "first_visual": "A figure lowering its gaze to a lit window."
+    },
+    {
+      "structure": "app message",
+      "line": "'We're sending someone round.'",
+      "first_visual": "A council-style form confirmation on a phone."
+    }
+  ],
+  "setting": "Ivy's bedroom window over Winter Lane; streetlamp WL-14.",
+  "setting_type": "kit-e6",
+  "conflict": "Ivy wants the street lit, and gets what she asked for.",
+  "escalation": "The lamp comes on, the figure is revealed, flashback flickers show it was always there, and its gaze lowers.",
+  "reveal": "The darkness had protected her: neither could see the other.",
+  "emotional_objective": "Moth-to-light brand metaphor made literal.",
+  "visual_requirements": [
+    "window POV of the street (E6)",
+    "lamp-on cone",
+    "Tenant under the lamp",
+    "phone form UI (E7)"
+  ],
+  "twist_type": "the-dark-was-hiding-you-from-it",
+  "real_world_claims": "none (fiction; presented as 'A MOTHWAKE STORY')"
+}

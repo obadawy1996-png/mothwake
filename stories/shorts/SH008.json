@@ -1,0 +1,227 @@
+{
+  "id": "SH008",
+  "title": "Footprints Ahead",
+  "pillar": "Micro Horror Story",
+  "category": "Micro Horror Story",
+  "format": "short",
+  "status": "concept-proposal (Creative Director, 2026-11-19; not approved; awaiting owner review)",
+  "duration_target_s": 30,
+  "hook_line": "Footprints appeared in the snow ahead of me.",
+  "first_visual": "An untouched snowy path under a streetlamp; one footprint presses itself in, nobody there.",
+  "beats": [
+    {
+      "t_s": 0,
+      "clip": 1,
+      "visual": "Snowy path; a footprint presses itself into the snow, then another.",
+      "vo": "Footprints appeared in the snow ahead of me.",
+      "sfx": "crunch, wind"
+    },
+    {
+      "t_s": 5,
+      "clip": 2,
+      "visual": "Ivy in the blizzard follows the prints, which steer around an icy drain.",
+      "vo": "Whiteout. Couldn't see the kerb. They kept me off the ice.",
+      "sfx": "wind, crunch"
+    },
+    {
+      "t_s": 12,
+      "clip": 3,
+      "visual": "At the building door the prints stop; Ivy smiles.",
+      "vo": "I said thank you. To nobody.",
+      "sfx": "door handle"
+    },
+    {
+      "t_s": 16,
+      "clip": 4,
+      "visual": "Close on the last print: the toes point at her.",
+      "vo": "Then I saw which way the toes pointed.",
+      "sfx": "sting"
+    },
+    {
+      "t_s": 20,
+      "clip": 4,
+      "visual": "Pull back down the lane: every print faces her.",
+      "vo": "All the way home. Backwards. Watching me.",
+      "sfx": "drone"
+    },
+    {
+      "t_s": 25,
+      "clip": 5,
+      "visual": "Key moment: new prints stamp toward her fast, forwards now; cut to black on the last crunch.",
+      "vo": "",
+      "sfx": "rapid crunches, cut"
+    }
+  ],
+  "ending": "New prints begin, forwards this time, coming at her fast. Cut to black on a crunch.",
+  "loop_note": "Partial. The final rush of prints mirrors the first print appearing.",
+  "interactive_prompt": null,
+  "environments": [
+    "E6 Winter Lane"
+  ],
+  "characters": [
+    "CH-IVY",
+    "CH-TENANT",
+    "CH-MOTH"
+  ],
+  "animation_needs": [
+    {
+      "item": "Footprints press themselves into fresh snow under a streetlamp, nobody visible.",
+      "type": "flow-simple-action",
+      "clip": 1
+    },
+    {
+      "item": "Woman in a blizzard follows a trail of footprints around an icy drain.",
+      "type": "flow-simple-action",
+      "clip": 2
+    },
+    {
+      "item": "Woman at a building door smiles and says thank you to an empty path.",
+      "type": "flow-simple-action",
+      "clip": 3
+    },
+    {
+      "item": "Close-up of a footprint, camera pulls back along a trail of prints all facing the camera.",
+      "type": "flow-simple-action",
+      "clip": 4
+    },
+    {
+      "item": "Footprints stamp rapidly toward the camera through snow.",
+      "type": "flow-key-moment",
+      "clip": 5
+    },
+    {
+      "item": "Watcher moth easter egg: 6-frame flutter sprite composited in post (one placement)",
+      "type": "post-motion-graphics",
+      "clip": "post"
+    }
+  ],
+  "est_production_effort": "low",
+  "production_effort": "low",
+  "flow_clips": [
+    {
+      "clip": 1,
+      "seconds": 5,
+      "use_s": 5,
+      "action": "Footprints press themselves into fresh snow under a streetlamp, nobody visible.",
+      "ingredients": [
+        "REF-E6-WINTERLANE"
+      ],
+      "model": "lite",
+      "post_overlay": null
+    },
+    {
+      "clip": 2,
+      "seconds": 7,
+      "use_s": 7,
+      "action": "Woman in a blizzard follows a trail of footprints around an icy drain.",
+      "ingredients": [
+        "REF-IVY",
+        "REF-E6-WINTERLANE"
+      ],
+      "model": "lite",
+      "post_overlay": null
+    },
+    {
+      "clip": 3,
+      "seconds": 4,
+      "use_s": 4,
+      "action": "Woman at a building door smiles and says thank you to an empty path.",
+      "ingredients": [
+        "REF-IVY",
+        "REF-E6-WINTERLANE"
+      ],
+      "model": "lite",
+      "post_overlay": null
+    },
+    {
+      "clip": 4,
+      "seconds": 8,
+      "use_s": 8,
+      "action": "Close-up of a footprint, camera pulls back along a trail of prints all facing the camera.",
+      "ingredients": [
+        "REF-E6-WINTERLANE"
+      ],
+      "model": "lite",
+      "post_overlay": null
+    },
+    {
+      "clip": 5,
+      "seconds": 5,
+      "use_s": 5,
+      "action": "Footprints stamp rapidly toward the camera through snow.",
+      "ingredients": [
+        "REF-E6-WINTERLANE",
+        "REF-TENANT"
+      ],
+      "model": "fast",
+      "post_overlay": null
+    }
+  ],
+  "flow_credits_est": {
+    "label": "estimate",
+    "basis": "owner brief 2026-11-19: Lite 10 / Fast 20 credits per generation; one retry per clip assumed; not measured",
+    "first_pass": 60,
+    "with_one_retry_each": 120,
+    "cap": 150
+  },
+  "word_count": 40,
+  "vo_wps_est": 1.33,
+  "originality_review": "Original. This uses the snow-footprint image but inverts it: the helper faces you. It avoids the 'tracks with no return' and skinwalker tropes. Seasonal fit (G3).",
+  "scores": {
+    "topic_demand": 4,
+    "audience_curiosity": 5,
+    "hook_strength": 5,
+    "emotional_impact": 4,
+    "story_clarity": 5,
+    "suspense": 4,
+    "retention_potential": 4,
+    "rewatch_potential": 5,
+    "shareability": 5,
+    "production_complexity": 2,
+    "originality": 4,
+    "brand_suitability": 4
+  },
+  "scores_basis": "Initial editorial judgement, 2026-11-19. topic_demand is an estimate linked to research/WEEKLY_TREND_REPORT.md categories, not a measurement of this concept.",
+  "priority_est": 85.5,
+  "concept": "In a whiteout, invisible footprints lead Ivy safely home. At her door she realises the toes all point toward her. It walked backwards the whole way, facing her.",
+  "hooks": [
+    {
+      "structure": "impossible situation",
+      "line": "Footprints appeared in the snow ahead of me.",
+      "first_visual": "An untouched snowy path under a streetlamp; one footprint presses itself in, nobody there."
+    },
+    {
+      "structure": "gratitude inverted",
+      "line": "Invisible footprints walked me home. I said thank you.",
+      "first_visual": "A woman smiling at an empty path."
+    },
+    {
+      "structure": "wrong detail",
+      "line": "Look which way the toes were pointing.",
+      "first_visual": "Close-up: a bare footprint in snow, toes facing camera."
+    },
+    {
+      "structure": "dread promise",
+      "line": "It walked me home. Backwards. Watching me.",
+      "first_visual": "A long line of prints all facing toward the viewer."
+    },
+    {
+      "structure": "question with visual answer",
+      "line": "Who was leading me through the blizzard?",
+      "first_visual": "Heavy snow, a single line of fresh prints."
+    }
+  ],
+  "setting": "Winter Lane in a blizzard; streetlamp cones; kerb and an iced drain.",
+  "setting_type": "kit-e6",
+  "conflict": "Ivy cannot see the road and has to trust the prints.",
+  "escalation": "The prints steer her past ice and a drain, right to her door.",
+  "reveal": "The heel and toe orientation: every print faces her.",
+  "emotional_objective": "Relief flipped into being watched.",
+  "visual_requirements": [
+    "blizzard street (E6)",
+    "footprint-appear FX",
+    "toe-orientation close-up"
+  ],
+  "twist_type": "the-guide-was-walking-backwards",
+  "real_world_claims": "none (fiction; presented as 'A MOTHWAKE STORY')"
+}

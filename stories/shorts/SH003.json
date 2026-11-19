@@ -1,0 +1,243 @@
+{
+  "id": "SH003",
+  "title": "Hold Still",
+  "pillar": "Micro Horror Story",
+  "category": "Micro Horror Story",
+  "format": "short",
+  "status": "concept-proposal (Creative Director, 2026-11-19; not approved; awaiting owner review)",
+  "duration_target_s": 34,
+  "hook_line": "Night mode says hold still. Now I know why.",
+  "first_visual": "A phone screen in a dark bedroom counting down over a blurred room, one sharp shape in the corner.",
+  "beats": [
+    {
+      "t_s": 0,
+      "clip": "post",
+      "visual": "Phone UI 'Hold still 3...' over a blurred room; one sharp shape in the corner.",
+      "vo": "Night mode says hold still. Now I know why.",
+      "sfx": "shutter tick"
+    },
+    {
+      "t_s": 4,
+      "clip": 1,
+      "visual": "Jun in bed lifts his phone toward the moon in the window.",
+      "vo": "I was just shooting the moon.",
+      "sfx": "room tone"
+    },
+    {
+      "t_s": 7,
+      "clip": "post",
+      "visual": "The photo result: the room smeared, a tall figure in the corner perfectly sharp.",
+      "vo": "Long exposure blurs anything that moves. Not this.",
+      "sfx": "low sting"
+    },
+    {
+      "t_s": 12,
+      "clip": 2,
+      "visual": "Jun lowers the phone; the corner is empty; he raises it again.",
+      "vo": "The corner's empty. Second photo: closer.",
+      "sfx": "breath"
+    },
+    {
+      "t_s": 17,
+      "clip": "post",
+      "visual": "Third result: Jun blurred, the figure sharp, head tilted over his shoulder.",
+      "vo": "Third. I'm the blur. It's right behind me.",
+      "sfx": "drone swell"
+    },
+    {
+      "t_s": 22,
+      "clip": 3,
+      "visual": "Push-in: Jun frozen, eyes wide, not breathing.",
+      "vo": "It only moves when I move. So I don't.",
+      "sfx": "heartbeat"
+    },
+    {
+      "t_s": 27,
+      "clip": 4,
+      "visual": "Key moment: a long Ash-Violet finger enters frame and taps Jun's phone screen.",
+      "vo": "'Thank you,' it whispers.",
+      "sfx": "whisper, shutter"
+    },
+    {
+      "t_s": 31,
+      "clip": "post",
+      "visual": "Final photo: Jun and the figure, both sharp, side by side; moth on the phone wallpaper.",
+      "vo": "",
+      "sfx": "flash"
+    }
+  ],
+  "ending": "Final photo: Jun and the tall figure, both sharp, side by side, posed like friends.",
+  "loop_note": "Yes. The final photo cuts back to the opening countdown; on a second viewing the 'sharp shape' in frame 1 is recognisable.",
+  "interactive_prompt": null,
+  "environments": [
+    "E3 Small Bedroom",
+    "E7 Phone Screen (post-only UI kit)"
+  ],
+  "characters": [
+    "CH-JUN",
+    "CH-TENANT",
+    "CH-MOTH"
+  ],
+  "animation_needs": [
+    {
+      "item": "Teen in bed raises his phone toward a moonlit window.",
+      "type": "flow-simple-action",
+      "clip": 1
+    },
+    {
+      "item": "Teen lowers his phone, glances at an empty corner, raises it again.",
+      "type": "flow-simple-action",
+      "clip": 2
+    },
+    {
+      "item": "Slow push-in on a frozen teen's face in the dark.",
+      "type": "flow-simple-action",
+      "clip": 3
+    },
+    {
+      "item": "A long grey finger reaches over a teen's shoulder and taps his phone.",
+      "type": "flow-key-moment",
+      "clip": 4
+    },
+    {
+      "item": "Phone UI 'Hold still 3...' over a blurred room; one sharp shape in the corner.",
+      "type": "post-motion-graphics (animated overlay/UI/text; not a still)",
+      "clip": "post"
+    },
+    {
+      "item": "The photo result: the room smeared, a tall figure in the corner perfectly sharp.",
+      "type": "post-motion-graphics (animated overlay/UI/text; not a still)",
+      "clip": "post"
+    },
+    {
+      "item": "Third result: Jun blurred, the figure sharp, head tilted over his shoulder.",
+      "type": "post-motion-graphics (animated overlay/UI/text; not a still)",
+      "clip": "post"
+    },
+    {
+      "item": "Final photo: Jun and the figure, both sharp, side by side; moth on the phone wallpaper.",
+      "type": "post-motion-graphics (animated overlay/UI/text; not a still)",
+      "clip": "post"
+    }
+  ],
+  "est_production_effort": "low",
+  "production_effort": "low",
+  "flow_clips": [
+    {
+      "clip": 1,
+      "seconds": 4,
+      "use_s": 4,
+      "action": "Teen in bed raises his phone toward a moonlit window.",
+      "ingredients": [
+        "REF-JUN",
+        "REF-E3-BEDROOM"
+      ],
+      "model": "lite",
+      "post_overlay": null
+    },
+    {
+      "clip": 2,
+      "seconds": 5,
+      "use_s": 5,
+      "action": "Teen lowers his phone, glances at an empty corner, raises it again.",
+      "ingredients": [
+        "REF-JUN",
+        "REF-E3-BEDROOM"
+      ],
+      "model": "lite",
+      "post_overlay": null
+    },
+    {
+      "clip": 3,
+      "seconds": 6,
+      "use_s": 6,
+      "action": "Slow push-in on a frozen teen's face in the dark.",
+      "ingredients": [
+        "REF-JUN",
+        "REF-E3-BEDROOM"
+      ],
+      "model": "lite",
+      "post_overlay": null
+    },
+    {
+      "clip": 4,
+      "seconds": 5,
+      "use_s": 5,
+      "action": "A long grey finger reaches over a teen's shoulder and taps his phone.",
+      "ingredients": [
+        "REF-JUN",
+        "REF-TENANT",
+        "REF-E3-BEDROOM"
+      ],
+      "model": "fast",
+      "post_overlay": null
+    }
+  ],
+  "flow_credits_est": {
+    "label": "estimate",
+    "basis": "owner brief 2026-11-19: Lite 10 / Fast 20 credits per generation; one retry per clip assumed; not measured",
+    "first_pass": 50,
+    "with_one_retry_each": 100,
+    "cap": 150
+  },
+  "word_count": 51,
+  "vo_wps_est": 1.5,
+  "originality_review": "Original. The long-exposure 'stillness' rule is our own mechanic. It does not use the tropes of a ghost in a photo that vanishes or a face in the background. Different from MW010 (face unlock).",
+  "scores": {
+    "topic_demand": 4,
+    "audience_curiosity": 5,
+    "hook_strength": 5,
+    "emotional_impact": 4,
+    "story_clarity": 4,
+    "suspense": 5,
+    "retention_potential": 5,
+    "rewatch_potential": 4,
+    "shareability": 5,
+    "production_complexity": 2,
+    "originality": 4,
+    "brand_suitability": 4
+  },
+  "scores_basis": "Initial editorial judgement, 2026-11-19. topic_demand is an estimate linked to research/WEEKLY_TREND_REPORT.md categories, not a measurement of this concept.",
+  "priority_est": 86.3,
+  "concept": "A teen's night-mode photos blur everything that moves. One tall figure stays razor-sharp and closer each shot, because it only moves when he does. His stillness gives it the photo it wanted.",
+  "hooks": [
+    {
+      "structure": "instruction with double meaning",
+      "line": "Night mode says hold still. Now I know why.",
+      "first_visual": "A phone screen in a dark bedroom counting down over a blurred room, one sharp shape in the corner."
+    },
+    {
+      "structure": "wrong detail",
+      "line": "Everything in my photo was blurry except it.",
+      "first_visual": "A long-exposure photo: smeared room, one perfectly crisp tall figure."
+    },
+    {
+      "structure": "count escalation",
+      "line": "Three photos. Each time it's closer.",
+      "first_visual": "Three thumbnails side by side, a shape advancing."
+    },
+    {
+      "structure": "rule reveal",
+      "line": "Long exposure blurs anything that moves. Except this.",
+      "first_visual": "A shaking hand holding a phone up to a window."
+    },
+    {
+      "structure": "dangerous decision",
+      "line": "It only moves when I move. So I didn't.",
+      "first_visual": "A teenager frozen in bed, eyes wide, the warm highlight trembling."
+    }
+  ],
+  "setting": "Jun's bedroom at night; moon through the window; the phone camera UI.",
+  "setting_type": "kit-e3",
+  "conflict": "Jun must work out the rule of the thing in his photos before it reaches him.",
+  "escalation": "Corner, then the foot of the bed, then directly behind him.",
+  "reveal": "He holds perfectly still. A long grey finger presses the shutter for him.",
+  "emotional_objective": "Paranoia, then the helplessness of obeying.",
+  "visual_requirements": [
+    "bedroom (E3, Jun dressing)",
+    "phone camera UI overlay (E7)",
+    "tall silhouette"
+  ],
+  "twist_type": "it-only-moves-when-you-move",
+  "real_world_claims": "none (fiction; presented as 'A MOTHWAKE STORY')"
+}

@@ -1,0 +1,252 @@
+{
+  "id": "SH020",
+  "title": "Night Safety",
+  "pillar": "Horror Rules & Survival",
+  "category": "Horror Rules & Survival",
+  "format": "short",
+  "status": "concept-proposal (Creative Director, 2026-11-19; not approved; awaiting owner review)",
+  "duration_target_s": 33,
+  "hook_line": "An app I never installed started sending me rules.",
+  "first_visual": "A lock screen in a dark room: notification NIGHT SAFETY, Rule 1.",
+  "beats": [
+    {
+      "t_s": 0,
+      "clip": "post",
+      "visual": "Lock screen: NIGHT SAFETY: Rule 1: Don't reply to messages from yourself.",
+      "vo": "An app I never installed started sending me rules.",
+      "sfx": "ping"
+    },
+    {
+      "t_s": 4,
+      "clip": "post",
+      "visual": "Thread from 'Jun (you)': 'open your door'.",
+      "vo": "Then a message. From my own number.",
+      "sfx": "ping"
+    },
+    {
+      "t_s": 8,
+      "clip": 1,
+      "visual": "Jun's phone lights itself on the bed; he slaps it face down.",
+      "vo": "Rule two: if the screen lights itself, cover it.",
+      "sfx": "thud"
+    },
+    {
+      "t_s": 13,
+      "clip": 2,
+      "visual": "Jun picks it up; the front camera has opened; he flips it away.",
+      "vo": "Three: no front camera after two.",
+      "sfx": "shutter"
+    },
+    {
+      "t_s": 18,
+      "clip": 3,
+      "visual": "Jun, annoyed, holds the icon down.",
+      "vo": "Creepy app. I held the icon.",
+      "sfx": ""
+    },
+    {
+      "t_s": 21,
+      "clip": "post",
+      "visual": "'Rule 4: Don't uninstall me.' He taps Remove: 'Night Safety removed. You're on your own.'",
+      "vo": "",
+      "sfx": "delete sound"
+    },
+    {
+      "t_s": 25,
+      "clip": "post",
+      "visual": "Notification flood from 'Jun (you)': finally / it's quiet now / turn round.",
+      "vo": "It wasn't the threat. It was the wall.",
+      "sfx": "pings cascade"
+    },
+    {
+      "t_s": 29,
+      "clip": 4,
+      "visual": "Key moment: the front camera view: Jun, and behind him his own face, a head taller, smiling.",
+      "vo": "",
+      "sfx": "silence"
+    }
+  ],
+  "ending": "The front camera opens itself: Jun, and behind him his own face smiling, a head taller.",
+  "loop_note": "No.",
+  "interactive_prompt": null,
+  "environments": [
+    "E7 Phone Screen (post-only UI kit)",
+    "E3 Small Bedroom"
+  ],
+  "characters": [
+    "CH-JUN",
+    "CH-TENANT",
+    "CH-MOTH"
+  ],
+  "animation_needs": [
+    {
+      "item": "A phone on a bed lights up on its own; a teen slaps it face down.",
+      "type": "flow-simple-action",
+      "clip": 1
+    },
+    {
+      "item": "Teen picks up his phone, startled, and flips it away from his face.",
+      "type": "flow-simple-action",
+      "clip": 2
+    },
+    {
+      "item": "Teen frowns and holds his thumb on the screen.",
+      "type": "flow-simple-action",
+      "clip": 3
+    },
+    {
+      "item": "Selfie-angle view: a teen, and behind him a taller version of his own face smiling.",
+      "type": "flow-key-moment",
+      "clip": 4
+    },
+    {
+      "item": "Lock screen: NIGHT SAFETY: Rule 1: Don't reply to messages from yourself.",
+      "type": "post-motion-graphics (animated overlay/UI/text; not a still)",
+      "clip": "post"
+    },
+    {
+      "item": "Thread from 'Jun (you)': 'open your door'.",
+      "type": "post-motion-graphics (animated overlay/UI/text; not a still)",
+      "clip": "post"
+    },
+    {
+      "item": "'Rule 4: Don't uninstall me.' He taps Remove: 'Night Safety removed. You're on your own.'",
+      "type": "post-motion-graphics (animated overlay/UI/text; not a still)",
+      "clip": "post"
+    },
+    {
+      "item": "Notification flood from 'Jun (you)': finally / it's quiet now / turn round.",
+      "type": "post-motion-graphics (animated overlay/UI/text; not a still)",
+      "clip": "post"
+    },
+    {
+      "item": "tracked text/graphics composited onto Flow clips: screen insert",
+      "type": "post-motion-graphics",
+      "clip": "post"
+    },
+    {
+      "item": "Watcher moth easter egg: 6-frame flutter sprite composited in post (one placement)",
+      "type": "post-motion-graphics",
+      "clip": "post"
+    }
+  ],
+  "est_production_effort": "low",
+  "production_effort": "low",
+  "flow_clips": [
+    {
+      "clip": 1,
+      "seconds": 5,
+      "use_s": 5,
+      "action": "A phone on a bed lights up on its own; a teen slaps it face down.",
+      "ingredients": [
+        "REF-JUN",
+        "REF-E3-BEDROOM"
+      ],
+      "model": "lite",
+      "post_overlay": "screen insert"
+    },
+    {
+      "clip": 2,
+      "seconds": 5,
+      "use_s": 5,
+      "action": "Teen picks up his phone, startled, and flips it away from his face.",
+      "ingredients": [
+        "REF-JUN",
+        "REF-E3-BEDROOM"
+      ],
+      "model": "lite",
+      "post_overlay": null
+    },
+    {
+      "clip": 3,
+      "seconds": 4,
+      "use_s": 3,
+      "action": "Teen frowns and holds his thumb on the screen.",
+      "ingredients": [
+        "REF-JUN",
+        "REF-E3-BEDROOM"
+      ],
+      "model": "lite",
+      "post_overlay": "screen insert"
+    },
+    {
+      "clip": 4,
+      "seconds": 4,
+      "use_s": 4,
+      "action": "Selfie-angle view: a teen, and behind him a taller version of his own face smiling.",
+      "ingredients": [
+        "REF-JUN",
+        "REF-E3-BEDROOM",
+        "REF-TENANT"
+      ],
+      "model": "fast",
+      "post_overlay": null
+    }
+  ],
+  "flow_credits_est": {
+    "label": "estimate",
+    "basis": "owner brief 2026-11-19: Lite 10 / Fast 20 credits per generation; one retry per clip assumed; not measured",
+    "first_pass": 50,
+    "with_one_retry_each": 100,
+    "cap": 150
+  },
+  "word_count": 45,
+  "vo_wps_est": 1.36,
+  "originality_review": "Original. The 'protective app' inversion is ours. It uses generic UI, no real app branding. A doppelganger ending is common, so the score is lowered; the mechanism makes it distinct.",
+  "scores": {
+    "topic_demand": 3,
+    "audience_curiosity": 4,
+    "hook_strength": 4,
+    "emotional_impact": 3,
+    "story_clarity": 4,
+    "suspense": 4,
+    "retention_potential": 4,
+    "rewatch_potential": 3,
+    "shareability": 4,
+    "production_complexity": 1,
+    "originality": 3,
+    "brand_suitability": 3
+  },
+  "scores_basis": "Initial editorial judgement, 2026-11-19. topic_demand is an estimate linked to research/WEEKLY_TREND_REPORT.md categories, not a measurement of this concept.",
+  "priority_est": 66.1,
+  "concept": "An unknown 'Night Safety' app sends Jun rules. He finds it creepy and uninstalls it. The app wasn't the threat. It was blocking the messages from 'himself'.",
+  "hooks": [
+    {
+      "structure": "intrusion",
+      "line": "An app I never installed started sending me rules.",
+      "first_visual": "A lock screen in a dark room: notification NIGHT SAFETY, Rule 1."
+    },
+    {
+      "structure": "rule tension",
+      "line": "Rule one: don't reply to messages from yourself.",
+      "first_visual": "A message thread from the user's own name."
+    },
+    {
+      "structure": "wrong detail",
+      "line": "My screen lit up on its own. Rule two: cover it.",
+      "first_visual": "A phone lighting itself on a bed; a hand slapping it face down."
+    },
+    {
+      "structure": "defiance",
+      "line": "Creepy app. So I uninstalled it.",
+      "first_visual": "A thumb holding an app icon, 'Remove?'"
+    },
+    {
+      "structure": "flood",
+      "line": "Forty messages from me. All at once.",
+      "first_visual": "Notifications cascading down a screen."
+    }
+  ],
+  "setting": "Jun's bedroom; phone UI.",
+  "setting_type": "kit-e7",
+  "conflict": "Jun's distrust of an intrusive app.",
+  "escalation": "A message from his own number, a self-lit screen, the front camera, then 'Don't uninstall me.'",
+  "reveal": "After uninstalling, a flood of messages from 'Jun (you)': 'finally', 'it's quiet now', 'turn round'.",
+  "emotional_objective": "Tech paranoia with an inversion.",
+  "visual_requirements": [
+    "phone UI (E7 motion graphics)",
+    "bedroom (E3)"
+  ],
+  "twist_type": "the-rules-app-was-the-shield",
+  "real_world_claims": "none (fiction; presented as 'A MOTHWAKE STORY')"
+}

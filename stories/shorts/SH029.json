@@ -1,0 +1,247 @@
+{
+  "id": "SH029",
+  "title": "Which Theo?",
+  "pillar": "Interactive Horror",
+  "category": "Interactive Horror",
+  "format": "short",
+  "status": "concept-proposal (Creative Director, 2026-11-19; not approved; awaiting owner review)",
+  "duration_target_s": 36,
+  "hook_line": "Theo called me from two rooms at once.",
+  "first_visual": "Ivy frozen in a dark hallway between a lit kitchen (left) and a black bedroom (right).",
+  "beats": [
+    {
+      "t_s": 0,
+      "clip": 1,
+      "visual": "Earlier: Theo in bed, pinky up: 'Never turn my light off. Promise?'",
+      "vo": "'Never turn my light off, Ivy-bug. Promise?'",
+      "sfx": "soft"
+    },
+    {
+      "t_s": 5,
+      "clip": 2,
+      "visual": "Now: Ivy between two doorways: the kitchen lit (left), the bedroom black (right).",
+      "vo": "Theo called me from two rooms at once.",
+      "sfx": "fridge hum"
+    },
+    {
+      "t_s": 9,
+      "clip": 2,
+      "visual": "Ivy's head turns left, then right, as each voice calls.",
+      "vo": "Left: 'Ivy-bug, I'm thirsty.' Right: 'Ivy-bug, I turned my light off. I'm brave now.'",
+      "sfx": "two small voices"
+    },
+    {
+      "t_s": 15,
+      "clip": "post",
+      "visual": "On-screen: KITCHEN or BEDROOM? 3-2-1.",
+      "vo": "Which room?",
+      "sfx": "ticks"
+    },
+    {
+      "t_s": 19,
+      "clip": "post",
+      "visual": "Replay of 0:00, highlighted: the promise.",
+      "vo": "Theo never sits in the dark.",
+      "sfx": "rewind"
+    },
+    {
+      "t_s": 23,
+      "clip": 3,
+      "visual": "Ivy runs to the kitchen: Theo with a glass of water; she hugs him.",
+      "vo": "Kitchen. It's him.",
+      "sfx": "relief"
+    },
+    {
+      "t_s": 27,
+      "clip": 4,
+      "visual": "Key moment: from the black doorway, lamp eyes; a voice in Ivy's tone.",
+      "vo": "'Theo? Come here, sweetheart.'",
+      "sfx": "Ivy's voice, wrong"
+    },
+    {
+      "t_s": 32,
+      "clip": 4,
+      "visual": "Theo looks up at the real Ivy, unsure.",
+      "vo": "'Ivy-bug... say the promise.'",
+      "sfx": "silence"
+    }
+  ],
+  "ending": "From the dark, in Ivy's voice: 'Theo? Come here, sweetheart.' Theo looks up at Ivy, unsure.",
+  "loop_note": "No. It ends on a comment prompt.",
+  "interactive_prompt": {
+    "on_screen_question": "KITCHEN or BEDROOM?",
+    "reveal": "in-video at 0:19, replaying the planted promise clue (0:00)",
+    "comment_invite": "What would your family's password be? (do not post real passwords)",
+    "fairness_note": "The clue is shown and spoken in the first 5 s. The answer is given, and the coda does not contradict it."
+  },
+  "environments": [
+    "E1 Vesper Court Hallway",
+    "E2 Night Kitchen",
+    "E3 Small Bedroom"
+  ],
+  "characters": [
+    "CH-IVY",
+    "CH-THEO",
+    "CH-TENANT",
+    "CH-MOTH"
+  ],
+  "animation_needs": [
+    {
+      "item": "Boy in bed holds up a pinky finger to a woman, asking for a promise.",
+      "type": "flow-simple-action",
+      "clip": 1
+    },
+    {
+      "item": "Woman frozen in a dark hallway between a lit kitchen doorway and a black bedroom doorway, head turning.",
+      "type": "flow-simple-action",
+      "clip": 2
+    },
+    {
+      "item": "Woman hurries into a lit kitchen and hugs a small boy holding a glass.",
+      "type": "flow-simple-action",
+      "clip": 3
+    },
+    {
+      "item": "In a black doorway two glowing eyes appear; a boy in the kitchen looks up at the woman uncertainly.",
+      "type": "flow-key-moment",
+      "clip": 4
+    },
+    {
+      "item": "On-screen: KITCHEN or BEDROOM? 3-2-1.",
+      "type": "post-motion-graphics (animated overlay/UI/text; not a still)",
+      "clip": "post"
+    },
+    {
+      "item": "Replay of 0:00, highlighted: the promise.",
+      "type": "post-motion-graphics (animated overlay/UI/text; not a still)",
+      "clip": "post"
+    },
+    {
+      "item": "Watcher moth easter egg: 6-frame flutter sprite composited in post (one placement)",
+      "type": "post-motion-graphics",
+      "clip": "post"
+    }
+  ],
+  "est_production_effort": "med",
+  "production_effort": "med",
+  "flow_clips": [
+    {
+      "clip": 1,
+      "seconds": 5,
+      "use_s": 5,
+      "action": "Boy in bed holds up a pinky finger to a woman, asking for a promise.",
+      "ingredients": [
+        "REF-THEO",
+        "REF-IVY",
+        "REF-E3-BEDROOM"
+      ],
+      "model": "lite",
+      "post_overlay": null
+    },
+    {
+      "clip": 2,
+      "seconds": 8,
+      "use_s": 8,
+      "action": "Woman frozen in a dark hallway between a lit kitchen doorway and a black bedroom doorway, head turning.",
+      "ingredients": [
+        "REF-IVY",
+        "REF-E1-HALLWAY"
+      ],
+      "model": "lite",
+      "post_overlay": null
+    },
+    {
+      "clip": 3,
+      "seconds": 4,
+      "use_s": 4,
+      "action": "Woman hurries into a lit kitchen and hugs a small boy holding a glass.",
+      "ingredients": [
+        "REF-IVY",
+        "REF-THEO",
+        "REF-E2-KITCHEN"
+      ],
+      "model": "lite",
+      "post_overlay": null
+    },
+    {
+      "clip": 4,
+      "seconds": 8,
+      "use_s": 8,
+      "action": "In a black doorway two glowing eyes appear; a boy in the kitchen looks up at the woman uncertainly.",
+      "ingredients": [
+        "REF-THEO",
+        "REF-TENANT",
+        "REF-E2-KITCHEN"
+      ],
+      "model": "fast",
+      "post_overlay": null
+    }
+  ],
+  "flow_credits_est": {
+    "label": "estimate",
+    "basis": "owner brief 2026-11-19: Lite 10 / Fast 20 credits per generation; one retry per clip assumed; not measured",
+    "first_pass": 50,
+    "with_one_retry_each": 100,
+    "cap": 150
+  },
+  "word_count": 57,
+  "vo_wps_est": 1.58,
+  "originality_review": "Original mimic puzzle. Voice mimicry is a broad folk motif, but this avoids skinwalker framing entirely: no Indigenous lore, urban flat setting, fair-play clue. The 'it switches to your voice' ending is ours.",
+  "scores": {
+    "topic_demand": 3,
+    "audience_curiosity": 5,
+    "hook_strength": 4,
+    "emotional_impact": 4,
+    "story_clarity": 4,
+    "suspense": 4,
+    "retention_potential": 5,
+    "rewatch_potential": 4,
+    "shareability": 5,
+    "production_complexity": 2,
+    "originality": 4,
+    "brand_suitability": 4
+  },
+  "scores_basis": "Initial editorial judgement, 2026-11-19. topic_demand is an estimate linked to research/WEEKLY_TREND_REPORT.md categories, not a measurement of this concept.",
+  "priority_est": 79.0,
+  "concept": "Ivy hears Theo call from the lit kitchen and the dark bedroom at once. The viewer chooses. The fair clue is Theo's bedtime promise: never turn off his light. The kitchen Theo is real. The thing in the dark switches to Ivy's voice to call Theo.",
+  "hooks": [
+    {
+      "structure": "choice",
+      "line": "Theo called me from two rooms at once.",
+      "first_visual": "Ivy frozen in a dark hallway between a lit kitchen (left) and a black bedroom (right)."
+    },
+    {
+      "structure": "challenge",
+      "line": "Kitchen or bedroom? One of them isn't Theo.",
+      "first_visual": "Two doorways, two small voices."
+    },
+    {
+      "structure": "fair-play",
+      "line": "The answer is in what he made me promise.",
+      "first_visual": "A boy in bed holding up a pinky finger."
+    },
+    {
+      "structure": "wrong detail",
+      "line": "Theo never sits in the dark.",
+      "first_visual": "A pitch-black bedroom with a door ajar."
+    },
+    {
+      "structure": "dread promise",
+      "line": "Then it stopped using his voice. It used mine.",
+      "first_visual": "Lamp-lit eyes in a dark doorway."
+    }
+  ],
+  "setting": "Ivy's flat: hallway between kitchen and Theo's bedroom.",
+  "setting_type": "kit-e1",
+  "conflict": "Choose the real child.",
+  "escalation": "Both voices use his nickname for her; the dark one claims he is 'brave now'.",
+  "reveal": "Replay of the promise: 'Never turn my light off.' Real Theo is in the light.",
+  "emotional_objective": "Protective panic; a comment prompt about family passwords.",
+  "visual_requirements": [
+    "hallway junction (E1 redress as flat hall)",
+    "kitchen (E2)",
+    "bedroom (E3)"
+  ],
+  "twist_type": "the-mimic-learns-the-next-voice",
+  "real_world_claims": "none (fiction; presented as 'A MOTHWAKE STORY')"
+}

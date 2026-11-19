@@ -1,0 +1,236 @@
+{
+  "id": "SH001",
+  "title": "Dryer Six",
+  "pillar": "Micro Horror Story",
+  "category": "Micro Horror Story",
+  "format": "short",
+  "status": "concept-proposal (Creative Director, 2026-11-19; not approved; awaiting owner review)",
+  "duration_target_s": 32,
+  "hook_line": "Dryer six was running. I hadn't put anything in.",
+  "first_visual": "Extreme close-up of a round dryer porthole, dark tumbling inside, a rust-red sock slapping the glass.",
+  "beats": [
+    {
+      "t_s": 0,
+      "clip": 1,
+      "visual": "ECU porthole: dark tumbling, a rust-red sock slaps the glass.",
+      "vo": "Dryer six was running. I hadn't put anything in.",
+      "sfx": "drum thud, tube buzz"
+    },
+    {
+      "t_s": 4,
+      "clip": 2,
+      "visual": "Wide: Ivy alone with her basket; dryer six turning on its own.",
+      "vo": "Three a.m. Just me.",
+      "sfx": "buzz, distant traffic"
+    },
+    {
+      "t_s": 8,
+      "clip": 2,
+      "visual": "The door pops; a small sock drops; name tag reads IVY M. (tag text in post).",
+      "vo": "It gave me a sock. Mine. From when I was seven.",
+      "sfx": "door clunk"
+    },
+    {
+      "t_s": 13,
+      "clip": 3,
+      "visual": "Items tumble out one by one onto the tile: hair clip, wristband, badge.",
+      "vo": "Then everything I ever lost.",
+      "sfx": "soft drops, drum slowing"
+    },
+    {
+      "t_s": 18,
+      "clip": 3,
+      "visual": "Last item: a rust scarf. Ivy touches her bare neck.",
+      "vo": "Then my scarf. The one I was wearing.",
+      "sfx": "silence"
+    },
+    {
+      "t_s": 22,
+      "clip": 4,
+      "visual": "Reverse angle from inside the drum: Ivy's palms on the glass; outside, a woman in the scarf folds Ivy's clothes.",
+      "vo": "I looked up. Through the glass.",
+      "sfx": "muffled hum"
+    },
+    {
+      "t_s": 27,
+      "clip": 5,
+      "visual": "The double smiles and turns the dial; drum spins; moth on the lint-filter sign.",
+      "vo": "She folds better than I do.",
+      "sfx": "dial click, motor"
+    }
+  ],
+  "ending": "The double sets the dial; the drum starts again. Ivy is the lost thing dryer six kept.",
+  "loop_note": "Yes. The last frame (porthole spinning, seen from outside) matches frame 1, and on a rewatch the opening slap reads as Ivy hitting the glass.",
+  "interactive_prompt": null,
+  "environments": [
+    "E5 Suds & Spin Laundromat"
+  ],
+  "characters": [
+    "CH-IVY",
+    "CH-MOTH"
+  ],
+  "animation_needs": [
+    {
+      "item": "Sock slaps the inside of a spinning porthole.",
+      "type": "flow-simple-action",
+      "clip": 1
+    },
+    {
+      "item": "Ivy watches an empty dryer turn, then a sock falls out of its opening door.",
+      "type": "flow-simple-action",
+      "clip": 2
+    },
+    {
+      "item": "Small objects tumble from the dryer; Ivy reaches for her neck.",
+      "type": "flow-simple-action",
+      "clip": 3
+    },
+    {
+      "item": "From inside the drum, Ivy presses her palms to the glass while a woman outside folds clothes.",
+      "type": "flow-key-moment",
+      "clip": 4
+    },
+    {
+      "item": "The woman in the rust scarf smiles and turns the dial; the drum spins.",
+      "type": "flow-simple-action",
+      "clip": 5
+    },
+    {
+      "item": "tracked text/graphics composited onto Flow clips: name-tag text",
+      "type": "post-motion-graphics",
+      "clip": "post"
+    }
+  ],
+  "est_production_effort": "low",
+  "production_effort": "low",
+  "flow_clips": [
+    {
+      "clip": 1,
+      "seconds": 4,
+      "use_s": 4,
+      "action": "Sock slaps the inside of a spinning porthole.",
+      "ingredients": [
+        "REF-E5-LAUNDROMAT"
+      ],
+      "model": "lite",
+      "post_overlay": null
+    },
+    {
+      "clip": 2,
+      "seconds": 8,
+      "use_s": 8,
+      "action": "Ivy watches an empty dryer turn, then a sock falls out of its opening door.",
+      "ingredients": [
+        "REF-IVY",
+        "REF-E5-LAUNDROMAT"
+      ],
+      "model": "lite",
+      "post_overlay": "name-tag text"
+    },
+    {
+      "clip": 3,
+      "seconds": 8,
+      "use_s": 8,
+      "action": "Small objects tumble from the dryer; Ivy reaches for her neck.",
+      "ingredients": [
+        "REF-IVY",
+        "REF-E5-LAUNDROMAT"
+      ],
+      "model": "lite",
+      "post_overlay": null
+    },
+    {
+      "clip": 4,
+      "seconds": 6,
+      "use_s": 6,
+      "action": "From inside the drum, Ivy presses her palms to the glass while a woman outside folds clothes.",
+      "ingredients": [
+        "REF-IVY",
+        "REF-E5-LAUNDROMAT"
+      ],
+      "model": "fast",
+      "post_overlay": null
+    },
+    {
+      "clip": 5,
+      "seconds": 6,
+      "use_s": 6,
+      "action": "The woman in the rust scarf smiles and turns the dial; the drum spins.",
+      "ingredients": [
+        "REF-IVY",
+        "REF-E5-LAUNDROMAT",
+        "REF-MOTH"
+      ],
+      "model": "lite",
+      "post_overlay": null
+    }
+  ],
+  "flow_credits_est": {
+    "label": "estimate",
+    "basis": "owner brief 2026-11-19: Lite 10 / Fast 20 credits per generation; one retry per clip assumed; not measured",
+    "first_pass": 60,
+    "with_one_retry_each": 120,
+    "cap": 150
+  },
+  "word_count": 50,
+  "vo_wps_est": 1.56,
+  "originality_review": "Original. 'Lost property returned' plus a camera-side swap is our own construction. No known creator story uses a laundromat dryer as the agent of replacement. The twist differs from MW005 (counting) and MW010 (phone reflection).",
+  "scores": {
+    "topic_demand": 3,
+    "audience_curiosity": 4,
+    "hook_strength": 4,
+    "emotional_impact": 4,
+    "story_clarity": 4,
+    "suspense": 4,
+    "retention_potential": 4,
+    "rewatch_potential": 5,
+    "shareability": 4,
+    "production_complexity": 2,
+    "originality": 4,
+    "brand_suitability": 4
+  },
+  "scores_basis": "Initial editorial judgement, 2026-11-19. topic_demand is an estimate linked to research/WEEKLY_TREND_REPORT.md categories, not a measurement of this concept.",
+  "priority_est": 74.2,
+  "concept": "Alone in a 24-hour laundromat, a woman watches an empty dryer return everything she has ever lost, until it returns the scarf she is wearing and she realises which side of the glass she is on.",
+  "hooks": [
+    {
+      "structure": "impossible situation",
+      "line": "Dryer six was running. I hadn't put anything in.",
+      "first_visual": "Extreme close-up of a round dryer porthole, dark tumbling inside, a rust-red sock slapping the glass."
+    },
+    {
+      "structure": "question with visual answer",
+      "line": "Why does dryer six only return things I lost?",
+      "first_visual": "A child's sock with a faded name tag dropping out of a dryer onto tile."
+    },
+    {
+      "structure": "personal confession",
+      "line": "At three a.m. a dryer gave me back my childhood.",
+      "first_visual": "A hair clip, a wristband and a birthday badge spilling across a folding table."
+    },
+    {
+      "structure": "wrong detail",
+      "line": "The laundromat was empty. Dryer six wasn't.",
+      "first_visual": "Wide shot: a row of dark dryers, one porthole glowing and turning."
+    },
+    {
+      "structure": "visual dare",
+      "line": "Look closely at the glass. Who is inside?",
+      "first_visual": "A porthole reflecting a woman's face, slightly out of sync with her."
+    }
+  ],
+  "setting": "Suds & Spin laundromat at 3 a.m.; one row of dryers; folding table; warm, buzzing tubes.",
+  "setting_type": "kit-e5",
+  "conflict": "Ivy wants to know why an empty machine is running and what it is giving back.",
+  "escalation": "A sock from age seven, then a hair clip, a hospital wristband, then the scarf from her own neck.",
+  "reveal": "The camera reverses: we are inside the drum with Ivy. Outside, a woman in her scarf folds her laundry.",
+  "emotional_objective": "Curiosity curdling into the cold loss of self.",
+  "visual_requirements": [
+    "laundromat row (E5)",
+    "porthole close-up from both sides",
+    "lost-item props",
+    "Ivy double in scarf"
+  ],
+  "twist_type": "the-watcher-is-inside-the-drum",
+  "real_world_claims": "none (fiction; presented as 'A MOTHWAKE STORY')"
+}

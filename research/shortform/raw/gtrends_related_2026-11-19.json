@@ -340,5 +340,2176 @@
 "value": "4"
 }
 ]
+},
+{
+"term": "christmas horror",
+"geo": "US",
+"property": "youtube",
+"timeframe": "today 12-m",
+"fetched_at": "2026-11-19T21:19:26Z",
+"rising": [],
+"top": [
+{
+"query": "christmas horror games",
+"value": "100"
+},
+{
+"query": "horror christmas movies",
+"value": "75"
+},
+{
+"query": "horror movies",
+"value": "75"
+},
+{
+"query": "christmas movies",
+"value": "74"
+},
+{
+"query": "christmas horror movie",
+"value": "60"
+},
+{
+"query": "christmas horror story",
+"value": "35"
+},
+{
+"query": "a christmas horror story",
+"value": "16"
+}
+]
+},
+{
+"term": "creepypasta animation",
+"geo": "US",
+"property": "youtube",
+"timeframe": "today 12-m",
+"fetched_at": "2026-11-19T21:19:30Z",
+"rising": [],
+"top": []
+},
+{
+"term": "horror animation",
+"geo": "US",
+"property": "youtube",
+"timeframe": "today 12-m",
+"fetched_at": "2026-11-19T21:19:33Z",
+"rising": [],
+"top": [
+{
+"query": "funny horror animation",
+"value": "100"
+}
+]
+},
+{
+"term": "horror rules",
+"geo": "US",
+"property": "youtube",
+"timeframe": "today 12-m",
+"fetched_at": "2026-11-19T21:19:38Z",
+"rising": [
+{
+"query": "campus rules horror",
+"value": "Breakout"
+},
+{
+"query": "the rules thai horror",
+"value": "Breakout"
+}
+],
+"top": [
+{
+"query": "the rules horror",
+"value": "100"
+},
+{
+"query": "rules of horror",
+"value": "75"
+},
+{
+"query": "horror movie rules",
+"value": "41"
+},
+{
+"query": "campus rules horror",
+"value": "2"
+},
+{
+"query": "the rules thai horror",
+"value": "2"
+}
+]
+},
+{
+"term": "horror shorts",
+"geo": "US",
+"property": "youtube",
+"timeframe": "today 12-m",
+"fetched_at": "2026-11-19T21:19:41Z",
+"rising": [],
+"top": [
+{
+"query": "horror stories animated",
+"value": "100"
+}
+]
+},
+{
+"term": "liminal space",
+"geo": "US",
+"property": "youtube",
+"timeframe": "today 12-m",
+"fetched_at": "2026-11-19T21:19:46Z",
+"rising": [
+{
+"query": "backrooms movie",
+"value": "+400%"
+},
+{
+"query": "liminal space aesthetic",
+"value": "+190%"
+},
+{
+"query": "minecraft liminal space mod",
+"value": "+140%"
+},
+{
+"query": "vivarium",
+"value": "+120%"
+},
+{
+"query": "liminality",
+"value": "+80%"
+},
+{
+"query": "minecraft horror",
+"value": "+80%"
+},
+{
+"query": "liminal space movies",
+"value": "+80%"
+},
+{
+"query": "liminal space movie",
+"value": "+50%"
+},
+{
+"query": "backrooms music",
+"value": "+50%"
+},
+{
+"query": "the backrooms",
+"value": "+40%"
+},
+{
+"query": "liminal space horror",
+"value": "+40%"
+}
+],
+"top": [
+{
+"query": "liminal music",
+"value": "100"
+},
+{
+"query": "liminal space music",
+"value": "99"
+},
+{
+"query": "liminal space backrooms",
+"value": "40"
+},
+{
+"query": "backrooms",
+"value": "40"
+},
+{
+"query": "minecraft liminal space",
+"value": "23"
+},
+{
+"query": "liminal space horror",
+"value": "21"
+},
+{
+"query": "liminal horror",
+"value": "21"
+},
+{
+"query": "liminal space game",
+"value": "18"
+},
+{
+"query": "dreamcore",
+"value": "14"
+},
+{
+"query": "liminal space games",
+"value": "10"
+},
+{
+"query": "the backrooms",
+"value": "9"
+},
+{
+"query": "backrooms music",
+"value": "9"
+},
+{
+"query": "liminal space movie",
+"value": "7"
+},
+{
+"query": "liminality",
+"value": "4"
+},
+{
+"query": "backrooms movie",
+"value": "3"
+},
+{
+"query": "liminal space movies",
+"value": "3"
+},
+{
+"query": "minecraft liminal space mod",
+"value": "3"
+},
+{
+"query": "minecraft horror",
+"value": "2"
+},
+{
+"query": "liminal space aesthetic",
+"value": "2"
+},
+{
+"query": "vivarium",
+"value": "1"
+}
+]
+},
+{
+"term": "mimic horror",
+"geo": "US",
+"property": "youtube",
+"timeframe": "today 12-m",
+"fetched_at": "2026-11-19T21:19:50Z",
+"rising": [],
+"top": []
+},
+{
+"term": "pick a door",
+"geo": "US",
+"property": "youtube",
+"timeframe": "today 12-m",
+"fetched_at": "2026-11-19T21:19:54Z",
+"rising": [],
+"top": [
+{
+"query": "pick a door lock",
+"value": "100"
+},
+{
+"query": "how to pick lock a door",
+"value": "90"
+},
+{
+"query": "how to pick a door knob",
+"value": "49"
+},
+{
+"query": "how to pick a door knob lock",
+"value": "34"
+},
+{
+"query": "how to pick a lock on a door",
+"value": "10"
+},
+{
+"query": "how to pick a door lock with a bobby pin",
+"value": "9"
+}
+]
+},
+{
+"term": "scary story animation",
+"geo": "US",
+"property": "youtube",
+"timeframe": "today 12-m",
+"fetched_at": "2026-11-19T21:19:58Z",
+"rising": [],
+"top": []
+},
+{
+"term": "skinwalker",
+"geo": "US",
+"property": "youtube",
+"timeframe": "today 12-m",
+"fetched_at": "2026-11-19T21:20:01Z",
+"rising": [
+{
+"query": "steak skinwalker",
+"value": "+3,650%"
+},
+{
+"query": "skinwalker ranch season 7",
+"value": "+1,450%"
+},
+{
+"query": "skinwalker ranch utah",
+"value": "+700%"
+},
+{
+"query": "hollow tree skinwalker",
+"value": "+200%"
+},
+{
+"query": "skinwalker dogs",
+"value": "+120%"
+},
+{
+"query": "skinwalker costume",
+"value": "+90%"
+},
+{
+"query": "analog horror",
+"value": "+90%"
+},
+{
+"query": "skinwalker cat",
+"value": "+50%"
+}
+],
+"top": [
+{
+"query": "skinwalker ranch",
+"value": "100"
+},
+{
+"query": "the skinwalker",
+"value": "52"
+},
+{
+"query": "skinwalker stories",
+"value": "33"
+},
+{
+"query": "skinwalker dog",
+"value": "32"
+},
+{
+"query": "skinwalker videos",
+"value": "27"
+},
+{
+"query": "skinwalkers",
+"value": "23"
+},
+{
+"query": "skinwalker caught on camera",
+"value": "18"
+},
+{
+"query": "horror",
+"value": "11"
+},
+{
+"query": "skin",
+"value": "10"
+},
+{
+"query": "secret of skinwalker ranch",
+"value": "10"
+},
+{
+"query": "the secret of skinwalker ranch",
+"value": "9"
+},
+{
+"query": "skinwalker game",
+"value": "8"
+},
+{
+"query": "skinwalker cat",
+"value": "7"
+},
+{
+"query": "real skinwalker",
+"value": "7"
+},
+{
+"query": "skinwalker video",
+"value": "7"
+},
+{
+"query": "skinwalker dogs",
+"value": "7"
+},
+{
+"query": "skinwalker movie",
+"value": "6"
+},
+{
+"query": "skinwalker song",
+"value": "6"
+},
+{
+"query": "skinwalker ranch season 7",
+"value": "6"
+},
+{
+"query": "steak skinwalker",
+"value": "5"
+},
+{
+"query": "skinwalker horror stories",
+"value": "5"
+},
+{
+"query": "skinwalker story",
+"value": "5"
+},
+{
+"query": "skinwalker sounds",
+"value": "4"
+},
+{
+"query": "hollow tree skinwalker",
+"value": "3"
+},
+{
+"query": "skinwalker ranch utah",
+"value": "3"
+}
+]
+},
+{
+"term": "sleep paralysis",
+"geo": "US",
+"property": "youtube",
+"timeframe": "today 12-m",
+"fetched_at": "2026-11-19T21:20:05Z",
+"rising": [
+{
+"query": "how to date a sleep paralysis demon",
+"value": "Breakout"
+},
+{
+"query": "how to date a sleep paralysis demon game",
+"value": "Breakout"
+},
+{
+"query": "sleep paralysis demon game",
+"value": "+500%"
+},
+{
+"query": "sleep paralysis the hollow",
+"value": "+450%"
+},
+{
+"query": "how to get sleep paralysis tutorial",
+"value": "+170%"
+},
+{
+"query": "how do you get sleep paralysis",
+"value": "+80%"
+},
+{
+"query": "sleep paralysis demon",
+"value": "+70%"
+},
+{
+"query": "how to get out of sleep paralysis",
+"value": "+60%"
+}
+],
+"top": [
+{
+"query": "sleep paralysis demon",
+"value": "100"
+},
+{
+"query": "sleep paralysis video",
+"value": "44"
+},
+{
+"query": "sleep paralysis juice wrld",
+"value": "36"
+},
+{
+"query": "sleep paralysis game",
+"value": "29"
+},
+{
+"query": "sleep paralysis scary",
+"value": "20"
+},
+{
+"query": "how to get sleep paralysis",
+"value": "17"
+},
+{
+"query": "what is sleep paralysis",
+"value": "17"
+},
+{
+"query": "sleep paralysis stories",
+"value": "15"
+},
+{
+"query": "how to date a sleep paralysis demon",
+"value": "13"
+},
+{
+"query": "sleep paralysis meme",
+"value": "10"
+},
+{
+"query": "sleep paralysis song",
+"value": "10"
+},
+{
+"query": "sleep paralysis simulation",
+"value": "10"
+},
+{
+"query": "lisa sleep paralysis",
+"value": "8"
+},
+{
+"query": "sleep paralysis demon game",
+"value": "6"
+},
+{
+"query": "how do you get sleep paralysis",
+"value": "2"
+},
+{
+"query": "how to date a sleep paralysis demon game",
+"value": "2"
+},
+{
+"query": "sleep paralysis the hollow",
+"value": "2"
+},
+{
+"query": "how to get out of sleep paralysis",
+"value": "1"
+},
+{
+"query": "how to get sleep paralysis tutorial",
+"value": "1"
+}
+]
+},
+{
+"term": "survival scenario",
+"geo": "US",
+"property": "youtube",
+"timeframe": "today 12-m",
+"fetched_at": "2026-11-19T21:20:09Z",
+"rising": [],
+"top": []
+},
+{
+"term": "two sentence horror",
+"geo": "US",
+"property": "youtube",
+"timeframe": "today 12-m",
+"fetched_at": "2026-11-19T21:20:12Z",
+"rising": [
+{
+"query": "worst two sentence horror stories",
+"value": "Breakout"
+},
+{
+"query": "best two sentence horror stories",
+"value": "+200%"
+},
+{
+"query": "10 two sentence horror stories",
+"value": "+60%"
+}
+],
+"top": [
+{
+"query": "two sentence horror stories",
+"value": "100"
+},
+{
+"query": "two sentence horror story",
+"value": "69"
+},
+{
+"query": "bad two sentence horror",
+"value": "9"
+},
+{
+"query": "10 two sentence horror stories",
+"value": "8"
+},
+{
+"query": "bad two sentence horror stories",
+"value": "2"
+},
+{
+"query": "two sentence horror stories reddit",
+"value": "2"
+},
+{
+"query": "best two sentence horror stories",
+"value": "1"
+},
+{
+"query": "worst two sentence horror stories",
+"value": "1"
+}
+]
+},
+{
+"term": "winter horror",
+"geo": "US",
+"property": "youtube",
+"timeframe": "today 12-m",
+"fetched_at": "2026-11-19T21:20:16Z",
+"rising": [],
+"top": [
+{
+"query": "winter horror movies",
+"value": "100"
+},
+{
+"query": "winter horror land",
+"value": "19"
+}
+]
+},
+{
+"term": "would you rather horror",
+"geo": "US",
+"property": "youtube",
+"timeframe": "today 12-m",
+"fetched_at": "2026-11-19T21:20:20Z",
+"rising": [],
+"top": []
+},
+{
+"term": "analog horror",
+"geo": "US",
+"property": "web",
+"timeframe": "today 12-m",
+"fetched_at": "2026-11-19T21:20:23Z",
+"rising": [
+{
+"query": "the cat in the hat analog horror",
+"value": "Breakout"
+},
+{
+"query": "cat in the hat",
+"value": "Breakout"
+},
+{
+"query": "parallel analog horror",
+"value": "Breakout"
+},
+{
+"query": "santa rosa aquarium analog horror",
+"value": "Breakout"
+},
+{
+"query": "verity",
+"value": "Breakout"
+},
+{
+"query": "sun man",
+"value": "Breakout"
+},
+{
+"query": "the parallel analog horror",
+"value": "+2,500%"
+},
+{
+"query": "backrooms movie",
+"value": "+600%"
+},
+{
+"query": "backrooms",
+"value": "+200%"
+},
+{
+"query": "chopped808 analog horror funk",
+"value": "+130%"
+},
+{
+"query": "best analog horror series",
+"value": "+130%"
+},
+{
+"query": "obelisk analog horror",
+"value": "+120%"
+},
+{
+"query": "analog horror series",
+"value": "+80%"
+},
+{
+"query": "locust",
+"value": "+80%"
+},
+{
+"query": "locust analog horror",
+"value": "+80%"
+},
+{
+"query": "the locust",
+"value": "+80%"
+},
+{
+"query": "analog horror drawings",
+"value": "+70%"
+},
+{
+"query": "the locust analog horror",
+"value": "+70%"
+},
+{
+"query": "what is analog horror",
+"value": "+70%"
+},
+{
+"query": "analog horror characters",
+"value": "+50%"
+},
+{
+"query": "analog horror movie",
+"value": "+50%"
+}
+],
+"top": [
+{
+"query": "what is analog horror",
+"value": "100"
+},
+{
+"query": "analog horror series",
+"value": "32"
+},
+{
+"query": "best analog horror",
+"value": "30"
+},
+{
+"query": "scary",
+"value": "29"
+},
+{
+"query": "analog horror movie",
+"value": "29"
+},
+{
+"query": "analog horror meaning",
+"value": "20"
+},
+{
+"query": "analog meaning",
+"value": "20"
+},
+{
+"query": "analog horror games",
+"value": "19"
+},
+{
+"query": "analog horror characters",
+"value": "18"
+},
+{
+"query": "boiled one",
+"value": "18"
+},
+{
+"query": "horror movies",
+"value": "18"
+},
+{
+"query": "analog horror movies",
+"value": "18"
+},
+{
+"query": "locust analog horror",
+"value": "17"
+},
+{
+"query": "locust",
+"value": "17"
+},
+{
+"query": "analog horror face",
+"value": "16"
+},
+{
+"query": "the cat in the hat analog horror",
+"value": "16"
+},
+{
+"query": "analog horror godzilla",
+"value": "15"
+},
+{
+"query": "cat in the hat",
+"value": "15"
+},
+{
+"query": "fnaf analog horror",
+"value": "15"
+},
+{
+"query": "backrooms",
+"value": "15"
+},
+{
+"query": "how to make analog horror",
+"value": "15"
+},
+{
+"query": "analog horror eyes",
+"value": "14"
+},
+{
+"query": "mandela catalogue",
+"value": "14"
+},
+{
+"query": "the locust",
+"value": "13"
+},
+{
+"query": "the locust analog horror",
+"value": "13"
+}
+]
+},
+{
+"term": "backrooms",
+"geo": "US",
+"property": "web",
+"timeframe": "today 12-m",
+"fetched_at": "2026-11-19T21:20:28Z",
+"rising": [
+{
+"query": "obsession",
+"value": "Breakout"
+},
+{
+"query": "obsession movie",
+"value": "Breakout"
+},
+{
+"query": "how long is backrooms movie",
+"value": "Breakout"
+},
+{
+"query": "backrooms movie showtimes",
+"value": "Breakout"
+},
+{
+"query": "captain clark backrooms",
+"value": "Breakout"
+},
+{
+"query": "captain clark",
+"value": "Breakout"
+},
+{
+"query": "backrooms movie tickets",
+"value": "Breakout"
+},
+{
+"query": "pirate clark",
+"value": "Breakout"
+},
+{
+"query": "pirate clark backrooms",
+"value": "Breakout"
+},
+{
+"query": "robert bobroczkyi",
+"value": "Breakout"
+},
+{
+"query": "backrooms showtimes",
+"value": "Breakout"
+},
+{
+"query": "disclosure day",
+"value": "Breakout"
+},
+{
+"query": "clark backrooms",
+"value": "Breakout"
+},
+{
+"query": "passenger movie",
+"value": "Breakout"
+},
+{
+"query": "avan jogia backrooms",
+"value": "Breakout"
+},
+{
+"query": "scary movie 6",
+"value": "Breakout"
+},
+{
+"query": "backrooms movie ending explained",
+"value": "Breakout"
+},
+{
+"query": "the backrooms movie tickets",
+"value": "Breakout"
+},
+{
+"query": "does backrooms have a post credit scene",
+"value": "Breakout"
+},
+{
+"query": "when is backrooms coming to streaming",
+"value": "Breakout"
+},
+{
+"query": "will the backrooms movie be on netflix",
+"value": "Breakout"
+},
+{
+"query": "amc",
+"value": "Breakout"
+},
+{
+"query": "backrooms movie streaming",
+"value": "Breakout"
+},
+{
+"query": "backrooms movie 2026",
+"value": "Breakout"
+},
+{
+"query": "cinemark",
+"value": "+4,950%"
+}
+],
+"top": [
+{
+"query": "the backrooms",
+"value": "100"
+},
+{
+"query": "movie backrooms",
+"value": "97"
+},
+{
+"query": "the backrooms movie",
+"value": "34"
+},
+{
+"query": "escape the backrooms",
+"value": "16"
+},
+{
+"query": "backrooms 2026",
+"value": "13"
+},
+{
+"query": "what is the backrooms",
+"value": "12"
+},
+{
+"query": "backrooms game",
+"value": "9"
+},
+{
+"query": "obsession",
+"value": "8"
+},
+{
+"query": "backrooms showtimes",
+"value": "7"
+},
+{
+"query": "clark backrooms",
+"value": "7"
+},
+{
+"query": "backrooms streaming",
+"value": "7"
+},
+{
+"query": "backrooms release date",
+"value": "6"
+},
+{
+"query": "backrooms movie 2026",
+"value": "6"
+},
+{
+"query": "backrooms cast",
+"value": "5"
+},
+{
+"query": "the backrooms game",
+"value": "5"
+},
+{
+"query": "backrooms explained",
+"value": "5"
+},
+{
+"query": "obsession movie",
+"value": "5"
+},
+{
+"query": "backrooms where to watch",
+"value": "4"
+},
+{
+"query": "backrooms movie release date",
+"value": "4"
+},
+{
+"query": "when does backrooms come out",
+"value": "4"
+},
+{
+"query": "backrooms levels",
+"value": "4"
+},
+{
+"query": "a24 backrooms",
+"value": "4"
+},
+{
+"query": "backrooms trailer",
+"value": "4"
+},
+{
+"query": "a24",
+"value": "3"
+},
+{
+"query": "what are the backrooms",
+"value": "3"
+}
+]
+},
+{
+"term": "christmas horror",
+"geo": "US",
+"property": "web",
+"timeframe": "today 12-m",
+"fetched_at": "2026-11-19T21:21:02Z",
+"rising": [
+{
+"query": "horror movies 2026",
+"value": "+1,800%"
+},
+{
+"query": "list of christmas horror movies",
+"value": "+110%"
+},
+{
+"query": "christmas horror movie 2025",
+"value": "+100%"
+},
+{
+"query": "christmas horror movies 2025",
+"value": "+70%"
+},
+{
+"query": "monster house",
+"value": "+70%"
+},
+{
+"query": "christmas horror films",
+"value": "+70%"
+},
+{
+"query": "christmas horror game",
+"value": "+60%"
+},
+{
+"query": "a christmas carol horror",
+"value": "+60%"
+},
+{
+"query": "best christmas horror",
+"value": "+40%"
+}
+],
+"top": [
+{
+"query": "christmas movies horror",
+"value": "100"
+},
+{
+"query": "christmas movies",
+"value": "98"
+},
+{
+"query": "horror movies",
+"value": "96"
+},
+{
+"query": "christmas horror movie",
+"value": "78"
+},
+{
+"query": "best christmas horror",
+"value": "33"
+},
+{
+"query": "christmas horror story",
+"value": "27"
+},
+{
+"query": "black christmas",
+"value": "19"
+},
+{
+"query": "a christmas story",
+"value": "17"
+},
+{
+"query": "a christmas horror story",
+"value": "17"
+},
+{
+"query": "best horror christmas movies",
+"value": "14"
+},
+{
+"query": "christmas horror game",
+"value": "14"
+},
+{
+"query": "best christmas movies",
+"value": "14"
+},
+{
+"query": "best horror movies",
+"value": "14"
+},
+{
+"query": "christmas horror movies 2025",
+"value": "11"
+},
+{
+"query": "christmas horror games",
+"value": "10"
+},
+{
+"query": "black christmas movies",
+"value": "8"
+},
+{
+"query": "christmas horror movie 2025",
+"value": "8"
+},
+{
+"query": "the nightmare before christmas",
+"value": "7"
+},
+{
+"query": "new christmas horror movies",
+"value": "7"
+},
+{
+"query": "rocky horror",
+"value": "6"
+},
+{
+"query": "christmas horror movies netflix",
+"value": "6"
+},
+{
+"query": "christmas horror films",
+"value": "6"
+},
+{
+"query": "horror movies 2026",
+"value": "6"
+},
+{
+"query": "a christmas carol horror",
+"value": "4"
+},
+{
+"query": "list of christmas horror movies",
+"value": "3"
+}
+]
+},
+{
+"term": "creepypasta animation",
+"geo": "US",
+"property": "web",
+"timeframe": "today 12-m",
+"fetched_at": "2026-11-19T21:21:07Z",
+"rising": [],
+"top": []
+},
+{
+"term": "horror animation",
+"geo": "US",
+"property": "web",
+"timeframe": "today 12-m",
+"fetched_at": "2026-11-19T21:21:10Z",
+"rising": [],
+"top": [
+{
+"query": "funny horror animation",
+"value": "100"
+}
+]
+},
+{
+"term": "horror rules",
+"geo": "US",
+"property": "web",
+"timeframe": "today 12-m",
+"fetched_at": "2026-11-19T21:21:13Z",
+"rising": [
+{
+"query": "the rules thai horror where to watch",
+"value": "Breakout"
+}
+],
+"top": [
+{
+"query": "rules of horror",
+"value": "100"
+},
+{
+"query": "the rules horror",
+"value": "94"
+},
+{
+"query": "horror movie rules",
+"value": "29"
+},
+{
+"query": "arkham horror rules",
+"value": "10"
+},
+{
+"query": "halloween horror nights rules",
+"value": "4"
+},
+{
+"query": "arkham horror lcg rules",
+"value": "3"
+},
+{
+"query": "eldritch horror rules",
+"value": "2"
+},
+{
+"query": "arkham horror card game rules",
+"value": "2"
+},
+{
+"query": "scream horror movie rules",
+"value": "2"
+},
+{
+"query": "rocky horror picture show rules",
+"value": "2"
+},
+{
+"query": "the rules thai horror where to watch",
+"value": "2"
+}
+]
+},
+{
+"term": "horror shorts",
+"geo": "US",
+"property": "web",
+"timeframe": "today 12-m",
+"fetched_at": "2026-11-19T21:21:18Z",
+"rising": [
+{
+"query": "best horror shorts on youtube",
+"value": "+50%"
+},
+{
+"query": "best youtube horror shorts",
+"value": "+40%"
+}
+],
+"top": [
+{
+"query": "best horror shorts",
+"value": "100"
+},
+{
+"query": "best youtube horror shorts",
+"value": "55"
+},
+{
+"query": "best horror shorts on youtube",
+"value": "21"
+},
+{
+"query": "american horror story shorts",
+"value": "9"
+},
+{
+"query": "rocky horror gold shorts",
+"value": "6"
+},
+{
+"query": "columbia rocky horror shorts",
+"value": "5"
+},
+{
+"query": "rocky horror picture show gold shorts",
+"value": "3"
+}
+]
+},
+{
+"term": "liminal space",
+"geo": "US",
+"property": "web",
+"timeframe": "today 12-m",
+"fetched_at": "2026-11-19T21:21:22Z",
+"rising": [
+{
+"query": "kane parsons",
+"value": "Breakout"
+},
+{
+"query": "explain the concept of a liminal space and why they feel eerie",
+"value": "Breakout"
+},
+{
+"query": "backrooms movie",
+"value": "+1,150%"
+},
+{
+"query": "the backrooms movie",
+"value": "+550%"
+},
+{
+"query": "liminal space horror movies",
+"value": "+400%"
+},
+{
+"query": "backrooms levels",
+"value": "+400%"
+},
+{
+"query": "the space between liminal horror",
+"value": "+350%"
+},
+{
+"query": "what are the backrooms",
+"value": "+300%"
+},
+{
+"query": "creepypasta",
+"value": "+250%"
+},
+{
+"query": "liminal space movie",
+"value": "+200%"
+},
+{
+"query": "backroom",
+"value": "+170%"
+},
+{
+"query": "liminal space backrooms",
+"value": "+160%"
+},
+{
+"query": "backrooms",
+"value": "+160%"
+},
+{
+"query": "the backrooms",
+"value": "+140%"
+},
+{
+"query": "liminal space movies",
+"value": "+140%"
+},
+{
+"query": "house of leaves",
+"value": "+140%"
+},
+{
+"query": "minecraft liminal space mod",
+"value": "+130%"
+},
+{
+"query": "liminal horror",
+"value": "+80%"
+},
+{
+"query": "liminal space horror",
+"value": "+80%"
+},
+{
+"query": "the liminal space",
+"value": "+40%"
+}
+],
+"top": [
+{
+"query": "the liminal space",
+"value": "100"
+},
+{
+"query": "liminal space backrooms",
+"value": "69"
+},
+{
+"query": "backrooms",
+"value": "69"
+},
+{
+"query": "what is liminal space",
+"value": "46"
+},
+{
+"query": "liminal meaning",
+"value": "46"
+},
+{
+"query": "liminal space meaning",
+"value": "46"
+},
+{
+"query": "liminal space movie",
+"value": "33"
+},
+{
+"query": "liminal space definition",
+"value": "30"
+},
+{
+"query": "liminal definition",
+"value": "30"
+},
+{
+"query": "the backrooms",
+"value": "29"
+},
+{
+"query": "what is a liminal space",
+"value": "24"
+},
+{
+"query": "liminal space game",
+"value": "22"
+},
+{
+"query": "backrooms movie",
+"value": "18"
+},
+{
+"query": "liminal horror",
+"value": "17"
+},
+{
+"query": "liminal space horror",
+"value": "16"
+},
+{
+"query": "liminal space movies",
+"value": "16"
+},
+{
+"query": "liminal space games",
+"value": "15"
+},
+{
+"query": "dreamcore liminal space",
+"value": "14"
+},
+{
+"query": "dreamcore",
+"value": "14"
+},
+{
+"query": "liminal space house",
+"value": "10"
+},
+{
+"query": "liminal space music",
+"value": "9"
+},
+{
+"query": "liminal space reddit",
+"value": "8"
+},
+{
+"query": "the backrooms movie",
+"value": "7"
+},
+{
+"query": "liminal space art",
+"value": "7"
+},
+{
+"query": "what does liminal mean",
+"value": "7"
+}
+]
+},
+{
+"term": "mimic horror",
+"geo": "US",
+"property": "web",
+"timeframe": "today 12-m",
+"fetched_at": "2026-11-19T21:21:25Z",
+"rising": [],
+"top": [
+{
+"query": "mimic horror movie",
+"value": "100"
+},
+{
+"query": "the mimic horror movie",
+"value": "62"
+}
+]
+},
+{
+"term": "pick a door",
+"geo": "US",
+"property": "web",
+"timeframe": "today 12-m",
+"fetched_at": "2026-11-19T21:21:29Z",
+"rising": [],
+"top": [
+{
+"query": "pick a door lock",
+"value": "100"
+},
+{
+"query": "how to pick a door lock",
+"value": "71"
+},
+{
+"query": "how to pick a door knob",
+"value": "18"
+},
+{
+"query": "how to pick a locked door",
+"value": "16"
+},
+{
+"query": "how to pick a lock on a door",
+"value": "15"
+},
+{
+"query": "how to pick a door knob lock",
+"value": "14"
+},
+{
+"query": "how to pick a door lock with a bobby pin",
+"value": "7"
+},
+{
+"query": "how to pick a bedroom door lock",
+"value": "6"
+},
+{
+"query": "how to pick a house door lock",
+"value": "6"
+},
+{
+"query": "how to pick a car door lock",
+"value": "5"
+},
+{
+"query": "how to pick a door handle lock",
+"value": "5"
+},
+{
+"query": "how to pick a front door lock",
+"value": "4"
+}
+]
+},
+{
+"term": "scary story animation",
+"geo": "US",
+"property": "web",
+"timeframe": "today 12-m",
+"fetched_at": "2026-11-19T21:21:34Z",
+"rising": [],
+"top": []
+},
+{
+"term": "skinwalker",
+"geo": "US",
+"property": "web",
+"timeframe": "today 12-m",
+"fetched_at": "2026-11-19T21:21:37Z",
+"rising": [
+{
+"query": "skinwalker horror game sales",
+"value": "Breakout"
+},
+{
+"query": "when does skinwalker ranch start in 2026",
+"value": "Breakout"
+},
+{
+"query": "the secret of skinwalker ranch episode 12",
+"value": "Breakout"
+},
+{
+"query": "the secret of skinwalker ranch flying high",
+"value": "Breakout"
+},
+{
+"query": "the secret of skinwalker ranch up in smoke",
+"value": "Breakout"
+},
+{
+"query": "the secret of skinwalker ranch smoking guns",
+"value": "Breakout"
+},
+{
+"query": "the secret of skinwalker ranch heating up",
+"value": "Breakout"
+},
+{
+"query": "the secret of skinwalker ranch the twilight zones",
+"value": "Breakout"
+},
+{
+"query": "the secret of skinwalker ranch top secrets",
+"value": "Breakout"
+},
+{
+"query": "the secret of skinwalker ranch home sweet homestead",
+"value": "Breakout"
+},
+{
+"query": "skinwalker ranch new season 2026",
+"value": "Breakout"
+},
+{
+"query": "the secret of skinwalker ranch high voltage",
+"value": "Breakout"
+},
+{
+"query": "skinwalker or not game",
+"value": "+1,900%"
+},
+{
+"query": "the secret of skinwalker ranch all fired up",
+"value": "+1,050%"
+},
+{
+"query": "secret of skinwalker ranch season 7",
+"value": "+700%"
+},
+{
+"query": "skinwalker ranch season 7",
+"value": "+650%"
+},
+{
+"query": "skinwalker or not",
+"value": "+450%"
+},
+{
+"query": "the secret of skinwalker ranch episode 8",
+"value": "+350%"
+},
+{
+"query": "when does season 7 of skinwalker ranch start",
+"value": "+250%"
+},
+{
+"query": "skinwalker ranch season 7 release date",
+"value": "+200%"
+},
+{
+"query": "skinwalker island movie",
+"value": "+180%"
+},
+{
+"query": "how many seasons of skinwalker ranch are there",
+"value": "+170%"
+},
+{
+"query": "a hollow tree skinwalker",
+"value": "+160%"
+},
+{
+"query": "skinwalker island",
+"value": "+70%"
+},
+{
+"query": "skinwalker human",
+"value": "+60%"
+}
+],
+"top": [
+{
+"query": "skinwalker ranch",
+"value": "100"
+},
+{
+"query": "what is skinwalker",
+"value": "23"
+},
+{
+"query": "what is a skinwalker",
+"value": "14"
+},
+{
+"query": "secret of skinwalker ranch",
+"value": "13"
+},
+{
+"query": "skinwalker real",
+"value": "12"
+},
+{
+"query": "the secret of skinwalker ranch",
+"value": "10"
+},
+{
+"query": "dog skinwalker",
+"value": "8"
+},
+{
+"query": "skinwalkers",
+"value": "7"
+},
+{
+"query": "skinwalker ranch season 7",
+"value": "7"
+},
+{
+"query": "is skinwalker real",
+"value": "6"
+},
+{
+"query": "what is skinwalker ranch",
+"value": "6"
+},
+{
+"query": "skinwalker movie",
+"value": "6"
+},
+{
+"query": "skinwalker game",
+"value": "5"
+},
+{
+"query": "wendigo",
+"value": "5"
+},
+{
+"query": "skinwalker ranch show",
+"value": "5"
+},
+{
+"query": "skinwalker ranch new season",
+"value": "4"
+},
+{
+"query": "are skinwalker real",
+"value": "4"
+},
+{
+"query": "skin walker",
+"value": "4"
+},
+{
+"query": "where is skinwalker ranch",
+"value": "4"
+},
+{
+"query": "skinwalker island",
+"value": "4"
+},
+{
+"query": "scary skinwalker",
+"value": "3"
+},
+{
+"query": "is a skinwalker real",
+"value": "3"
+},
+{
+"query": "navajo skinwalker",
+"value": "3"
+},
+{
+"query": "navajo",
+"value": "3"
+},
+{
+"query": "skinwalker ranch utah",
+"value": "3"
+}
+]
+},
+{
+"term": "sleep paralysis",
+"geo": "US",
+"property": "web",
+"timeframe": "today 12-m",
+"fetched_at": "2026-11-19T21:21:41Z",
+"rising": [
+{
+"query": "how to date a sleep paralysis demon",
+"value": "Breakout"
+},
+{
+"query": "sleep paralysis hallucinations",
+"value": "+800%"
+},
+{
+"query": "hypnagogic sleep paralysis",
+"value": "+250%"
+},
+{
+"query": "symptoms of sleep paralysis",
+"value": "+150%"
+},
+{
+"query": "sleep paralysis game",
+"value": "+140%"
+},
+{
+"query": "sleep paralysis definition",
+"value": "+100%"
+},
+{
+"query": "sleep paralysis treatment",
+"value": "+90%"
+},
+{
+"query": "what is a sleep paralysis",
+"value": "+90%"
+},
+{
+"query": "causes of sleep paralysis",
+"value": "+90%"
+},
+{
+"query": "sleep paralysis symptoms",
+"value": "+90%"
+},
+{
+"query": "how to get sleep paralysis tutorial",
+"value": "+80%"
+},
+{
+"query": "treatment for sleep paralysis",
+"value": "+50%"
+},
+{
+"query": "signs of sleep paralysis",
+"value": "+50%"
+},
+{
+"query": "how to avoid sleep paralysis",
+"value": "+40%"
+}
+],
+"top": [
+{
+"query": "what sleep paralysis",
+"value": "100"
+},
+{
+"query": "what is sleep paralysis",
+"value": "67"
+},
+{
+"query": "sleep paralysis hallucinations",
+"value": "54"
+},
+{
+"query": "sleep paralysis demon",
+"value": "35"
+},
+{
+"query": "sleep paralysis causes",
+"value": "29"
+},
+{
+"query": "what is a sleep paralysis",
+"value": "25"
+},
+{
+"query": "sleep paralysis symptoms",
+"value": "20"
+},
+{
+"query": "what causes sleep paralysis",
+"value": "15"
+},
+{
+"query": "sleep paralysis cause",
+"value": "13"
+},
+{
+"query": "sleep paralysis meaning",
+"value": "12"
+},
+{
+"query": "what are sleep paralysis",
+"value": "12"
+},
+{
+"query": "how to get sleep paralysis",
+"value": "9"
+},
+{
+"query": "symptoms of sleep paralysis",
+"value": "9"
+},
+{
+"query": "sleep paralysis definition",
+"value": "9"
+},
+{
+"query": "sleep paralysis dreams",
+"value": "9"
+},
+{
+"query": "causes of sleep paralysis",
+"value": "8"
+},
+{
+"query": "what does sleep paralysis mean",
+"value": "7"
+},
+{
+"query": "sleep paralysis game",
+"value": "7"
+},
+{
+"query": "sleep paralysis treatment",
+"value": "6"
+},
+{
+"query": "sleep paralysis demons",
+"value": "6"
+},
+{
+"query": "hypnagogic sleep paralysis",
+"value": "5"
+},
+{
+"query": "is sleep paralysis common",
+"value": "5"
+},
+{
+"query": "how to stop sleep paralysis",
+"value": "5"
+},
+{
+"query": "sleep paralysis movie",
+"value": "5"
+},
+{
+"query": "is sleep paralysis real",
+"value": "5"
+}
+]
+},
+{
+"term": "survival scenario",
+"geo": "US",
+"property": "web",
+"timeframe": "today 12-m",
+"fetched_at": "2026-11-19T21:21:46Z",
+"rising": [],
+"top": [
+{
+"query": "worst case scenario survival game",
+"value": "100"
+},
+{
+"query": "worst case scenario survival handbook",
+"value": "77"
+},
+{
+"query": "the worst case scenario survival handbook",
+"value": "39"
+},
+{
+"query": "the worst case scenario survival game",
+"value": "38"
+},
+{
+"query": "the complete worst case scenario survival handbook",
+"value": "18"
+}
+]
+},
+{
+"term": "two sentence horror",
+"geo": "US",
+"property": "web",
+"timeframe": "today 12-m",
+"fetched_at": "2026-11-19T21:21:50Z",
+"rising": [
+{
+"query": "worst two sentence horror stories",
+"value": "Breakout"
+},
+{
+"query": "two sentence horror stories crush",
+"value": "+100%"
+},
+{
+"query": "two sentence horror stories review",
+"value": "+80%"
+},
+{
+"query": "good two sentence horror stories",
+"value": "+50%"
+},
+{
+"query": "two sentence horror stories netflix reddit",
+"value": "+40%"
+}
+],
+"top": [
+{
+"query": "two sentence horror stories",
+"value": "100"
+},
+{
+"query": "two sentence horror story",
+"value": "25"
+},
+{
+"query": "reddit two sentence horror",
+"value": "16"
+},
+{
+"query": "bad two sentence horror",
+"value": "15"
+},
+{
+"query": "reddit two sentence horror stories",
+"value": "10"
+},
+{
+"query": "best two sentence horror stories",
+"value": "6"
+},
+{
+"query": "bad two sentence horror stories",
+"value": "6"
+},
+{
+"query": "two sentence horror stories netflix",
+"value": "5"
+},
+{
+"query": "good two sentence horror stories",
+"value": "4"
+},
+{
+"query": "two sentence horror stories show",
+"value": "4"
+},
+{
+"query": "funny two sentence horror stories",
+"value": "3"
+},
+{
+"query": "two sentence horror stories episodes",
+"value": "3"
+},
+{
+"query": "two sentence horror the creature",
+"value": "3"
+},
+{
+"query": "the creature two sentence horror",
+"value": "3"
+},
+{
+"query": "two sentence horror stories examples",
+"value": "2"
+},
+{
+"query": "two sentence horror stories review",
+"value": "2"
+},
+{
+"query": "two sentence horror stories season 3",
+"value": "1"
+},
+{
+"query": "worst two sentence horror stories",
+"value": "1"
+},
+{
+"query": "two sentence horror stories crush",
+"value": "1"
+},
+{
+"query": "two sentence horror stories netflix reddit",
+"value": "<1"
+}
+]
+},
+{
+"term": "winter horror",
+"geo": "US",
+"property": "web",
+"timeframe": "today 12-m",
+"fetched_at": "2026-11-19T21:21:54Z",
+"rising": [],
+"top": [
+{
+"query": "winter horror movies",
+"value": "100"
+},
+{
+"query": "best winter horror movies",
+"value": "30"
+},
+{
+"query": "winter american horror story",
+"value": "29"
+},
+{
+"query": "winter horror books",
+"value": "19"
+}
+]
+},
+{
+"term": "would you rather horror",
+"geo": "US",
+"property": "web",
+"timeframe": "today 12-m",
+"fetched_at": "2026-11-19T21:21:59Z",
+"rising": [],
+"top": [
+{
+"query": "would you rather horror movie",
+"value": "100"
+}
+]
 }
 ]

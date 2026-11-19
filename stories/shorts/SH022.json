@@ -1,0 +1,254 @@
+{
+  "id": "SH022",
+  "title": "How to Survive Sleep Paralysis",
+  "pillar": "Horror Rules & Survival",
+  "category": "Horror Rules & Survival",
+  "format": "short",
+  "status": "concept-proposal (Creative Director, 2026-11-19; not approved; awaiting owner review)",
+  "duration_target_s": 34,
+  "hook_line": "How to survive sleep paralysis. Step one: don't fight.",
+  "first_visual": "A woman rigid in bed, eyes wide, the warm highlight trembling; in the corner, a shape that isn't furniture.",
+  "beats": [
+    {
+      "t_s": 0,
+      "clip": 1,
+      "visual": "Ivy rigid in bed, eyes wide; a shape in the corner.",
+      "vo": "How to survive sleep paralysis. Step one: don't fight.",
+      "sfx": "low drone"
+    },
+    {
+      "t_s": 4,
+      "clip": 1,
+      "visual": "Her breathing slows.",
+      "vo": "Two: breathe slow.",
+      "sfx": "breath"
+    },
+    {
+      "t_s": 8,
+      "clip": 2,
+      "visual": "Her eyes strain away from the corner.",
+      "vo": "Three: don't look at the corner.",
+      "sfx": "creak"
+    },
+    {
+      "t_s": 12,
+      "clip": 3,
+      "visual": "The mattress dips at her feet; slow breaths not hers.",
+      "vo": "Four: if the bed dips, count its breaths. Not yours.",
+      "sfx": "two breath rhythms"
+    },
+    {
+      "t_s": 18,
+      "clip": "post",
+      "visual": "Clock dissolve: 3:10, 4:30, 5:50; blue dawn creeps in (grade).",
+      "vo": "Five: stay still until morning.",
+      "sfx": "ticks"
+    },
+    {
+      "t_s": 21,
+      "clip": 4,
+      "visual": "Dawn. Ivy sits up, gasping, relieved, and scrolls the guide on her phone.",
+      "vo": "Morning. I made it.",
+      "sfx": "birds"
+    },
+    {
+      "t_s": 25,
+      "clip": "post",
+      "visual": "Guide footer: 'Thank you for lying so still. It makes it easier. - The Corner.'",
+      "vo": "Then I read who wrote it.",
+      "sfx": "sting"
+    },
+    {
+      "t_s": 28,
+      "clip": 5,
+      "visual": "Key moment: mirror: Ivy's eyes are flat, with no warm highlight. In the corner behind her, two warm highlights blink.",
+      "vo": "",
+      "sfx": "silence, blink tick"
+    }
+  ],
+  "ending": "Her mirror eyes are flat. In the dark corner, two lamp-coloured highlights blink.",
+  "loop_note": "No.",
+  "interactive_prompt": null,
+  "environments": [
+    "E3 Small Bedroom"
+  ],
+  "characters": [
+    "CH-IVY",
+    "CH-TENANT",
+    "CH-MOTH"
+  ],
+  "animation_needs": [
+    {
+      "item": "Woman lies rigid in bed at night, eyes wide, breathing slowing; a dark shape in the corner.",
+      "type": "flow-simple-action",
+      "clip": 1
+    },
+    {
+      "item": "Woman's eyes strain sideways in the dark.",
+      "type": "flow-simple-action",
+      "clip": 2
+    },
+    {
+      "item": "A mattress dips at the foot of a bed with nobody visible.",
+      "type": "flow-simple-action",
+      "clip": 3
+    },
+    {
+      "item": "At dawn the woman sits up gasping and picks up her phone.",
+      "type": "flow-simple-action",
+      "clip": 4
+    },
+    {
+      "item": "Woman looks into a mirror: her eyes are dull; behind her in the dark corner two warm points of light blink.",
+      "type": "flow-key-moment",
+      "clip": 5
+    },
+    {
+      "item": "Clock dissolve: 3:10, 4:30, 5:50; blue dawn creeps in (grade).",
+      "type": "post-motion-graphics (animated overlay/UI/text; not a still)",
+      "clip": "post"
+    },
+    {
+      "item": "Guide footer: 'Thank you for lying so still. It makes it easier. - The Corner.'",
+      "type": "post-motion-graphics (animated overlay/UI/text; not a still)",
+      "clip": "post"
+    },
+    {
+      "item": "Watcher moth easter egg: 6-frame flutter sprite composited in post (one placement)",
+      "type": "post-motion-graphics",
+      "clip": "post"
+    }
+  ],
+  "est_production_effort": "low",
+  "production_effort": "low",
+  "flow_clips": [
+    {
+      "clip": 1,
+      "seconds": 8,
+      "use_s": 8,
+      "action": "Woman lies rigid in bed at night, eyes wide, breathing slowing; a dark shape in the corner.",
+      "ingredients": [
+        "REF-IVY",
+        "REF-E3-BEDROOM",
+        "REF-TENANT"
+      ],
+      "model": "lite",
+      "post_overlay": null
+    },
+    {
+      "clip": 2,
+      "seconds": 4,
+      "use_s": 4,
+      "action": "Woman's eyes strain sideways in the dark.",
+      "ingredients": [
+        "REF-IVY",
+        "REF-E3-BEDROOM"
+      ],
+      "model": "lite",
+      "post_overlay": null
+    },
+    {
+      "clip": 3,
+      "seconds": 6,
+      "use_s": 6,
+      "action": "A mattress dips at the foot of a bed with nobody visible.",
+      "ingredients": [
+        "REF-E3-BEDROOM"
+      ],
+      "model": "lite",
+      "post_overlay": null
+    },
+    {
+      "clip": 4,
+      "seconds": 4,
+      "use_s": 4,
+      "action": "At dawn the woman sits up gasping and picks up her phone.",
+      "ingredients": [
+        "REF-IVY",
+        "REF-E3-BEDROOM"
+      ],
+      "model": "lite",
+      "post_overlay": null
+    },
+    {
+      "clip": 5,
+      "seconds": 6,
+      "use_s": 6,
+      "action": "Woman looks into a mirror: her eyes are dull; behind her in the dark corner two warm points of light blink.",
+      "ingredients": [
+        "REF-IVY",
+        "REF-E3-BEDROOM",
+        "REF-TENANT"
+      ],
+      "model": "fast",
+      "post_overlay": null
+    }
+  ],
+  "flow_credits_est": {
+    "label": "estimate",
+    "basis": "owner brief 2026-11-19: Lite 10 / Fast 20 credits per generation; one retry per clip assumed; not measured",
+    "first_pass": 60,
+    "with_one_retry_each": 120,
+    "cap": 150
+  },
+  "word_count": 43,
+  "vo_wps_est": 1.26,
+  "originality_review": "Original. Survival steps authored by the threat; the signature reveal is ours. It serves sleep gap G4. It makes no medical claim: it is fiction, and the description should add a line that sleep paralysis is a real, usually harmless condition.",
+  "scores": {
+    "topic_demand": 4,
+    "audience_curiosity": 4,
+    "hook_strength": 4,
+    "emotional_impact": 5,
+    "story_clarity": 4,
+    "suspense": 4,
+    "retention_potential": 4,
+    "rewatch_potential": 4,
+    "shareability": 4,
+    "production_complexity": 2,
+    "originality": 4,
+    "brand_suitability": 5
+  },
+  "scores_basis": "Initial editorial judgement, 2026-11-19. topic_demand is an estimate linked to research/WEEKLY_TREND_REPORT.md categories, not a measurement of this concept.",
+  "priority_est": 79.0,
+  "concept": "Ivy survives a night of sleep paralysis by following an online guide to the letter. At the bottom it is signed 'Thank you for lying so still. - The Corner.' In the mirror her eyes have lost their warm highlight. In the corner, two warm highlights blink.",
+  "hooks": [
+    {
+      "structure": "survival guide",
+      "line": "How to survive sleep paralysis. Step one: don't fight.",
+      "first_visual": "A woman rigid in bed, eyes wide, the warm highlight trembling; in the corner, a shape that isn't furniture."
+    },
+    {
+      "structure": "rule tension",
+      "line": "Step three: whatever you do, don't look at the corner.",
+      "first_visual": "Eyes straining sideways in the dark."
+    },
+    {
+      "structure": "count",
+      "line": "If the bed dips, count its breaths. Not yours.",
+      "first_visual": "A mattress sinking at the foot of a bed."
+    },
+    {
+      "structure": "signature",
+      "line": "I survived. Then I read who wrote the guide.",
+      "first_visual": "A phone scrolled to the bottom of a page, a signature."
+    },
+    {
+      "structure": "brand detail",
+      "line": "In the mirror, my eyes had lost their light.",
+      "first_visual": "A woman's reflection with flat, dull eyes."
+    }
+  ],
+  "setting": "Ivy's bedroom, 3 a.m. to dawn.",
+  "setting_type": "kit-e3",
+  "conflict": "Ivy wants to survive the night without seeing what is there.",
+  "escalation": "Don't fight; breathe slow; don't look; the bed dips; stay still until morning.",
+  "reveal": "The guide was written by the thing. Stillness made it easy to take her light.",
+  "emotional_objective": "Helplessness, then quiet theft. Uses the house style (lamp eye highlights) as the story beat.",
+  "visual_requirements": [
+    "bedroom (E3)",
+    "eye-highlight change",
+    "guide text (post)"
+  ],
+  "twist_type": "rules-written-by-the-threat",
+  "real_world_claims": "none (fiction; presented as 'A MOTHWAKE STORY')"
+}

@@ -1,0 +1,258 @@
+{
+  "id": "SH027",
+  "title": "Your Stop Is Closed",
+  "pillar": "Interactive Horror",
+  "category": "Interactive Horror",
+  "format": "short",
+  "status": "concept-proposal (Creative Director, 2026-11-19; not approved; awaiting owner review)",
+  "duration_target_s": 38,
+  "hook_line": "The driver says your stop is closed. What now?",
+  "first_visual": "Night bus interior; the destination display flickers; Ivy's reflection in the black window.",
+  "beats": [
+    {
+      "t_s": 0,
+      "clip": 1,
+      "visual": "The destination display flickers; the driver half-turns.",
+      "vo": "The driver says your stop is closed. What now?",
+      "sfx": "flicker buzz"
+    },
+    {
+      "t_s": 4,
+      "clip": 1,
+      "visual": "Same shot: the driver's eyes in the mirror as he asks.",
+      "vo": "'Fenwick's shut tonight, love. Stay on, or next stop?'",
+      "sfx": "engine"
+    },
+    {
+      "t_s": 8,
+      "clip": "post",
+      "visual": "On-screen: A: STAY ON / B: GET OFF. 3-2-1.",
+      "vo": "What would you do?",
+      "sfx": "ticks"
+    },
+    {
+      "t_s": 12,
+      "clip": 2,
+      "visual": "Split left (A): Ivy stays; the bus passes empty stops; she nods off.",
+      "vo": "A: I stayed on.",
+      "sfx": "engine"
+    },
+    {
+      "t_s": 12,
+      "clip": 3,
+      "visual": "Split right (B): Ivy steps off into fog and walks.",
+      "vo": "B: I got off.",
+      "sfx": "footsteps"
+    },
+    {
+      "t_s": 20,
+      "clip": 4,
+      "visual": "Both halves arrive at the same shelter (merged comp).",
+      "vo": "Either way. Here.",
+      "sfx": "wind"
+    },
+    {
+      "t_s": 24,
+      "clip": 4,
+      "visual": "A frosted Ivy on the bench, scarf iced, looks up.",
+      "vo": "'Took you long enough.'",
+      "sfx": "ice creak"
+    },
+    {
+      "t_s": 30,
+      "clip": "post",
+      "visual": "Timetable: FENWICK ROAD: CLOSED TONIGHT. EVERY NIGHT.",
+      "vo": "There's no right answer. Just how long you wait.",
+      "sfx": "tone"
+    },
+    {
+      "t_s": 34,
+      "clip": "post",
+      "visual": "Card: 'A or B: which one of her got there first?'",
+      "vo": "",
+      "sfx": ""
+    }
+  ],
+  "ending": "Timetable: 'Fenwick Road. Closed tonight. Every night.' No right answer, only how long you wait.",
+  "loop_note": "No. It ends on a comment prompt.",
+  "interactive_prompt": {
+    "on_screen_question": "A: STAY ON  /  B: GET OFF AT THE NEXT STOP",
+    "reveal": "in-video: both outcomes are shown and converge; the video states plainly there is no right answer",
+    "comment_invite": "Which one of her got there first?",
+    "fairness_note": "No winning answer is implied or promised. The prompt is a debate, not a quiz."
+  },
+  "environments": [
+    "E4 Night Bus No. 9"
+  ],
+  "characters": [
+    "CH-IVY",
+    "CH-MOTH"
+  ],
+  "animation_needs": [
+    {
+      "item": "A bus driver half-turns and speaks; the destination display flickers.",
+      "type": "flow-simple-action",
+      "clip": 1
+    },
+    {
+      "item": "Woman on a night bus watches empty stops pass, then dozes.",
+      "type": "flow-simple-action",
+      "clip": 2
+    },
+    {
+      "item": "Woman steps off a bus into fog and walks along a dark road.",
+      "type": "flow-simple-action",
+      "clip": 3
+    },
+    {
+      "item": "Woman arrives at a bus shelter where a frost-covered copy of her sits, looks up and speaks.",
+      "type": "flow-key-moment",
+      "clip": 4
+    },
+    {
+      "item": "On-screen: A: STAY ON / B: GET OFF. 3-2-1.",
+      "type": "post-motion-graphics (animated overlay/UI/text; not a still)",
+      "clip": "post"
+    },
+    {
+      "item": "Timetable: FENWICK ROAD: CLOSED TONIGHT. EVERY NIGHT.",
+      "type": "post-motion-graphics (animated overlay/UI/text; not a still)",
+      "clip": "post"
+    },
+    {
+      "item": "Card: 'A or B: which one of her got there first?'",
+      "type": "post-motion-graphics (animated overlay/UI/text; not a still)",
+      "clip": "post"
+    },
+    {
+      "item": "tracked text/graphics composited onto Flow clips: display text; timetable text",
+      "type": "post-motion-graphics",
+      "clip": "post"
+    },
+    {
+      "item": "Watcher moth easter egg: 6-frame flutter sprite composited in post (one placement)",
+      "type": "post-motion-graphics",
+      "clip": "post"
+    }
+  ],
+  "est_production_effort": "med",
+  "production_effort": "med",
+  "flow_clips": [
+    {
+      "clip": 1,
+      "seconds": 8,
+      "use_s": 8,
+      "action": "A bus driver half-turns and speaks; the destination display flickers.",
+      "ingredients": [
+        "REF-IVY",
+        "REF-E4-BUS"
+      ],
+      "model": "lite",
+      "post_overlay": "display text"
+    },
+    {
+      "clip": 2,
+      "seconds": 8,
+      "use_s": 8,
+      "action": "Woman on a night bus watches empty stops pass, then dozes.",
+      "ingredients": [
+        "REF-IVY",
+        "REF-E4-BUS"
+      ],
+      "model": "lite",
+      "post_overlay": null
+    },
+    {
+      "clip": 3,
+      "seconds": 8,
+      "use_s": 8,
+      "action": "Woman steps off a bus into fog and walks along a dark road.",
+      "ingredients": [
+        "REF-IVY",
+        "REF-E4-BUS"
+      ],
+      "model": "lite",
+      "post_overlay": null
+    },
+    {
+      "clip": 4,
+      "seconds": 8,
+      "use_s": 8,
+      "action": "Woman arrives at a bus shelter where a frost-covered copy of her sits, looks up and speaks.",
+      "ingredients": [
+        "REF-IVY",
+        "REF-E4-BUS"
+      ],
+      "model": "fast",
+      "post_overlay": "timetable text"
+    }
+  ],
+  "flow_credits_est": {
+    "label": "estimate",
+    "basis": "owner brief 2026-11-19: Lite 10 / Fast 20 credits per generation; one retry per clip assumed; not measured",
+    "first_pass": 50,
+    "with_one_retry_each": 100,
+    "cap": 150
+  },
+  "word_count": 48,
+  "vo_wps_est": 1.26,
+  "originality_review": "Original branching 'what would you do' premise, built on the Fenwick Road universe thread (links to SH017). Not a ghost-bus copy.",
+  "scores": {
+    "topic_demand": 3,
+    "audience_curiosity": 4,
+    "hook_strength": 4,
+    "emotional_impact": 4,
+    "story_clarity": 3,
+    "suspense": 4,
+    "retention_potential": 4,
+    "rewatch_potential": 4,
+    "shareability": 4,
+    "production_complexity": 2,
+    "originality": 4,
+    "brand_suitability": 4
+  },
+  "scores_basis": "Initial editorial judgement, 2026-11-19. topic_demand is an estimate linked to research/WEEKLY_TREND_REPORT.md categories, not a measurement of this concept.",
+  "priority_est": 71.0,
+  "concept": "The driver says Fenwick Road is closed. The viewer chooses: stay on, or get off at the next stop. A split screen plays both. They converge on one shelter, where a frost-covered Ivy has been waiting a long time: 'Took you long enough.'",
+  "hooks": [
+    {
+      "structure": "what would you do",
+      "line": "The driver says your stop is closed. What now?",
+      "first_visual": "Night bus interior; the destination display flickers; Ivy's reflection in the black window."
+    },
+    {
+      "structure": "choice",
+      "line": "Stay on, or get off at the next stop?",
+      "first_visual": "Split screen: a bus aisle and an open door into fog."
+    },
+    {
+      "structure": "wrong detail",
+      "line": "Both choices ended at the same shelter.",
+      "first_visual": "Two paths converging on one bus shelter."
+    },
+    {
+      "structure": "dialogue",
+      "line": "'Took you long enough,' she said. In my voice.",
+      "first_visual": "A frosted woman on a shelter bench looking up."
+    },
+    {
+      "structure": "rule",
+      "line": "Fenwick Road. Closed tonight. Every night.",
+      "first_visual": "A shelter timetable."
+    }
+  ],
+  "setting": "Night bus No. 9; a fog-bound shelter on the Fenwick route.",
+  "setting_type": "kit-e4",
+  "conflict": "Ivy has to choose how to get home.",
+  "escalation": "Both paths look normal, then wrong: empty stops, fog.",
+  "reveal": "Both outcomes reach the same shelter and the same waiting Ivy.",
+  "emotional_objective": "Fate dread; a comment debate.",
+  "visual_requirements": [
+    "bus (E4)",
+    "shelter exterior",
+    "split-screen comp (post)",
+    "frosted Ivy variant"
+  ],
+  "twist_type": "both-choices-meet-at-the-shelter",
+  "real_world_claims": "none (fiction; presented as 'A MOTHWAKE STORY')"
+}

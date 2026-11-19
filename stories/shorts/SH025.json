@@ -1,0 +1,244 @@
+{
+  "id": "SH025",
+  "title": "Two Nines",
+  "pillar": "Interactive Horror",
+  "category": "Interactive Horror",
+  "format": "short",
+  "status": "concept-proposal (Creative Director, 2026-11-19; not approved; awaiting owner review)",
+  "duration_target_s": 35,
+  "hook_line": "Two doors say nine. Only one is mine.",
+  "first_visual": "A corridor where one door should be: two identical doors, both numbered 9, timer light ticking.",
+  "beats": [
+    {
+      "t_s": 0,
+      "clip": 1,
+      "visual": "Earlier: Ivy wheels her bike in; the handlebar scrapes her door at knee height (subtle).",
+      "vo": "Normal evening. Bike, keys, shopping.",
+      "sfx": "scrape, keys"
+    },
+    {
+      "t_s": 5,
+      "clip": 2,
+      "visual": "Now: two identical doors, both 9; one peephole glows; one mat is crooked.",
+      "vo": "Two doors say nine. Only one is mine.",
+      "sfx": "timer tick"
+    },
+    {
+      "t_s": 11,
+      "clip": "post",
+      "visual": "On-screen: WHICH DOOR? LEFT or RIGHT, 3-2-1 freeze.",
+      "vo": "Which do I open? Decide now.",
+      "sfx": "ticks"
+    },
+    {
+      "t_s": 16,
+      "clip": "post",
+      "visual": "Replay of 0:01, zoomed: the scrape is on the right-hand door.",
+      "vo": "Watch the start again. The bike.",
+      "sfx": "rewind whoosh"
+    },
+    {
+      "t_s": 21,
+      "clip": 3,
+      "visual": "Ivy touches the scrape on the right door and opens it: her warm flat.",
+      "vo": "Right. Mine.",
+      "sfx": "door, relief"
+    },
+    {
+      "t_s": 26,
+      "clip": 4,
+      "visual": "Key moment: behind her, the left door's lit peephole goes dark; the door fades into plain wall.",
+      "vo": "The other one watched me choose.",
+      "sfx": "low thud"
+    },
+    {
+      "t_s": 31,
+      "clip": "post",
+      "visual": "Card: 'Did you spot the scrape first time? Comment the second you saw it.'",
+      "vo": "",
+      "sfx": "tone"
+    }
+  ],
+  "ending": "She opens the right door: home. Behind her, the left door's peephole goes dark, then the door is plain wall.",
+  "loop_note": "Partial. The final card points back to the start for a rewatch, which is the point of the format.",
+  "interactive_prompt": {
+    "on_screen_question": "WHICH DOOR? LEFT or RIGHT",
+    "reveal": "in-video at 0:16, with replay of the planted clue (bike scrape, 0:01)",
+    "comment_invite": "Comment the second you spotted the scrape.",
+    "fairness_note": "The clue is visible on the first watch. Red herrings are disclosed after the reveal. No hidden answer is withheld."
+  },
+  "environments": [
+    "E1 Vesper Court Hallway"
+  ],
+  "characters": [
+    "CH-IVY",
+    "CH-TENANT",
+    "CH-MOTH"
+  ],
+  "animation_needs": [
+    {
+      "item": "Woman wheels a bike into a corridor; the handlebar brushes her apartment door.",
+      "type": "flow-simple-action",
+      "clip": 1
+    },
+    {
+      "item": "Woman stares at two identical doors side by side in a dim corridor.",
+      "type": "flow-simple-action",
+      "clip": 2
+    },
+    {
+      "item": "Woman touches a scuff on a door and opens it into a warm flat.",
+      "type": "flow-simple-action",
+      "clip": 3
+    },
+    {
+      "item": "A glowing peephole in a door goes dark and the door fades into plain wall.",
+      "type": "flow-key-moment",
+      "clip": 4
+    },
+    {
+      "item": "On-screen: WHICH DOOR? LEFT or RIGHT, 3-2-1 freeze.",
+      "type": "post-motion-graphics (animated overlay/UI/text; not a still)",
+      "clip": "post"
+    },
+    {
+      "item": "Replay of 0:01, zoomed: the scrape is on the right-hand door.",
+      "type": "post-motion-graphics (animated overlay/UI/text; not a still)",
+      "clip": "post"
+    },
+    {
+      "item": "Card: 'Did you spot the scrape first time? Comment the second you saw it.'",
+      "type": "post-motion-graphics (animated overlay/UI/text; not a still)",
+      "clip": "post"
+    },
+    {
+      "item": "tracked text/graphics composited onto Flow clips: door number; door numbers",
+      "type": "post-motion-graphics",
+      "clip": "post"
+    },
+    {
+      "item": "Watcher moth easter egg: 6-frame flutter sprite composited in post (one placement)",
+      "type": "post-motion-graphics",
+      "clip": "post"
+    }
+  ],
+  "est_production_effort": "low",
+  "production_effort": "low",
+  "flow_clips": [
+    {
+      "clip": 1,
+      "seconds": 5,
+      "use_s": 5,
+      "action": "Woman wheels a bike into a corridor; the handlebar brushes her apartment door.",
+      "ingredients": [
+        "REF-IVY",
+        "REF-E1-HALLWAY"
+      ],
+      "model": "lite",
+      "post_overlay": "door number"
+    },
+    {
+      "clip": 2,
+      "seconds": 6,
+      "use_s": 6,
+      "action": "Woman stares at two identical doors side by side in a dim corridor.",
+      "ingredients": [
+        "REF-IVY",
+        "REF-E1-HALLWAY"
+      ],
+      "model": "lite",
+      "post_overlay": "door numbers"
+    },
+    {
+      "clip": 3,
+      "seconds": 5,
+      "use_s": 5,
+      "action": "Woman touches a scuff on a door and opens it into a warm flat.",
+      "ingredients": [
+        "REF-IVY",
+        "REF-E1-HALLWAY"
+      ],
+      "model": "lite",
+      "post_overlay": null
+    },
+    {
+      "clip": 4,
+      "seconds": 5,
+      "use_s": 5,
+      "action": "A glowing peephole in a door goes dark and the door fades into plain wall.",
+      "ingredients": [
+        "REF-E1-HALLWAY",
+        "REF-TENANT"
+      ],
+      "model": "fast",
+      "post_overlay": null
+    }
+  ],
+  "flow_credits_est": {
+    "label": "estimate",
+    "basis": "owner brief 2026-11-19: Lite 10 / Fast 20 credits per generation; one retry per clip assumed; not measured",
+    "first_pass": 50,
+    "with_one_retry_each": 100,
+    "cap": 150
+  },
+  "word_count": 33,
+  "vo_wps_est": 0.94,
+  "originality_review": "Original 'which door' puzzle with a fair-play clue. A choose-a-door premise is generic; the scrape clue and the watching false door are ours.",
+  "scores": {
+    "topic_demand": 3,
+    "audience_curiosity": 5,
+    "hook_strength": 5,
+    "emotional_impact": 4,
+    "story_clarity": 5,
+    "suspense": 4,
+    "retention_potential": 5,
+    "rewatch_potential": 5,
+    "shareability": 4,
+    "production_complexity": 1,
+    "originality": 4,
+    "brand_suitability": 4
+  },
+  "scores_basis": "Initial editorial judgement, 2026-11-19. topic_demand is an estimate linked to research/WEEKLY_TREND_REPORT.md categories, not a measurement of this concept.",
+  "priority_est": 85.5,
+  "concept": "Ivy comes home to two identical doors marked 9. The viewer picks left or right during a 3-second freeze. The fair clue is a bike scrape shown at the start. The wrong door watched her choose, then becomes wall.",
+  "hooks": [
+    {
+      "structure": "choice",
+      "line": "Two doors say nine. Only one is mine.",
+      "first_visual": "A corridor where one door should be: two identical doors, both numbered 9, timer light ticking."
+    },
+    {
+      "structure": "challenge",
+      "line": "Pick the right door before the light goes out.",
+      "first_visual": "A finger on a glowing timer switch."
+    },
+    {
+      "structure": "fair-play",
+      "line": "The answer was in the first five seconds.",
+      "first_visual": "A bike handlebar brushing a door."
+    },
+    {
+      "structure": "wrong detail",
+      "line": "One peephole was lit. From inside.",
+      "first_visual": "A peephole glowing warm in a dark door."
+    },
+    {
+      "structure": "dread promise",
+      "line": "The other door watched me choose.",
+      "first_visual": "A peephole going dark as something steps back."
+    }
+  ],
+  "setting": "Vesper Court hallway, flat 9.",
+  "setting_type": "kit-e1",
+  "conflict": "Choose the real door with red herrings in play (a lit peephole, a crooked mat).",
+  "escalation": "Two doors, red herrings, countdown.",
+  "reveal": "Replay: the bike scraped the right-hand door at knee height.",
+  "emotional_objective": "Active participation, then a chill.",
+  "visual_requirements": [
+    "hallway with twin doors (E1)",
+    "bike scrape detail",
+    "countdown graphics (post)"
+  ],
+  "twist_type": "fair-clue-bike-scrape",
+  "real_world_claims": "none (fiction; presented as 'A MOTHWAKE STORY')"
+}

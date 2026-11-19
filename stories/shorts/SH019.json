@@ -1,0 +1,247 @@
+{
+  "id": "SH019",
+  "title": "Theo's Nightlight Rules",
+  "pillar": "Horror Rules & Survival",
+  "category": "Horror Rules & Survival",
+  "format": "short",
+  "status": "concept-proposal (Creative Director, 2026-11-19; not approved; awaiting owner review)",
+  "duration_target_s": 36,
+  "hook_line": "Theo has three rules about his nightlight.",
+  "first_visual": "A moth-shaped nightlight in a dark child's room; on the wall, faint shadows all facing it.",
+  "beats": [
+    {
+      "t_s": 0,
+      "clip": 1,
+      "visual": "The moth nightlight glows; faint shadows on the wall all face it.",
+      "vo": "Theo has three rules about his nightlight.",
+      "sfx": "hum"
+    },
+    {
+      "t_s": 4,
+      "clip": 2,
+      "visual": "Theo in bed counts on his fingers to Ivy.",
+      "vo": "'One: it stays on.'",
+      "sfx": "whisper"
+    },
+    {
+      "t_s": 8,
+      "clip": 2,
+      "visual": "The nightlight flickers; Theo grabs Ivy's face to make her look at him.",
+      "vo": "'Two: if it flickers, look at me. Not it.'",
+      "sfx": "flicker buzz"
+    },
+    {
+      "t_s": 13,
+      "clip": 3,
+      "visual": "The nightlight dies; darkness; Theo's small hand catches Ivy's at the switch.",
+      "vo": "'Three: if it goes out, never turn on the big light.'",
+      "sfx": "pop, silence"
+    },
+    {
+      "t_s": 18,
+      "clip": 3,
+      "visual": "Ivy flips the switch anyway.",
+      "vo": "I'm the grown-up. I turned it on.",
+      "sfx": "click"
+    },
+    {
+      "t_s": 21,
+      "clip": 4,
+      "visual": "Key moment: the room is packed with tall thin figures shoulder to shoulder, all facing the dead nightlight.",
+      "vo": "They were all facing the nightlight. Like moths.",
+      "sfx": "hum of many breaths"
+    },
+    {
+      "t_s": 27,
+      "clip": 5,
+      "visual": "In the bright light every head turns from the lamp to Ivy.",
+      "vo": "It wasn't for Theo. It kept them looking at it.",
+      "sfx": "rustle"
+    },
+    {
+      "t_s": 32,
+      "clip": "post",
+      "visual": "Theo whispers; black; the moth nightlight flickers back on.",
+      "vo": "'Now they'll look at you.'",
+      "sfx": "flicker"
+    }
+  ],
+  "ending": "Theo: 'Now they'll look at you.' Black. The moth nightlight flickers back on.",
+  "loop_note": "Yes. It ends on the nightlight flickering back on, which is frame 1. On a rewatch, the wall shadows in frame 1 are the figures.",
+  "interactive_prompt": null,
+  "environments": [
+    "E3 Small Bedroom"
+  ],
+  "characters": [
+    "CH-THEO",
+    "CH-IVY",
+    "CH-TENANT",
+    "CH-MOTH"
+  ],
+  "animation_needs": [
+    {
+      "item": "A moth-shaped nightlight glows in a dark child's bedroom; faint shadows on the wall.",
+      "type": "flow-simple-action",
+      "clip": 1
+    },
+    {
+      "item": "Boy in bed counts on his fingers, then grabs a woman's face as the nightlight flickers.",
+      "type": "flow-simple-action",
+      "clip": 2
+    },
+    {
+      "item": "Nightlight dies; a small hand stops a woman's hand at a switch; she flips it anyway.",
+      "type": "flow-simple-action",
+      "clip": 3
+    },
+    {
+      "item": "A brightly lit bedroom crowded with tall thin grey figures all facing a small lamp.",
+      "type": "flow-key-moment",
+      "clip": 4
+    },
+    {
+      "item": "Many tall figures slowly turn their heads toward the camera.",
+      "type": "flow-simple-action",
+      "clip": 5
+    },
+    {
+      "item": "Theo whispers; black; the moth nightlight flickers back on.",
+      "type": "post-motion-graphics (animated overlay/UI/text; not a still)",
+      "clip": "post"
+    }
+  ],
+  "est_production_effort": "med",
+  "production_effort": "med",
+  "flow_clips": [
+    {
+      "clip": 1,
+      "seconds": 4,
+      "use_s": 4,
+      "action": "A moth-shaped nightlight glows in a dark child's bedroom; faint shadows on the wall.",
+      "ingredients": [
+        "REF-E3-BEDROOM",
+        "REF-MOTH"
+      ],
+      "model": "lite",
+      "post_overlay": null
+    },
+    {
+      "clip": 2,
+      "seconds": 8,
+      "use_s": 8,
+      "action": "Boy in bed counts on his fingers, then grabs a woman's face as the nightlight flickers.",
+      "ingredients": [
+        "REF-THEO",
+        "REF-IVY",
+        "REF-E3-BEDROOM"
+      ],
+      "model": "lite",
+      "post_overlay": null
+    },
+    {
+      "clip": 3,
+      "seconds": 8,
+      "use_s": 8,
+      "action": "Nightlight dies; a small hand stops a woman's hand at a switch; she flips it anyway.",
+      "ingredients": [
+        "REF-THEO",
+        "REF-IVY",
+        "REF-E3-BEDROOM"
+      ],
+      "model": "lite",
+      "post_overlay": null
+    },
+    {
+      "clip": 4,
+      "seconds": 6,
+      "use_s": 6,
+      "action": "A brightly lit bedroom crowded with tall thin grey figures all facing a small lamp.",
+      "ingredients": [
+        "REF-TENANT",
+        "REF-E3-BEDROOM",
+        "REF-MOTH"
+      ],
+      "model": "fast",
+      "post_overlay": null
+    },
+    {
+      "clip": 5,
+      "seconds": 5,
+      "use_s": 5,
+      "action": "Many tall figures slowly turn their heads toward the camera.",
+      "ingredients": [
+        "REF-TENANT",
+        "REF-E3-BEDROOM"
+      ],
+      "model": "lite",
+      "post_overlay": null
+    }
+  ],
+  "flow_credits_est": {
+    "label": "estimate",
+    "basis": "owner brief 2026-11-19: Lite 10 / Fast 20 credits per generation; one retry per clip assumed; not measured",
+    "first_pass": 60,
+    "with_one_retry_each": 120,
+    "cap": 150
+  },
+  "word_count": 66,
+  "vo_wps_est": 1.83,
+  "originality_review": "Original rule-set that sets up the strongest brand inversion: the light protects by attracting. No 'goodnight' or parent-repetition device, so it does not follow the Lullorin structure. It avoids the porch-light/door premise.",
+  "scores": {
+    "topic_demand": 4,
+    "audience_curiosity": 5,
+    "hook_strength": 5,
+    "emotional_impact": 5,
+    "story_clarity": 5,
+    "suspense": 4,
+    "retention_potential": 4,
+    "rewatch_potential": 5,
+    "shareability": 5,
+    "production_complexity": 2,
+    "originality": 5,
+    "brand_suitability": 5
+  },
+  "scores_basis": "Initial editorial judgement, 2026-11-19. topic_demand is an estimate linked to research/WEEKLY_TREND_REPORT.md categories, not a measurement of this concept.",
+  "priority_est": 91.9,
+  "concept": "Theo's rules: keep the nightlight on; if it flickers, look at him, not it; if it dies, never turn on the big light. Ivy turns it on and sees the room packed with tall figures facing the dead nightlight like moths. It was never for Theo. It kept them looking at it.",
+  "hooks": [
+    {
+      "structure": "child rules",
+      "line": "Theo has three rules about his nightlight.",
+      "first_visual": "A moth-shaped nightlight in a dark child's room; on the wall, faint shadows all facing it."
+    },
+    {
+      "structure": "rule tension",
+      "line": "Rule three: if it goes out, never turn on the big light.",
+      "first_visual": "A small hand stopping an adult's hand at a switch."
+    },
+    {
+      "structure": "adult defiance",
+      "line": "I'm the grown-up. I turned on the big light.",
+      "first_visual": "A ceiling light snapping on."
+    },
+    {
+      "structure": "brand reveal",
+      "line": "They were all facing the nightlight. Like moths.",
+      "first_visual": "A room packed with tall figures facing a dead nightlight."
+    },
+    {
+      "structure": "child warning",
+      "line": "'Now they'll look at you,' Theo whispered.",
+      "first_visual": "Dozens of heads turning toward camera."
+    }
+  ],
+  "setting": "Theo's bedroom at night; moth-shaped nightlight; ceiling switch.",
+  "setting_type": "kit-e3",
+  "conflict": "Ivy's adult logic against a child's rules.",
+  "escalation": "The flicker rule, the nightlight dying, the switch.",
+  "reveal": "The room is full of figures facing the lamp; every head turns from the dead light to Ivy.",
+  "emotional_objective": "Brand metaphor at full strength: the light as the thing that holds the darkness's attention.",
+  "visual_requirements": [
+    "bedroom (E3)",
+    "moth nightlight prop",
+    "crowd of Tenant silhouettes (one rig duplicated)"
+  ],
+  "twist_type": "the-light-is-a-decoy",
+  "real_world_claims": "none (fiction; presented as 'A MOTHWAKE STORY')"
+}

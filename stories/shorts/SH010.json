@@ -1,0 +1,229 @@
+{
+  "id": "SH010",
+  "title": "Written From In Here",
+  "pillar": "Micro Horror Story",
+  "category": "Micro Horror Story",
+  "format": "short",
+  "status": "concept-proposal (Creative Director, 2026-11-19; not approved; awaiting owner review)",
+  "duration_target_s": 28,
+  "hook_line": "I wrote 'hi' on the bus window. Something wrote back.",
+  "first_visual": "A fogged bus window in sodium light; a finger-drawn word, new letters forming beside it.",
+  "beats": [
+    {
+      "t_s": 0,
+      "clip": 1,
+      "visual": "Fogged window; Ivy's finger draws in the fog; new letters form beside it.",
+      "vo": "I wrote 'hi' on the bus window. Something wrote back.",
+      "sfx": "squeak, engine"
+    },
+    {
+      "t_s": 5,
+      "clip": 1,
+      "visual": "Letters spell HELLO IVY (post overlay).",
+      "vo": "It knew my name. From outside, I thought.",
+      "sfx": "engine"
+    },
+    {
+      "t_s": 9,
+      "clip": 2,
+      "visual": "Ivy leans in, frowning at the letters.",
+      "vo": "Then I realised: I could read it.",
+      "sfx": "lights whoosh"
+    },
+    {
+      "t_s": 13,
+      "clip": 2,
+      "visual": "Close on the letters: they read correctly from her side of the glass.",
+      "vo": "From outside, it'd be backwards.",
+      "sfx": "drone"
+    },
+    {
+      "t_s": 16,
+      "clip": 3,
+      "visual": "The empty seat beside her: a fresh handprint in the fog at that window.",
+      "vo": "It was written from in here.",
+      "sfx": "drip"
+    },
+    {
+      "t_s": 20,
+      "clip": "post",
+      "visual": "New words: YOU'RE ON MY LAP (overlay).",
+      "vo": "",
+      "sfx": "sting"
+    },
+    {
+      "t_s": 22,
+      "clip": 4,
+      "visual": "Key moment: Ivy freezes; her breath fogs; a second plume fogs the glass just above her head.",
+      "vo": "",
+      "sfx": "two breaths"
+    }
+  ],
+  "ending": "Last line in the fog: 'YOU'RE ON MY LAP.' A second breath plume fogs the glass just above her head.",
+  "loop_note": "No. It ends on the breath image.",
+  "interactive_prompt": null,
+  "environments": [
+    "E4 Night Bus No. 9"
+  ],
+  "characters": [
+    "CH-IVY",
+    "CH-TENANT",
+    "CH-MOTH"
+  ],
+  "animation_needs": [
+    {
+      "item": "A woman's finger draws on a fogged bus window; streetlights streak outside.",
+      "type": "flow-simple-action",
+      "clip": 1
+    },
+    {
+      "item": "Woman leans close to the fogged window, frowning.",
+      "type": "flow-simple-action",
+      "clip": 2
+    },
+    {
+      "item": "Empty bus seat by a fogged window with a fresh handprint.",
+      "type": "flow-simple-action",
+      "clip": 3
+    },
+    {
+      "item": "Frozen woman exhales; a second breath plume appears just above her head.",
+      "type": "flow-key-moment",
+      "clip": 4
+    },
+    {
+      "item": "New words: YOU'RE ON MY LAP (overlay).",
+      "type": "post-motion-graphics (animated overlay/UI/text; not a still)",
+      "clip": "post"
+    },
+    {
+      "item": "tracked text/graphics composited onto Flow clips: fog letters; fog letters draw-on",
+      "type": "post-motion-graphics",
+      "clip": "post"
+    },
+    {
+      "item": "Watcher moth easter egg: 6-frame flutter sprite composited in post (one placement)",
+      "type": "post-motion-graphics",
+      "clip": "post"
+    }
+  ],
+  "est_production_effort": "low",
+  "production_effort": "low",
+  "flow_clips": [
+    {
+      "clip": 1,
+      "seconds": 8,
+      "use_s": 8,
+      "action": "A woman's finger draws on a fogged bus window; streetlights streak outside.",
+      "ingredients": [
+        "REF-IVY",
+        "REF-E4-BUS"
+      ],
+      "model": "lite",
+      "post_overlay": "fog letters draw-on"
+    },
+    {
+      "clip": 2,
+      "seconds": 7,
+      "use_s": 7,
+      "action": "Woman leans close to the fogged window, frowning.",
+      "ingredients": [
+        "REF-IVY",
+        "REF-E4-BUS"
+      ],
+      "model": "lite",
+      "post_overlay": "fog letters"
+    },
+    {
+      "clip": 3,
+      "seconds": 4,
+      "use_s": 4,
+      "action": "Empty bus seat by a fogged window with a fresh handprint.",
+      "ingredients": [
+        "REF-E4-BUS"
+      ],
+      "model": "lite",
+      "post_overlay": null
+    },
+    {
+      "clip": 4,
+      "seconds": 6,
+      "use_s": 6,
+      "action": "Frozen woman exhales; a second breath plume appears just above her head.",
+      "ingredients": [
+        "REF-IVY",
+        "REF-E4-BUS",
+        "REF-TENANT"
+      ],
+      "model": "fast",
+      "post_overlay": null
+    }
+  ],
+  "flow_credits_est": {
+    "label": "estimate",
+    "basis": "owner brief 2026-11-19: Lite 10 / Fast 20 credits per generation; one retry per clip assumed; not measured",
+    "first_pass": 50,
+    "with_one_retry_each": 100,
+    "cap": 150
+  },
+  "word_count": 36,
+  "vo_wps_est": 1.29,
+  "originality_review": "Original. The 'mirror-writing logic' reveal is our own. Fog writing is a generic image, but the deduction twist is not borrowed from any known creator. Different from MW011 (memory passengers).",
+  "scores": {
+    "topic_demand": 3,
+    "audience_curiosity": 5,
+    "hook_strength": 5,
+    "emotional_impact": 4,
+    "story_clarity": 4,
+    "suspense": 4,
+    "retention_potential": 4,
+    "rewatch_potential": 4,
+    "shareability": 4,
+    "production_complexity": 2,
+    "originality": 4,
+    "brand_suitability": 4
+  },
+  "scores_basis": "Initial editorial judgement, 2026-11-19. topic_demand is an estimate linked to research/WEEKLY_TREND_REPORT.md categories, not a measurement of this concept.",
+  "priority_est": 78.2,
+  "concept": "On the last bus Ivy writes 'HI' in the fog. Replies appear at speed. She realises she can read them normally, so they were written from inside the bus, from right beside her.",
+  "hooks": [
+    {
+      "structure": "strange message",
+      "line": "I wrote 'hi' on the bus window. Something wrote back.",
+      "first_visual": "A fogged bus window in sodium light; a finger-drawn word, new letters forming beside it."
+    },
+    {
+      "structure": "logic puzzle",
+      "line": "If it were outside, the words would be backwards.",
+      "first_visual": "Close on letters in fog from the passenger's side."
+    },
+    {
+      "structure": "wrong detail",
+      "line": "Fifty miles an hour, and something's writing on my window.",
+      "first_visual": "Streetlights streaking past a fogged window."
+    },
+    {
+      "structure": "name",
+      "line": "It knew my name.",
+      "first_visual": "Letters forming in fog."
+    },
+    {
+      "structure": "dread promise",
+      "line": "The last thing it wrote: where it was sitting.",
+      "first_visual": "A second breath plume fogging the glass above a woman's head."
+    }
+  ],
+  "setting": "Night bus, back seat, bypass at speed, sodium light.",
+  "setting_type": "kit-e4",
+  "conflict": "Ivy assumes something is outside the bus and works out the truth.",
+  "escalation": "A reply, then her name, then the realisation about the letters' direction.",
+  "reveal": "A fresh handprint in the fog by the empty seat beside her.",
+  "emotional_objective": "Clever-logic dread; the 'oh no' moment.",
+  "visual_requirements": [
+    "bus back seat (E4)",
+    "fog-writing draw-on (post overlay)",
+    "breath plumes"
+  ],
+  "twist_type": "mirrored-writing-means-inside",
+  "real_world_claims": "none (fiction; presented as 'A MOTHWAKE STORY')"
+}

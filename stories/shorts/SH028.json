@@ -1,0 +1,252 @@
+{
+  "id": "SH028",
+  "title": "Pause at Seven Seconds",
+  "pillar": "Interactive Horror",
+  "category": "Interactive Horror",
+  "format": "short",
+  "status": "concept-proposal (Creative Director, 2026-11-19; not approved; awaiting owner review)",
+  "duration_target_s": 30,
+  "hook_line": "Pause at seven seconds. Count the people.",
+  "first_visual": "A grainy laundromat CCTV monitor, timestamp 04:12:07.",
+  "beats": [
+    {
+      "t_s": 0,
+      "clip": "post",
+      "visual": "CCTV monitor graphic over clip 1, timestamp 04:12; caption PAUSE AT 0:07.",
+      "vo": "Pause at seven seconds. Count the people.",
+      "sfx": "CCTV hum"
+    },
+    {
+      "t_s": 3,
+      "clip": 1,
+      "visual": "Ivy alone, loading a dryer.",
+      "vo": "Four a.m. Just me.",
+      "sfx": "buzz"
+    },
+    {
+      "t_s": 7,
+      "clip": "post",
+      "visual": "Half-second CCTV flash: Ivy, plus three faces in porthole reflections.",
+      "vo": "",
+      "sfx": "glitch"
+    },
+    {
+      "t_s": 8,
+      "clip": 2,
+      "visual": "Ivy turns at the glitch; the chairs are empty.",
+      "vo": "How many did you count?",
+      "sfx": "silence"
+    },
+    {
+      "t_s": 12,
+      "clip": 3,
+      "visual": "Ivy rewinds the CCTV monitor and leans close.",
+      "vo": "On camera, I wasn't alone.",
+      "sfx": "rewind whir"
+    },
+    {
+      "t_s": 17,
+      "clip": "post",
+      "visual": "Slow replay of 0:07 with circles: three faces in three portholes. COUNT: 4.",
+      "vo": "Four. Three in the glass.",
+      "sfx": "tone"
+    },
+    {
+      "t_s": 22,
+      "clip": 4,
+      "visual": "Key moment: Ivy leans to the nearest porthole: three faces look back, and her reflection is missing; moth on the lint sign.",
+      "vo": "Then I looked. And I wasn't there.",
+      "sfx": "drum thud"
+    },
+    {
+      "t_s": 27,
+      "clip": "post",
+      "visual": "Card: 'What did you count? Comment before you rewatch.'",
+      "vo": "",
+      "sfx": ""
+    }
+  ],
+  "ending": "Ivy looks into the nearest dryer glass: their faces, but not hers.",
+  "loop_note": "Partial. The card sends viewers back to 0:07 (rewatch-driven).",
+  "interactive_prompt": {
+    "on_screen_question": "PAUSE AT 0:07. HOW MANY PEOPLE?",
+    "reveal": "in-video at 0:17, slow replay with circles (answer: 4)",
+    "comment_invite": "Comment your count before you rewatch.",
+    "fairness_note": "The flash frame is a real frame in the edit (12 frames at 24 fps) so a pause finds it. The answer is revealed in the same video."
+  },
+  "environments": [
+    "E5 Suds & Spin Laundromat"
+  ],
+  "characters": [
+    "CH-IVY",
+    "CH-TENANT",
+    "CH-MOTH"
+  ],
+  "animation_needs": [
+    {
+      "item": "Woman alone in a laundromat loading a dryer at night.",
+      "type": "flow-simple-action",
+      "clip": 1
+    },
+    {
+      "item": "Woman turns sharply toward a row of empty plastic chairs.",
+      "type": "flow-simple-action",
+      "clip": 2
+    },
+    {
+      "item": "Woman rewinds a small security monitor and leans close.",
+      "type": "flow-simple-action",
+      "clip": 3
+    },
+    {
+      "item": "Woman leans to a dryer porthole: three pale faces reflected, but not hers.",
+      "type": "flow-key-moment",
+      "clip": 4
+    },
+    {
+      "item": "CCTV monitor graphic over clip 1, timestamp 04:12; caption PAUSE AT 0:07.",
+      "type": "post-motion-graphics (animated overlay/UI/text; not a still)",
+      "clip": "post"
+    },
+    {
+      "item": "Half-second CCTV flash: Ivy, plus three faces in porthole reflections.",
+      "type": "post-motion-graphics (animated overlay/UI/text; not a still)",
+      "clip": "post"
+    },
+    {
+      "item": "Slow replay of 0:07 with circles: three faces in three portholes. COUNT: 4.",
+      "type": "post-motion-graphics (animated overlay/UI/text; not a still)",
+      "clip": "post"
+    },
+    {
+      "item": "Card: 'What did you count? Comment before you rewatch.'",
+      "type": "post-motion-graphics (animated overlay/UI/text; not a still)",
+      "clip": "post"
+    },
+    {
+      "item": "tracked text/graphics composited onto Flow clips: CCTV overlay; monitor image",
+      "type": "post-motion-graphics",
+      "clip": "post"
+    }
+  ],
+  "est_production_effort": "low",
+  "production_effort": "low",
+  "flow_clips": [
+    {
+      "clip": 1,
+      "seconds": 5,
+      "use_s": 5,
+      "action": "Woman alone in a laundromat loading a dryer at night.",
+      "ingredients": [
+        "REF-IVY",
+        "REF-E5-LAUNDROMAT"
+      ],
+      "model": "lite",
+      "post_overlay": "CCTV overlay"
+    },
+    {
+      "clip": 2,
+      "seconds": 4,
+      "use_s": 4,
+      "action": "Woman turns sharply toward a row of empty plastic chairs.",
+      "ingredients": [
+        "REF-IVY",
+        "REF-E5-LAUNDROMAT"
+      ],
+      "model": "lite",
+      "post_overlay": null
+    },
+    {
+      "clip": 3,
+      "seconds": 5,
+      "use_s": 5,
+      "action": "Woman rewinds a small security monitor and leans close.",
+      "ingredients": [
+        "REF-IVY",
+        "REF-E5-LAUNDROMAT"
+      ],
+      "model": "lite",
+      "post_overlay": "monitor image"
+    },
+    {
+      "clip": 4,
+      "seconds": 6,
+      "use_s": 6,
+      "action": "Woman leans to a dryer porthole: three pale faces reflected, but not hers.",
+      "ingredients": [
+        "REF-IVY",
+        "REF-E5-LAUNDROMAT",
+        "REF-TENANT"
+      ],
+      "model": "fast",
+      "post_overlay": null
+    }
+  ],
+  "flow_credits_est": {
+    "label": "estimate",
+    "basis": "owner brief 2026-11-19: Lite 10 / Fast 20 credits per generation; one retry per clip assumed; not measured",
+    "first_pass": 50,
+    "with_one_retry_each": 100,
+    "cap": 150
+  },
+  "word_count": 34,
+  "vo_wps_est": 1.13,
+  "originality_review": "Original freeze-frame puzzle. The CCTV-flash device is generic; the porthole reflections and the missing self are ours, and they link to SH001.",
+  "scores": {
+    "topic_demand": 3,
+    "audience_curiosity": 4,
+    "hook_strength": 5,
+    "emotional_impact": 4,
+    "story_clarity": 4,
+    "suspense": 4,
+    "retention_potential": 5,
+    "rewatch_potential": 5,
+    "shareability": 5,
+    "production_complexity": 1,
+    "originality": 4,
+    "brand_suitability": 4
+  },
+  "scores_basis": "Initial editorial judgement, 2026-11-19. topic_demand is an estimate linked to research/WEEKLY_TREND_REPORT.md categories, not a measurement of this concept.",
+  "priority_est": 83.1,
+  "concept": "The viewer is told to pause at 0:07 and count the people. A half-second CCTV flash shows Ivy plus three faces reflected in the dryer portholes. In the room she is alone. Her own reflection is missing from the porthole.",
+  "hooks": [
+    {
+      "structure": "freeze-frame dare",
+      "line": "Pause at seven seconds. Count the people.",
+      "first_visual": "A grainy laundromat CCTV monitor, timestamp 04:12:07."
+    },
+    {
+      "structure": "challenge",
+      "line": "Count everyone in this laundromat. Then count again.",
+      "first_visual": "Wide shot of a laundromat; one woman."
+    },
+    {
+      "structure": "wrong detail",
+      "line": "On camera, I wasn't alone.",
+      "first_visual": "A CCTV monitor flickering."
+    },
+    {
+      "structure": "hint",
+      "line": "Check the round glass.",
+      "first_visual": "A row of dryer portholes."
+    },
+    {
+      "structure": "dread promise",
+      "line": "Then I looked in the porthole. And I wasn't there.",
+      "first_visual": "A porthole with no reflection of the woman."
+    }
+  ],
+  "setting": "Suds & Spin laundromat at 4 a.m.; CCTV monitor; dryer row.",
+  "setting_type": "kit-e5",
+  "conflict": "Ivy and the viewer both try to establish who is there.",
+  "escalation": "Flash frame, empty chairs, rewinding the CCTV.",
+  "reveal": "Slow replay: three faces in three portholes. Count = four.",
+  "emotional_objective": "Hunt, then a cold erasure (links to SH001's dryer, an easter-egg universe).",
+  "visual_requirements": [
+    "laundromat (E5)",
+    "CCTV grade (post)",
+    "porthole reflection close-ups"
+  ],
+  "twist_type": "the-extra-customers-are-in-the-portholes",
+  "real_world_claims": "none (fiction; presented as 'A MOTHWAKE STORY')"
+}
