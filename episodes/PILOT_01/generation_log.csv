@@ -2,3 +2,5 @@ date,item_id,short,model,credits_shown,take,result,file,notes
 2026-11-20,VO-SH012-IVY,SH012,eleven_v4 Ana-Rita2,313,1,generated (not yet reviewed),,flow kdSu925On1uAvgqQLTO7 node IfkrDVYGAMu1SWlkFQsz
 2026-11-20,VO-SH019-IVY,SH019,eleven_v4 Ana-Rita2,260,1,generated (not yet reviewed),,node cDyzYHmh4Jof3c4kpxdy
 2026-11-20,VO-SH025P1-IVY,SH025_P1,eleven_v4 Ana-Rita2,167,1,generated (not yet reviewed),,node kun0LRSTTLRnyaVmYdmq
+2026-11-20,STORYBOARD-SH002-PRIVATE,SH002,gpt-image-2 (ElevenLabs),185,1,generated (private owner example, not for publishing),,flow fGmDItMq2XybdSva7hoT node 4sSCR1H9x5jqaC1wcdIU
+2026-11-20,STORYBOARD-SH002-FLOW,SH002,Google Flow Nano Banana 2.1 x1 16:9,0 (shown on screen),1,generated OK (private owner example; not downloaded),,Flow project 46410f5d-1ddf-42e1-8b8e-b5a07e1fa7cc
