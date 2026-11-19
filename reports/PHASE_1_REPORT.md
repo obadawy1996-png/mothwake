@@ -44,7 +44,7 @@
 | ElevenLabs | Connected, but the usage check failed with "requires additional permissions" | **Blocker B3.** Reconnect it in connector settings so plan, credits and commercial-licence tier can be checked. |
 | Magnific | Connected. Free plan, 0 credits, 20 free image generations per day | Usable for concept exploration within the free daily allowance. Commercial terms for free-plan outputs must be checked in Phase 3. |
 | Figma | Connected | Good fit for editable logo, banner and thumbnail templates. |
-| AI Producer by OpusClip | Connected, but its tools aren't loaded in this session | Candidate for clipping long-form into Shorts and for captions. Its features, pricing and rights will be evaluated in Phase 6 or 7. |
+| AI Producer by OpusClip | Connected at account level, but its tools aren't loaded in this session | **Chosen tool** for Shorts cut-downs, captions and reframing (your decision). Blocker B6 until its tools are allowed. |
 | Metricool | Connected, not loaded in this session | Candidate for cross-platform scheduling and analytics. Nothing will be published without your approval. |
 | Supermetrics | Connected | Candidate source for YouTube, Facebook, Instagram and TikTok analytics once those channels exist. |
 | Semrush | Connected | Keyword and search-demand research for Phase 2. API units may be charged per report, and costs are shown before use. |
@@ -67,6 +67,7 @@
 | B2 | Research hosts are blocked (Reddit, Google Trends, Social Blade, YouTube Help) | Critical for Phase 2 | Approve adding these hosts to this environment, or to a new MOTHWAKE-only environment. I'll send the request when Phase 2 starts. |
 | B3 | ElevenLabs connector lacks permissions | Needed by Phase 5 | Reconnect ElevenLabs in connector settings. |
 | B4 | No YouTube Data API key | Optional, but improves competitor data | Create a free YouTube Data API v3 key in Google Cloud and enter it in the secure credential form when asked. |
+| B6 | OpusClip tools aren't loaded in the session | Needed by Phase 7 | Open OpusClip at claude.ai/customize/connectors, sign in again if asked, set its tools to allowed, then start a new session. |
 | B5 | Semrush report costs | Decision | Approve a Semrush budget, or tell me to skip Semrush. |
 
 ## 7. Deliverable status after Phase 1

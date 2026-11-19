@@ -17,7 +17,7 @@ Status labels used throughout: **Implemented · Tested · Partially implemented 
 | 4 Brand kit | You pick a logo concept | Fonts downloaded, licence files stored |
 | 5 Story and visual engine | Brand kit approved | ElevenLabs reconnected (B3), Google Flow workflow confirmed |
 | 6 Agents and skills | Phase 5 tested | None |
-| 7 Editing and QC | Phase 6 tested | Your DaVinci Resolve version, for the import test |
+| 7 Editing and QC | Phase 6 tested | Your DaVinci Resolve version, for the import test; OpusClip tools enabled in the session (B6) |
 | 8 Analytics and monetization | Phase 7 tested | Channel accounts exist (for live data) |
 | 9 30-day strategy | Phases 2–8 complete | None |
 | 10 Pilot | Your approval of the first episode plan and its credit budget | Credits approved |
@@ -87,7 +87,7 @@ The 14 agents are created in `.claude/agents/`. Each has a role, inputs, outputs
 | 6 Storyboard | Storyboard Designer | horror-storyboard-generation |
 | 7–8 Characters, environments, visuals | Character Consistency Supervisor, Visual Production | 2d-character-consistency, 2d-environment-design, google-flow-production |
 | 9 Voice and sound | Voice and Sound | elevenlabs-audio-production |
-| 10–11 Assembly and branding | Video Assembly | horror-video-assembly, ffmpeg-media-processing, mothwake-brand-development |
+| 10–11 Assembly and branding | Video Assembly | horror-video-assembly, ffmpeg-media-processing, mothwake-brand-development, plus OpusClip for Shorts cut-downs and captions |
 | 12 QC | Quality Control | horror-quality-control |
 | 13 Packaging | Thumbnail and Packaging | thumbnail-and-title-optimization, mothwake-logo-and-visual-identity |
 | 14–15 Approval and publish prep | You, and the Creative Director | — |
@@ -101,7 +101,10 @@ Each episode gets `episodes/<id>/manifest.json`, which records its step status, 
 - Exports: a clean master with no watermark, plus platform variants for YouTube Shorts, long-form, TikTok, Instagram Reels and Facebook (9:16 / 16:9, specific safe zones).
 - DaVinci Resolve hand-off: FCPXML or EDL plus stems, tested against your installed version.
 - Automated QC: brand validator, resolution and frame rate, loudness, black or frozen frames, caption safe area, duration targets (Shorts 35–60 s, long-form 5–10 min), licence ledger complete, and no unapproved assets.
-- OpusClip is evaluated for long-to-short clipping and captions, and compared with the FFmpeg pipeline on quality, cost and rights.
+- **AI Producer by OpusClip is the chosen tool (owner decision, 2026-11-19)** for cutting Shorts from long-form stories, AI captions, reframing to 9:16, and platform-ready variants. The FFmpeg pipeline remains the fallback and produces the clean master.
+  - Before first use: verify its plan, credit costs, commercial rights to outputs, export formats and caption styling. Captions must use MOTHWAKE fonts and colours, or be restyled.
+  - Every OpusClip export goes through the brand validator and QC before approval.
+  - OpusClip credits are only spent with your approval. Its scheduling and publishing features are never used without your explicit approval.
 
 ## Phase 8 — Analytics and monetization framework
 
