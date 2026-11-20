@@ -34,3 +34,35 @@ A personal-stakes hook in the first sentence · numbers as visual punctuation ·
 
 ## Efficiency (I)
 Money Decoded's flat template is the cheapest to produce but visually thin. tavieenfilm's minimal 3D figure plus lighting is the better quality-per-cost model, and the closest analogue is our **one recurring cast + reusable rooms + Flow clips + type cards**.
+
+---
+# UPDATE 2026-11-20: three-channel comparison (Paper Billions added)
+
+(O) observed · (I) interpretation
+
+| Dimension | tavieenfilm | Money Decoded | Paper Billions |
+|---|---|---|---|
+| Subscribers / videos | 12.8K / 24 (O) | 1.03K / 6 listed, 1 public (O) | 24.6K / 7 (O) |
+| Format | 7–11 min story-docs (+ Shorts) (O) | 9 min (O) | **14–28 min** long-form, posted every 1–2 days (O) |
+| Subject | Family psychology (O) | Big-tech finance (O) | Big-tech finance + geopolitics/espionage (O) |
+| Fact handling | Fiction story + real studies, cited (O) | Real people, dramatised, unverified (O) | Real people, dramatised; "figures from filings" note; **contradicts MD on the same event** (O) |
+| Production | Minimal 3D figure + mood light (O) | Flat chibi template (O) | Flat "paper" cartoon; **disclosed AI app builds the whole video** (O) |
+| Monetisation signals | — | — | Affiliate for the AI tool + leveraged-trading sponsor (O) |
+| Top public result | 3.1M (O) | 2.4K (O) | 3.26M / 1.36M / 1.2M (O) |
+
+## Should MOTHWAKE follow psychology, money, a blend, or something else?
+| Option | Evidence for | Evidence against | Verdict |
+|---|---|---|---|
+| Psychology / family | tavieenfilm 3.1M, 934K; trust model (fiction + science) | A different brand; MOTHWAKE's identity is horror | **Borrow the mechanics, not the topic** |
+| Money / business / power | PB 3.26M, 1.36M | Real-people defamation and fact risk (two channels contradict each other); likely an AI-factory genre with copycats (MD); off-brand; leveraged-trading sponsors | **Reject** |
+| Blend psychology + money + real stories | Big topics | Dilutes the horror brand; inherits the fact risk | **Reject** |
+| **Differentiated: original horror + real fear science, human-directed** | Horror Shorts research (47 channels, 476 Shorts); tavieenfilm's trust model; PB's night-desk/evidence-board visuals show night palettes work in long-form | Unproven for MOTHWAKE until the pilot data comes in | **Recommend** (see `strategy/mothwake_creative_direction.md`) |
+
+## New transferable techniques from Paper Billions (mechanics only)
+- **Cold open on the most dramatic moment**, then "to understand why, you need to know who…".
+- **Physical metaphors** for abstract ideas (org chart as a building). In horror: e.g. a building's floor plan drawn as the "rules" map.
+- **Evidence board / paper-headline collage** as a recurring "Investigation" visual, drawn in MOTHWAKE colours and fonts (our own design).
+- **A recurring anchor character** (their night analyst). Ours: Ivy, already established.
+
+## Explicitly not adopted
+Real-people dramatisation · fully automated "pick a topic and it builds the video" pipelines (policy risk, no originality) · gambling/high-leverage sponsors · copying titles or topic feeds.

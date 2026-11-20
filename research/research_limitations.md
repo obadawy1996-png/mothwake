@@ -7,3 +7,4 @@
 5. **Private analytics** (retention, CTR, traffic sources, demographics) are unavailable for both channels. The public view counts are a single snapshot.
 6. **Unverified facts:** the Money Decoded storyline and the tavieenfilm study citations were not fact-checked.
 7. **Language:** the YouTube UI was in Arabic; counts were converted from Arabic notation (e.g. "3 مليون" = 3,098,436 exact from the page data).
+8. **Paper Billions:** 2 of 7 videos inspected by frames; 5 are list-level only (unverified content). The real-world events it narrates (Huang "resigned 12 Nov 2026"; the espionage storyline) were **not verified**, and they conflict with Money Decoded's version.

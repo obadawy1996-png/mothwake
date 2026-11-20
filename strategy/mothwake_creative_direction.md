@@ -30,3 +30,6 @@
 - **End card:** "The story is fiction. The feeling of being watched in your sleep is real." Name the effect and cite a source, **only after the source is verified** (not done yet).
 - **CTA:** "Eyes open or eyes shut — which room were you in?"
 - **Production:** 5 Flow Lite clips (the existing Ivy bedroom refs), 1 split-screen composite in FFmpeg, type cards in brand fonts. Estimate: about 50 Flow credits + about 250 ElevenLabs credits.
+
+## Update 2026-11-20 after adding Paper Billions
+The recommendation is unchanged: **original horror + real fear science, human-directed.** Paper Billions' success comes from real-world finance and espionage narration built by a disclosed automated AI pipeline. Following it would mean real-people fact risk, off-brand topics, and the mass-produced-content policy risk the brief forbids. From it we take only mechanics: a dramatic cold open, physical metaphors, a recurring evidence-board visual (redrawn in MOTHWAKE style) and a recurring anchor character (Ivy).

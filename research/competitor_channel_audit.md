@@ -28,3 +28,6 @@
 - Only public counts were used, and they're a single snapshot: they say nothing about retention or long-term success.
 - tavieenfilm: one breakout (3.1M in about 10 days), one strong video (934K), and one recent upload (77K at 3 days). That's a strong but very young track record; don't treat it as a stable baseline.
 - Money Decoded is too small, with too few public videos, to draw performance conclusions from. Use it for **craft** lessons only.
+
+## Channel C: Paper Billions (added 2026-11-20)
+See `video_breakdown_paper_billions.md`. 24.6K subscribers, 7 videos (all ≤13 days old); 2 inspected with frames. **It discloses that an AI app ("Overnight", madeovernight.com) builds its videos**, and promotes it. A Money Decoded video appears in its recommendations, and Money Decoded used an identical title, which suggests a shared pipeline (unverified).
