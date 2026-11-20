@@ -1,0 +1,26 @@
+repo	license	stars	last_push	archived	latest_release	release_date	description
+lhitches/google-trends-mcp	MIT	2	2026-09-12	False	-		Google Trends inside Claude Code. Interest over time, related and rising queries
+wrxck/reddit-mcp	MIT	13	2026-03-29	False	-		MCP server for Reddit  browse, search, read, post, comment, vote, and save from 
+microsoft/playwright-mcp	Apache-2.0	39933	2026-11-18	False	v0.0.86	2026-11-18	Playwright MCP server
+modelcontextprotocol/servers	NOASSERTION	92134	2026-11-19	False	v2.5.0	2026-11-18	Model Context Protocol Reference Servers
+KyaniteLabs/kinocut	Apache-2.0	272	2026-11-19	False	v2.0.1	2026-11-10	Guardrailed video editing MCP server for AI agents. FFmpeg, Hyperframes, repurpo
+rhkiswani/mcp-video	Apache-2.0	2	2026-05-10	False	-		Video editing MCP server for AI agents. 83 tools, 858 tests collected, 3 interfa
+RFingAdam/rushcut	AGPL-3.0	1	2026-11-20	False	-		Rushcut: editor-agnostic AI video editing over MCP. FFmpeg-first, plus VEGAS Pro
+PlbKin190/video-editor-mcp	Apache-2.0	0	2026-09-25	False	-		Minimal ffmpeg editing bench over MCP, Apache 2.0: probe, trim, concat, transfor
+jessestay/social-media-mcp	MIT	1	2026-05-16	False	-		Unified social media scheduling MCP server wrapping free platform APIs
+pendpost/pendpost	MIT	28	2026-11-18	False	v2.14.0	2026-11-18	Your AI agent drafts social posts, you approve, then it publishes. Local-first, 
+anthropics/claude-plugins-official	Apache-2.0	47802	2026-11-20	False	-		Official, Anthropic-managed directory of high quality Claude Code Plugins.
+Melvynx/video-agent-skills	MIT	186	2026-11-06	False	-		Free Claude Code skills to script, research and edit short-form videos. Markdown
+iamaanahmad/agents-video-editing-skills	MIT	1	2026-11-11	False	-		Video editing skills for AI agents: Claude Code, Codex, Kiro, Copilot, Antigravi
+remotion-dev/skills	None	7626	2026-11-18	False	-		Agent Skills
+obra/superpowers	MIT	322641	2026-11-03	False	v7.0.2	2026-11-03	An agentic skills framework & software development methodology that works.
+gitroomhq/postiz-app	AGPL-3.0	42044	2026-11-20	False	v2.26.0	2026-11-13	 The ultimate agentic social media scheduling tool 
+n8n-io/n8n	NOASSERTION	211526	2026-11-20	False	n8n@2.48.7	2026-11-20	Fair-code workflow automation platform with native AI capabilities. Combine visu
+activepieces/activepieces	NOASSERTION	25639	2026-11-20	False	0.93.0	2026-11-08	AI Agents & MCPs & AI Workflow Automation  (~400 MCP servers for AI agents)  AI 
+SYSTRAN/faster-whisper	MIT	26898	2026-11-12	False	v1.2.1	2025-10-31	Faster Whisper transcription with CTranslate2
+ggml-org/whisper.cpp	MIT	55368	2026-11-20	False	v1.9.5	2026-10-06	Port of OpenAI's Whisper model in C/C++
+Breakthrough/PySceneDetect	BSD-3-Clause	5593	2026-11-20	False	v0.7.3	2026-11-08	:movie_camera: Python and OpenCV-based scene cut/transition detection program & 
+opencv/opencv	Apache-2.0	91655	2026-11-20	False	5.1.0	2026-11-06	Open Source Computer Vision Library
+MediaArea/MediaInfo	BSD-2-Clause	2072	2026-11-19	False	v26.10	2026-10-06	Convenient unified display of the most relevant technical and tag data for video
+remotion-dev/remotion	NOASSERTION	74537	2026-11-20	False	v4.0.545	2026-11-18	      Make videos programmatically with React
+Zulko/moviepy	MIT	15176	2026-08-26	False	v2.2.1	2025-05-21	Video editing with Python
