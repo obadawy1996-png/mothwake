@@ -38,3 +38,4 @@ ElevenLabs used so far: 740 (Ivy VO) + 185 (private SH002 storyboard image on El
 | After SH012 C2a–C5 | **2,150** | 60 | 4 Lite + 1 Fast. **SH012 total 70, exactly as budgeted** |
 Chrono Tales floor of 1,366 untouched (784 above it).
 | After C5 v2 + SH019 v2 (11 clips, 130 shown on the buttons) | **2,090** | **60 measured** | The account menu shows only 60 deducted, not 130. **Unexplained**: re-check later (delayed billing is possible). Plan for 130. |
+| Owner "Fix C5 and Theo" | — | Flow: +20 shown (C5 Fast); ElevenLabs: +272 measured (Ivy rules) | ElevenLabs pilot total now 740 + 272 = **1,012** (plan ~930). |

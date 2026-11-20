@@ -1,0 +1,68 @@
+{
+  "file": "SH019_NightlightRules_master_v7.mp4",
+  "probe": {
+    "width": 1080,
+    "height": 1920,
+    "fps": 30.0,
+    "duration_s": 34.5,
+    "has_audio": true
+  },
+  "warnings": [
+    "2 low-threshold cut(s): check props/costume on both sides",
+    "frozen >=1s at [3.933333, 9.233333, 18.866667]"
+  ],
+  "errors": [],
+  "cuts_main": [
+    3.633,
+    7.233,
+    9.233,
+    11.733,
+    13.367,
+    16.367,
+    18.0,
+    20.633,
+    26.633,
+    33.633
+  ],
+  "hidden_cut_candidates": [
+    21.733,
+    25.267
+  ],
+  "black_segments": [],
+  "frozen_starts": [
+    3.933333,
+    9.233333,
+    18.866667
+  ],
+  "loudness_lufs": -14.3,
+  "true_peak_dbfs": -2.3,
+  "speech": [
+    {
+      "start": 0.11,
+      "end": 3.79,
+      "text": "Theo has three rules about his nightlight."
+    },
+    {
+      "start": 3.79,
+      "end": 21.9,
+      "text": "Rule one, he said, it stays on, because, looking light, I'm the grown-up, I turned it on."
+    },
+    {
+      "start": 21.9,
+      "end": 26.86,
+      "text": "They were all facing the nightlight, like moths."
+    },
+    {
+      "start": 26.86,
+      "end": 32.98,
+      "text": "It wasn't for Theo, it kept them looking at it, and then he whispered, now they'll"
+    },
+    {
+      "start": 32.98,
+      "end": 34.98,
+      "text": "look at you."
+    }
+  ],
+  "verdict": "PASS WITH WARNINGS",
+  "note": "Automated checks only. A human frame review is still required before approval."
+}

@@ -1,0 +1,41 @@
+{
+  "file": "SH019_NightlightRules_master_v5.mp4",
+  "probe": {
+    "width": 1080,
+    "height": 1920,
+    "fps": 30.0,
+    "duration_s": 34.5,
+    "has_audio": true
+  },
+  "warnings": [
+    "2 low-threshold cut(s): check props/costume on both sides",
+    "frozen >=1s at [3.933333, 9.233333, 18.866667]"
+  ],
+  "errors": [],
+  "cuts_main": [
+    3.633,
+    7.233,
+    9.233,
+    11.733,
+    13.367,
+    16.367,
+    18.0,
+    20.633,
+    26.633,
+    33.633
+  ],
+  "hidden_cut_candidates": [
+    21.733,
+    25.267
+  ],
+  "black_segments": [],
+  "frozen_starts": [
+    3.933333,
+    9.233333,
+    18.866667
+  ],
+  "loudness_lufs": -14.2,
+  "true_peak_dbfs": -2.9,
+  "verdict": "PASS WITH WARNINGS",
+  "note": "Automated checks only. A human frame review is still required before approval."
+}
