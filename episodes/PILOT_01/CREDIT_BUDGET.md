@@ -29,3 +29,11 @@ ElevenLabs used so far: 740 (Ivy VO) + 185 (private SH002 storyboard image on El
 - **Google AI credits: 2,220.** These are used when Flow credits run out, and the pool is shared with Chrono Tales. Chrono Tales notes record an owner floor of 1,366 there.
 - The pilot (220–440) would leave about 1,780–2,000 AI credits, still above that floor. **The owner must decide which pool pays** before any clip is generated.
 - Veo 3.1 Fast (the key-moment model) retires on 5 Dec. Key moments may need Omni 1.2 Flash (24) after that.
+
+## Spend log (Google AI credits, read from the Flow account menu)
+| When | Balance | Spent | What |
+|---|---|---|---|
+| Start | 2,220 | — | — |
+| After SH012 C1 | 2,210 | 10 | measured |
+| After SH012 C2a–C5 | **2,150** | 60 | 4 Lite + 1 Fast. **SH012 total 70, exactly as budgeted** |
+Chrono Tales floor of 1,366 untouched (784 above it).
