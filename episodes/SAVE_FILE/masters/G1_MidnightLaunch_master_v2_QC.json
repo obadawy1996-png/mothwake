@@ -1,0 +1,35 @@
+{
+  "file": "G1_MidnightLaunch_master_v2.mp4",
+  "probe": {
+    "width": 1080,
+    "height": 1920,
+    "fps": 30.0,
+    "duration_s": 28.64,
+    "has_audio": true
+  },
+  "warnings": [
+    "2 low-threshold cut(s): check props/costume on both sides",
+    "frozen >=1s at [26.6]"
+  ],
+  "errors": [],
+  "cuts_main": [
+    1.2,
+    4.7,
+    12.633,
+    16.633,
+    22.567,
+    27.933
+  ],
+  "hidden_cut_candidates": [
+    2.367,
+    15.833
+  ],
+  "black_segments": [],
+  "frozen_starts": [
+    26.6
+  ],
+  "loudness_lufs": -14.3,
+  "true_peak_dbfs": -2.8,
+  "verdict": "PASS WITH WARNINGS",
+  "note": "Automated checks only. A human frame review is still required before approval."
+}

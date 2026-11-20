@@ -1,0 +1,180 @@
+{
+ "name": "G4_ChooseWisely_master",
+ "out_dir": "episodes/SAVE_FILE/masters",
+ "watermark": "brand/kit/watermark_gold.png",
+ "caption_style": {
+  "size": 80,
+  "marginv": 780
+ },
+ "cuts": [
+  {
+   "src": "episodes/SAVE_FILE/flow/G4_C5.mp4",
+   "in": 5.0,
+   "out": 6.2,
+   "bed_db": -26
+  },
+  {
+   "src": "episodes/SAVE_FILE/flow/G4_C1.mp4",
+   "in": 0,
+   "out": 8.0,
+   "bed_db": -26
+  },
+  {
+   "src": "episodes/SAVE_FILE/flow/G4_C3.mp4",
+   "in": 0,
+   "out": 5.0,
+   "bed_db": -26
+  },
+  {
+   "src": "episodes/SAVE_FILE/flow/G4_C4.mp4",
+   "in": 0,
+   "out": 2.8,
+   "bed_db": -26
+  },
+  {
+   "src": "episodes/SAVE_FILE/flow/G4_C2.mp4",
+   "in": 0,
+   "out": 4.0,
+   "bed_db": -26
+  },
+  {
+   "src": "episodes/SAVE_FILE/flow/G4_C5.mp4",
+   "in": 0,
+   "out": 7.0,
+   "bed_db": -26
+  }
+ ],
+ "vo": [
+  {
+   "file": "episodes/SAVE_FILE/audio/vo/IVY_G4.mp3",
+   "in": 0,
+   "out": 22.32,
+   "at": 1.2
+  }
+ ],
+ "sfx": [
+  {
+   "file": "episodes/SAVE_FILE/audio/sfx/nightlight_hum.wav",
+   "in": 0,
+   "out": 9,
+   "at": 1.2,
+   "db": -22
+  },
+  {
+   "file": "episodes/SAVE_FILE/audio/sfx/knock3.wav",
+   "in": 0,
+   "out": 3.32,
+   "at": 9.4,
+   "db": -2
+  },
+  {
+   "file": "episodes/SAVE_FILE/audio/sfx/low_drone.wav",
+   "in": 0,
+   "out": 8,
+   "at": 9.2,
+   "db": -14
+  },
+  {
+   "file": "episodes/SAVE_FILE/audio/sfx/knock3.wav",
+   "in": 0,
+   "out": 3.32,
+   "at": 14.4,
+   "db": -4
+  },
+  {
+   "file": "episodes/SAVE_FILE/audio/sfx/presence_swell.wav",
+   "in": 0,
+   "out": 3.5,
+   "at": 20.4,
+   "db": -8
+  }
+ ],
+ "captions": [
+  {
+   "start": 1.2,
+   "end": 1.9,
+   "text": "*Night three*.",
+   "style": "Cap"
+  },
+  {
+   "start": 2.7,
+   "end": 4.3,
+   "text": "The game gave Jun\na *choice*.",
+   "style": "Cap"
+  },
+  {
+   "start": 5.5,
+   "end": 8.0,
+   "text": "*Let him in*.\nOr keep playing.",
+   "style": "Cap"
+  },
+  {
+   "start": 9.4,
+   "end": 10.6,
+   "text": "Then *a knock*.",
+   "style": "Cap"
+  },
+  {
+   "start": 11.8,
+   "end": 12.6,
+   "text": "*Not* in the game.",
+   "style": "Cap"
+  },
+  {
+   "start": 13.6,
+   "end": 15.9,
+   "text": "On his front door.\n*Same rhythm*.",
+   "style": "Cap"
+  },
+  {
+   "start": 17.0,
+   "end": 19.1,
+   "text": "His thumb is still\nover the *button*.",
+   "style": "Cap"
+  },
+  {
+   "start": 20.1,
+   "end": 23.1,
+   "text": "What would *you* pick?\nTell him before he does.",
+   "style": "Whisper"
+  }
+ ],
+ "cards": [
+  {
+   "start": 0,
+   "end": 1.2,
+   "text": "THE GAME GAVE HIM\nA CHOICE. THEN\nSOMEONE KNOCKED."
+  },
+  {
+   "start": 24.0,
+   "end": 28.0,
+   "text": "LET HIM IN or KEEP PLAYING?\nCOMMENT BEFORE JUN DOES."
+  }
+ ],
+ "labels": [
+  {
+   "start": 0,
+   "end": 1.2,
+   "text": "SAVE FILE  ·  4/5",
+   "x": 540,
+   "y": 330,
+   "size": 40
+  },
+  {
+   "start": 1.2,
+   "end": 4.6,
+   "text": "LET HIM IN",
+   "x": 340,
+   "y": 900,
+   "size": 38
+  },
+  {
+   "start": 1.2,
+   "end": 4.6,
+   "text": "KEEP PLAYING",
+   "x": 800,
+   "y": 900,
+   "size": 38
+  }
+ ]
+}

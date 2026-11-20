@@ -1,0 +1,30 @@
+{
+  "file": "G4_ChooseWisely_master_v2.mp4",
+  "probe": {
+    "width": 1080,
+    "height": 1920,
+    "fps": 30.0,
+    "duration_s": 28.07,
+    "has_audio": true
+  },
+  "warnings": [
+    "1 low-threshold cut(s): check props/costume on both sides"
+  ],
+  "errors": [],
+  "cuts_main": [
+    1.2,
+    9.133,
+    14.133,
+    16.967,
+    20.967
+  ],
+  "hidden_cut_candidates": [
+    27.833
+  ],
+  "black_segments": [],
+  "frozen_starts": [],
+  "loudness_lufs": -14.4,
+  "true_peak_dbfs": -2.8,
+  "verdict": "PASS WITH WARNINGS",
+  "note": "Automated checks only. A human frame review is still required before approval."
+}

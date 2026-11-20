@@ -1,0 +1,33 @@
+{
+  "file": "G3_RulesAfterMidnight_master_v2.mp4",
+  "probe": {
+    "width": 1080,
+    "height": 1920,
+    "fps": 30.0,
+    "duration_s": 32.27,
+    "has_audio": true
+  },
+  "warnings": [
+    "4 low-threshold cut(s): check props/costume on both sides"
+  ],
+  "errors": [],
+  "cuts_main": [
+    1.2,
+    8.2,
+    15.2,
+    22.7,
+    25.2
+  ],
+  "hidden_cut_candidates": [
+    26.033,
+    29.2,
+    30.2,
+    30.967
+  ],
+  "black_segments": [],
+  "frozen_starts": [],
+  "loudness_lufs": -14.4,
+  "true_peak_dbfs": -2.9,
+  "verdict": "PASS WITH WARNINGS",
+  "note": "Automated checks only. A human frame review is still required before approval."
+}

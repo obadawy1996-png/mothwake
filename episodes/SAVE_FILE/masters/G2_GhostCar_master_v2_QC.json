@@ -1,0 +1,33 @@
+{
+  "file": "G2_GhostCar_master_v2.mp4",
+  "probe": {
+    "width": 1080,
+    "height": 1920,
+    "fps": 30.0,
+    "duration_s": 26.27,
+    "has_audio": true
+  },
+  "warnings": [
+    "1 low-threshold cut(s): check props/costume on both sides",
+    "frozen >=1s at [3.633333]"
+  ],
+  "errors": [],
+  "cuts_main": [
+    1.2,
+    5.2,
+    10.2,
+    14.2,
+    18.2
+  ],
+  "hidden_cut_candidates": [
+    1.733
+  ],
+  "black_segments": [],
+  "frozen_starts": [
+    3.633333
+  ],
+  "loudness_lufs": -14.3,
+  "true_peak_dbfs": -3.0,
+  "verdict": "PASS WITH WARNINGS",
+  "note": "Automated checks only. A human frame review is still required before approval."
+}
