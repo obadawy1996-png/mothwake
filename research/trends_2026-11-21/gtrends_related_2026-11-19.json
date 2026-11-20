@@ -1,0 +1,810 @@
+[
+{
+"term": "creepy",
+"geo": "US",
+"property": "youtube",
+"timeframe": "today 12-m",
+"fetched_at": "2026-11-20T23:57:37Z",
+"rising": [
+{
+"query": "scooby doo creepy run",
+"value": "Breakout"
+},
+{
+"query": "scooby doo creepy run song",
+"value": "Breakout"
+},
+{
+"query": "creepy cat in the hat",
+"value": "+2,650%"
+},
+{
+"query": "mundo creepy",
+"value": "+100%"
+},
+{
+"query": "creepy facts",
+"value": "+80%"
+},
+{
+"query": "creepy crawl danny go",
+"value": "+40%"
+},
+{
+"query": "creepy crawl",
+"value": "+40%"
+},
+{
+"query": "mr creepy pasta",
+"value": "+40%"
+}
+],
+"top": [
+{
+"query": "creepy man",
+"value": "100"
+},
+{
+"query": "creepy videos",
+"value": "96"
+},
+{
+"query": "creepy music",
+"value": "75"
+},
+{
+"query": "creepy song",
+"value": "57"
+},
+{
+"query": "creepy stories",
+"value": "42"
+},
+{
+"query": "creepy songs",
+"value": "33"
+},
+{
+"query": "creepy sounds",
+"value": "30"
+},
+{
+"query": "creepy roblox",
+"value": "27"
+},
+{
+"query": "creepy things",
+"value": "23"
+},
+{
+"query": "creepy nuts",
+"value": "23"
+},
+{
+"query": "creepy sound",
+"value": "22"
+},
+{
+"query": "creepy eyes",
+"value": "21"
+},
+{
+"query": "creepy video",
+"value": "21"
+},
+{
+"query": "creepy stuff",
+"value": "20"
+},
+{
+"query": "creepy games",
+"value": "20"
+},
+{
+"query": "creepy doll",
+"value": "18"
+},
+{
+"query": "creepy minecraft",
+"value": "16"
+},
+{
+"query": "creepy pasta",
+"value": "14"
+},
+{
+"query": "creepy story",
+"value": "14"
+},
+{
+"query": "creepy carrots",
+"value": "12"
+},
+{
+"query": "creepy facts",
+"value": "11"
+},
+{
+"query": "scooby doo creepy run",
+"value": "6"
+},
+{
+"query": "creepy crawl",
+"value": "5"
+},
+{
+"query": "creepy roblox games",
+"value": "5"
+},
+{
+"query": "creepy cat in the hat",
+"value": "4"
+}
+]
+},
+{
+"term": "gta 6 ghost",
+"geo": "US",
+"property": "youtube",
+"timeframe": "today 12-m",
+"fetched_at": "2026-11-20T23:57:42Z",
+"rising": [],
+"top": []
+},
+{
+"term": "horror shorts",
+"geo": "US",
+"property": "youtube",
+"timeframe": "today 12-m",
+"fetched_at": "2026-11-20T23:57:45Z",
+"rising": [],
+"top": []
+},
+{
+"term": "scary story",
+"geo": "US",
+"property": "youtube",
+"timeframe": "today 12-m",
+"fetched_at": "2026-11-20T23:57:49Z",
+"rising": [
+{
+"query": "scary toy story",
+"value": "+150%"
+}
+],
+"top": [
+{
+"query": "scary story videos",
+"value": "100"
+},
+{
+"query": "roblox scary story",
+"value": "95"
+},
+{
+"query": "scary true story",
+"value": "62"
+},
+{
+"query": "scary toy story",
+"value": "62"
+},
+{
+"query": "scary kids story",
+"value": "25"
+},
+{
+"query": "scary reddit story",
+"value": "12"
+}
+]
+},
+{
+"term": "sleep paralysis",
+"geo": "US",
+"property": "youtube",
+"timeframe": "today 12-m",
+"fetched_at": "2026-11-20T23:57:54Z",
+"rising": [
+{
+"query": "how to date a sleep paralysis demon",
+"value": "Breakout"
+},
+{
+"query": "how to date a sleep paralysis demon game",
+"value": "Breakout"
+},
+{
+"query": "sleep paralysis the hollow",
+"value": "Breakout"
+},
+{
+"query": "how to get sleep paralysis tutorial",
+"value": "Breakout"
+},
+{
+"query": "sleep paralysis demon game",
+"value": "+500%"
+},
+{
+"query": "sleep paralysis demon",
+"value": "+70%"
+}
+],
+"top": [
+{
+"query": "sleep paralysis demon",
+"value": "100"
+},
+{
+"query": "sleep paralysis video",
+"value": "43"
+},
+{
+"query": "juice wrld sleep paralysis",
+"value": "35"
+},
+{
+"query": "sleep paralysis game",
+"value": "28"
+},
+{
+"query": "sleep music",
+"value": "27"
+},
+{
+"query": "sleep paralysis scary",
+"value": "20"
+},
+{
+"query": "what is sleep paralysis",
+"value": "17"
+},
+{
+"query": "how to get sleep paralysis",
+"value": "17"
+},
+{
+"query": "sleep paralysis stories",
+"value": "15"
+},
+{
+"query": "how to date a sleep paralysis demon",
+"value": "12"
+},
+{
+"query": "sleep paralysis song",
+"value": "10"
+},
+{
+"query": "sleep paralysis meme",
+"value": "9"
+},
+{
+"query": "sleep paralysis simulation",
+"value": "9"
+},
+{
+"query": "lisa sleep paralysis",
+"value": "8"
+},
+{
+"query": "sleep paralysis demon game",
+"value": "6"
+},
+{
+"query": "how to date a sleep paralysis demon game",
+"value": "2"
+},
+{
+"query": "sleep paralysis the hollow",
+"value": "2"
+},
+{
+"query": "how to get sleep paralysis tutorial",
+"value": "1"
+}
+]
+},
+{
+"term": "creepy",
+"geo": "US",
+"property": "web",
+"timeframe": "today 12-m",
+"fetched_at": "2026-11-20T23:57:58Z",
+"rising": [
+{
+"query": "scooby doo creepy run",
+"value": "Breakout"
+},
+{
+"query": "cat in the hat",
+"value": "+1,350%"
+},
+{
+"query": "creepy cat in the hat",
+"value": "+1,300%"
+},
+{
+"query": "creepy dates",
+"value": "+130%"
+},
+{
+"query": "creepy link",
+"value": "+130%"
+},
+{
+"query": "creepy facts about the human body",
+"value": "+120%"
+},
+{
+"query": "creepy con",
+"value": "+100%"
+},
+{
+"query": "creepy nuts tour",
+"value": "+90%"
+},
+{
+"query": "creepy skin",
+"value": "+60%"
+},
+{
+"query": "what is creepy pasta",
+"value": "+60%"
+},
+{
+"query": "creepy cat",
+"value": "+50%"
+},
+{
+"query": "creepy world",
+"value": "+50%"
+},
+{
+"query": "creepy things to draw",
+"value": "+50%"
+}
+],
+"top": [
+{
+"query": "creepy guy",
+"value": "100"
+},
+{
+"query": "creepy girl",
+"value": "78"
+},
+{
+"query": "creepy pasta",
+"value": "72"
+},
+{
+"query": "creepy man",
+"value": "71"
+},
+{
+"query": "creepy face",
+"value": "67"
+},
+{
+"query": "creepy song",
+"value": "63"
+},
+{
+"query": "creepy house",
+"value": "62"
+},
+{
+"query": "creepy doll",
+"value": "60"
+},
+{
+"query": "creepy things",
+"value": "50"
+},
+{
+"query": "creepy music",
+"value": "50"
+},
+{
+"query": "creepy eyes",
+"value": "48"
+},
+{
+"query": "creepy smile",
+"value": "48"
+},
+{
+"query": "creepy meme",
+"value": "48"
+},
+{
+"query": "creepy world",
+"value": "43"
+},
+{
+"query": "creepy movies",
+"value": "41"
+},
+{
+"query": "creepy cat",
+"value": "40"
+},
+{
+"query": "creepy nuts",
+"value": "37"
+},
+{
+"query": "creepy clown",
+"value": "37"
+},
+{
+"query": "creepy meaning",
+"value": "36"
+},
+{
+"query": "creepy skin",
+"value": "36"
+},
+{
+"query": "creepy dog",
+"value": "36"
+},
+{
+"query": "creepy games",
+"value": "35"
+},
+{
+"query": "creepy stories",
+"value": "30"
+},
+{
+"query": "creepy pictures",
+"value": "29"
+},
+{
+"query": "creepy songs",
+"value": "27"
+}
+]
+},
+{
+"term": "gta 6 ghost",
+"geo": "US",
+"property": "web",
+"timeframe": "today 12-m",
+"fetched_at": "2026-11-20T23:58:03Z",
+"rising": [],
+"top": []
+},
+{
+"term": "horror shorts",
+"geo": "US",
+"property": "web",
+"timeframe": "today 12-m",
+"fetched_at": "2026-11-20T23:58:06Z",
+"rising": [
+{
+"query": "rocky horror gold shorts",
+"value": "+50%"
+},
+{
+"query": "best youtube horror shorts",
+"value": "+40%"
+}
+],
+"top": [
+{
+"query": "best horror shorts",
+"value": "100"
+},
+{
+"query": "best youtube horror shorts",
+"value": "56"
+},
+{
+"query": "best horror shorts on youtube",
+"value": "21"
+},
+{
+"query": "american horror story shorts",
+"value": "10"
+},
+{
+"query": "rocky horror gold shorts",
+"value": "6"
+},
+{
+"query": "columbia rocky horror shorts",
+"value": "4"
+}
+]
+},
+{
+"term": "scary story",
+"geo": "US",
+"property": "web",
+"timeframe": "today 12-m",
+"fetched_at": "2026-11-20T23:58:10Z",
+"rising": [
+{
+"query": "sorta scary cemetery story",
+"value": "Breakout"
+},
+{
+"query": "a sorta scary cemetery story",
+"value": "Breakout"
+},
+{
+"query": "a sorta scary cemetery story legends za",
+"value": "Breakout"
+},
+{
+"query": "is toy story 5 scary",
+"value": "+1,150%"
+},
+{
+"query": "scary toy story",
+"value": "+170%"
+},
+{
+"query": "tell me a scary story",
+"value": "+100%"
+},
+{
+"query": "scary story movie",
+"value": "+80%"
+}
+],
+"top": [
+{
+"query": "scary story movie",
+"value": "100"
+},
+{
+"query": "scary toy story",
+"value": "55"
+},
+{
+"query": "scary story to tell",
+"value": "33"
+},
+{
+"query": "short scary story",
+"value": "22"
+},
+{
+"query": "scary story book",
+"value": "22"
+},
+{
+"query": "scary story to tell in the dark",
+"value": "22"
+},
+{
+"query": "scary stories to tell in the dark",
+"value": "16"
+},
+{
+"query": "true story scary movies",
+"value": "15"
+},
+{
+"query": "scary story for kids",
+"value": "15"
+},
+{
+"query": "scary movie based on true story",
+"value": "14"
+},
+{
+"query": "tell me a scary story",
+"value": "12"
+},
+{
+"query": "scary story ideas",
+"value": "11"
+},
+{
+"query": "scary story books",
+"value": "10"
+},
+{
+"query": "scary movies based on a true story",
+"value": "8"
+},
+{
+"query": "is toy story 5 scary",
+"value": "6"
+},
+{
+"query": "sorta scary cemetery story",
+"value": "4"
+},
+{
+"query": "a sorta scary cemetery story",
+"value": "3"
+},
+{
+"query": "a sorta scary cemetery story legends za",
+"value": "1"
+}
+]
+},
+{
+"term": "sleep paralysis",
+"geo": "US",
+"property": "web",
+"timeframe": "today 12-m",
+"fetched_at": "2026-11-20T23:58:15Z",
+"rising": [
+{
+"query": "how to date a sleep paralysis demon",
+"value": "Breakout"
+},
+{
+"query": "sleep paralysis hallucinations",
+"value": "+850%"
+},
+{
+"query": "hypnagogic sleep paralysis",
+"value": "+250%"
+},
+{
+"query": "symptoms of sleep paralysis",
+"value": "+150%"
+},
+{
+"query": "sleep paralysis game",
+"value": "+140%"
+},
+{
+"query": "can sleep paralysis happen to anyone",
+"value": "+120%"
+},
+{
+"query": "sleep paralysis definition",
+"value": "+100%"
+},
+{
+"query": "causes of sleep paralysis",
+"value": "+90%"
+},
+{
+"query": "sleep paralysis treatment",
+"value": "+90%"
+},
+{
+"query": "what is a sleep paralysis",
+"value": "+90%"
+},
+{
+"query": "sleep paralysis symptoms",
+"value": "+90%"
+},
+{
+"query": "signs of sleep paralysis",
+"value": "+70%"
+},
+{
+"query": "how to get sleep paralysis tutorial",
+"value": "+60%"
+},
+{
+"query": "what are sleep paralysis",
+"value": "+50%"
+},
+{
+"query": "how to not have sleep paralysis",
+"value": "+40%"
+},
+{
+"query": "how to avoid sleep paralysis",
+"value": "+40%"
+}
+],
+"top": [
+{
+"query": "what sleep paralysis",
+"value": "100"
+},
+{
+"query": "what is sleep paralysis",
+"value": "62"
+},
+{
+"query": "sleep paralysis hallucinations",
+"value": "56"
+},
+{
+"query": "sleep paralysis demon",
+"value": "35"
+},
+{
+"query": "sleep paralysis causes",
+"value": "29"
+},
+{
+"query": "what is a sleep paralysis",
+"value": "25"
+},
+{
+"query": "sleep paralysis symptoms",
+"value": "20"
+},
+{
+"query": "what causes sleep paralysis",
+"value": "16"
+},
+{
+"query": "what are sleep paralysis",
+"value": "15"
+},
+{
+"query": "sleep paralysis cause",
+"value": "13"
+},
+{
+"query": "sleep paralysis meaning",
+"value": "12"
+},
+{
+"query": "how to get sleep paralysis",
+"value": "9"
+},
+{
+"query": "symptoms of sleep paralysis",
+"value": "9"
+},
+{
+"query": "sleep paralysis definition",
+"value": "9"
+},
+{
+"query": "sleep paralysis dreams",
+"value": "9"
+},
+{
+"query": "causes of sleep paralysis",
+"value": "8"
+},
+{
+"query": "what does sleep paralysis mean",
+"value": "7"
+},
+{
+"query": "sleep paralysis game",
+"value": "7"
+},
+{
+"query": "sleep paralysis treatment",
+"value": "6"
+},
+{
+"query": "sleep paralysis demons",
+"value": "6"
+},
+{
+"query": "hypnagogic sleep paralysis",
+"value": "5"
+},
+{
+"query": "is sleep paralysis common",
+"value": "5"
+},
+{
+"query": "sleep paralysis movie",
+"value": "5"
+},
+{
+"query": "how to stop sleep paralysis",
+"value": "5"
+},
+{
+"query": "is sleep paralysis real",
+"value": "5"
+}
+]
+}
+]
