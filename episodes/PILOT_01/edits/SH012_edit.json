@@ -1,0 +1,118 @@
+{
+ "name": "SH012_RainSounds_master",
+ "out_dir": "episodes/PILOT_01/masters",
+ "watermark": "brand/kit/watermark_gold.png",
+ "cuts": [
+  {
+   "src": "episodes/PILOT_01/flow/SH012_C1.mp4",
+   "in": 0.0,
+   "out": 5.5
+  },
+  {
+   "src": "episodes/PILOT_01/flow/SH012_C2a.mp4",
+   "in": 1.5,
+   "out": 4.8
+  },
+  {
+   "src": "episodes/PILOT_01/flow/SH012_C2b.mp4",
+   "in": 1.0,
+   "out": 3.7
+  },
+  {
+   "src": "episodes/PILOT_01/flow/SH012_C2a.mp4",
+   "in": 2.5,
+   "out": 5.0
+  },
+  {
+   "src": "episodes/PILOT_01/flow/SH012_C3.mp4",
+   "in": 1.0,
+   "out": 4.3
+  },
+  {
+   "src": "episodes/PILOT_01/flow/SH012_C4.mp4",
+   "in": 2.0,
+   "out": 5.1
+  },
+  {
+   "src": "episodes/PILOT_01/flow/SH012_C5_v1.mp4",
+   "in": 0.0,
+   "out": 7.9,
+   "bed_db": -14
+  }
+ ],
+ "vo": [
+  {
+   "file": "episodes/PILOT_01/audio/vo/IVY_SH012.mp3",
+   "in": 0.0,
+   "out": 22.32,
+   "at": 0.3
+  }
+ ],
+ "captions": [
+  {
+   "start": 0.3,
+   "end": 2.0,
+   "text": "I sleep to rain sounds."
+  },
+  {
+   "start": 2.8,
+   "end": 5.2,
+   "text": "Last night, I paused them."
+  },
+  {
+   "start": 5.7,
+   "end": 6.7,
+   "text": "I paused it."
+  },
+  {
+   "start": 7.3,
+   "end": 8.8,
+   "text": "The rain outside stopped."
+  },
+  {
+   "start": 9.5,
+   "end": 11.1,
+   "text": "Play."
+  },
+  {
+   "start": 11.3,
+   "end": 12.2,
+   "text": "Rain."
+  },
+  {
+   "start": 12.25,
+   "end": 13.4,
+   "text": "Pause."
+  },
+  {
+   "start": 13.5,
+   "end": 14.6,
+   "text": "Nothing."
+  },
+  {
+   "start": 14.8,
+   "end": 17.0,
+   "text": "Only MY window was wet."
+  },
+  {
+   "start": 17.6,
+   "end": 20.3,
+   "text": "This time, the tapping\ndidn't stop."
+  },
+  {
+   "start": 20.6,
+   "end": 22.8,
+   "text": "It was never a recording."
+  }
+ ],
+ "cards": [
+  {
+   "start": 23.0,
+   "end": 26.2,
+   "text": "DURATION: LIVE\nSOURCE: OUTSIDE YOUR WINDOW"
+  }
+ ],
+ "caption_style": {
+  "size": 80
+ }
+}

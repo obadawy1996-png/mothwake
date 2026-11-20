@@ -1,0 +1,141 @@
+{
+ "name": "SH019_NightlightRules_master",
+ "out_dir": "episodes/PILOT_01/masters",
+ "watermark": "brand/kit/watermark_gold.png",
+ "cuts": [
+  {
+   "src": "episodes/PILOT_01/flow/SH019_C1.mp4",
+   "in": 0.5,
+   "out": 3.8
+  },
+  {
+   "src": "episodes/PILOT_01/flow/SH019_C2a.mp4",
+   "in": 1.0,
+   "out": 4.0
+  },
+  {
+   "src": "episodes/PILOT_01/flow/SH019_C2b.mp4",
+   "in": 1.0,
+   "out": 3.0
+  },
+  {
+   "src": "episodes/PILOT_01/flow/SH019_C2c.mp4",
+   "in": 1.0,
+   "out": 3.0,
+   "zoom": 1.45,
+   "zx": 0.62,
+   "zy": 0.62
+  },
+  {
+   "src": "episodes/PILOT_01/flow/SH019_C2d.mp4",
+   "in": 1.5,
+   "out": 3.5
+  },
+  {
+   "src": "episodes/PILOT_01/flow/SH019_C3a.mp4",
+   "in": 1.0,
+   "out": 3.6
+  },
+  {
+   "src": "episodes/PILOT_01/flow/SH019_C3b.mp4",
+   "in": 1.5,
+   "out": 3.1
+  },
+  {
+   "src": "episodes/PILOT_01/flow/SH019_C3c.mp4",
+   "in": 1.0,
+   "out": 3.6
+  },
+  {
+   "src": "episodes/PILOT_01/flow/SH019_C4.mp4",
+   "in": 0.5,
+   "out": 6.5
+  },
+  {
+   "src": "episodes/PILOT_01/flow/SH019_C5.mp4",
+   "in": 0.5,
+   "out": 7.0
+  },
+  {
+   "src": "episodes/PILOT_01/flow/SH019_C1.mp4",
+   "in": 0.0,
+   "out": 1.0
+  }
+ ],
+ "vo": [
+  {
+   "file": "episodes/PILOT_01/audio/vo/IVY_SH019.mp3",
+   "in": 0.0,
+   "out": 3.4,
+   "at": 0.2
+  },
+  {
+   "file": "episodes/PILOT_01/audio/vo/IVY_SH019.mp3",
+   "in": 3.8,
+   "out": 7.2,
+   "at": 15.9
+  },
+  {
+   "file": "episodes/PILOT_01/audio/vo/IVY_SH019.mp3",
+   "in": 7.5,
+   "out": 11.3,
+   "at": 18.9
+  },
+  {
+   "file": "episodes/PILOT_01/audio/vo/IVY_SH019.mp3",
+   "in": 11.5,
+   "out": 15.36,
+   "at": 24.4
+  }
+ ],
+ "captions": [
+  {
+   "start": 0.2,
+   "end": 3.3,
+   "text": "Theo has three rules\nabout his nightlight."
+  },
+  {
+   "start": 3.6,
+   "end": 6.2,
+   "text": "\"One: it stays on.\"",
+   "style": "Whisper"
+  },
+  {
+   "start": 6.4,
+   "end": 10.2,
+   "text": "\"Two: if it flickers,\nlook at me. Not it.\"",
+   "style": "Whisper"
+  },
+  {
+   "start": 12.4,
+   "end": 15.6,
+   "text": "\"Three: if it goes out,\nnever turn on the big light.\"",
+   "style": "Whisper"
+  },
+  {
+   "start": 15.9,
+   "end": 18.6,
+   "text": "I'm the grown-up.\nI turned it on."
+  },
+  {
+   "start": 19.0,
+   "end": 22.8,
+   "text": "They were all facing the nightlight.\nLike moths."
+  },
+  {
+   "start": 24.4,
+   "end": 28.0,
+   "text": "It wasn't for Theo.\nIt kept them looking at it."
+  },
+  {
+   "start": 28.6,
+   "end": 31.0,
+   "text": "\"Now they'll look at you.\"",
+   "style": "Whisper"
+  }
+ ],
+ "cards": [],
+ "caption_style": {
+  "size": 80
+ }
+}

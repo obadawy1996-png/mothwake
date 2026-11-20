@@ -8,3 +8,8 @@ episodes/*/audio/processed/
 episodes/EP001_sample/master/
 episodes/EP001_sample/exports/
 episodes/EP001_sample/art/s/
+
+# PILOT_01 working files (kept locally, not pushed)
+episodes/PILOT_01/masters/_work/
+episodes/PILOT_01/masters/*_v1.mp4
+episodes/PILOT_01/masters/*_v2.mp4
