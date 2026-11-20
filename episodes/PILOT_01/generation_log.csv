@@ -24,3 +24,5 @@ date,item_id,short,model,credits_shown,take,result,file,notes
 2026-11-20,SAVE FILE refs x3,G1-G5,Nano Banana 2.1,0,1,REF-E9-LOUNGE / REF-E10-CARPARK / REF-SUNSHORE,episodes/SAVE_FILE/refs/,
 2026-11-20,SAVE FILE VO x5,G1-G5,eleven_v4 Ana-Rita2,1616 (measured: 306/300/368/298/344),1,done,episodes/SAVE_FILE/audio/vo/,
 2026-11-20,SAVE FILE Flow clips x25,G1-G5,20 Lite + 5 Fast,300 (measured: AI pool 1490 -> 1190; owner approved going below the 1366 floor),1,all generated; none refused; one gate stop (model drifted to Omni) caught before spend,episodes/SAVE_FILE/flow/,
+2026-11-20,THE LAST SAVE VO x7,LF film,eleven_v4 Ana-Rita2,4808 (measured: 447/752/723/807/747/543/789),1,done; 375.5 s total,episodes/LF_THE_LAST_SAVE/audio/vo/,
+2026-11-20,THE LAST SAVE clips 01-02,LF film,Veo 3.1 Lite 16:9,FAILED (charge unknown),1,"Flow refused both: 'we noticed some unusual activity / browser extensions that modify the page'. Automated generation stopped; not retried; owner to run FLOW_PROMPT_PACK.md by hand",,

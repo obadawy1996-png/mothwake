@@ -20,6 +20,8 @@ def ass_time(t):
 
 
 def write_ass(spec, path):
+    global W, H
+    W, H = spec.get("size", [1080, 1920])
     st = spec.get("caption_style", {})
     size = st.get("size", 64)
     mv = st.get("marginv", 560)  # distance from bottom; ~800 keeps captions above TikTok/Reels UI
@@ -64,15 +66,16 @@ def main():
     t = 0.0
     for i, cut in enumerate(spec["cuts"]):
         inputs += ["-i", str(ROOT / cut["src"])]
-        d = cut["out"] - cut["in"]
+        sp = cut.get("speed", 1.0)  # <1 = slow motion (film breathing room)
+        d = (cut["out"] - cut["in"]) / sp
         if cut.get("zoom"):  # punch-in crop, e.g. to remove unwanted generated text at a frame edge
             z = cut["zoom"]
             sc = (f"scale={int(W*z)}:{int(H*z)}:flags=lanczos,"
                   f"crop={W}:{H}:(iw-{W})*{cut.get('zx', 0.5)}:(ih-{H})*{cut.get('zy', 0.5)}")
         else:
             sc = f"scale={W}:{H}:flags=lanczos"
-        fc.append(f"[{i}:v]trim={cut['in']}:{cut['out']},setpts=PTS-STARTPTS,fps={FPS},{sc},setsar=1[v{i}]")
-        fc.append(f"[{i}:a]atrim={cut['in']}:{cut['out']},asetpts=PTS-STARTPTS,aresample=48000,"
+        fc.append(f"[{i}:v]trim={cut['in']}:{cut['out']},setpts=(PTS-STARTPTS)/{sp},fps={FPS},{sc},setsar=1[v{i}]")
+        fc.append(f"[{i}:a]atrim={cut['in']}:{cut['out']},asetpts=PTS-STARTPTS,atempo={max(sp,0.5)},aresample=48000,"
                   f"aformat=channel_layouts=stereo,volume={cut.get('bed_db', -20)}dB[ab{i}]")
         vlabels.append(f"[v{i}]"); alabels.append(f"[ab{i}]"); t += d
     n = len(spec["cuts"])
@@ -103,7 +106,9 @@ def main():
     fc.append("[vcat][wm]overlay=48:96[vw]")
     fontsdir = (ROOT / "brand/fonts").as_posix().replace(":", "\\:")
     assp = ass.as_posix().replace(":", "\\:")
-    fc.append(f"[vw]subtitles='{assp}':fontsdir='{fontsdir}',format=yuv420p[vout]")
+    fade = spec.get("fade", 0)
+    fx = f",fade=t=in:d={fade},fade=t=out:st={total-fade:.3f}:d={fade}" if fade else ""
+    fc.append(f"[vw]subtitles='{assp}':fontsdir='{fontsdir}'{fx},format=yuv420p[vout]")
 
     fcfile = work / f"{base}_v{v}_fc.txt"; fcfile.write_text(";\n".join(fc), encoding="utf-8")
     cmd = [shutil.which("ffmpeg"), "-hide_banner", "-v", "error", "-n", *inputs,
