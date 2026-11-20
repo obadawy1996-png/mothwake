@@ -1,0 +1,36 @@
+{
+  "file": "SH005_LastPrescription_master_v2.mp4",
+  "probe": {
+    "width": 1080,
+    "height": 1920,
+    "fps": 30.0,
+    "duration_s": 31.14,
+    "has_audio": true
+  },
+  "warnings": [
+    "4 low-threshold cut(s): check props/costume on both sides",
+    "frozen >=1s at [29.233333]"
+  ],
+  "errors": [],
+  "cuts_main": [
+    1.2,
+    7.2,
+    12.2,
+    16.133,
+    23.133
+  ],
+  "hidden_cut_candidates": [
+    4.333,
+    6.033,
+    17.933,
+    20.733
+  ],
+  "black_segments": [],
+  "frozen_starts": [
+    29.233333
+  ],
+  "loudness_lufs": -14.1,
+  "true_peak_dbfs": -3.0,
+  "verdict": "PASS WITH WARNINGS",
+  "note": "Automated checks only. A human frame review is still required before approval."
+}

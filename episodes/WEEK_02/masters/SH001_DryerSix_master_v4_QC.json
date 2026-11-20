@@ -1,0 +1,32 @@
+{
+  "file": "SH001_DryerSix_master_v4.mp4",
+  "probe": {
+    "width": 1080,
+    "height": 1920,
+    "fps": 30.0,
+    "duration_s": 30.01,
+    "has_audio": true
+  },
+  "warnings": [
+    "1 low-threshold cut(s): check props/costume on both sides",
+    "frozen >=1s at [27.733333]"
+  ],
+  "errors": [],
+  "cuts_main": [
+    1.2,
+    9.133,
+    15.067,
+    22.067
+  ],
+  "hidden_cut_candidates": [
+    5.167
+  ],
+  "black_segments": [],
+  "frozen_starts": [
+    27.733333
+  ],
+  "loudness_lufs": -14.2,
+  "true_peak_dbfs": -2.7,
+  "verdict": "PASS WITH WARNINGS",
+  "note": "Automated checks only. A human frame review is still required before approval."
+}

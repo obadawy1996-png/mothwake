@@ -1,0 +1,174 @@
+{
+ "name": "SH009_StillCounting_master",
+ "out_dir": "episodes/WEEK_02/masters",
+ "watermark": "brand/kit/watermark_gold.png",
+ "caption_style": {
+  "size": 80,
+  "marginv": 780
+ },
+ "cuts": [
+  {
+   "src": "episodes/WEEK_02/flow/SH009_C3.mp4",
+   "in": 6.0,
+   "out": 7.2,
+   "bed_db": -26
+  },
+  {
+   "src": "episodes/WEEK_02/flow/SH009_C1.mp4",
+   "in": 0.0,
+   "out": 4.5,
+   "bed_db": -26
+  },
+  {
+   "src": "episodes/WEEK_02/flow/SH009_C2.mp4",
+   "in": 1.0,
+   "out": 5.0,
+   "bed_db": -26
+  },
+  {
+   "src": "episodes/WEEK_02/flow/SH009_C3.mp4",
+   "in": 4.0,
+   "out": 7.5,
+   "bed_db": -26
+  },
+  {
+   "src": "episodes/WEEK_02/flow/SH009_C4.mp4",
+   "in": 0.0,
+   "out": 8.0,
+   "bed_db": -26
+  },
+  {
+   "src": "episodes/WEEK_02/flow/SH009_C5.mp4",
+   "in": 0.0,
+   "out": 8.0,
+   "bed_db": -26
+  }
+ ],
+ "vo": [
+  {
+   "file": "episodes/WEEK_02/audio/vo/IVY_SH009.mp3",
+   "in": 0,
+   "out": 11.45,
+   "at": 1.2
+  },
+  {
+   "file": "episodes/WEEK_02/audio/vo/IVY_SH009_counter.wav",
+   "in": 0,
+   "out": 5.0,
+   "at": 12.65,
+   "db": 2
+  },
+  {
+   "file": "episodes/WEEK_02/audio/vo/IVY_SH009.mp3",
+   "in": 16.4,
+   "out": 22.64,
+   "at": 17.6
+  }
+ ],
+ "sfx": [
+  {
+   "file": "episodes/WEEK_02/audio/sfx/low_drone.wav",
+   "in": 0,
+   "out": 8,
+   "at": 1.2,
+   "db": -22
+  },
+  {
+   "file": "episodes/WEEK_02/audio/sfx/low_drone.wav",
+   "in": 0,
+   "out": 8,
+   "at": 9.7,
+   "db": -14
+  },
+  {
+   "file": "episodes/WEEK_02/audio/sfx/low_drone.wav",
+   "in": 0,
+   "out": 8,
+   "at": 17.7,
+   "db": -12
+  },
+  {
+   "file": "episodes/WEEK_02/audio/sfx/switch_click.wav",
+   "in": 0,
+   "out": 0.5,
+   "at": 25.6,
+   "db": -2
+  },
+  {
+   "file": "episodes/WEEK_02/audio/sfx/presence_swell.wav",
+   "in": 0,
+   "out": 3.5,
+   "at": 25.9,
+   "db": -6
+  }
+ ],
+ "captions": [
+  {
+   "start": 1.2,
+   "end": 3.0,
+   "text": "Theo always wins\n*hide-and-seek*.",
+   "style": "Cap"
+  },
+  {
+   "start": 4.0,
+   "end": 4.9,
+   "text": "I learned *why*.",
+   "style": "Cap"
+  },
+  {
+   "start": 5.8,
+   "end": 8.0,
+   "text": "Nineteen, twenty. *Coming*.",
+   "style": "Cap"
+  },
+  {
+   "start": 8.9,
+   "end": 10.4,
+   "text": "He said: *shh*.",
+   "style": "Whisper"
+  },
+  {
+   "start": 11.1,
+   "end": 12.3,
+   "text": "It's *still counting*.",
+   "style": "Whisper"
+  },
+  {
+   "start": 12.7,
+   "end": 17.4,
+   "text": "*Three thousand, four hundred\nand eleven...*",
+   "style": "Whisper"
+  },
+  {
+   "start": 17.7,
+   "end": 18.7,
+   "text": "He wasn't *winning*.",
+   "style": "Cap"
+  },
+  {
+   "start": 19.3,
+   "end": 21.5,
+   "text": "He's been hiding.\n*Since last winter*.",
+   "style": "Cap"
+  },
+  {
+   "start": 22.5,
+   "end": 23.6,
+   "text": "*Ready or not*.",
+   "style": "Whisper"
+  }
+ ],
+ "cards": [
+  {
+   "start": 0,
+   "end": 1.2,
+   "text": "THEO ALWAYS WINS\nHIDE-AND-SEEK."
+  },
+  {
+   "start": 26.0,
+   "end": 29.2,
+   "text": "HOW HIGH HAS IT\nCOUNTED NOW?"
+  }
+ ],
+ "labels": []
+}

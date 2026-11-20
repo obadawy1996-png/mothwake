@@ -1,0 +1,38 @@
+{
+  "file": "SH009_StillCounting_master_v2.mp4",
+  "probe": {
+    "width": 1080,
+    "height": 1920,
+    "fps": 30.0,
+    "duration_s": 29.14,
+    "has_audio": true
+  },
+  "warnings": [
+    "2 low-threshold cut(s): check props/costume on both sides",
+    "frozen >=1s at [4.166667, 5.933333, 19.866667, 23.766667, 26.2]"
+  ],
+  "errors": [],
+  "cuts_main": [
+    1.2,
+    5.7,
+    9.7,
+    13.2,
+    21.133
+  ],
+  "hidden_cut_candidates": [
+    17.4,
+    19.667
+  ],
+  "black_segments": [],
+  "frozen_starts": [
+    4.166667,
+    5.933333,
+    19.866667,
+    23.766667,
+    26.2
+  ],
+  "loudness_lufs": -14.4,
+  "true_peak_dbfs": -2.5,
+  "verdict": "PASS WITH WARNINGS",
+  "note": "Automated checks only. A human frame review is still required before approval."
+}

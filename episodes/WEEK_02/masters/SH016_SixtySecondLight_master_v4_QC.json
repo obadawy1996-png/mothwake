@@ -1,0 +1,35 @@
+{
+  "file": "SH016_SixtySecondLight_master_v4.mp4",
+  "probe": {
+    "width": 1080,
+    "height": 1920,
+    "fps": 30.0,
+    "duration_s": 32.01,
+    "has_audio": true
+  },
+  "warnings": [
+    "7 low-threshold cut(s): check props/costume on both sides"
+  ],
+  "errors": [],
+  "cuts_main": [
+    1.2,
+    8.7,
+    16.633,
+    24.567
+  ],
+  "hidden_cut_candidates": [
+    9.533,
+    10.3,
+    10.9,
+    11.8,
+    12.9,
+    13.667,
+    26.667
+  ],
+  "black_segments": [],
+  "frozen_starts": [],
+  "loudness_lufs": -14.3,
+  "true_peak_dbfs": -2.0,
+  "verdict": "PASS WITH WARNINGS",
+  "note": "Automated checks only. A human frame review is still required before approval."
+}

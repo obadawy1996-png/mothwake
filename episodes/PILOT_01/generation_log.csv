@@ -19,3 +19,5 @@ date,item_id,short,model,credits_shown,take,result,file,notes
 2026-11-20,SH025-P1 C1/C2/C2b/C2c,SH025,Veo 3.1 Lite x4,40 shown,1,all generated; clue (pale scuff on right door) visible from ~3s in C1; C2c face drifts slightly anime,flow/SH025_*.mp4,
 2026-11-20,WEEK1 VO x4,SH003/015/022/028,eleven_v4 Ana-Rita2,1374 (measured: 444/319/343/268),1,done,episodes/WEEK_01/audio/vo/,
 2026-11-20,WEEK1 Flow clips x17,SH003/015/022/028,13 Lite + 4 Fast,210 shown,1,all generated; none refused,episodes/WEEK_01/flow/,
+2026-11-20,WEEK2 VO x6,SH005/010/026/016/001/009,eleven_v4 Ana-Rita2,1925 (measured: 398/251/255/365/345/311),1,done,episodes/WEEK_02/audio/vo/,
+2026-11-20,WEEK2 Flow clips x25 (+2 accidental duplicate takes),SH005/010/026/016/001/009,19 Lite + 6 Fast (+2 Lite dup),330 shown (310 planned + 20 duplicate),1,all generated; none refused; SH005 C1/C2 got 2 takes each because a second click was sent before progress appeared,episodes/WEEK_02/flow/,
