@@ -22,20 +22,23 @@ def ass_time(t):
 def write_ass(spec, path):
     st = spec.get("caption_style", {})
     size = st.get("size", 64)
+    mv = st.get("marginv", 560)  # distance from bottom; ~800 keeps captions above TikTok/Reels UI
     lines = [
         "[Script Info]", "ScriptType: v4.00+", f"PlayResX: {W}", f"PlayResY: {H}", "WrapStyle: 0", "",
         "[V4+ Styles]",
         "Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding",
         # Bone white text, charcoal outline (BGR hex in ASS)
-        f"Style: Cap,Inter,{size},&H00D8E2E7,&H00B0DDF1,&H002B2325,&H96000000,1,0,0,0,100,100,0,0,1,5,2,2,90,90,560,1",
+        f"Style: Cap,Inter,{size},&H00D8E2E7,&H00B0DDF1,&H002B2325,&H96000000,1,0,0,0,100,100,0,0,1,5,2,2,90,90,{mv},1",
         # Whisper style: Lamp yellow italic (Theo / inner voice)
-        f"Style: Whisper,Inter,{int(size*0.9)},&H00B0DDF1,&H00B0DDF1,&H002B2325,&H96000000,1,1,0,0,100,100,0,0,1,5,2,2,90,90,560,1",
+        f"Style: Whisper,Inter,{int(size*0.9)},&H00B0DDF1,&H00B0DDF1,&H002B2325,&H96000000,1,1,0,0,100,100,0,0,1,5,2,2,90,90,{mv},1",
         # Card: big Cinzel title in Old Gold, centred
         f"Style: Card,Cinzel,{int(size*1.15)},&H00689AB8,&H00689AB8,&H000D0A09,&HB4000000,1,0,0,0,100,100,2,0,3,18,0,5,90,90,0,1",
         "", "[Events]", "Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text",
     ]
+    import re as _re
     for c in spec.get("captions", []):
-        txt = c["text"].replace("\n", "\\N")
+        # *word* -> one highlighted key word in Lamp gold (owner growth plan §4.3)
+        txt = _re.sub(r"\*([^*]+)\*", r"{\\c&H0060C8F0&}\1{\\r}", c["text"]).replace("\n", "\\N")
         lines.append(f"Dialogue: 0,{ass_time(c['start'])},{ass_time(c['end'])},{c.get('style','Cap')},,0,0,0,,{{\\fad(120,120)}}{txt}")
     for c in spec.get("cards", []):
         txt = c["text"].replace("\n", "\\N")
@@ -76,7 +79,7 @@ def main():
 
     # narration segments
     vo_labels = []
-    for j, seg in enumerate(spec.get("vo", [])):
+    for j, seg in enumerate(spec.get("vo", []) + spec.get("sfx", [])):
         k = n + j
         inputs += ["-i", str(ROOT / seg["file"])]
         delay = int(seg["at"] * 1000)
@@ -91,7 +94,7 @@ def main():
     fc.append(f"[mix]loudnorm=I=-14:TP=-2:LRA=9,aresample=192000,alimiter=limit=0.79,aresample=48000[aout]")
 
     # watermark + captions
-    wm_idx = n + len(spec.get("vo", []))
+    wm_idx = n + len(spec.get("vo", [])) + len(spec.get("sfx", []))
     inputs += ["-i", str(ROOT / spec.get("watermark", "brand/kit/watermark_gold.png"))]
     fc.append(f"[{wm_idx}:v]scale=96:-1,format=rgba,colorchannelmixer=aa=0.55[wm]")
     fc.append("[vcat][wm]overlay=48:96[vw]")
