@@ -1,0 +1,38 @@
+{
+  "file": "SH012_RainSounds_master_v5.mp4",
+  "probe": {
+    "width": 1080,
+    "height": 1920,
+    "fps": 30.0,
+    "duration_s": 28.3,
+    "has_audio": true
+  },
+  "warnings": [
+    "1 low-threshold cut(s): check props/costume on both sides",
+    "frozen >=1s at [0.4, 7.633333, 8.833333, 20.733333, 23.2]"
+  ],
+  "errors": [],
+  "cuts_main": [
+    5.5,
+    8.833,
+    11.533,
+    14.033,
+    17.367,
+    20.5
+  ],
+  "hidden_cut_candidates": [
+    14.7
+  ],
+  "black_segments": [],
+  "frozen_starts": [
+    0.4,
+    7.633333,
+    8.833333,
+    20.733333,
+    23.2
+  ],
+  "loudness_lufs": -14.5,
+  "true_peak_dbfs": -2.5,
+  "verdict": "PASS WITH WARNINGS",
+  "note": "Automated checks only. A human frame review is still required before approval."
+}

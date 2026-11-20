@@ -25,3 +25,7 @@ Masters are built with `scripts/production/assemble_flow_short.py` (edit lists i
 
 ## Not produced
 SH025 *Which Door Is Really Mine?* Part 1. The narration exists, but its 4 Flow clips (about 40 credits) have not been generated.
+
+## Update: owner asked "Fix C5 and Theo"
+- **SH012 C5 fixed:** regenerated on Veo 3.1 Fast (20 credits shown). The figure now stands **outside** the rain-streaked glass, fingers on the window, moth on the sill. New master **`SH012_RainSounds_master_v5.mp4`**: PASS WITH WARNINGS, −14.5 LUFS / −2.5 dBTP. New frozen-frame flags at 20.7 s and 23.2 s are the figure's slow, still tapping shot (confirm by eye). v4 = pre-loudness render (local only).
+- **Theo's voice: BLOCKED.** ElevenLabs Voice Design refused the request ("potentially doesn't follow our safety guidelines"), most likely because it designs a child's voice. Not retried and not reworded. The owner must choose an alternative.

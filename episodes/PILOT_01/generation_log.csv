@@ -13,3 +13,5 @@ date,item_id,short,model,credits_shown,take,result,file,notes
 2026-11-20,SH012-C5,SH012,Veo 3.1 Fast,20,1,done; CHECK: figure may read as INSIDE the room not outside the glass,,
 2026-11-20,SH012-C5v2,SH012,Veo 3.1 Fast,20 shown,2,done (figure outside glass prompt); not yet reviewed,,Flow 87eb0830 (now account u/0)
 2026-11-20,SH019v2-C1..C5 (10 clips),SH019,9 Lite + 1 Fast,110 shown,1,all 10 rendered; NONE refused (Theo alone + child hand OK); not yet reviewed,,
+2026-11-20,SH012-C5v2 (retry),SH012,Veo 3.1 Fast,20 shown,2,generated OK: figure clearly OUTSIDE the glass; used in master v5,flow/SH012_C5_v2.mp4,
+2026-11-20,THEO voice design,SH019,ElevenLabs voice design,0 (blocked),1,BLOCKED by ElevenLabs safety (child voice design); not retried,,
