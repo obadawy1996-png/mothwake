@@ -74,7 +74,14 @@ def main():
                   f"crop={W}:{H}:(iw-{W})*{cut.get('zx', 0.5)}:(ih-{H})*{cut.get('zy', 0.5)}")
         else:
             sc = f"scale={W}:{H}:flags=lanczos"
-        fc.append(f"[{i}:v]trim={cut['in']}:{cut['out']},setpts=(PTS-STARTPTS)/{sp},fps={FPS},{sc},setsar=1[v{i}]")
+        if cut.get("fill") == "blur":  # vertical clip in a wide frame: sharp centre over a blurred, darkened copy
+            fc.append(f"[{i}:v]trim={cut['in']}:{cut['out']},setpts=(PTS-STARTPTS)/{sp},fps={FPS},split[a{i}][b{i}]")
+            fc.append(f"[a{i}]scale={W}:{H}:force_original_aspect_ratio=increase,crop={W}:{H},boxblur=40:2,"
+                      f"eq=brightness=-0.22:saturation=0.55[bg{i}]")
+            fc.append(f"[b{i}]scale=-2:{H}:flags=lanczos[fg{i}]")
+            fc.append(f"[bg{i}][fg{i}]overlay=(W-w)/2:0,setsar=1[v{i}]")
+        else:
+            fc.append(f"[{i}:v]trim={cut['in']}:{cut['out']},setpts=(PTS-STARTPTS)/{sp},fps={FPS},{sc},setsar=1[v{i}]")
         fc.append(f"[{i}:a]atrim={cut['in']}:{cut['out']},asetpts=PTS-STARTPTS,atempo={max(sp,0.5)},aresample=48000,"
                   f"aformat=channel_layouts=stereo,volume={cut.get('bed_db', -20)}dB[ab{i}]")
         vlabels.append(f"[v{i}]"); alabels.append(f"[ab{i}]"); t += d

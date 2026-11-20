@@ -1,0 +1,680 @@
+{
+ "name": "THE_LAST_SAVE_film",
+ "out_dir": "episodes/LF_THE_LAST_SAVE/masters",
+ "size": [
+  1920,
+  1080
+ ],
+ "fade": 1.0,
+ "watermark": "brand/kit/watermark_gold.png",
+ "caption_style": {
+  "size": 64,
+  "marginv": 90
+ },
+ "cuts": [
+  {
+   "src": "episodes/SAVE_FILE/flow/G2_C2.mp4",
+   "in": 0,
+   "out": 4,
+   "bed_db": -30,
+   "speed": 0.616,
+   "fill": "blur"
+  },
+  {
+   "src": "episodes/SAVE_FILE/flow/G5_C2.mp4",
+   "in": 3.5,
+   "out": 8,
+   "bed_db": -30,
+   "speed": 0.616,
+   "fill": "blur"
+  },
+  {
+   "src": "episodes/SAVE_FILE/flow/G4_C3.mp4",
+   "in": 0,
+   "out": 4,
+   "bed_db": -30,
+   "speed": 0.616,
+   "fill": "blur"
+  },
+  {
+   "src": "episodes/WEEK_02/flow/SH016_C3.mp4",
+   "in": 0,
+   "out": 8,
+   "bed_db": -30,
+   "speed": 0.616,
+   "fill": "blur"
+  },
+  {
+   "src": "episodes/WEEK_02/flow/SH016_C1.mp4",
+   "in": 4.5,
+   "out": 7.5,
+   "bed_db": -30,
+   "speed": 0.616,
+   "fill": "blur"
+  },
+  {
+   "src": "episodes/LF_THE_LAST_SAVE/flow/BLACK_6s.mp4",
+   "in": 0,
+   "out": 5.0,
+   "bed_db": -60
+  },
+  {
+   "src": "episodes/LF_THE_LAST_SAVE/flow/BLACK_6s.mp4",
+   "in": 0,
+   "out": 4.0,
+   "bed_db": -60
+  },
+  {
+   "src": "episodes/SAVE_FILE/flow/G1_C1.mp4",
+   "in": 0,
+   "out": 8,
+   "bed_db": -30,
+   "speed": 0.94,
+   "fill": "blur"
+  },
+  {
+   "src": "episodes/WEEK_01/flow/SH022_C1.mp4",
+   "in": 0,
+   "out": 6,
+   "bed_db": -30,
+   "speed": 0.94,
+   "fill": "blur"
+  },
+  {
+   "src": "episodes/PILOT_01/flow/SH025_C1.mp4",
+   "in": 0,
+   "out": 6,
+   "bed_db": -30,
+   "speed": 0.94,
+   "fill": "blur"
+  },
+  {
+   "src": "episodes/SAVE_FILE/flow/G1_C2.mp4",
+   "in": 0,
+   "out": 8,
+   "bed_db": -30,
+   "speed": 0.94,
+   "fill": "blur"
+  },
+  {
+   "src": "episodes/SAVE_FILE/flow/G1_C3.mp4",
+   "in": 0,
+   "out": 4,
+   "bed_db": -30,
+   "speed": 0.94,
+   "fill": "blur"
+  },
+  {
+   "src": "episodes/SAVE_FILE/flow/G1_C4.mp4",
+   "in": 2,
+   "out": 8,
+   "bed_db": -30,
+   "speed": 0.94,
+   "fill": "blur"
+  },
+  {
+   "src": "episodes/SAVE_FILE/flow/G4_C2.mp4",
+   "in": 0,
+   "out": 6,
+   "bed_db": -30,
+   "speed": 0.94,
+   "fill": "blur"
+  },
+  {
+   "src": "episodes/SAVE_FILE/flow/G1_C5.mp4",
+   "in": 0,
+   "out": 8,
+   "bed_db": -30,
+   "speed": 0.94,
+   "fill": "blur"
+  },
+  {
+   "src": "episodes/LF_THE_LAST_SAVE/flow/BLACK_6s.mp4",
+   "in": 0,
+   "out": 4.0,
+   "bed_db": -60
+  },
+  {
+   "src": "episodes/SAVE_FILE/flow/G2_C1.mp4",
+   "in": 0,
+   "out": 8,
+   "bed_db": -30,
+   "speed": 0.713,
+   "fill": "blur"
+  },
+  {
+   "src": "episodes/SAVE_FILE/flow/G2_C2.mp4",
+   "in": 4,
+   "out": 8,
+   "bed_db": -30,
+   "speed": 0.713,
+   "fill": "blur"
+  },
+  {
+   "src": "episodes/WEEK_01/flow/SH022_C2.mp4",
+   "in": 0,
+   "out": 6,
+   "bed_db": -30,
+   "speed": 0.713,
+   "fill": "blur"
+  },
+  {
+   "src": "episodes/SAVE_FILE/flow/G2_C3.mp4",
+   "in": 0,
+   "out": 8,
+   "bed_db": -30,
+   "speed": 0.713,
+   "fill": "blur"
+  },
+  {
+   "src": "episodes/SAVE_FILE/flow/G2_C4.mp4",
+   "in": 0,
+   "out": 4,
+   "bed_db": -30,
+   "speed": 0.713,
+   "fill": "blur"
+  },
+  {
+   "src": "episodes/SAVE_FILE/flow/G2_C5.mp4",
+   "in": 0,
+   "out": 8,
+   "bed_db": -30,
+   "speed": 0.713,
+   "fill": "blur"
+  },
+  {
+   "src": "episodes/SAVE_FILE/flow/G2_C4.mp4",
+   "in": 0,
+   "out": 4,
+   "bed_db": -30,
+   "speed": 0.713,
+   "fill": "blur"
+  },
+  {
+   "src": "episodes/LF_THE_LAST_SAVE/flow/BLACK_6s.mp4",
+   "in": 0,
+   "out": 4.0,
+   "bed_db": -60
+  },
+  {
+   "src": "episodes/SAVE_FILE/flow/G3_C1.mp4",
+   "in": 0,
+   "out": 8,
+   "bed_db": -30,
+   "speed": 0.848,
+   "fill": "blur"
+  },
+  {
+   "src": "episodes/SAVE_FILE/flow/G3_C2.mp4",
+   "in": 0,
+   "out": 7,
+   "bed_db": -30,
+   "speed": 0.848,
+   "fill": "blur"
+  },
+  {
+   "src": "episodes/SAVE_FILE/flow/G3_C3.mp4",
+   "in": 0,
+   "out": 8,
+   "bed_db": -30,
+   "speed": 0.848,
+   "fill": "blur"
+  },
+  {
+   "src": "episodes/SAVE_FILE/flow/G3_C4.mp4",
+   "in": 0,
+   "out": 8,
+   "bed_db": -30,
+   "speed": 0.848,
+   "fill": "blur"
+  },
+  {
+   "src": "episodes/SAVE_FILE/flow/G3_C5.mp4",
+   "in": 0,
+   "out": 8,
+   "bed_db": -30,
+   "speed": 0.848,
+   "fill": "blur"
+  },
+  {
+   "src": "episodes/WEEK_02/flow/SH016_C1.mp4",
+   "in": 0,
+   "out": 4,
+   "bed_db": -30,
+   "speed": 0.848,
+   "fill": "blur"
+  },
+  {
+   "src": "episodes/WEEK_02/flow/SH016_C2.mp4",
+   "in": 0,
+   "out": 8.0,
+   "bed_db": -30,
+   "speed": 0.848,
+   "fill": "blur"
+  },
+  {
+   "src": "episodes/LF_THE_LAST_SAVE/flow/BLACK_6s.mp4",
+   "in": 0,
+   "out": 4.0,
+   "bed_db": -60
+  },
+  {
+   "src": "episodes/SAVE_FILE/flow/G4_C1.mp4",
+   "in": 0,
+   "out": 8,
+   "bed_db": -30,
+   "speed": 0.729,
+   "fill": "blur"
+  },
+  {
+   "src": "episodes/SAVE_FILE/flow/G4_C3.mp4",
+   "in": 0,
+   "out": 8,
+   "bed_db": -30,
+   "speed": 0.729,
+   "fill": "blur"
+  },
+  {
+   "src": "episodes/SAVE_FILE/flow/G4_C4.mp4",
+   "in": 0,
+   "out": 6,
+   "bed_db": -30,
+   "speed": 0.729,
+   "fill": "blur"
+  },
+  {
+   "src": "episodes/PILOT_01/flow/SH025_C2.mp4",
+   "in": 0,
+   "out": 7,
+   "bed_db": -30,
+   "speed": 0.729,
+   "fill": "blur"
+  },
+  {
+   "src": "episodes/SAVE_FILE/flow/G4_C2.mp4",
+   "in": 0,
+   "out": 6,
+   "bed_db": -30,
+   "speed": 0.729,
+   "fill": "blur"
+  },
+  {
+   "src": "episodes/SAVE_FILE/flow/G4_C5.mp4",
+   "in": 0,
+   "out": 8,
+   "bed_db": -30,
+   "speed": 0.729,
+   "fill": "blur"
+  },
+  {
+   "src": "episodes/SAVE_FILE/flow/G1_C3.mp4",
+   "in": 3.5,
+   "out": 8,
+   "bed_db": -30,
+   "speed": 0.729,
+   "fill": "blur"
+  },
+  {
+   "src": "episodes/LF_THE_LAST_SAVE/flow/BLACK_6s.mp4",
+   "in": 0,
+   "out": 4.0,
+   "bed_db": -60
+  },
+  {
+   "src": "episodes/SAVE_FILE/flow/G5_C1.mp4",
+   "in": 0,
+   "out": 7,
+   "bed_db": -30,
+   "speed": 0.785,
+   "fill": "blur"
+  },
+  {
+   "src": "episodes/SAVE_FILE/flow/G5_C2.mp4",
+   "in": 3.5,
+   "out": 8,
+   "bed_db": -30,
+   "speed": 0.785,
+   "fill": "blur"
+  },
+  {
+   "src": "episodes/SAVE_FILE/flow/G5_C3.mp4",
+   "in": 0,
+   "out": 8,
+   "bed_db": -30,
+   "speed": 0.785,
+   "fill": "blur"
+  },
+  {
+   "src": "episodes/SAVE_FILE/flow/G5_C4.mp4",
+   "in": 0,
+   "out": 3,
+   "bed_db": -30,
+   "speed": 0.785,
+   "fill": "blur"
+  },
+  {
+   "src": "episodes/SAVE_FILE/flow/G5_C5.mp4",
+   "in": 0,
+   "out": 8,
+   "bed_db": -30,
+   "speed": 0.785,
+   "fill": "blur"
+  },
+  {
+   "src": "episodes/SAVE_FILE/flow/G5_C4.mp4",
+   "in": 3,
+   "out": 8,
+   "bed_db": -30,
+   "speed": 0.785,
+   "fill": "blur"
+  },
+  {
+   "src": "episodes/LF_THE_LAST_SAVE/flow/BLACK_6s.mp4",
+   "in": 0,
+   "out": 4.0,
+   "bed_db": -60
+  },
+  {
+   "src": "episodes/SAVE_FILE/flow/G3_C3.mp4",
+   "in": 3,
+   "out": 8,
+   "bed_db": -30,
+   "speed": 0.7,
+   "fill": "blur"
+  },
+  {
+   "src": "episodes/SAVE_FILE/flow/G3_C5.mp4",
+   "in": 3,
+   "out": 8,
+   "bed_db": -30,
+   "speed": 0.7,
+   "fill": "blur"
+  },
+  {
+   "src": "episodes/SAVE_FILE/flow/G3_C2.mp4",
+   "in": 0,
+   "out": 6,
+   "bed_db": -30,
+   "speed": 0.7,
+   "fill": "blur"
+  },
+  {
+   "src": "episodes/PILOT_01/flow/SH025_C2b.mp4",
+   "in": 0,
+   "out": 6,
+   "bed_db": -30,
+   "speed": 0.7,
+   "fill": "blur"
+  },
+  {
+   "src": "episodes/SAVE_FILE/flow/G4_C5.mp4",
+   "in": 0,
+   "out": 8,
+   "bed_db": -30,
+   "speed": 0.7,
+   "fill": "blur"
+  },
+  {
+   "src": "episodes/SAVE_FILE/flow/G4_C4.mp4",
+   "in": 0,
+   "out": 6,
+   "bed_db": -30,
+   "speed": 0.7,
+   "fill": "blur"
+  },
+  {
+   "src": "episodes/SAVE_FILE/flow/G4_C1.mp4",
+   "in": 0,
+   "out": 6,
+   "bed_db": -30,
+   "speed": 0.7,
+   "fill": "blur"
+  },
+  {
+   "src": "episodes/WEEK_02/flow/SH016_C3.mp4",
+   "in": 2,
+   "out": 8,
+   "bed_db": -30,
+   "speed": 0.7,
+   "fill": "blur"
+  },
+  {
+   "src": "episodes/SAVE_FILE/flow/G5_C3.mp4",
+   "in": 4,
+   "out": 8,
+   "bed_db": -30,
+   "speed": 0.7,
+   "fill": "blur"
+  }
+ ],
+ "vo": [
+  {
+   "file": "episodes/LF_THE_LAST_SAVE/audio/vo/IVY_P0.mp3",
+   "in": 0,
+   "out": 36.08,
+   "at": 0.6
+  },
+  {
+   "file": "episodes/LF_THE_LAST_SAVE/audio/vo/IVY_P1.mp3",
+   "in": 0,
+   "out": 52.72,
+   "at": 47.78
+  },
+  {
+   "file": "episodes/LF_THE_LAST_SAVE/audio/vo/IVY_P2.mp3",
+   "in": 0,
+   "out": 56.32,
+   "at": 107.1
+  },
+  {
+   "file": "episodes/LF_THE_LAST_SAVE/audio/vo/IVY_P3.mp3",
+   "in": 0,
+   "out": 57.52,
+   "at": 170.02
+  },
+  {
+   "file": "episodes/LF_THE_LAST_SAVE/audio/vo/IVY_P4.mp3",
+   "in": 0,
+   "out": 62.56,
+   "at": 234.14
+  },
+  {
+   "file": "episodes/LF_THE_LAST_SAVE/audio/vo/IVY_P5.mp3",
+   "in": 0,
+   "out": 42.64,
+   "at": 303.3
+  },
+  {
+   "file": "episodes/LF_THE_LAST_SAVE/audio/vo/IVY_P6.mp3",
+   "in": 0,
+   "out": 67.68,
+   "at": 352.54
+  }
+ ],
+ "sfx": [
+  {
+   "file": "episodes/SAVE_FILE/audio/sfx/low_drone.wav",
+   "in": 0,
+   "out": 8,
+   "at": 0.0,
+   "db": -18
+  },
+  {
+   "file": "episodes/SAVE_FILE/audio/sfx/presence_swell.wav",
+   "in": 0,
+   "out": 3.5,
+   "at": 26.04,
+   "db": -8
+  },
+  {
+   "file": "episodes/SAVE_FILE/audio/sfx/nightlight_hum.wav",
+   "in": 0,
+   "out": 50,
+   "at": 47.18,
+   "db": -24
+  },
+  {
+   "file": "episodes/SAVE_FILE/audio/sfx/presence_swell.wav",
+   "in": 0,
+   "out": 3.5,
+   "at": 97.2,
+   "db": -8
+  },
+  {
+   "file": "episodes/SAVE_FILE/audio/sfx/knock3.wav",
+   "in": 0,
+   "out": 3.32,
+   "at": 131.26,
+   "db": -4
+  },
+  {
+   "file": "episodes/SAVE_FILE/audio/sfx/low_drone.wav",
+   "in": 0,
+   "out": 8,
+   "at": 113.2,
+   "db": -14
+  },
+  {
+   "file": "episodes/SAVE_FILE/audio/sfx/bus_rumble.wav",
+   "in": 0,
+   "out": 8,
+   "at": 142.24,
+   "db": -16
+  },
+  {
+   "file": "episodes/SAVE_FILE/audio/sfx/lullaby.wav",
+   "in": 0,
+   "out": 5.58,
+   "at": 152.22,
+   "db": -14
+  },
+  {
+   "file": "episodes/SAVE_FILE/audio/sfx/lullaby.wav",
+   "in": 0,
+   "out": 5.58,
+   "at": 185.5,
+   "db": -16
+  },
+  {
+   "file": "episodes/SAVE_FILE/audio/sfx/low_drone.wav",
+   "in": 0,
+   "out": 8,
+   "at": 215.58,
+   "db": -14
+  },
+  {
+   "file": "episodes/SAVE_FILE/audio/sfx/presence_swell.wav",
+   "in": 0,
+   "out": 3.5,
+   "at": 226.54,
+   "db": -6
+  },
+  {
+   "file": "episodes/SAVE_FILE/audio/sfx/low_drone.wav",
+   "in": 0,
+   "out": 8,
+   "at": 233.54,
+   "db": -16
+  },
+  {
+   "file": "episodes/SAVE_FILE/audio/sfx/knock3.wav",
+   "in": 0,
+   "out": 3.32,
+   "at": 249.8,
+   "db": -2
+  },
+  {
+   "file": "episodes/SAVE_FILE/audio/sfx/presence_swell.wav",
+   "in": 0,
+   "out": 3.5,
+   "at": 274.74,
+   "db": -8
+  },
+  {
+   "file": "episodes/SAVE_FILE/audio/sfx/save_chime.wav",
+   "in": 0,
+   "out": 1.05,
+   "at": 328.26,
+   "db": -6
+  },
+  {
+   "file": "episodes/SAVE_FILE/audio/sfx/presence_swell.wav",
+   "in": 0,
+   "out": 3.5,
+   "at": 331.0,
+   "db": -8
+  },
+  {
+   "file": "episodes/SAVE_FILE/audio/sfx/low_drone.wav",
+   "in": 0,
+   "out": 8,
+   "at": 351.94,
+   "db": -16
+  },
+  {
+   "file": "episodes/SAVE_FILE/audio/sfx/knock3.wav",
+   "in": 0,
+   "out": 3.32,
+   "at": 398.22,
+   "db": -2
+  },
+  {
+   "file": "episodes/SAVE_FILE/audio/sfx/low_drone.wav",
+   "in": 0,
+   "out": 8,
+   "at": 408.26,
+   "db": -12
+  },
+  {
+   "file": "episodes/SAVE_FILE/audio/sfx/presence_swell.wav",
+   "in": 0,
+   "out": 3.5,
+   "at": 419.34,
+   "db": -6
+  }
+ ],
+ "captions": [],
+ "cards": [
+  {
+   "start": 38.48,
+   "end": 42.88,
+   "text": "THE LAST SAVE\nA MOTHWAKE STORY"
+  },
+  {
+   "start": 43.48,
+   "end": 46.88,
+   "text": "NIGHT ONE"
+  },
+  {
+   "start": 102.8,
+   "end": 106.2,
+   "text": "NIGHT TWO"
+  },
+  {
+   "start": 165.72000000000003,
+   "end": 169.12,
+   "text": "NIGHT THREE"
+  },
+  {
+   "start": 229.84000000000003,
+   "end": 233.24,
+   "text": "NIGHT FOUR"
+  },
+  {
+   "start": 299.00000000000006,
+   "end": 302.40000000000003,
+   "text": "NIGHT FIVE"
+  },
+  {
+   "start": 348.24000000000007,
+   "end": 351.64000000000004,
+   "text": "DAY SIX"
+  },
+  {
+   "start": 420.72,
+   "end": 425.92,
+   "text": "LET HIM IN, OR KEEP PLAYING?\nSOME THINGS SHOULD STAY ASLEEP."
+  }
+ ],
+ "labels": []
+}
