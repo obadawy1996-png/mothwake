@@ -1,0 +1,37 @@
+{
+  "file": "SH003_HoldStill_master_v2.mp4",
+  "probe": {
+    "width": 1080,
+    "height": 1920,
+    "fps": 30.0,
+    "duration_s": 34.6,
+    "has_audio": true
+  },
+  "warnings": [
+    "3 low-threshold cut(s): check props/costume on both sides",
+    "frozen >=1s at [4.366667, 9.566667, 10.966667]"
+  ],
+  "errors": [],
+  "cuts_main": [
+    1.2,
+    7.2,
+    13.033,
+    19.033,
+    26.967
+  ],
+  "hidden_cut_candidates": [
+    15.533,
+    23.033,
+    30.767
+  ],
+  "black_segments": [],
+  "frozen_starts": [
+    4.366667,
+    9.566667,
+    10.966667
+  ],
+  "loudness_lufs": -14.2,
+  "true_peak_dbfs": -2.7,
+  "verdict": "PASS WITH WARNINGS",
+  "note": "Automated checks only. A human frame review is still required before approval."
+}
