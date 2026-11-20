@@ -16,3 +16,4 @@ date,item_id,short,model,credits_shown,take,result,file,notes
 2026-11-20,SH012-C5v2 (retry),SH012,Veo 3.1 Fast,20 shown,2,generated OK: figure clearly OUTSIDE the glass; used in master v5,flow/SH012_C5_v2.mp4,
 2026-11-20,THEO voice design,SH019,ElevenLabs voice design,0 (blocked),1,BLOCKED by ElevenLabs safety (child voice design); not retried,,
 2026-11-20,IVY_SH019_THEO_RULES,SH019,eleven_v4 Ana-Rita2,272 (measured),1,Ivy speaks Theo rules (owner choice); used in master v7,audio/vo/IVY_SH019_THEO_RULES.mp3,node L6Weuks3gjzLyxFuEERo
+2026-11-20,SH025-P1 C1/C2/C2b/C2c,SH025,Veo 3.1 Lite x4,40 shown,1,all generated; clue (pale scuff on right door) visible from ~3s in C1; C2c face drifts slightly anime,flow/SH025_*.mp4,

@@ -40,6 +40,9 @@ def write_ass(spec, path):
         # *word* -> one highlighted key word in Lamp gold (owner growth plan §4.3)
         txt = _re.sub(r"\*([^*]+)\*", r"{\\c&H0060C8F0&}\1{\\r}", c["text"]).replace("\n", "\\N")
         lines.append(f"Dialogue: 0,{ass_time(c['start'])},{ass_time(c['end'])},{c.get('style','Cap')},,0,0,0,,{{\\fad(120,120)}}{txt}")
+    for c in spec.get("labels", []):  # small positioned text, e.g. door numbers added in post
+        lines.append(f"Dialogue: 2,{ass_time(c['start'])},{ass_time(c['end'])},Card,,0,0,0,,"
+                     f"{{\\an5\\pos({c['x']},{c['y']})\\fs{c.get('size', 44)}\\bord6}}{c['text']}")
     for c in spec.get("cards", []):
         txt = c["text"].replace("\n", "\\N")
         lines.append(f"Dialogue: 1,{ass_time(c['start'])},{ass_time(c['end'])},Card,,0,0,0,,{{\\fad(200,200)}}{txt}")

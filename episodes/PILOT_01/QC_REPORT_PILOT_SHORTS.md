@@ -32,3 +32,10 @@ SH025 *Which Door Is Really Mine?* Part 1. The narration exists, but its 4 Flow 
 - **Theo's lines: owner chose "Ivy speaks his rules".** New ElevenLabs take (Ana-Rita2, eleven_v4, **272 credits measured**; my 150 estimate was low): "Rule one, he said: it stays on / Rule two… / Rule three… / And then he whispered: now they'll look at you." Whisper captions are kept on screen.
 - **`SH019_NightlightRules_master_v7.mp4`** (34.5 s): PASS WITH WARNINGS, −14.3 LUFS / −2.3 dBTP. In v5 the whispered rules sat about 6 dB under the narration (ASR missed them), so v6/v7 raise them by 3–6 dB. Measured mean levels: narration −16.7 to −17.5 dB, rules −17.8 / −20.6 / −18.6 dB (whispered and slightly softer on purpose). **Listen check needed on rule two (7.4–11.6 s).**
 - **Current masters for owner review:** `SH012_RainSounds_master_v5.mp4` and `SH019_NightlightRules_master_v7.mp4`.
+
+## SH025 Which Door Is Really Mine? Part 1 (2026-11-20, plan approved)
+- 4 Flow Lite clips (40 credits shown). Master **`SH025_WhichDoorP1_master_v2.mp4`** (20.6 s): PASS WITH WARNINGS, −14.7 LUFS / −1.3 dBTP.
+- Structure: hook card "TWO DOORS SAY 9." on the two doors (with "9" plates added in post) → bike shot (**fair clue: a pale scuff on the right-hand door at handlebar height from about 3 s**) → "Two doors say nine. Only one is mine." → the glowing lock → the hand hesitating as the timer light flickers → **3-2-1 countdown** → "LEFT or RIGHT? COMMENT. MOST VOTES = PART 2". No reveal in Part 1 (owner fix 1).
+- SFX (synthesized): a timer tick that speeds the tension, a low drone, the countdown ticks.
+- Notes: C2c Ivy's face leans slightly anime (style drift); the scuff is subtle, and Part 2 will replay and zoom it.
+- **All 3 pilots now assembled:** SH012 v7, SH019 v9, SH025 P1 v2.

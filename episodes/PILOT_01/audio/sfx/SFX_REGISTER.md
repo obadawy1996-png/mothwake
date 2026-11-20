@@ -11,3 +11,5 @@ All sounds are **original, synthesized locally with FFmpeg on 2026-11-20** (lavf
 | flicker_buzz.wav | gated 120 Hz square buzz | SH019 |
 | switch_click.wav | band-passed noise click | SH019 |
 | presence_swell.wav | brown-noise swell (breath/presence) | SH019 |
+| tick_one.wav / timer_ticks.wav | high-passed noise tick, 1 per second | SH025 |
+| low_drone.wav | 55 + 82.5 Hz drone with tremolo | SH025 |
