@@ -1,0 +1,8178 @@
+[
+{
+"group": 0,
+"keywords": [
+"analog horror",
+"gta 6",
+"gta 6 horror",
+"gta 6 npc",
+"gta 6 easter eggs"
+],
+"geo": "US",
+"property": "youtube",
+"timeframe": "now 7-d",
+"fetched_at": "2026-11-20T20:51:21Z",
+"timeline": [
+{
+"time": "1794600000",
+"formattedTime": "Nov 13, 2026 at 8:00\u202fPM",
+"value": [
+0,
+8,
+0,
+0,
+0
+],
+"isPartial": null
+},
+{
+"time": "1794603600",
+"formattedTime": "Nov 13, 2026 at 9:00\u202fPM",
+"value": [
+1,
+8,
+0,
+0,
+0
+],
+"isPartial": null
+},
+{
+"time": "1794607200",
+"formattedTime": "Nov 13, 2026 at 10:00\u202fPM",
+"value": [
+0,
+8,
+0,
+0,
+0
+],
+"isPartial": null
+},
+{
+"time": "1794610800",
+"formattedTime": "Nov 13, 2026 at 11:00\u202fPM",
+"value": [
+1,
+7,
+0,
+0,
+0
+],
+"isPartial": null
+},
+{
+"time": "1794614400",
+"formattedTime": "Nov 14, 2026 at 12:00\u202fAM",
+"value": [
+0,
+8,
+0,
+0,
+0
+],
+"isPartial": null
+},
+{
+"time": "1794618000",
+"formattedTime": "Nov 14, 2026 at 1:00\u202fAM",
+"value": [
+0,
+7,
+0,
+0,
+0
+],
+"isPartial": null
+},
+{
+"time": "1794621600",
+"formattedTime": "Nov 14, 2026 at 2:00\u202fAM",
+"value": [
+0,
+7,
+0,
+0,
+0
+],
+"isPartial": null
+},
+{
+"time": "1794625200",
+"formattedTime": "Nov 14, 2026 at 3:00\u202fAM",
+"value": [
+0,
+8,
+0,
+0,
+0
+],
+"isPartial": null
+},
+{
+"time": "1794628800",
+"formattedTime": "Nov 14, 2026 at 4:00\u202fAM",
+"value": [
+0,
+7,
+0,
+0,
+0
+],
+"isPartial": null
+},
+{
+"time": "1794632400",
+"formattedTime": "Nov 14, 2026 at 5:00\u202fAM",
+"value": [
+0,
+5,
+0,
+0,
+0
+],
+"isPartial": null
+},
+{
+"time": "1794636000",
+"formattedTime": "Nov 14, 2026 at 6:00\u202fAM",
+"value": [
+0,
+5,
+0,
+0,
+0
+],
+"isPartial": null
+},
+{
+"time": "1794639600",
+"formattedTime": "Nov 14, 2026 at 7:00\u202fAM",
+"value": [
+0,
+4,
+0,
+0,
+0
+],
+"isPartial": null
+},
+{
+"time": "1794643200",
+"formattedTime": "Nov 14, 2026 at 8:00\u202fAM",
+"value": [
+0,
+4,
+0,
+0,
+0
+],
+"isPartial": null
+},
+{
+"time": "1794646800",
+"formattedTime": "Nov 14, 2026 at 9:00\u202fAM",
+"value": [
+0,
+4,
+0,
+0,
+0
+],
+"isPartial": null
+},
+{
+"time": "1794650400",
+"formattedTime": "Nov 14, 2026 at 10:00\u202fAM",
+"value": [
+0,
+4,
+0,
+0,
+0
+],
+"isPartial": null
+},
+{
+"time": "1794654000",
+"formattedTime": "Nov 14, 2026 at 11:00\u202fAM",
+"value": [
+0,
+4,
+0,
+0,
+0
+],
+"isPartial": null
+},
+{
+"time": "1794657600",
+"formattedTime": "Nov 14, 2026 at 12:00\u202fPM",
+"value": [
+0,
+6,
+0,
+0,
+0
+],
+"isPartial": null
+},
+{
+"time": "1794661200",
+"formattedTime": "Nov 14, 2026 at 1:00\u202fPM",
+"value": [
+0,
+6,
+0,
+0,
+0
+],
+"isPartial": null
+},
+{
+"time": "1794664800",
+"formattedTime": "Nov 14, 2026 at 2:00\u202fPM",
+"value": [
+0,
+7,
+0,
+0,
+0
+],
+"isPartial": null
+},
+{
+"time": "1794668400",
+"formattedTime": "Nov 14, 2026 at 3:00\u202fPM",
+"value": [
+1,
+7,
+0,
+0,
+0
+],
+"isPartial": null
+},
+{
+"time": "1794672000",
+"formattedTime": "Nov 14, 2026 at 4:00\u202fPM",
+"value": [
+1,
+7,
+0,
+0,
+0
+],
+"isPartial": null
+},
+{
+"time": "1794675600",
+"formattedTime": "Nov 14, 2026 at 5:00\u202fPM",
+"value": [
+1,
+7,
+0,
+0,
+0
+],
+"isPartial": null
+},
+{
+"time": "1794679200",
+"formattedTime": "Nov 14, 2026 at 6:00\u202fPM",
+"value": [
+1,
+8,
+0,
+0,
+0
+],
+"isPartial": null
+},
+{
+"time": "1794682800",
+"formattedTime": "Nov 14, 2026 at 7:00\u202fPM",
+"value": [
+1,
+8,
+0,
+0,
+0
+],
+"isPartial": null
+},
+{
+"time": "1794686400",
+"formattedTime": "Nov 14, 2026 at 8:00\u202fPM",
+"value": [
+1,
+8,
+0,
+0,
+0
+],
+"isPartial": null
+},
+{
+"time": "1794690000",
+"formattedTime": "Nov 14, 2026 at 9:00\u202fPM",
+"value": [
+1,
+8,
+0,
+0,
+0
+],
+"isPartial": null
+},
+{
+"time": "1794693600",
+"formattedTime": "Nov 14, 2026 at 10:00\u202fPM",
+"value": [
+1,
+8,
+0,
+0,
+0
+],
+"isPartial": null
+},
+{
+"time": "1794697200",
+"formattedTime": "Nov 14, 2026 at 11:00\u202fPM",
+"value": [
+1,
+7,
+0,
+0,
+0
+],
+"isPartial": null
+},
+{
+"time": "1794700800",
+"formattedTime": "Nov 15, 2026 at 12:00\u202fAM",
+"value": [
+1,
+7,
+0,
+0,
+0
+],
+"isPartial": null
+},
+{
+"time": "1794704400",
+"formattedTime": "Nov 15, 2026 at 1:00\u202fAM",
+"value": [
+1,
+8,
+0,
+0,
+0
+],
+"isPartial": null
+},
+{
+"time": "1794708000",
+"formattedTime": "Nov 15, 2026 at 2:00\u202fAM",
+"value": [
+1,
+7,
+0,
+0,
+0
+],
+"isPartial": null
+},
+{
+"time": "1794711600",
+"formattedTime": "Nov 15, 2026 at 3:00\u202fAM",
+"value": [
+0,
+7,
+0,
+0,
+0
+],
+"isPartial": null
+},
+{
+"time": "1794715200",
+"formattedTime": "Nov 15, 2026 at 4:00\u202fAM",
+"value": [
+1,
+8,
+0,
+0,
+0
+],
+"isPartial": null
+},
+{
+"time": "1794718800",
+"formattedTime": "Nov 15, 2026 at 5:00\u202fAM",
+"value": [
+1,
+8,
+0,
+0,
+0
+],
+"isPartial": null
+},
+{
+"time": "1794722400",
+"formattedTime": "Nov 15, 2026 at 6:00\u202fAM",
+"value": [
+1,
+8,
+0,
+0,
+0
+],
+"isPartial": null
+},
+{
+"time": "1794726000",
+"formattedTime": "Nov 15, 2026 at 7:00\u202fAM",
+"value": [
+1,
+8,
+0,
+0,
+0
+],
+"isPartial": null
+},
+{
+"time": "1794729600",
+"formattedTime": "Nov 15, 2026 at 8:00\u202fAM",
+"value": [
+0,
+8,
+0,
+0,
+0
+],
+"isPartial": null
+},
+{
+"time": "1794733200",
+"formattedTime": "Nov 15, 2026 at 9:00\u202fAM",
+"value": [
+0,
+7,
+0,
+0,
+0
+],
+"isPartial": null
+},
+{
+"time": "1794736800",
+"formattedTime": "Nov 15, 2026 at 10:00\u202fAM",
+"value": [
+0,
+6,
+0,
+0,
+0
+],
+"isPartial": null
+},
+{
+"time": "1794740400",
+"formattedTime": "Nov 15, 2026 at 11:00\u202fAM",
+"value": [
+0,
+6,
+0,
+0,
+0
+],
+"isPartial": null
+},
+{
+"time": "1794744000",
+"formattedTime": "Nov 15, 2026 at 12:00\u202fPM",
+"value": [
+0,
+6,
+0,
+0,
+0
+],
+"isPartial": null
+},
+{
+"time": "1794747600",
+"formattedTime": "Nov 15, 2026 at 1:00\u202fPM",
+"value": [
+0,
+7,
+0,
+0,
+0
+],
+"isPartial": null
+},
+{
+"time": "1794751200",
+"formattedTime": "Nov 15, 2026 at 2:00\u202fPM",
+"value": [
+1,
+7,
+0,
+0,
+0
+],
+"isPartial": null
+},
+{
+"time": "1794754800",
+"formattedTime": "Nov 15, 2026 at 3:00\u202fPM",
+"value": [
+1,
+7,
+0,
+0,
+0
+],
+"isPartial": null
+},
+{
+"time": "1794758400",
+"formattedTime": "Nov 15, 2026 at 4:00\u202fPM",
+"value": [
+1,
+8,
+0,
+0,
+0
+],
+"isPartial": null
+},
+{
+"time": "1794762000",
+"formattedTime": "Nov 15, 2026 at 5:00\u202fPM",
+"value": [
+1,
+8,
+0,
+0,
+0
+],
+"isPartial": null
+},
+{
+"time": "1794765600",
+"formattedTime": "Nov 15, 2026 at 6:00\u202fPM",
+"value": [
+1,
+9,
+0,
+0,
+0
+],
+"isPartial": null
+},
+{
+"time": "1794769200",
+"formattedTime": "Nov 15, 2026 at 7:00\u202fPM",
+"value": [
+1,
+9,
+0,
+0,
+0
+],
+"isPartial": null
+},
+{
+"time": "1794772800",
+"formattedTime": "Nov 15, 2026 at 8:00\u202fPM",
+"value": [
+1,
+8,
+0,
+0,
+0
+],
+"isPartial": null
+},
+{
+"time": "1794776400",
+"formattedTime": "Nov 15, 2026 at 9:00\u202fPM",
+"value": [
+1,
+9,
+0,
+0,
+0
+],
+"isPartial": null
+},
+{
+"time": "1794780000",
+"formattedTime": "Nov 15, 2026 at 10:00\u202fPM",
+"value": [
+1,
+8,
+0,
+0,
+0
+],
+"isPartial": null
+},
+{
+"time": "1794783600",
+"formattedTime": "Nov 15, 2026 at 11:00\u202fPM",
+"value": [
+1,
+9,
+0,
+0,
+0
+],
+"isPartial": null
+},
+{
+"time": "1794787200",
+"formattedTime": "Nov 16, 2026 at 12:00\u202fAM",
+"value": [
+1,
+9,
+0,
+0,
+0
+],
+"isPartial": null
+},
+{
+"time": "1794790800",
+"formattedTime": "Nov 16, 2026 at 1:00\u202fAM",
+"value": [
+0,
+9,
+0,
+0,
+0
+],
+"isPartial": null
+},
+{
+"time": "1794794400",
+"formattedTime": "Nov 16, 2026 at 2:00\u202fAM",
+"value": [
+0,
+10,
+0,
+0,
+0
+],
+"isPartial": null
+},
+{
+"time": "1794798000",
+"formattedTime": "Nov 16, 2026 at 3:00\u202fAM",
+"value": [
+0,
+10,
+0,
+0,
+0
+],
+"isPartial": null
+},
+{
+"time": "1794801600",
+"formattedTime": "Nov 16, 2026 at 4:00\u202fAM",
+"value": [
+0,
+11,
+0,
+0,
+0
+],
+"isPartial": null
+},
+{
+"time": "1794805200",
+"formattedTime": "Nov 16, 2026 at 5:00\u202fAM",
+"value": [
+0,
+8,
+0,
+0,
+0
+],
+"isPartial": null
+},
+{
+"time": "1794808800",
+"formattedTime": "Nov 16, 2026 at 6:00\u202fAM",
+"value": [
+0,
+11,
+0,
+0,
+0
+],
+"isPartial": null
+},
+{
+"time": "1794812400",
+"formattedTime": "Nov 16, 2026 at 7:00\u202fAM",
+"value": [
+0,
+10,
+0,
+0,
+0
+],
+"isPartial": null
+},
+{
+"time": "1794816000",
+"formattedTime": "Nov 16, 2026 at 8:00\u202fAM",
+"value": [
+0,
+8,
+0,
+0,
+0
+],
+"isPartial": null
+},
+{
+"time": "1794819600",
+"formattedTime": "Nov 16, 2026 at 9:00\u202fAM",
+"value": [
+0,
+9,
+0,
+0,
+0
+],
+"isPartial": null
+},
+{
+"time": "1794823200",
+"formattedTime": "Nov 16, 2026 at 10:00\u202fAM",
+"value": [
+0,
+8,
+0,
+0,
+0
+],
+"isPartial": null
+},
+{
+"time": "1794826800",
+"formattedTime": "Nov 16, 2026 at 11:00\u202fAM",
+"value": [
+0,
+7,
+0,
+0,
+0
+],
+"isPartial": null
+},
+{
+"time": "1794830400",
+"formattedTime": "Nov 16, 2026 at 12:00\u202fPM",
+"value": [
+0,
+8,
+0,
+0,
+0
+],
+"isPartial": null
+},
+{
+"time": "1794834000",
+"formattedTime": "Nov 16, 2026 at 1:00\u202fPM",
+"value": [
+0,
+9,
+0,
+0,
+0
+],
+"isPartial": null
+},
+{
+"time": "1794837600",
+"formattedTime": "Nov 16, 2026 at 2:00\u202fPM",
+"value": [
+0,
+9,
+0,
+0,
+0
+],
+"isPartial": null
+},
+{
+"time": "1794841200",
+"formattedTime": "Nov 16, 2026 at 3:00\u202fPM",
+"value": [
+0,
+11,
+0,
+0,
+0
+],
+"isPartial": null
+},
+{
+"time": "1794844800",
+"formattedTime": "Nov 16, 2026 at 4:00\u202fPM",
+"value": [
+0,
+11,
+0,
+0,
+0
+],
+"isPartial": null
+},
+{
+"time": "1794848400",
+"formattedTime": "Nov 16, 2026 at 5:00\u202fPM",
+"value": [
+0,
+11,
+0,
+0,
+0
+],
+"isPartial": null
+},
+{
+"time": "1794852000",
+"formattedTime": "Nov 16, 2026 at 6:00\u202fPM",
+"value": [
+0,
+12,
+0,
+0,
+0
+],
+"isPartial": null
+},
+{
+"time": "1794855600",
+"formattedTime": "Nov 16, 2026 at 7:00\u202fPM",
+"value": [
+0,
+12,
+0,
+0,
+0
+],
+"isPartial": null
+},
+{
+"time": "1794859200",
+"formattedTime": "Nov 16, 2026 at 8:00\u202fPM",
+"value": [
+0,
+11,
+0,
+0,
+0
+],
+"isPartial": null
+},
+{
+"time": "1794862800",
+"formattedTime": "Nov 16, 2026 at 9:00\u202fPM",
+"value": [
+1,
+12,
+0,
+0,
+0
+],
+"isPartial": null
+},
+{
+"time": "1794866400",
+"formattedTime": "Nov 16, 2026 at 10:00\u202fPM",
+"value": [
+1,
+11,
+0,
+0,
+0
+],
+"isPartial": null
+},
+{
+"time": "1794870000",
+"formattedTime": "Nov 16, 2026 at 11:00\u202fPM",
+"value": [
+0,
+12,
+0,
+0,
+0
+],
+"isPartial": null
+},
+{
+"time": "1794873600",
+"formattedTime": "Nov 17, 2026 at 12:00\u202fAM",
+"value": [
+0,
+12,
+0,
+0,
+0
+],
+"isPartial": null
+},
+{
+"time": "1794877200",
+"formattedTime": "Nov 17, 2026 at 1:00\u202fAM",
+"value": [
+0,
+12,
+0,
+0,
+0
+],
+"isPartial": null
+},
+{
+"time": "1794880800",
+"formattedTime": "Nov 17, 2026 at 2:00\u202fAM",
+"value": [
+0,
+12,
+0,
+0,
+0
+],
+"isPartial": null
+},
+{
+"time": "1794884400",
+"formattedTime": "Nov 17, 2026 at 3:00\u202fAM",
+"value": [
+0,
+12,
+0,
+0,
+0
+],
+"isPartial": null
+},
+{
+"time": "1794888000",
+"formattedTime": "Nov 17, 2026 at 4:00\u202fAM",
+"value": [
+0,
+13,
+0,
+0,
+0
+],
+"isPartial": null
+},
+{
+"time": "1794891600",
+"formattedTime": "Nov 17, 2026 at 5:00\u202fAM",
+"value": [
+0,
+14,
+0,
+0,
+0
+],
+"isPartial": null
+},
+{
+"time": "1794895200",
+"formattedTime": "Nov 17, 2026 at 6:00\u202fAM",
+"value": [
+0,
+12,
+0,
+0,
+0
+],
+"isPartial": null
+},
+{
+"time": "1794898800",
+"formattedTime": "Nov 17, 2026 at 7:00\u202fAM",
+"value": [
+0,
+11,
+0,
+0,
+0
+],
+"isPartial": null
+},
+{
+"time": "1794902400",
+"formattedTime": "Nov 17, 2026 at 8:00\u202fAM",
+"value": [
+0,
+10,
+0,
+0,
+0
+],
+"isPartial": null
+},
+{
+"time": "1794906000",
+"formattedTime": "Nov 17, 2026 at 9:00\u202fAM",
+"value": [
+0,
+9,
+0,
+0,
+0
+],
+"isPartial": null
+},
+{
+"time": "1794909600",
+"formattedTime": "Nov 17, 2026 at 10:00\u202fAM",
+"value": [
+0,
+9,
+0,
+0,
+0
+],
+"isPartial": null
+},
+{
+"time": "1794913200",
+"formattedTime": "Nov 17, 2026 at 11:00\u202fAM",
+"value": [
+0,
+10,
+0,
+0,
+0
+],
+"isPartial": null
+},
+{
+"time": "1794916800",
+"formattedTime": "Nov 17, 2026 at 12:00\u202fPM",
+"value": [
+0,
+11,
+0,
+0,
+0
+],
+"isPartial": null
+},
+{
+"time": "1794920400",
+"formattedTime": "Nov 17, 2026 at 1:00\u202fPM",
+"value": [
+0,
+12,
+0,
+0,
+0
+],
+"isPartial": null
+},
+{
+"time": "1794924000",
+"formattedTime": "Nov 17, 2026 at 2:00\u202fPM",
+"value": [
+0,
+13,
+0,
+0,
+0
+],
+"isPartial": null
+},
+{
+"time": "1794927600",
+"formattedTime": "Nov 17, 2026 at 3:00\u202fPM",
+"value": [
+0,
+15,
+0,
+0,
+0
+],
+"isPartial": null
+},
+{
+"time": "1794931200",
+"formattedTime": "Nov 17, 2026 at 4:00\u202fPM",
+"value": [
+0,
+14,
+0,
+0,
+0
+],
+"isPartial": null
+},
+{
+"time": "1794934800",
+"formattedTime": "Nov 17, 2026 at 5:00\u202fPM",
+"value": [
+0,
+15,
+0,
+0,
+0
+],
+"isPartial": null
+},
+{
+"time": "1794938400",
+"formattedTime": "Nov 17, 2026 at 6:00\u202fPM",
+"value": [
+0,
+14,
+0,
+0,
+0
+],
+"isPartial": null
+},
+{
+"time": "1794942000",
+"formattedTime": "Nov 17, 2026 at 7:00\u202fPM",
+"value": [
+0,
+15,
+0,
+0,
+0
+],
+"isPartial": null
+},
+{
+"time": "1794945600",
+"formattedTime": "Nov 17, 2026 at 8:00\u202fPM",
+"value": [
+0,
+16,
+0,
+0,
+0
+],
+"isPartial": null
+},
+{
+"time": "1794949200",
+"formattedTime": "Nov 17, 2026 at 9:00\u202fPM",
+"value": [
+0,
+16,
+0,
+0,
+0
+],
+"isPartial": null
+},
+{
+"time": "1794952800",
+"formattedTime": "Nov 17, 2026 at 10:00\u202fPM",
+"value": [
+1,
+16,
+0,
+0,
+0
+],
+"isPartial": null
+},
+{
+"time": "1794956400",
+"formattedTime": "Nov 17, 2026 at 11:00\u202fPM",
+"value": [
+1,
+16,
+0,
+0,
+0
+],
+"isPartial": null
+},
+{
+"time": "1794960000",
+"formattedTime": "Nov 18, 2026 at 12:00\u202fAM",
+"value": [
+0,
+18,
+0,
+0,
+0
+],
+"isPartial": null
+},
+{
+"time": "1794963600",
+"formattedTime": "Nov 18, 2026 at 1:00\u202fAM",
+"value": [
+0,
+18,
+0,
+0,
+0
+],
+"isPartial": null
+},
+{
+"time": "1794967200",
+"formattedTime": "Nov 18, 2026 at 2:00\u202fAM",
+"value": [
+0,
+21,
+0,
+0,
+0
+],
+"isPartial": null
+},
+{
+"time": "1794970800",
+"formattedTime": "Nov 18, 2026 at 3:00\u202fAM",
+"value": [
+0,
+21,
+0,
+0,
+0
+],
+"isPartial": null
+},
+{
+"time": "1794974400",
+"formattedTime": "Nov 18, 2026 at 4:00\u202fAM",
+"value": [
+0,
+24,
+0,
+0,
+0
+],
+"isPartial": null
+},
+{
+"time": "1794978000",
+"formattedTime": "Nov 18, 2026 at 5:00\u202fAM",
+"value": [
+0,
+30,
+0,
+0,
+0
+],
+"isPartial": null
+},
+{
+"time": "1794981600",
+"formattedTime": "Nov 18, 2026 at 6:00\u202fAM",
+"value": [
+0,
+27,
+0,
+0,
+0
+],
+"isPartial": null
+},
+{
+"time": "1794985200",
+"formattedTime": "Nov 18, 2026 at 7:00\u202fAM",
+"value": [
+0,
+28,
+0,
+0,
+0
+],
+"isPartial": null
+},
+{
+"time": "1794988800",
+"formattedTime": "Nov 18, 2026 at 8:00\u202fAM",
+"value": [
+0,
+29,
+0,
+0,
+0
+],
+"isPartial": null
+},
+{
+"time": "1794992400",
+"formattedTime": "Nov 18, 2026 at 9:00\u202fAM",
+"value": [
+0,
+32,
+0,
+0,
+0
+],
+"isPartial": null
+},
+{
+"time": "1794996000",
+"formattedTime": "Nov 18, 2026 at 10:00\u202fAM",
+"value": [
+0,
+47,
+0,
+0,
+0
+],
+"isPartial": null
+},
+{
+"time": "1794999600",
+"formattedTime": "Nov 18, 2026 at 11:00\u202fAM",
+"value": [
+0,
+73,
+0,
+0,
+0
+],
+"isPartial": null
+},
+{
+"time": "1795003200",
+"formattedTime": "Nov 18, 2026 at 12:00\u202fPM",
+"value": [
+0,
+89,
+0,
+0,
+0
+],
+"isPartial": null
+},
+{
+"time": "1795006800",
+"formattedTime": "Nov 18, 2026 at 1:00\u202fPM",
+"value": [
+0,
+91,
+0,
+0,
+0
+],
+"isPartial": null
+},
+{
+"time": "1795010400",
+"formattedTime": "Nov 18, 2026 at 2:00\u202fPM",
+"value": [
+0,
+91,
+0,
+0,
+0
+],
+"isPartial": null
+},
+{
+"time": "1795014000",
+"formattedTime": "Nov 18, 2026 at 3:00\u202fPM",
+"value": [
+0,
+100,
+0,
+0,
+0
+],
+"isPartial": null
+},
+{
+"time": "1795017600",
+"formattedTime": "Nov 18, 2026 at 4:00\u202fPM",
+"value": [
+0,
+90,
+0,
+0,
+0
+],
+"isPartial": null
+},
+{
+"time": "1795021200",
+"formattedTime": "Nov 18, 2026 at 5:00\u202fPM",
+"value": [
+0,
+91,
+0,
+0,
+0
+],
+"isPartial": null
+},
+{
+"time": "1795024800",
+"formattedTime": "Nov 18, 2026 at 6:00\u202fPM",
+"value": [
+0,
+87,
+0,
+0,
+0
+],
+"isPartial": null
+},
+{
+"time": "1795028400",
+"formattedTime": "Nov 18, 2026 at 7:00\u202fPM",
+"value": [
+0,
+85,
+0,
+0,
+0
+],
+"isPartial": null
+},
+{
+"time": "1795032000",
+"formattedTime": "Nov 18, 2026 at 8:00\u202fPM",
+"value": [
+0,
+85,
+0,
+0,
+0
+],
+"isPartial": null
+},
+{
+"time": "1795035600",
+"formattedTime": "Nov 18, 2026 at 9:00\u202fPM",
+"value": [
+0,
+87,
+0,
+0,
+0
+],
+"isPartial": null
+},
+{
+"time": "1795039200",
+"formattedTime": "Nov 18, 2026 at 10:00\u202fPM",
+"value": [
+1,
+82,
+0,
+0,
+0
+],
+"isPartial": null
+},
+{
+"time": "1795042800",
+"formattedTime": "Nov 18, 2026 at 11:00\u202fPM",
+"value": [
+0,
+76,
+0,
+0,
+0
+],
+"isPartial": null
+},
+{
+"time": "1795046400",
+"formattedTime": "Nov 19, 2026 at 12:00\u202fAM",
+"value": [
+0,
+75,
+0,
+0,
+0
+],
+"isPartial": null
+},
+{
+"time": "1795050000",
+"formattedTime": "Nov 19, 2026 at 1:00\u202fAM",
+"value": [
+0,
+78,
+0,
+0,
+0
+],
+"isPartial": null
+},
+{
+"time": "1795053600",
+"formattedTime": "Nov 19, 2026 at 2:00\u202fAM",
+"value": [
+0,
+73,
+0,
+0,
+0
+],
+"isPartial": null
+},
+{
+"time": "1795057200",
+"formattedTime": "Nov 19, 2026 at 3:00\u202fAM",
+"value": [
+0,
+76,
+0,
+0,
+0
+],
+"isPartial": null
+},
+{
+"time": "1795060800",
+"formattedTime": "Nov 19, 2026 at 4:00\u202fAM",
+"value": [
+0,
+87,
+0,
+0,
+0
+],
+"isPartial": null
+},
+{
+"time": "1795064400",
+"formattedTime": "Nov 19, 2026 at 5:00\u202fAM",
+"value": [
+0,
+86,
+0,
+0,
+0
+],
+"isPartial": null
+},
+{
+"time": "1795068000",
+"formattedTime": "Nov 19, 2026 at 6:00\u202fAM",
+"value": [
+0,
+86,
+0,
+0,
+0
+],
+"isPartial": null
+},
+{
+"time": "1795071600",
+"formattedTime": "Nov 19, 2026 at 7:00\u202fAM",
+"value": [
+0,
+87,
+0,
+0,
+0
+],
+"isPartial": null
+},
+{
+"time": "1795075200",
+"formattedTime": "Nov 19, 2026 at 8:00\u202fAM",
+"value": [
+0,
+80,
+0,
+0,
+0
+],
+"isPartial": null
+},
+{
+"time": "1795078800",
+"formattedTime": "Nov 19, 2026 at 9:00\u202fAM",
+"value": [
+0,
+68,
+0,
+0,
+0
+],
+"isPartial": null
+},
+{
+"time": "1795082400",
+"formattedTime": "Nov 19, 2026 at 10:00\u202fAM",
+"value": [
+0,
+63,
+0,
+0,
+0
+],
+"isPartial": null
+},
+{
+"time": "1795086000",
+"formattedTime": "Nov 19, 2026 at 11:00\u202fAM",
+"value": [
+0,
+69,
+0,
+0,
+0
+],
+"isPartial": null
+},
+{
+"time": "1795089600",
+"formattedTime": "Nov 19, 2026 at 12:00\u202fPM",
+"value": [
+0,
+86,
+0,
+0,
+0
+],
+"isPartial": null
+},
+{
+"time": "1795093200",
+"formattedTime": "Nov 19, 2026 at 1:00\u202fPM",
+"value": [
+0,
+82,
+0,
+0,
+0
+],
+"isPartial": null
+},
+{
+"time": "1795096800",
+"formattedTime": "Nov 19, 2026 at 2:00\u202fPM",
+"value": [
+0,
+89,
+0,
+0,
+0
+],
+"isPartial": null
+},
+{
+"time": "1795100400",
+"formattedTime": "Nov 19, 2026 at 3:00\u202fPM",
+"value": [
+0,
+82,
+0,
+0,
+0
+],
+"isPartial": null
+},
+{
+"time": "1795104000",
+"formattedTime": "Nov 19, 2026 at 4:00\u202fPM",
+"value": [
+0,
+77,
+0,
+0,
+0
+],
+"isPartial": null
+},
+{
+"time": "1795107600",
+"formattedTime": "Nov 19, 2026 at 5:00\u202fPM",
+"value": [
+0,
+82,
+0,
+0,
+0
+],
+"isPartial": null
+},
+{
+"time": "1795111200",
+"formattedTime": "Nov 19, 2026 at 6:00\u202fPM",
+"value": [
+0,
+79,
+0,
+0,
+0
+],
+"isPartial": null
+},
+{
+"time": "1795114800",
+"formattedTime": "Nov 19, 2026 at 7:00\u202fPM",
+"value": [
+0,
+78,
+0,
+0,
+0
+],
+"isPartial": null
+},
+{
+"time": "1795118400",
+"formattedTime": "Nov 19, 2026 at 8:00\u202fPM",
+"value": [
+1,
+81,
+0,
+0,
+0
+],
+"isPartial": null
+},
+{
+"time": "1795122000",
+"formattedTime": "Nov 19, 2026 at 9:00\u202fPM",
+"value": [
+0,
+82,
+0,
+0,
+0
+],
+"isPartial": null
+},
+{
+"time": "1795125600",
+"formattedTime": "Nov 19, 2026 at 10:00\u202fPM",
+"value": [
+0,
+79,
+0,
+0,
+0
+],
+"isPartial": null
+},
+{
+"time": "1795129200",
+"formattedTime": "Nov 19, 2026 at 11:00\u202fPM",
+"value": [
+0,
+78,
+0,
+0,
+0
+],
+"isPartial": null
+},
+{
+"time": "1795132800",
+"formattedTime": "Nov 20, 2026 at 12:00\u202fAM",
+"value": [
+0,
+76,
+0,
+0,
+0
+],
+"isPartial": null
+},
+{
+"time": "1795136400",
+"formattedTime": "Nov 20, 2026 at 1:00\u202fAM",
+"value": [
+0,
+77,
+0,
+0,
+0
+],
+"isPartial": null
+},
+{
+"time": "1795140000",
+"formattedTime": "Nov 20, 2026 at 2:00\u202fAM",
+"value": [
+0,
+76,
+0,
+0,
+0
+],
+"isPartial": null
+},
+{
+"time": "1795143600",
+"formattedTime": "Nov 20, 2026 at 3:00\u202fAM",
+"value": [
+0,
+75,
+0,
+0,
+0
+],
+"isPartial": null
+},
+{
+"time": "1795147200",
+"formattedTime": "Nov 20, 2026 at 4:00\u202fAM",
+"value": [
+0,
+80,
+0,
+0,
+0
+],
+"isPartial": null
+},
+{
+"time": "1795150800",
+"formattedTime": "Nov 20, 2026 at 5:00\u202fAM",
+"value": [
+0,
+83,
+0,
+0,
+0
+],
+"isPartial": null
+},
+{
+"time": "1795154400",
+"formattedTime": "Nov 20, 2026 at 6:00\u202fAM",
+"value": [
+0,
+78,
+0,
+0,
+0
+],
+"isPartial": null
+},
+{
+"time": "1795158000",
+"formattedTime": "Nov 20, 2026 at 7:00\u202fAM",
+"value": [
+0,
+73,
+0,
+0,
+0
+],
+"isPartial": null
+},
+{
+"time": "1795161600",
+"formattedTime": "Nov 20, 2026 at 8:00\u202fAM",
+"value": [
+0,
+70,
+0,
+0,
+0
+],
+"isPartial": null
+},
+{
+"time": "1795165200",
+"formattedTime": "Nov 20, 2026 at 9:00\u202fAM",
+"value": [
+0,
+64,
+0,
+0,
+0
+],
+"isPartial": null
+},
+{
+"time": "1795168800",
+"formattedTime": "Nov 20, 2026 at 10:00\u202fAM",
+"value": [
+0,
+53,
+0,
+0,
+0
+],
+"isPartial": null
+},
+{
+"time": "1795172400",
+"formattedTime": "Nov 20, 2026 at 11:00\u202fAM",
+"value": [
+0,
+52,
+0,
+0,
+0
+],
+"isPartial": null
+},
+{
+"time": "1795176000",
+"formattedTime": "Nov 20, 2026 at 12:00\u202fPM",
+"value": [
+0,
+51,
+0,
+0,
+0
+],
+"isPartial": null
+},
+{
+"time": "1795179600",
+"formattedTime": "Nov 20, 2026 at 1:00\u202fPM",
+"value": [
+0,
+53,
+0,
+0,
+0
+],
+"isPartial": null
+},
+{
+"time": "1795183200",
+"formattedTime": "Nov 20, 2026 at 2:00\u202fPM",
+"value": [
+0,
+59,
+0,
+0,
+0
+],
+"isPartial": null
+},
+{
+"time": "1795186800",
+"formattedTime": "Nov 20, 2026 at 3:00\u202fPM",
+"value": [
+0,
+63,
+0,
+0,
+0
+],
+"isPartial": null
+},
+{
+"time": "1795190400",
+"formattedTime": "Nov 20, 2026 at 4:00\u202fPM",
+"value": [
+0,
+59,
+0,
+0,
+0
+],
+"isPartial": null
+},
+{
+"time": "1795194000",
+"formattedTime": "Nov 20, 2026 at 5:00\u202fPM",
+"value": [
+0,
+60,
+0,
+0,
+0
+],
+"isPartial": null
+},
+{
+"time": "1795197600",
+"formattedTime": "Nov 20, 2026 at 6:00\u202fPM",
+"value": [
+0,
+62,
+0,
+0,
+0
+],
+"isPartial": null
+},
+{
+"time": "1795201200",
+"formattedTime": "Nov 20, 2026 at 7:00\u202fPM",
+"value": [
+0,
+59,
+0,
+0,
+0
+],
+"isPartial": null
+},
+{
+"time": "1795204800",
+"formattedTime": "Nov 20, 2026 at 8:00\u202fPM",
+"value": [
+0,
+65,
+0,
+0,
+0
+],
+"isPartial": true
+}
+]
+},
+{
+"group": 0,
+"keywords": [
+"analog horror",
+"gta 6",
+"gta 6 horror",
+"gta 6 npc",
+"gta 6 easter eggs"
+],
+"geo": "US",
+"property": "web",
+"timeframe": "now 7-d",
+"fetched_at": "2026-11-20T20:51:24Z",
+"timeline": [
+{
+"time": "1794600000",
+"formattedTime": "Nov 13, 2026 at 8:00\u202fPM",
+"value": [
+0,
+6,
+0,
+0,
+0
+],
+"isPartial": null
+},
+{
+"time": "1794603600",
+"formattedTime": "Nov 13, 2026 at 9:00\u202fPM",
+"value": [
+0,
+5,
+0,
+0,
+0
+],
+"isPartial": null
+},
+{
+"time": "1794607200",
+"formattedTime": "Nov 13, 2026 at 10:00\u202fPM",
+"value": [
+0,
+5,
+0,
+0,
+0
+],
+"isPartial": null
+},
+{
+"time": "1794610800",
+"formattedTime": "Nov 13, 2026 at 11:00\u202fPM",
+"value": [
+0,
+6,
+0,
+0,
+0
+],
+"isPartial": null
+},
+{
+"time": "1794614400",
+"formattedTime": "Nov 14, 2026 at 12:00\u202fAM",
+"value": [
+0,
+6,
+0,
+0,
+0
+],
+"isPartial": null
+},
+{
+"time": "1794618000",
+"formattedTime": "Nov 14, 2026 at 1:00\u202fAM",
+"value": [
+0,
+6,
+0,
+0,
+0
+],
+"isPartial": null
+},
+{
+"time": "1794621600",
+"formattedTime": "Nov 14, 2026 at 2:00\u202fAM",
+"value": [
+0,
+6,
+0,
+0,
+0
+],
+"isPartial": null
+},
+{
+"time": "1794625200",
+"formattedTime": "Nov 14, 2026 at 3:00\u202fAM",
+"value": [
+0,
+6,
+0,
+0,
+0
+],
+"isPartial": null
+},
+{
+"time": "1794628800",
+"formattedTime": "Nov 14, 2026 at 4:00\u202fAM",
+"value": [
+0,
+6,
+0,
+0,
+0
+],
+"isPartial": null
+},
+{
+"time": "1794632400",
+"formattedTime": "Nov 14, 2026 at 5:00\u202fAM",
+"value": [
+0,
+7,
+0,
+0,
+0
+],
+"isPartial": null
+},
+{
+"time": "1794636000",
+"formattedTime": "Nov 14, 2026 at 6:00\u202fAM",
+"value": [
+0,
+7,
+0,
+0,
+0
+],
+"isPartial": null
+},
+{
+"time": "1794639600",
+"formattedTime": "Nov 14, 2026 at 7:00\u202fAM",
+"value": [
+0,
+7,
+0,
+0,
+0
+],
+"isPartial": null
+},
+{
+"time": "1794643200",
+"formattedTime": "Nov 14, 2026 at 8:00\u202fAM",
+"value": [
+0,
+7,
+0,
+0,
+0
+],
+"isPartial": null
+},
+{
+"time": "1794646800",
+"formattedTime": "Nov 14, 2026 at 9:00\u202fAM",
+"value": [
+0,
+6,
+0,
+0,
+0
+],
+"isPartial": null
+},
+{
+"time": "1794650400",
+"formattedTime": "Nov 14, 2026 at 10:00\u202fAM",
+"value": [
+0,
+6,
+0,
+0,
+0
+],
+"isPartial": null
+},
+{
+"time": "1794654000",
+"formattedTime": "Nov 14, 2026 at 11:00\u202fAM",
+"value": [
+0,
+4,
+0,
+0,
+0
+],
+"isPartial": null
+},
+{
+"time": "1794657600",
+"formattedTime": "Nov 14, 2026 at 12:00\u202fPM",
+"value": [
+0,
+4,
+0,
+0,
+0
+],
+"isPartial": null
+},
+{
+"time": "1794661200",
+"formattedTime": "Nov 14, 2026 at 1:00\u202fPM",
+"value": [
+0,
+4,
+0,
+0,
+0
+],
+"isPartial": null
+},
+{
+"time": "1794664800",
+"formattedTime": "Nov 14, 2026 at 2:00\u202fPM",
+"value": [
+0,
+5,
+0,
+0,
+0
+],
+"isPartial": null
+},
+{
+"time": "1794668400",
+"formattedTime": "Nov 14, 2026 at 3:00\u202fPM",
+"value": [
+0,
+5,
+0,
+0,
+0
+],
+"isPartial": null
+},
+{
+"time": "1794672000",
+"formattedTime": "Nov 14, 2026 at 4:00\u202fPM",
+"value": [
+0,
+6,
+0,
+0,
+0
+],
+"isPartial": null
+},
+{
+"time": "1794675600",
+"formattedTime": "Nov 14, 2026 at 5:00\u202fPM",
+"value": [
+0,
+6,
+0,
+0,
+0
+],
+"isPartial": null
+},
+{
+"time": "1794679200",
+"formattedTime": "Nov 14, 2026 at 6:00\u202fPM",
+"value": [
+0,
+6,
+0,
+0,
+0
+],
+"isPartial": null
+},
+{
+"time": "1794682800",
+"formattedTime": "Nov 14, 2026 at 7:00\u202fPM",
+"value": [
+0,
+6,
+0,
+0,
+0
+],
+"isPartial": null
+},
+{
+"time": "1794686400",
+"formattedTime": "Nov 14, 2026 at 8:00\u202fPM",
+"value": [
+0,
+6,
+0,
+0,
+0
+],
+"isPartial": null
+},
+{
+"time": "1794690000",
+"formattedTime": "Nov 14, 2026 at 9:00\u202fPM",
+"value": [
+0,
+6,
+0,
+0,
+0
+],
+"isPartial": null
+},
+{
+"time": "1794693600",
+"formattedTime": "Nov 14, 2026 at 10:00\u202fPM",
+"value": [
+0,
+6,
+0,
+0,
+0
+],
+"isPartial": null
+},
+{
+"time": "1794697200",
+"formattedTime": "Nov 14, 2026 at 11:00\u202fPM",
+"value": [
+0,
+6,
+0,
+0,
+0
+],
+"isPartial": null
+},
+{
+"time": "1794700800",
+"formattedTime": "Nov 15, 2026 at 12:00\u202fAM",
+"value": [
+0,
+6,
+0,
+0,
+0
+],
+"isPartial": null
+},
+{
+"time": "1794704400",
+"formattedTime": "Nov 15, 2026 at 1:00\u202fAM",
+"value": [
+0,
+6,
+0,
+0,
+0
+],
+"isPartial": null
+},
+{
+"time": "1794708000",
+"formattedTime": "Nov 15, 2026 at 2:00\u202fAM",
+"value": [
+0,
+6,
+0,
+0,
+0
+],
+"isPartial": null
+},
+{
+"time": "1794711600",
+"formattedTime": "Nov 15, 2026 at 3:00\u202fAM",
+"value": [
+0,
+6,
+0,
+0,
+0
+],
+"isPartial": null
+},
+{
+"time": "1794715200",
+"formattedTime": "Nov 15, 2026 at 4:00\u202fAM",
+"value": [
+0,
+6,
+0,
+0,
+0
+],
+"isPartial": null
+},
+{
+"time": "1794718800",
+"formattedTime": "Nov 15, 2026 at 5:00\u202fAM",
+"value": [
+0,
+7,
+0,
+0,
+0
+],
+"isPartial": null
+},
+{
+"time": "1794722400",
+"formattedTime": "Nov 15, 2026 at 6:00\u202fAM",
+"value": [
+0,
+7,
+0,
+0,
+0
+],
+"isPartial": null
+},
+{
+"time": "1794726000",
+"formattedTime": "Nov 15, 2026 at 7:00\u202fAM",
+"value": [
+0,
+7,
+0,
+0,
+0
+],
+"isPartial": null
+},
+{
+"time": "1794729600",
+"formattedTime": "Nov 15, 2026 at 8:00\u202fAM",
+"value": [
+0,
+7,
+0,
+0,
+0
+],
+"isPartial": null
+},
+{
+"time": "1794733200",
+"formattedTime": "Nov 15, 2026 at 9:00\u202fAM",
+"value": [
+0,
+7,
+0,
+0,
+0
+],
+"isPartial": null
+},
+{
+"time": "1794736800",
+"formattedTime": "Nov 15, 2026 at 10:00\u202fAM",
+"value": [
+0,
+5,
+0,
+0,
+0
+],
+"isPartial": null
+},
+{
+"time": "1794740400",
+"formattedTime": "Nov 15, 2026 at 11:00\u202fAM",
+"value": [
+0,
+4,
+0,
+0,
+0
+],
+"isPartial": null
+},
+{
+"time": "1794744000",
+"formattedTime": "Nov 15, 2026 at 12:00\u202fPM",
+"value": [
+0,
+4,
+0,
+0,
+0
+],
+"isPartial": null
+},
+{
+"time": "1794747600",
+"formattedTime": "Nov 15, 2026 at 1:00\u202fPM",
+"value": [
+0,
+5,
+0,
+0,
+0
+],
+"isPartial": null
+},
+{
+"time": "1794751200",
+"formattedTime": "Nov 15, 2026 at 2:00\u202fPM",
+"value": [
+0,
+5,
+0,
+0,
+0
+],
+"isPartial": null
+},
+{
+"time": "1794754800",
+"formattedTime": "Nov 15, 2026 at 3:00\u202fPM",
+"value": [
+0,
+6,
+0,
+0,
+0
+],
+"isPartial": null
+},
+{
+"time": "1794758400",
+"formattedTime": "Nov 15, 2026 at 4:00\u202fPM",
+"value": [
+0,
+6,
+0,
+0,
+0
+],
+"isPartial": null
+},
+{
+"time": "1794762000",
+"formattedTime": "Nov 15, 2026 at 5:00\u202fPM",
+"value": [
+0,
+6,
+0,
+0,
+0
+],
+"isPartial": null
+},
+{
+"time": "1794765600",
+"formattedTime": "Nov 15, 2026 at 6:00\u202fPM",
+"value": [
+0,
+7,
+0,
+0,
+0
+],
+"isPartial": null
+},
+{
+"time": "1794769200",
+"formattedTime": "Nov 15, 2026 at 7:00\u202fPM",
+"value": [
+0,
+7,
+0,
+0,
+0
+],
+"isPartial": null
+},
+{
+"time": "1794772800",
+"formattedTime": "Nov 15, 2026 at 8:00\u202fPM",
+"value": [
+0,
+6,
+0,
+0,
+0
+],
+"isPartial": null
+},
+{
+"time": "1794776400",
+"formattedTime": "Nov 15, 2026 at 9:00\u202fPM",
+"value": [
+0,
+6,
+0,
+0,
+0
+],
+"isPartial": null
+},
+{
+"time": "1794780000",
+"formattedTime": "Nov 15, 2026 at 10:00\u202fPM",
+"value": [
+0,
+6,
+0,
+0,
+0
+],
+"isPartial": null
+},
+{
+"time": "1794783600",
+"formattedTime": "Nov 15, 2026 at 11:00\u202fPM",
+"value": [
+0,
+7,
+0,
+0,
+0
+],
+"isPartial": null
+},
+{
+"time": "1794787200",
+"formattedTime": "Nov 16, 2026 at 12:00\u202fAM",
+"value": [
+0,
+7,
+0,
+0,
+0
+],
+"isPartial": null
+},
+{
+"time": "1794790800",
+"formattedTime": "Nov 16, 2026 at 1:00\u202fAM",
+"value": [
+0,
+6,
+0,
+0,
+0
+],
+"isPartial": null
+},
+{
+"time": "1794794400",
+"formattedTime": "Nov 16, 2026 at 2:00\u202fAM",
+"value": [
+0,
+8,
+0,
+0,
+0
+],
+"isPartial": null
+},
+{
+"time": "1794798000",
+"formattedTime": "Nov 16, 2026 at 3:00\u202fAM",
+"value": [
+0,
+8,
+0,
+0,
+0
+],
+"isPartial": null
+},
+{
+"time": "1794801600",
+"formattedTime": "Nov 16, 2026 at 4:00\u202fAM",
+"value": [
+0,
+8,
+0,
+0,
+0
+],
+"isPartial": null
+},
+{
+"time": "1794805200",
+"formattedTime": "Nov 16, 2026 at 5:00\u202fAM",
+"value": [
+0,
+9,
+0,
+0,
+0
+],
+"isPartial": null
+},
+{
+"time": "1794808800",
+"formattedTime": "Nov 16, 2026 at 6:00\u202fAM",
+"value": [
+0,
+9,
+0,
+0,
+0
+],
+"isPartial": null
+},
+{
+"time": "1794812400",
+"formattedTime": "Nov 16, 2026 at 7:00\u202fAM",
+"value": [
+0,
+9,
+0,
+0,
+0
+],
+"isPartial": null
+},
+{
+"time": "1794816000",
+"formattedTime": "Nov 16, 2026 at 8:00\u202fAM",
+"value": [
+0,
+8,
+0,
+0,
+0
+],
+"isPartial": null
+},
+{
+"time": "1794819600",
+"formattedTime": "Nov 16, 2026 at 9:00\u202fAM",
+"value": [
+0,
+8,
+0,
+0,
+0
+],
+"isPartial": null
+},
+{
+"time": "1794823200",
+"formattedTime": "Nov 16, 2026 at 10:00\u202fAM",
+"value": [
+0,
+7,
+0,
+0,
+0
+],
+"isPartial": null
+},
+{
+"time": "1794826800",
+"formattedTime": "Nov 16, 2026 at 11:00\u202fAM",
+"value": [
+0,
+7,
+0,
+0,
+0
+],
+"isPartial": null
+},
+{
+"time": "1794830400",
+"formattedTime": "Nov 16, 2026 at 12:00\u202fPM",
+"value": [
+0,
+8,
+0,
+0,
+0
+],
+"isPartial": null
+},
+{
+"time": "1794834000",
+"formattedTime": "Nov 16, 2026 at 1:00\u202fPM",
+"value": [
+0,
+8,
+0,
+0,
+0
+],
+"isPartial": null
+},
+{
+"time": "1794837600",
+"formattedTime": "Nov 16, 2026 at 2:00\u202fPM",
+"value": [
+0,
+8,
+0,
+0,
+0
+],
+"isPartial": null
+},
+{
+"time": "1794841200",
+"formattedTime": "Nov 16, 2026 at 3:00\u202fPM",
+"value": [
+0,
+7,
+0,
+0,
+0
+],
+"isPartial": null
+},
+{
+"time": "1794844800",
+"formattedTime": "Nov 16, 2026 at 4:00\u202fPM",
+"value": [
+0,
+7,
+0,
+0,
+0
+],
+"isPartial": null
+},
+{
+"time": "1794848400",
+"formattedTime": "Nov 16, 2026 at 5:00\u202fPM",
+"value": [
+0,
+8,
+0,
+0,
+0
+],
+"isPartial": null
+},
+{
+"time": "1794852000",
+"formattedTime": "Nov 16, 2026 at 6:00\u202fPM",
+"value": [
+0,
+7,
+0,
+0,
+0
+],
+"isPartial": null
+},
+{
+"time": "1794855600",
+"formattedTime": "Nov 16, 2026 at 7:00\u202fPM",
+"value": [
+0,
+8,
+0,
+0,
+0
+],
+"isPartial": null
+},
+{
+"time": "1794859200",
+"formattedTime": "Nov 16, 2026 at 8:00\u202fPM",
+"value": [
+0,
+8,
+0,
+0,
+0
+],
+"isPartial": null
+},
+{
+"time": "1794862800",
+"formattedTime": "Nov 16, 2026 at 9:00\u202fPM",
+"value": [
+0,
+8,
+0,
+0,
+0
+],
+"isPartial": null
+},
+{
+"time": "1794866400",
+"formattedTime": "Nov 16, 2026 at 10:00\u202fPM",
+"value": [
+0,
+9,
+0,
+0,
+0
+],
+"isPartial": null
+},
+{
+"time": "1794870000",
+"formattedTime": "Nov 16, 2026 at 11:00\u202fPM",
+"value": [
+0,
+10,
+0,
+0,
+0
+],
+"isPartial": null
+},
+{
+"time": "1794873600",
+"formattedTime": "Nov 17, 2026 at 12:00\u202fAM",
+"value": [
+0,
+10,
+0,
+0,
+0
+],
+"isPartial": null
+},
+{
+"time": "1794877200",
+"formattedTime": "Nov 17, 2026 at 1:00\u202fAM",
+"value": [
+0,
+10,
+0,
+0,
+0
+],
+"isPartial": null
+},
+{
+"time": "1794880800",
+"formattedTime": "Nov 17, 2026 at 2:00\u202fAM",
+"value": [
+0,
+10,
+0,
+0,
+0
+],
+"isPartial": null
+},
+{
+"time": "1794884400",
+"formattedTime": "Nov 17, 2026 at 3:00\u202fAM",
+"value": [
+0,
+11,
+0,
+0,
+0
+],
+"isPartial": null
+},
+{
+"time": "1794888000",
+"formattedTime": "Nov 17, 2026 at 4:00\u202fAM",
+"value": [
+0,
+11,
+0,
+0,
+0
+],
+"isPartial": null
+},
+{
+"time": "1794891600",
+"formattedTime": "Nov 17, 2026 at 5:00\u202fAM",
+"value": [
+0,
+12,
+0,
+0,
+0
+],
+"isPartial": null
+},
+{
+"time": "1794895200",
+"formattedTime": "Nov 17, 2026 at 6:00\u202fAM",
+"value": [
+0,
+12,
+0,
+0,
+0
+],
+"isPartial": null
+},
+{
+"time": "1794898800",
+"formattedTime": "Nov 17, 2026 at 7:00\u202fAM",
+"value": [
+0,
+13,
+0,
+0,
+0
+],
+"isPartial": null
+},
+{
+"time": "1794902400",
+"formattedTime": "Nov 17, 2026 at 8:00\u202fAM",
+"value": [
+0,
+13,
+0,
+0,
+0
+],
+"isPartial": null
+},
+{
+"time": "1794906000",
+"formattedTime": "Nov 17, 2026 at 9:00\u202fAM",
+"value": [
+0,
+12,
+0,
+0,
+0
+],
+"isPartial": null
+},
+{
+"time": "1794909600",
+"formattedTime": "Nov 17, 2026 at 10:00\u202fAM",
+"value": [
+0,
+10,
+0,
+0,
+0
+],
+"isPartial": null
+},
+{
+"time": "1794913200",
+"formattedTime": "Nov 17, 2026 at 11:00\u202fAM",
+"value": [
+0,
+10,
+0,
+0,
+0
+],
+"isPartial": null
+},
+{
+"time": "1794916800",
+"formattedTime": "Nov 17, 2026 at 12:00\u202fPM",
+"value": [
+0,
+12,
+0,
+0,
+0
+],
+"isPartial": null
+},
+{
+"time": "1794920400",
+"formattedTime": "Nov 17, 2026 at 1:00\u202fPM",
+"value": [
+0,
+12,
+0,
+0,
+0
+],
+"isPartial": null
+},
+{
+"time": "1794924000",
+"formattedTime": "Nov 17, 2026 at 2:00\u202fPM",
+"value": [
+0,
+11,
+0,
+0,
+0
+],
+"isPartial": null
+},
+{
+"time": "1794927600",
+"formattedTime": "Nov 17, 2026 at 3:00\u202fPM",
+"value": [
+0,
+11,
+0,
+0,
+0
+],
+"isPartial": null
+},
+{
+"time": "1794931200",
+"formattedTime": "Nov 17, 2026 at 4:00\u202fPM",
+"value": [
+0,
+10,
+0,
+0,
+0
+],
+"isPartial": null
+},
+{
+"time": "1794934800",
+"formattedTime": "Nov 17, 2026 at 5:00\u202fPM",
+"value": [
+0,
+11,
+0,
+0,
+0
+],
+"isPartial": null
+},
+{
+"time": "1794938400",
+"formattedTime": "Nov 17, 2026 at 6:00\u202fPM",
+"value": [
+0,
+11,
+0,
+0,
+0
+],
+"isPartial": null
+},
+{
+"time": "1794942000",
+"formattedTime": "Nov 17, 2026 at 7:00\u202fPM",
+"value": [
+0,
+12,
+0,
+0,
+0
+],
+"isPartial": null
+},
+{
+"time": "1794945600",
+"formattedTime": "Nov 17, 2026 at 8:00\u202fPM",
+"value": [
+0,
+13,
+0,
+0,
+0
+],
+"isPartial": null
+},
+{
+"time": "1794949200",
+"formattedTime": "Nov 17, 2026 at 9:00\u202fPM",
+"value": [
+0,
+13,
+0,
+0,
+0
+],
+"isPartial": null
+},
+{
+"time": "1794952800",
+"formattedTime": "Nov 17, 2026 at 10:00\u202fPM",
+"value": [
+0,
+14,
+0,
+0,
+0
+],
+"isPartial": null
+},
+{
+"time": "1794956400",
+"formattedTime": "Nov 17, 2026 at 11:00\u202fPM",
+"value": [
+0,
+16,
+0,
+0,
+0
+],
+"isPartial": null
+},
+{
+"time": "1794960000",
+"formattedTime": "Nov 18, 2026 at 12:00\u202fAM",
+"value": [
+0,
+17,
+0,
+0,
+0
+],
+"isPartial": null
+},
+{
+"time": "1794963600",
+"formattedTime": "Nov 18, 2026 at 1:00\u202fAM",
+"value": [
+0,
+16,
+0,
+0,
+0
+],
+"isPartial": null
+},
+{
+"time": "1794967200",
+"formattedTime": "Nov 18, 2026 at 2:00\u202fAM",
+"value": [
+0,
+17,
+0,
+0,
+0
+],
+"isPartial": null
+},
+{
+"time": "1794970800",
+"formattedTime": "Nov 18, 2026 at 3:00\u202fAM",
+"value": [
+0,
+18,
+0,
+0,
+0
+],
+"isPartial": null
+},
+{
+"time": "1794974400",
+"formattedTime": "Nov 18, 2026 at 4:00\u202fAM",
+"value": [
+0,
+21,
+0,
+0,
+0
+],
+"isPartial": null
+},
+{
+"time": "1794978000",
+"formattedTime": "Nov 18, 2026 at 5:00\u202fAM",
+"value": [
+0,
+26,
+0,
+0,
+0
+],
+"isPartial": null
+},
+{
+"time": "1794981600",
+"formattedTime": "Nov 18, 2026 at 6:00\u202fAM",
+"value": [
+0,
+26,
+0,
+0,
+0
+],
+"isPartial": null
+},
+{
+"time": "1794985200",
+"formattedTime": "Nov 18, 2026 at 7:00\u202fAM",
+"value": [
+0,
+27,
+0,
+0,
+0
+],
+"isPartial": null
+},
+{
+"time": "1794988800",
+"formattedTime": "Nov 18, 2026 at 8:00\u202fAM",
+"value": [
+0,
+28,
+0,
+0,
+0
+],
+"isPartial": null
+},
+{
+"time": "1794992400",
+"formattedTime": "Nov 18, 2026 at 9:00\u202fAM",
+"value": [
+0,
+28,
+0,
+0,
+0
+],
+"isPartial": null
+},
+{
+"time": "1794996000",
+"formattedTime": "Nov 18, 2026 at 10:00\u202fAM",
+"value": [
+0,
+33,
+0,
+0,
+0
+],
+"isPartial": null
+},
+{
+"time": "1794999600",
+"formattedTime": "Nov 18, 2026 at 11:00\u202fAM",
+"value": [
+0,
+44,
+0,
+0,
+0
+],
+"isPartial": null
+},
+{
+"time": "1795003200",
+"formattedTime": "Nov 18, 2026 at 12:00\u202fPM",
+"value": [
+0,
+43,
+0,
+0,
+0
+],
+"isPartial": null
+},
+{
+"time": "1795006800",
+"formattedTime": "Nov 18, 2026 at 1:00\u202fPM",
+"value": [
+0,
+39,
+0,
+0,
+0
+],
+"isPartial": null
+},
+{
+"time": "1795010400",
+"formattedTime": "Nov 18, 2026 at 2:00\u202fPM",
+"value": [
+0,
+36,
+0,
+0,
+0
+],
+"isPartial": null
+},
+{
+"time": "1795014000",
+"formattedTime": "Nov 18, 2026 at 3:00\u202fPM",
+"value": [
+0,
+32,
+0,
+0,
+0
+],
+"isPartial": null
+},
+{
+"time": "1795017600",
+"formattedTime": "Nov 18, 2026 at 4:00\u202fPM",
+"value": [
+0,
+32,
+0,
+0,
+0
+],
+"isPartial": null
+},
+{
+"time": "1795021200",
+"formattedTime": "Nov 18, 2026 at 5:00\u202fPM",
+"value": [
+0,
+33,
+0,
+0,
+0
+],
+"isPartial": null
+},
+{
+"time": "1795024800",
+"formattedTime": "Nov 18, 2026 at 6:00\u202fPM",
+"value": [
+0,
+32,
+0,
+0,
+0
+],
+"isPartial": null
+},
+{
+"time": "1795028400",
+"formattedTime": "Nov 18, 2026 at 7:00\u202fPM",
+"value": [
+0,
+32,
+0,
+0,
+0
+],
+"isPartial": null
+},
+{
+"time": "1795032000",
+"formattedTime": "Nov 18, 2026 at 8:00\u202fPM",
+"value": [
+0,
+34,
+0,
+0,
+0
+],
+"isPartial": null
+},
+{
+"time": "1795035600",
+"formattedTime": "Nov 18, 2026 at 9:00\u202fPM",
+"value": [
+0,
+36,
+0,
+0,
+0
+],
+"isPartial": null
+},
+{
+"time": "1795039200",
+"formattedTime": "Nov 18, 2026 at 10:00\u202fPM",
+"value": [
+0,
+39,
+0,
+0,
+0
+],
+"isPartial": null
+},
+{
+"time": "1795042800",
+"formattedTime": "Nov 18, 2026 at 11:00\u202fPM",
+"value": [
+0,
+42,
+0,
+0,
+0
+],
+"isPartial": null
+},
+{
+"time": "1795046400",
+"formattedTime": "Nov 19, 2026 at 12:00\u202fAM",
+"value": [
+0,
+43,
+0,
+0,
+0
+],
+"isPartial": null
+},
+{
+"time": "1795050000",
+"formattedTime": "Nov 19, 2026 at 1:00\u202fAM",
+"value": [
+0,
+40,
+0,
+0,
+0
+],
+"isPartial": null
+},
+{
+"time": "1795053600",
+"formattedTime": "Nov 19, 2026 at 2:00\u202fAM",
+"value": [
+0,
+42,
+0,
+0,
+0
+],
+"isPartial": null
+},
+{
+"time": "1795057200",
+"formattedTime": "Nov 19, 2026 at 3:00\u202fAM",
+"value": [
+0,
+47,
+0,
+0,
+0
+],
+"isPartial": null
+},
+{
+"time": "1795060800",
+"formattedTime": "Nov 19, 2026 at 4:00\u202fAM",
+"value": [
+0,
+53,
+0,
+0,
+0
+],
+"isPartial": null
+},
+{
+"time": "1795064400",
+"formattedTime": "Nov 19, 2026 at 5:00\u202fAM",
+"value": [
+0,
+81,
+0,
+0,
+0
+],
+"isPartial": null
+},
+{
+"time": "1795068000",
+"formattedTime": "Nov 19, 2026 at 6:00\u202fAM",
+"value": [
+0,
+93,
+0,
+0,
+0
+],
+"isPartial": null
+},
+{
+"time": "1795071600",
+"formattedTime": "Nov 19, 2026 at 7:00\u202fAM",
+"value": [
+0,
+100,
+0,
+0,
+0
+],
+"isPartial": null
+},
+{
+"time": "1795075200",
+"formattedTime": "Nov 19, 2026 at 8:00\u202fAM",
+"value": [
+0,
+94,
+0,
+0,
+0
+],
+"isPartial": null
+},
+{
+"time": "1795078800",
+"formattedTime": "Nov 19, 2026 at 9:00\u202fAM",
+"value": [
+0,
+81,
+0,
+0,
+0
+],
+"isPartial": null
+},
+{
+"time": "1795082400",
+"formattedTime": "Nov 19, 2026 at 10:00\u202fAM",
+"value": [
+0,
+66,
+0,
+0,
+0
+],
+"isPartial": null
+},
+{
+"time": "1795086000",
+"formattedTime": "Nov 19, 2026 at 11:00\u202fAM",
+"value": [
+0,
+52,
+0,
+0,
+0
+],
+"isPartial": null
+},
+{
+"time": "1795089600",
+"formattedTime": "Nov 19, 2026 at 12:00\u202fPM",
+"value": [
+0,
+48,
+0,
+0,
+0
+],
+"isPartial": null
+},
+{
+"time": "1795093200",
+"formattedTime": "Nov 19, 2026 at 1:00\u202fPM",
+"value": [
+0,
+41,
+0,
+0,
+0
+],
+"isPartial": null
+},
+{
+"time": "1795096800",
+"formattedTime": "Nov 19, 2026 at 2:00\u202fPM",
+"value": [
+0,
+35,
+0,
+0,
+0
+],
+"isPartial": null
+},
+{
+"time": "1795100400",
+"formattedTime": "Nov 19, 2026 at 3:00\u202fPM",
+"value": [
+0,
+35,
+0,
+0,
+0
+],
+"isPartial": null
+},
+{
+"time": "1795104000",
+"formattedTime": "Nov 19, 2026 at 4:00\u202fPM",
+"value": [
+0,
+34,
+0,
+0,
+0
+],
+"isPartial": null
+},
+{
+"time": "1795107600",
+"formattedTime": "Nov 19, 2026 at 5:00\u202fPM",
+"value": [
+0,
+36,
+0,
+0,
+0
+],
+"isPartial": null
+},
+{
+"time": "1795111200",
+"formattedTime": "Nov 19, 2026 at 6:00\u202fPM",
+"value": [
+0,
+36,
+0,
+0,
+0
+],
+"isPartial": null
+},
+{
+"time": "1795114800",
+"formattedTime": "Nov 19, 2026 at 7:00\u202fPM",
+"value": [
+0,
+35,
+0,
+0,
+0
+],
+"isPartial": null
+},
+{
+"time": "1795118400",
+"formattedTime": "Nov 19, 2026 at 8:00\u202fPM",
+"value": [
+0,
+37,
+0,
+0,
+0
+],
+"isPartial": null
+},
+{
+"time": "1795122000",
+"formattedTime": "Nov 19, 2026 at 9:00\u202fPM",
+"value": [
+0,
+37,
+0,
+0,
+0
+],
+"isPartial": null
+},
+{
+"time": "1795125600",
+"formattedTime": "Nov 19, 2026 at 10:00\u202fPM",
+"value": [
+0,
+44,
+0,
+0,
+0
+],
+"isPartial": null
+},
+{
+"time": "1795129200",
+"formattedTime": "Nov 19, 2026 at 11:00\u202fPM",
+"value": [
+0,
+47,
+0,
+0,
+0
+],
+"isPartial": null
+},
+{
+"time": "1795132800",
+"formattedTime": "Nov 20, 2026 at 12:00\u202fAM",
+"value": [
+0,
+47,
+0,
+0,
+0
+],
+"isPartial": null
+},
+{
+"time": "1795136400",
+"formattedTime": "Nov 20, 2026 at 1:00\u202fAM",
+"value": [
+0,
+48,
+0,
+0,
+0
+],
+"isPartial": null
+},
+{
+"time": "1795140000",
+"formattedTime": "Nov 20, 2026 at 2:00\u202fAM",
+"value": [
+0,
+52,
+0,
+0,
+0
+],
+"isPartial": null
+},
+{
+"time": "1795143600",
+"formattedTime": "Nov 20, 2026 at 3:00\u202fAM",
+"value": [
+0,
+55,
+0,
+0,
+0
+],
+"isPartial": null
+},
+{
+"time": "1795147200",
+"formattedTime": "Nov 20, 2026 at 4:00\u202fAM",
+"value": [
+0,
+62,
+0,
+0,
+0
+],
+"isPartial": null
+},
+{
+"time": "1795150800",
+"formattedTime": "Nov 20, 2026 at 5:00\u202fAM",
+"value": [
+0,
+65,
+0,
+0,
+0
+],
+"isPartial": null
+},
+{
+"time": "1795154400",
+"formattedTime": "Nov 20, 2026 at 6:00\u202fAM",
+"value": [
+0,
+69,
+0,
+0,
+0
+],
+"isPartial": null
+},
+{
+"time": "1795158000",
+"formattedTime": "Nov 20, 2026 at 7:00\u202fAM",
+"value": [
+0,
+71,
+0,
+0,
+0
+],
+"isPartial": null
+},
+{
+"time": "1795161600",
+"formattedTime": "Nov 20, 2026 at 8:00\u202fAM",
+"value": [
+0,
+68,
+0,
+0,
+0
+],
+"isPartial": null
+},
+{
+"time": "1795165200",
+"formattedTime": "Nov 20, 2026 at 9:00\u202fAM",
+"value": [
+0,
+60,
+0,
+0,
+0
+],
+"isPartial": null
+},
+{
+"time": "1795168800",
+"formattedTime": "Nov 20, 2026 at 10:00\u202fAM",
+"value": [
+0,
+48,
+0,
+0,
+0
+],
+"isPartial": null
+},
+{
+"time": "1795172400",
+"formattedTime": "Nov 20, 2026 at 11:00\u202fAM",
+"value": [
+0,
+34,
+0,
+0,
+0
+],
+"isPartial": null
+},
+{
+"time": "1795176000",
+"formattedTime": "Nov 20, 2026 at 12:00\u202fPM",
+"value": [
+0,
+34,
+0,
+0,
+0
+],
+"isPartial": null
+},
+{
+"time": "1795179600",
+"formattedTime": "Nov 20, 2026 at 1:00\u202fPM",
+"value": [
+0,
+28,
+0,
+0,
+0
+],
+"isPartial": null
+},
+{
+"time": "1795183200",
+"formattedTime": "Nov 20, 2026 at 2:00\u202fPM",
+"value": [
+0,
+26,
+0,
+0,
+0
+],
+"isPartial": null
+},
+{
+"time": "1795186800",
+"formattedTime": "Nov 20, 2026 at 3:00\u202fPM",
+"value": [
+0,
+25,
+0,
+0,
+0
+],
+"isPartial": null
+},
+{
+"time": "1795190400",
+"formattedTime": "Nov 20, 2026 at 4:00\u202fPM",
+"value": [
+0,
+24,
+0,
+0,
+0
+],
+"isPartial": null
+},
+{
+"time": "1795194000",
+"formattedTime": "Nov 20, 2026 at 5:00\u202fPM",
+"value": [
+0,
+27,
+0,
+0,
+0
+],
+"isPartial": null
+},
+{
+"time": "1795197600",
+"formattedTime": "Nov 20, 2026 at 6:00\u202fPM",
+"value": [
+0,
+27,
+0,
+0,
+0
+],
+"isPartial": null
+},
+{
+"time": "1795201200",
+"formattedTime": "Nov 20, 2026 at 7:00\u202fPM",
+"value": [
+0,
+29,
+0,
+0,
+0
+],
+"isPartial": null
+},
+{
+"time": "1795204800",
+"formattedTime": "Nov 20, 2026 at 8:00\u202fPM",
+"value": [
+0,
+33,
+0,
+0,
+0
+],
+"isPartial": true
+}
+]
+},
+{
+"group": 1,
+"keywords": [
+"analog horror",
+"gta 6 mystery",
+"gta 6 ghost",
+"gta 6 secrets",
+"open world horror"
+],
+"geo": "US",
+"property": "youtube",
+"timeframe": "now 7-d",
+"fetched_at": "2026-11-20T20:51:27Z",
+"timeline": [
+{
+"time": "1794600000",
+"formattedTime": "Nov 13, 2026 at 8:00\u202fPM",
+"value": [
+60,
+0,
+0,
+0,
+0
+],
+"isPartial": null
+},
+{
+"time": "1794603600",
+"formattedTime": "Nov 13, 2026 at 9:00\u202fPM",
+"value": [
+86,
+0,
+0,
+0,
+0
+],
+"isPartial": null
+},
+{
+"time": "1794607200",
+"formattedTime": "Nov 13, 2026 at 10:00\u202fPM",
+"value": [
+67,
+0,
+0,
+0,
+0
+],
+"isPartial": null
+},
+{
+"time": "1794610800",
+"formattedTime": "Nov 13, 2026 at 11:00\u202fPM",
+"value": [
+74,
+0,
+0,
+0,
+0
+],
+"isPartial": null
+},
+{
+"time": "1794614400",
+"formattedTime": "Nov 14, 2026 at 12:00\u202fAM",
+"value": [
+69,
+0,
+0,
+0,
+0
+],
+"isPartial": null
+},
+{
+"time": "1794618000",
+"formattedTime": "Nov 14, 2026 at 1:00\u202fAM",
+"value": [
+63,
+0,
+0,
+0,
+0
+],
+"isPartial": null
+},
+{
+"time": "1794621600",
+"formattedTime": "Nov 14, 2026 at 2:00\u202fAM",
+"value": [
+73,
+0,
+0,
+0,
+0
+],
+"isPartial": null
+},
+{
+"time": "1794625200",
+"formattedTime": "Nov 14, 2026 at 3:00\u202fAM",
+"value": [
+72,
+0,
+0,
+0,
+0
+],
+"isPartial": null
+},
+{
+"time": "1794628800",
+"formattedTime": "Nov 14, 2026 at 4:00\u202fAM",
+"value": [
+62,
+0,
+2,
+0,
+0
+],
+"isPartial": null
+},
+{
+"time": "1794632400",
+"formattedTime": "Nov 14, 2026 at 5:00\u202fAM",
+"value": [
+49,
+0,
+0,
+0,
+0
+],
+"isPartial": null
+},
+{
+"time": "1794636000",
+"formattedTime": "Nov 14, 2026 at 6:00\u202fAM",
+"value": [
+39,
+0,
+0,
+0,
+0
+],
+"isPartial": null
+},
+{
+"time": "1794639600",
+"formattedTime": "Nov 14, 2026 at 7:00\u202fAM",
+"value": [
+39,
+0,
+0,
+0,
+0
+],
+"isPartial": null
+},
+{
+"time": "1794643200",
+"formattedTime": "Nov 14, 2026 at 8:00\u202fAM",
+"value": [
+35,
+0,
+0,
+0,
+0
+],
+"isPartial": null
+},
+{
+"time": "1794646800",
+"formattedTime": "Nov 14, 2026 at 9:00\u202fAM",
+"value": [
+29,
+0,
+0,
+0,
+0
+],
+"isPartial": null
+},
+{
+"time": "1794650400",
+"formattedTime": "Nov 14, 2026 at 10:00\u202fAM",
+"value": [
+25,
+0,
+0,
+0,
+0
+],
+"isPartial": null
+},
+{
+"time": "1794654000",
+"formattedTime": "Nov 14, 2026 at 11:00\u202fAM",
+"value": [
+30,
+0,
+0,
+0,
+0
+],
+"isPartial": null
+},
+{
+"time": "1794657600",
+"formattedTime": "Nov 14, 2026 at 12:00\u202fPM",
+"value": [
+45,
+0,
+0,
+0,
+0
+],
+"isPartial": null
+},
+{
+"time": "1794661200",
+"formattedTime": "Nov 14, 2026 at 1:00\u202fPM",
+"value": [
+63,
+0,
+0,
+0,
+0
+],
+"isPartial": null
+},
+{
+"time": "1794664800",
+"formattedTime": "Nov 14, 2026 at 2:00\u202fPM",
+"value": [
+71,
+0,
+0,
+0,
+0
+],
+"isPartial": null
+},
+{
+"time": "1794668400",
+"formattedTime": "Nov 14, 2026 at 3:00\u202fPM",
+"value": [
+79,
+0,
+0,
+0,
+0
+],
+"isPartial": null
+},
+{
+"time": "1794672000",
+"formattedTime": "Nov 14, 2026 at 4:00\u202fPM",
+"value": [
+83,
+0,
+0,
+0,
+0
+],
+"isPartial": null
+},
+{
+"time": "1794675600",
+"formattedTime": "Nov 14, 2026 at 5:00\u202fPM",
+"value": [
+82,
+0,
+0,
+0,
+0
+],
+"isPartial": null
+},
+{
+"time": "1794679200",
+"formattedTime": "Nov 14, 2026 at 6:00\u202fPM",
+"value": [
+95,
+0,
+0,
+0,
+0
+],
+"isPartial": null
+},
+{
+"time": "1794682800",
+"formattedTime": "Nov 14, 2026 at 7:00\u202fPM",
+"value": [
+100,
+0,
+0,
+0,
+0
+],
+"isPartial": null
+},
+{
+"time": "1794686400",
+"formattedTime": "Nov 14, 2026 at 8:00\u202fPM",
+"value": [
+92,
+0,
+0,
+0,
+0
+],
+"isPartial": null
+},
+{
+"time": "1794690000",
+"formattedTime": "Nov 14, 2026 at 9:00\u202fPM",
+"value": [
+79,
+0,
+0,
+0,
+2
+],
+"isPartial": null
+},
+{
+"time": "1794693600",
+"formattedTime": "Nov 14, 2026 at 10:00\u202fPM",
+"value": [
+83,
+0,
+0,
+0,
+0
+],
+"isPartial": null
+},
+{
+"time": "1794697200",
+"formattedTime": "Nov 14, 2026 at 11:00\u202fPM",
+"value": [
+87,
+0,
+0,
+0,
+0
+],
+"isPartial": null
+},
+{
+"time": "1794700800",
+"formattedTime": "Nov 15, 2026 at 12:00\u202fAM",
+"value": [
+81,
+0,
+0,
+0,
+0
+],
+"isPartial": null
+},
+{
+"time": "1794704400",
+"formattedTime": "Nov 15, 2026 at 1:00\u202fAM",
+"value": [
+87,
+0,
+0,
+0,
+0
+],
+"isPartial": null
+},
+{
+"time": "1794708000",
+"formattedTime": "Nov 15, 2026 at 2:00\u202fAM",
+"value": [
+90,
+0,
+0,
+0,
+0
+],
+"isPartial": null
+},
+{
+"time": "1794711600",
+"formattedTime": "Nov 15, 2026 at 3:00\u202fAM",
+"value": [
+72,
+0,
+0,
+0,
+0
+],
+"isPartial": null
+},
+{
+"time": "1794715200",
+"formattedTime": "Nov 15, 2026 at 4:00\u202fAM",
+"value": [
+88,
+0,
+3,
+0,
+0
+],
+"isPartial": null
+},
+{
+"time": "1794718800",
+"formattedTime": "Nov 15, 2026 at 5:00\u202fAM",
+"value": [
+85,
+0,
+0,
+0,
+0
+],
+"isPartial": null
+},
+{
+"time": "1794722400",
+"formattedTime": "Nov 15, 2026 at 6:00\u202fAM",
+"value": [
+77,
+0,
+0,
+0,
+0
+],
+"isPartial": null
+},
+{
+"time": "1794726000",
+"formattedTime": "Nov 15, 2026 at 7:00\u202fAM",
+"value": [
+74,
+0,
+0,
+0,
+0
+],
+"isPartial": null
+},
+{
+"time": "1794729600",
+"formattedTime": "Nov 15, 2026 at 8:00\u202fAM",
+"value": [
+64,
+0,
+0,
+5,
+0
+],
+"isPartial": null
+},
+{
+"time": "1794733200",
+"formattedTime": "Nov 15, 2026 at 9:00\u202fAM",
+"value": [
+57,
+0,
+0,
+0,
+0
+],
+"isPartial": null
+},
+{
+"time": "1794736800",
+"formattedTime": "Nov 15, 2026 at 10:00\u202fAM",
+"value": [
+55,
+0,
+0,
+0,
+0
+],
+"isPartial": null
+},
+{
+"time": "1794740400",
+"formattedTime": "Nov 15, 2026 at 11:00\u202fAM",
+"value": [
+48,
+0,
+0,
+0,
+0
+],
+"isPartial": null
+},
+{
+"time": "1794744000",
+"formattedTime": "Nov 15, 2026 at 12:00\u202fPM",
+"value": [
+46,
+0,
+0,
+0,
+0
+],
+"isPartial": null
+},
+{
+"time": "1794747600",
+"formattedTime": "Nov 15, 2026 at 1:00\u202fPM",
+"value": [
+58,
+0,
+0,
+0,
+0
+],
+"isPartial": null
+},
+{
+"time": "1794751200",
+"formattedTime": "Nov 15, 2026 at 2:00\u202fPM",
+"value": [
+77,
+0,
+0,
+0,
+0
+],
+"isPartial": null
+},
+{
+"time": "1794754800",
+"formattedTime": "Nov 15, 2026 at 3:00\u202fPM",
+"value": [
+77,
+0,
+0,
+0,
+0
+],
+"isPartial": null
+},
+{
+"time": "1794758400",
+"formattedTime": "Nov 15, 2026 at 4:00\u202fPM",
+"value": [
+88,
+0,
+0,
+0,
+0
+],
+"isPartial": null
+},
+{
+"time": "1794762000",
+"formattedTime": "Nov 15, 2026 at 5:00\u202fPM",
+"value": [
+85,
+0,
+0,
+0,
+0
+],
+"isPartial": null
+},
+{
+"time": "1794765600",
+"formattedTime": "Nov 15, 2026 at 6:00\u202fPM",
+"value": [
+86,
+0,
+0,
+0,
+0
+],
+"isPartial": null
+},
+{
+"time": "1794769200",
+"formattedTime": "Nov 15, 2026 at 7:00\u202fPM",
+"value": [
+98,
+0,
+0,
+0,
+0
+],
+"isPartial": null
+},
+{
+"time": "1794772800",
+"formattedTime": "Nov 15, 2026 at 8:00\u202fPM",
+"value": [
+100,
+0,
+0,
+0,
+0
+],
+"isPartial": null
+},
+{
+"time": "1794776400",
+"formattedTime": "Nov 15, 2026 at 9:00\u202fPM",
+"value": [
+84,
+0,
+0,
+0,
+0
+],
+"isPartial": null
+},
+{
+"time": "1794780000",
+"formattedTime": "Nov 15, 2026 at 10:00\u202fPM",
+"value": [
+86,
+0,
+0,
+0,
+0
+],
+"isPartial": null
+},
+{
+"time": "1794783600",
+"formattedTime": "Nov 15, 2026 at 11:00\u202fPM",
+"value": [
+92,
+0,
+0,
+0,
+0
+],
+"isPartial": null
+},
+{
+"time": "1794787200",
+"formattedTime": "Nov 16, 2026 at 12:00\u202fAM",
+"value": [
+76,
+0,
+0,
+0,
+0
+],
+"isPartial": null
+},
+{
+"time": "1794790800",
+"formattedTime": "Nov 16, 2026 at 1:00\u202fAM",
+"value": [
+66,
+0,
+0,
+0,
+0
+],
+"isPartial": null
+},
+{
+"time": "1794794400",
+"formattedTime": "Nov 16, 2026 at 2:00\u202fAM",
+"value": [
+66,
+0,
+0,
+0,
+0
+],
+"isPartial": null
+},
+{
+"time": "1794798000",
+"formattedTime": "Nov 16, 2026 at 3:00\u202fAM",
+"value": [
+72,
+0,
+0,
+0,
+0
+],
+"isPartial": null
+},
+{
+"time": "1794801600",
+"formattedTime": "Nov 16, 2026 at 4:00\u202fAM",
+"value": [
+72,
+0,
+0,
+0,
+0
+],
+"isPartial": null
+},
+{
+"time": "1794805200",
+"formattedTime": "Nov 16, 2026 at 5:00\u202fAM",
+"value": [
+60,
+0,
+0,
+0,
+0
+],
+"isPartial": null
+},
+{
+"time": "1794808800",
+"formattedTime": "Nov 16, 2026 at 6:00\u202fAM",
+"value": [
+51,
+0,
+0,
+0,
+0
+],
+"isPartial": null
+},
+{
+"time": "1794812400",
+"formattedTime": "Nov 16, 2026 at 7:00\u202fAM",
+"value": [
+53,
+0,
+0,
+0,
+0
+],
+"isPartial": null
+},
+{
+"time": "1794816000",
+"formattedTime": "Nov 16, 2026 at 8:00\u202fAM",
+"value": [
+56,
+0,
+0,
+0,
+0
+],
+"isPartial": null
+},
+{
+"time": "1794819600",
+"formattedTime": "Nov 16, 2026 at 9:00\u202fAM",
+"value": [
+36,
+0,
+0,
+0,
+0
+],
+"isPartial": null
+},
+{
+"time": "1794823200",
+"formattedTime": "Nov 16, 2026 at 10:00\u202fAM",
+"value": [
+51,
+0,
+0,
+0,
+0
+],
+"isPartial": null
+},
+{
+"time": "1794826800",
+"formattedTime": "Nov 16, 2026 at 11:00\u202fAM",
+"value": [
+51,
+0,
+0,
+0,
+0
+],
+"isPartial": null
+},
+{
+"time": "1794830400",
+"formattedTime": "Nov 16, 2026 at 12:00\u202fPM",
+"value": [
+44,
+0,
+0,
+0,
+0
+],
+"isPartial": null
+},
+{
+"time": "1794834000",
+"formattedTime": "Nov 16, 2026 at 1:00\u202fPM",
+"value": [
+56,
+0,
+0,
+0,
+0
+],
+"isPartial": null
+},
+{
+"time": "1794837600",
+"formattedTime": "Nov 16, 2026 at 2:00\u202fPM",
+"value": [
+52,
+0,
+0,
+0,
+0
+],
+"isPartial": null
+},
+{
+"time": "1794841200",
+"formattedTime": "Nov 16, 2026 at 3:00\u202fPM",
+"value": [
+58,
+0,
+0,
+0,
+0
+],
+"isPartial": null
+},
+{
+"time": "1794844800",
+"formattedTime": "Nov 16, 2026 at 4:00\u202fPM",
+"value": [
+49,
+0,
+0,
+0,
+0
+],
+"isPartial": null
+},
+{
+"time": "1794848400",
+"formattedTime": "Nov 16, 2026 at 5:00\u202fPM",
+"value": [
+54,
+0,
+0,
+0,
+0
+],
+"isPartial": null
+},
+{
+"time": "1794852000",
+"formattedTime": "Nov 16, 2026 at 6:00\u202fPM",
+"value": [
+53,
+0,
+0,
+0,
+0
+],
+"isPartial": null
+},
+{
+"time": "1794855600",
+"formattedTime": "Nov 16, 2026 at 7:00\u202fPM",
+"value": [
+59,
+0,
+0,
+0,
+0
+],
+"isPartial": null
+},
+{
+"time": "1794859200",
+"formattedTime": "Nov 16, 2026 at 8:00\u202fPM",
+"value": [
+70,
+0,
+0,
+0,
+0
+],
+"isPartial": null
+},
+{
+"time": "1794862800",
+"formattedTime": "Nov 16, 2026 at 9:00\u202fPM",
+"value": [
+76,
+0,
+0,
+0,
+0
+],
+"isPartial": null
+},
+{
+"time": "1794866400",
+"formattedTime": "Nov 16, 2026 at 10:00\u202fPM",
+"value": [
+79,
+0,
+0,
+0,
+0
+],
+"isPartial": null
+},
+{
+"time": "1794870000",
+"formattedTime": "Nov 16, 2026 at 11:00\u202fPM",
+"value": [
+68,
+0,
+2,
+0,
+0
+],
+"isPartial": null
+},
+{
+"time": "1794873600",
+"formattedTime": "Nov 17, 2026 at 12:00\u202fAM",
+"value": [
+68,
+0,
+0,
+0,
+0
+],
+"isPartial": null
+},
+{
+"time": "1794877200",
+"formattedTime": "Nov 17, 2026 at 1:00\u202fAM",
+"value": [
+69,
+0,
+0,
+0,
+0
+],
+"isPartial": null
+},
+{
+"time": "1794880800",
+"formattedTime": "Nov 17, 2026 at 2:00\u202fAM",
+"value": [
+68,
+0,
+0,
+0,
+0
+],
+"isPartial": null
+},
+{
+"time": "1794884400",
+"formattedTime": "Nov 17, 2026 at 3:00\u202fAM",
+"value": [
+64,
+0,
+0,
+0,
+0
+],
+"isPartial": null
+},
+{
+"time": "1794888000",
+"formattedTime": "Nov 17, 2026 at 4:00\u202fAM",
+"value": [
+63,
+0,
+0,
+0,
+0
+],
+"isPartial": null
+},
+{
+"time": "1794891600",
+"formattedTime": "Nov 17, 2026 at 5:00\u202fAM",
+"value": [
+58,
+0,
+0,
+0,
+0
+],
+"isPartial": null
+},
+{
+"time": "1794895200",
+"formattedTime": "Nov 17, 2026 at 6:00\u202fAM",
+"value": [
+55,
+0,
+0,
+0,
+0
+],
+"isPartial": null
+},
+{
+"time": "1794898800",
+"formattedTime": "Nov 17, 2026 at 7:00\u202fAM",
+"value": [
+56,
+0,
+0,
+0,
+0
+],
+"isPartial": null
+},
+{
+"time": "1794902400",
+"formattedTime": "Nov 17, 2026 at 8:00\u202fAM",
+"value": [
+51,
+0,
+0,
+0,
+0
+],
+"isPartial": null
+},
+{
+"time": "1794906000",
+"formattedTime": "Nov 17, 2026 at 9:00\u202fAM",
+"value": [
+39,
+0,
+0,
+0,
+0
+],
+"isPartial": null
+},
+{
+"time": "1794909600",
+"formattedTime": "Nov 17, 2026 at 10:00\u202fAM",
+"value": [
+36,
+0,
+0,
+0,
+0
+],
+"isPartial": null
+},
+{
+"time": "1794913200",
+"formattedTime": "Nov 17, 2026 at 11:00\u202fAM",
+"value": [
+50,
+0,
+0,
+0,
+0
+],
+"isPartial": null
+},
+{
+"time": "1794916800",
+"formattedTime": "Nov 17, 2026 at 12:00\u202fPM",
+"value": [
+47,
+0,
+0,
+0,
+0
+],
+"isPartial": null
+},
+{
+"time": "1794920400",
+"formattedTime": "Nov 17, 2026 at 1:00\u202fPM",
+"value": [
+55,
+0,
+0,
+0,
+0
+],
+"isPartial": null
+},
+{
+"time": "1794924000",
+"formattedTime": "Nov 17, 2026 at 2:00\u202fPM",
+"value": [
+65,
+0,
+0,
+0,
+0
+],
+"isPartial": null
+},
+{
+"time": "1794927600",
+"formattedTime": "Nov 17, 2026 at 3:00\u202fPM",
+"value": [
+71,
+0,
+0,
+0,
+0
+],
+"isPartial": null
+},
+{
+"time": "1794931200",
+"formattedTime": "Nov 17, 2026 at 4:00\u202fPM",
+"value": [
+55,
+0,
+0,
+0,
+0
+],
+"isPartial": null
+},
+{
+"time": "1794934800",
+"formattedTime": "Nov 17, 2026 at 5:00\u202fPM",
+"value": [
+52,
+0,
+0,
+0,
+0
+],
+"isPartial": null
+},
+{
+"time": "1794938400",
+"formattedTime": "Nov 17, 2026 at 6:00\u202fPM",
+"value": [
+55,
+0,
+0,
+0,
+0
+],
+"isPartial": null
+},
+{
+"time": "1794942000",
+"formattedTime": "Nov 17, 2026 at 7:00\u202fPM",
+"value": [
+60,
+0,
+3,
+0,
+0
+],
+"isPartial": null
+},
+{
+"time": "1794945600",
+"formattedTime": "Nov 17, 2026 at 8:00\u202fPM",
+"value": [
+69,
+0,
+3,
+0,
+0
+],
+"isPartial": null
+},
+{
+"time": "1794949200",
+"formattedTime": "Nov 17, 2026 at 9:00\u202fPM",
+"value": [
+70,
+0,
+0,
+0,
+0
+],
+"isPartial": null
+},
+{
+"time": "1794952800",
+"formattedTime": "Nov 17, 2026 at 10:00\u202fPM",
+"value": [
+74,
+0,
+0,
+0,
+0
+],
+"isPartial": null
+},
+{
+"time": "1794956400",
+"formattedTime": "Nov 17, 2026 at 11:00\u202fPM",
+"value": [
+75,
+0,
+2,
+0,
+0
+],
+"isPartial": null
+},
+{
+"time": "1794960000",
+"formattedTime": "Nov 18, 2026 at 12:00\u202fAM",
+"value": [
+66,
+0,
+0,
+0,
+0
+],
+"isPartial": null
+},
+{
+"time": "1794963600",
+"formattedTime": "Nov 18, 2026 at 1:00\u202fAM",
+"value": [
+64,
+0,
+2,
+2,
+0
+],
+"isPartial": null
+},
+{
+"time": "1794967200",
+"formattedTime": "Nov 18, 2026 at 2:00\u202fAM",
+"value": [
+61,
+0,
+2,
+0,
+0
+],
+"isPartial": null
+},
+{
+"time": "1794970800",
+"formattedTime": "Nov 18, 2026 at 3:00\u202fAM",
+"value": [
+57,
+0,
+3,
+0,
+0
+],
+"isPartial": null
+},
+{
+"time": "1794974400",
+"formattedTime": "Nov 18, 2026 at 4:00\u202fAM",
+"value": [
+56,
+0,
+2,
+2,
+0
+],
+"isPartial": null
+},
+{
+"time": "1794978000",
+"formattedTime": "Nov 18, 2026 at 5:00\u202fAM",
+"value": [
+57,
+0,
+0,
+0,
+0
+],
+"isPartial": null
+},
+{
+"time": "1794981600",
+"formattedTime": "Nov 18, 2026 at 6:00\u202fAM",
+"value": [
+59,
+0,
+0,
+0,
+0
+],
+"isPartial": null
+},
+{
+"time": "1794985200",
+"formattedTime": "Nov 18, 2026 at 7:00\u202fAM",
+"value": [
+47,
+0,
+0,
+0,
+0
+],
+"isPartial": null
+},
+{
+"time": "1794988800",
+"formattedTime": "Nov 18, 2026 at 8:00\u202fAM",
+"value": [
+36,
+0,
+0,
+0,
+0
+],
+"isPartial": null
+},
+{
+"time": "1794992400",
+"formattedTime": "Nov 18, 2026 at 9:00\u202fAM",
+"value": [
+36,
+0,
+0,
+0,
+0
+],
+"isPartial": null
+},
+{
+"time": "1794996000",
+"formattedTime": "Nov 18, 2026 at 10:00\u202fAM",
+"value": [
+27,
+0,
+0,
+0,
+0
+],
+"isPartial": null
+},
+{
+"time": "1794999600",
+"formattedTime": "Nov 18, 2026 at 11:00\u202fAM",
+"value": [
+36,
+0,
+0,
+0,
+0
+],
+"isPartial": null
+},
+{
+"time": "1795003200",
+"formattedTime": "Nov 18, 2026 at 12:00\u202fPM",
+"value": [
+52,
+0,
+0,
+0,
+0
+],
+"isPartial": null
+},
+{
+"time": "1795006800",
+"formattedTime": "Nov 18, 2026 at 1:00\u202fPM",
+"value": [
+48,
+0,
+0,
+0,
+0
+],
+"isPartial": null
+},
+{
+"time": "1795010400",
+"formattedTime": "Nov 18, 2026 at 2:00\u202fPM",
+"value": [
+44,
+0,
+4,
+5,
+0
+],
+"isPartial": null
+},
+{
+"time": "1795014000",
+"formattedTime": "Nov 18, 2026 at 3:00\u202fPM",
+"value": [
+45,
+0,
+3,
+7,
+0
+],
+"isPartial": null
+},
+{
+"time": "1795017600",
+"formattedTime": "Nov 18, 2026 at 4:00\u202fPM",
+"value": [
+46,
+0,
+3,
+3,
+0
+],
+"isPartial": null
+},
+{
+"time": "1795021200",
+"formattedTime": "Nov 18, 2026 at 5:00\u202fPM",
+"value": [
+56,
+0,
+3,
+4,
+0
+],
+"isPartial": null
+},
+{
+"time": "1795024800",
+"formattedTime": "Nov 18, 2026 at 6:00\u202fPM",
+"value": [
+46,
+0,
+4,
+4,
+0
+],
+"isPartial": null
+},
+{
+"time": "1795028400",
+"formattedTime": "Nov 18, 2026 at 7:00\u202fPM",
+"value": [
+48,
+0,
+3,
+6,
+0
+],
+"isPartial": null
+},
+{
+"time": "1795032000",
+"formattedTime": "Nov 18, 2026 at 8:00\u202fPM",
+"value": [
+64,
+2,
+4,
+4,
+0
+],
+"isPartial": null
+},
+{
+"time": "1795035600",
+"formattedTime": "Nov 18, 2026 at 9:00\u202fPM",
+"value": [
+67,
+0,
+4,
+6,
+0
+],
+"isPartial": null
+},
+{
+"time": "1795039200",
+"formattedTime": "Nov 18, 2026 at 10:00\u202fPM",
+"value": [
+74,
+0,
+4,
+6,
+0
+],
+"isPartial": null
+},
+{
+"time": "1795042800",
+"formattedTime": "Nov 18, 2026 at 11:00\u202fPM",
+"value": [
+72,
+0,
+4,
+7,
+0
+],
+"isPartial": null
+},
+{
+"time": "1795046400",
+"formattedTime": "Nov 19, 2026 at 12:00\u202fAM",
+"value": [
+59,
+0,
+6,
+6,
+0
+],
+"isPartial": null
+},
+{
+"time": "1795050000",
+"formattedTime": "Nov 19, 2026 at 1:00\u202fAM",
+"value": [
+59,
+0,
+5,
+5,
+0
+],
+"isPartial": null
+},
+{
+"time": "1795053600",
+"formattedTime": "Nov 19, 2026 at 2:00\u202fAM",
+"value": [
+59,
+2,
+3,
+9,
+0
+],
+"isPartial": null
+},
+{
+"time": "1795057200",
+"formattedTime": "Nov 19, 2026 at 3:00\u202fAM",
+"value": [
+55,
+2,
+6,
+8,
+0
+],
+"isPartial": null
+},
+{
+"time": "1795060800",
+"formattedTime": "Nov 19, 2026 at 4:00\u202fAM",
+"value": [
+61,
+0,
+5,
+10,
+0
+],
+"isPartial": null
+},
+{
+"time": "1795064400",
+"formattedTime": "Nov 19, 2026 at 5:00\u202fAM",
+"value": [
+47,
+0,
+6,
+9,
+0
+],
+"isPartial": null
+},
+{
+"time": "1795068000",
+"formattedTime": "Nov 19, 2026 at 6:00\u202fAM",
+"value": [
+52,
+0,
+8,
+12,
+0
+],
+"isPartial": null
+},
+{
+"time": "1795071600",
+"formattedTime": "Nov 19, 2026 at 7:00\u202fAM",
+"value": [
+41,
+0,
+4,
+16,
+0
+],
+"isPartial": null
+},
+{
+"time": "1795075200",
+"formattedTime": "Nov 19, 2026 at 8:00\u202fAM",
+"value": [
+31,
+5,
+5,
+16,
+0
+],
+"isPartial": null
+},
+{
+"time": "1795078800",
+"formattedTime": "Nov 19, 2026 at 9:00\u202fAM",
+"value": [
+40,
+0,
+5,
+18,
+0
+],
+"isPartial": null
+},
+{
+"time": "1795082400",
+"formattedTime": "Nov 19, 2026 at 10:00\u202fAM",
+"value": [
+41,
+0,
+0,
+17,
+0
+],
+"isPartial": null
+},
+{
+"time": "1795086000",
+"formattedTime": "Nov 19, 2026 at 11:00\u202fAM",
+"value": [
+40,
+0,
+5,
+12,
+0
+],
+"isPartial": null
+},
+{
+"time": "1795089600",
+"formattedTime": "Nov 19, 2026 at 12:00\u202fPM",
+"value": [
+39,
+0,
+4,
+8,
+0
+],
+"isPartial": null
+},
+{
+"time": "1795093200",
+"formattedTime": "Nov 19, 2026 at 1:00\u202fPM",
+"value": [
+49,
+0,
+5,
+12,
+0
+],
+"isPartial": null
+},
+{
+"time": "1795096800",
+"formattedTime": "Nov 19, 2026 at 2:00\u202fPM",
+"value": [
+51,
+0,
+5,
+13,
+0
+],
+"isPartial": null
+},
+{
+"time": "1795100400",
+"formattedTime": "Nov 19, 2026 at 3:00\u202fPM",
+"value": [
+58,
+0,
+3,
+14,
+0
+],
+"isPartial": null
+},
+{
+"time": "1795104000",
+"formattedTime": "Nov 19, 2026 at 4:00\u202fPM",
+"value": [
+54,
+0,
+0,
+14,
+0
+],
+"isPartial": null
+},
+{
+"time": "1795107600",
+"formattedTime": "Nov 19, 2026 at 5:00\u202fPM",
+"value": [
+57,
+0,
+4,
+13,
+0
+],
+"isPartial": null
+},
+{
+"time": "1795111200",
+"formattedTime": "Nov 19, 2026 at 6:00\u202fPM",
+"value": [
+50,
+0,
+5,
+15,
+0
+],
+"isPartial": null
+},
+{
+"time": "1795114800",
+"formattedTime": "Nov 19, 2026 at 7:00\u202fPM",
+"value": [
+56,
+0,
+4,
+18,
+0
+],
+"isPartial": null
+},
+{
+"time": "1795118400",
+"formattedTime": "Nov 19, 2026 at 8:00\u202fPM",
+"value": [
+74,
+0,
+6,
+11,
+0
+],
+"isPartial": null
+},
+{
+"time": "1795122000",
+"formattedTime": "Nov 19, 2026 at 9:00\u202fPM",
+"value": [
+67,
+0,
+6,
+13,
+0
+],
+"isPartial": null
+},
+{
+"time": "1795125600",
+"formattedTime": "Nov 19, 2026 at 10:00\u202fPM",
+"value": [
+63,
+0,
+6,
+14,
+0
+],
+"isPartial": null
+},
+{
+"time": "1795129200",
+"formattedTime": "Nov 19, 2026 at 11:00\u202fPM",
+"value": [
+72,
+0,
+5,
+15,
+0
+],
+"isPartial": null
+},
+{
+"time": "1795132800",
+"formattedTime": "Nov 20, 2026 at 12:00\u202fAM",
+"value": [
+68,
+0,
+5,
+14,
+0
+],
+"isPartial": null
+},
+{
+"time": "1795136400",
+"formattedTime": "Nov 20, 2026 at 1:00\u202fAM",
+"value": [
+57,
+2,
+5,
+13,
+0
+],
+"isPartial": null
+},
+{
+"time": "1795140000",
+"formattedTime": "Nov 20, 2026 at 2:00\u202fAM",
+"value": [
+54,
+0,
+6,
+13,
+0
+],
+"isPartial": null
+},
+{
+"time": "1795143600",
+"formattedTime": "Nov 20, 2026 at 3:00\u202fAM",
+"value": [
+53,
+0,
+6,
+16,
+0
+],
+"isPartial": null
+},
+{
+"time": "1795147200",
+"formattedTime": "Nov 20, 2026 at 4:00\u202fAM",
+"value": [
+58,
+0,
+7,
+16,
+0
+],
+"isPartial": null
+},
+{
+"time": "1795150800",
+"formattedTime": "Nov 20, 2026 at 5:00\u202fAM",
+"value": [
+49,
+0,
+7,
+18,
+0
+],
+"isPartial": null
+},
+{
+"time": "1795154400",
+"formattedTime": "Nov 20, 2026 at 6:00\u202fAM",
+"value": [
+39,
+0,
+4,
+17,
+0
+],
+"isPartial": null
+},
+{
+"time": "1795158000",
+"formattedTime": "Nov 20, 2026 at 7:00\u202fAM",
+"value": [
+33,
+0,
+6,
+25,
+0
+],
+"isPartial": null
+},
+{
+"time": "1795161600",
+"formattedTime": "Nov 20, 2026 at 8:00\u202fAM",
+"value": [
+41,
+0,
+5,
+17,
+0
+],
+"isPartial": null
+},
+{
+"time": "1795165200",
+"formattedTime": "Nov 20, 2026 at 9:00\u202fAM",
+"value": [
+29,
+0,
+9,
+24,
+0
+],
+"isPartial": null
+},
+{
+"time": "1795168800",
+"formattedTime": "Nov 20, 2026 at 10:00\u202fAM",
+"value": [
+31,
+0,
+0,
+17,
+0
+],
+"isPartial": null
+},
+{
+"time": "1795172400",
+"formattedTime": "Nov 20, 2026 at 11:00\u202fAM",
+"value": [
+35,
+0,
+4,
+11,
+0
+],
+"isPartial": null
+},
+{
+"time": "1795176000",
+"formattedTime": "Nov 20, 2026 at 12:00\u202fPM",
+"value": [
+47,
+0,
+4,
+17,
+0
+],
+"isPartial": null
+},
+{
+"time": "1795179600",
+"formattedTime": "Nov 20, 2026 at 1:00\u202fPM",
+"value": [
+44,
+0,
+0,
+12,
+0
+],
+"isPartial": null
+},
+{
+"time": "1795183200",
+"formattedTime": "Nov 20, 2026 at 2:00\u202fPM",
+"value": [
+48,
+0,
+3,
+11,
+0
+],
+"isPartial": null
+},
+{
+"time": "1795186800",
+"formattedTime": "Nov 20, 2026 at 3:00\u202fPM",
+"value": [
+50,
+3,
+3,
+13,
+0
+],
+"isPartial": null
+},
+{
+"time": "1795190400",
+"formattedTime": "Nov 20, 2026 at 4:00\u202fPM",
+"value": [
+51,
+0,
+7,
+18,
+0
+],
+"isPartial": null
+},
+{
+"time": "1795194000",
+"formattedTime": "Nov 20, 2026 at 5:00\u202fPM",
+"value": [
+51,
+0,
+4,
+18,
+0
+],
+"isPartial": null
+},
+{
+"time": "1795197600",
+"formattedTime": "Nov 20, 2026 at 6:00\u202fPM",
+"value": [
+58,
+0,
+4,
+13,
+0
+],
+"isPartial": null
+},
+{
+"time": "1795201200",
+"formattedTime": "Nov 20, 2026 at 7:00\u202fPM",
+"value": [
+62,
+2,
+4,
+15,
+0
+],
+"isPartial": null
+},
+{
+"time": "1795204800",
+"formattedTime": "Nov 20, 2026 at 8:00\u202fPM",
+"value": [
+63,
+0,
+0,
+16,
+0
+],
+"isPartial": true
+}
+]
+},
+{
+"group": 1,
+"keywords": [
+"analog horror",
+"gta 6 mystery",
+"gta 6 ghost",
+"gta 6 secrets",
+"open world horror"
+],
+"geo": "US",
+"property": "web",
+"timeframe": "now 7-d",
+"fetched_at": "2026-11-20T20:51:31Z",
+"timeline": [
+{
+"time": "1794600000",
+"formattedTime": "Nov 13, 2026 at 8:00\u202fPM",
+"value": [
+53,
+0,
+0,
+0,
+0
+],
+"isPartial": null
+},
+{
+"time": "1794603600",
+"formattedTime": "Nov 13, 2026 at 9:00\u202fPM",
+"value": [
+53,
+0,
+0,
+0,
+0
+],
+"isPartial": null
+},
+{
+"time": "1794607200",
+"formattedTime": "Nov 13, 2026 at 10:00\u202fPM",
+"value": [
+51,
+0,
+0,
+0,
+0
+],
+"isPartial": null
+},
+{
+"time": "1794610800",
+"formattedTime": "Nov 13, 2026 at 11:00\u202fPM",
+"value": [
+56,
+0,
+8,
+0,
+0
+],
+"isPartial": null
+},
+{
+"time": "1794614400",
+"formattedTime": "Nov 14, 2026 at 12:00\u202fAM",
+"value": [
+65,
+0,
+0,
+0,
+0
+],
+"isPartial": null
+},
+{
+"time": "1794618000",
+"formattedTime": "Nov 14, 2026 at 1:00\u202fAM",
+"value": [
+51,
+0,
+14,
+0,
+0
+],
+"isPartial": null
+},
+{
+"time": "1794621600",
+"formattedTime": "Nov 14, 2026 at 2:00\u202fAM",
+"value": [
+52,
+0,
+0,
+0,
+0
+],
+"isPartial": null
+},
+{
+"time": "1794625200",
+"formattedTime": "Nov 14, 2026 at 3:00\u202fAM",
+"value": [
+66,
+0,
+0,
+0,
+0
+],
+"isPartial": null
+},
+{
+"time": "1794628800",
+"formattedTime": "Nov 14, 2026 at 4:00\u202fAM",
+"value": [
+69,
+0,
+0,
+0,
+0
+],
+"isPartial": null
+},
+{
+"time": "1794632400",
+"formattedTime": "Nov 14, 2026 at 5:00\u202fAM",
+"value": [
+67,
+0,
+20,
+0,
+0
+],
+"isPartial": null
+},
+{
+"time": "1794636000",
+"formattedTime": "Nov 14, 2026 at 6:00\u202fAM",
+"value": [
+66,
+0,
+0,
+0,
+0
+],
+"isPartial": null
+},
+{
+"time": "1794639600",
+"formattedTime": "Nov 14, 2026 at 7:00\u202fAM",
+"value": [
+62,
+0,
+0,
+0,
+0
+],
+"isPartial": null
+},
+{
+"time": "1794643200",
+"formattedTime": "Nov 14, 2026 at 8:00\u202fAM",
+"value": [
+64,
+0,
+0,
+0,
+0
+],
+"isPartial": null
+},
+{
+"time": "1794646800",
+"formattedTime": "Nov 14, 2026 at 9:00\u202fAM",
+"value": [
+0,
+0,
+0,
+0,
+0
+],
+"isPartial": null
+},
+{
+"time": "1794650400",
+"formattedTime": "Nov 14, 2026 at 10:00\u202fAM",
+"value": [
+0,
+0,
+0,
+0,
+0
+],
+"isPartial": null
+},
+{
+"time": "1794654000",
+"formattedTime": "Nov 14, 2026 at 11:00\u202fAM",
+"value": [
+0,
+0,
+0,
+0,
+0
+],
+"isPartial": null
+},
+{
+"time": "1794657600",
+"formattedTime": "Nov 14, 2026 at 12:00\u202fPM",
+"value": [
+0,
+0,
+0,
+0,
+0
+],
+"isPartial": null
+},
+{
+"time": "1794661200",
+"formattedTime": "Nov 14, 2026 at 1:00\u202fPM",
+"value": [
+32,
+0,
+0,
+0,
+0
+],
+"isPartial": null
+},
+{
+"time": "1794664800",
+"formattedTime": "Nov 14, 2026 at 2:00\u202fPM",
+"value": [
+18,
+0,
+0,
+0,
+0
+],
+"isPartial": null
+},
+{
+"time": "1794668400",
+"formattedTime": "Nov 14, 2026 at 3:00\u202fPM",
+"value": [
+24,
+0,
+0,
+0,
+0
+],
+"isPartial": null
+},
+{
+"time": "1794672000",
+"formattedTime": "Nov 14, 2026 at 4:00\u202fPM",
+"value": [
+42,
+0,
+0,
+0,
+0
+],
+"isPartial": null
+},
+{
+"time": "1794675600",
+"formattedTime": "Nov 14, 2026 at 5:00\u202fPM",
+"value": [
+42,
+0,
+0,
+0,
+0
+],
+"isPartial": null
+},
+{
+"time": "1794679200",
+"formattedTime": "Nov 14, 2026 at 6:00\u202fPM",
+"value": [
+47,
+0,
+0,
+0,
+0
+],
+"isPartial": null
+},
+{
+"time": "1794682800",
+"formattedTime": "Nov 14, 2026 at 7:00\u202fPM",
+"value": [
+41,
+0,
+0,
+0,
+0
+],
+"isPartial": null
+},
+{
+"time": "1794686400",
+"formattedTime": "Nov 14, 2026 at 8:00\u202fPM",
+"value": [
+52,
+0,
+0,
+0,
+0
+],
+"isPartial": null
+},
+{
+"time": "1794690000",
+"formattedTime": "Nov 14, 2026 at 9:00\u202fPM",
+"value": [
+60,
+0,
+0,
+0,
+0
+],
+"isPartial": null
+},
+{
+"time": "1794693600",
+"formattedTime": "Nov 14, 2026 at 10:00\u202fPM",
+"value": [
+51,
+0,
+10,
+0,
+0
+],
+"isPartial": null
+},
+{
+"time": "1794697200",
+"formattedTime": "Nov 14, 2026 at 11:00\u202fPM",
+"value": [
+44,
+0,
+9,
+0,
+0
+],
+"isPartial": null
+},
+{
+"time": "1794700800",
+"formattedTime": "Nov 15, 2026 at 12:00\u202fAM",
+"value": [
+56,
+0,
+10,
+0,
+0
+],
+"isPartial": null
+},
+{
+"time": "1794704400",
+"formattedTime": "Nov 15, 2026 at 1:00\u202fAM",
+"value": [
+52,
+0,
+0,
+0,
+0
+],
+"isPartial": null
+},
+{
+"time": "1794708000",
+"formattedTime": "Nov 15, 2026 at 2:00\u202fAM",
+"value": [
+69,
+0,
+10,
+0,
+0
+],
+"isPartial": null
+},
+{
+"time": "1794711600",
+"formattedTime": "Nov 15, 2026 at 3:00\u202fAM",
+"value": [
+69,
+0,
+0,
+0,
+0
+],
+"isPartial": null
+},
+{
+"time": "1794715200",
+"formattedTime": "Nov 15, 2026 at 4:00\u202fAM",
+"value": [
+66,
+0,
+0,
+0,
+0
+],
+"isPartial": null
+},
+{
+"time": "1794718800",
+"formattedTime": "Nov 15, 2026 at 5:00\u202fAM",
+"value": [
+97,
+0,
+17,
+0,
+0
+],
+"isPartial": null
+},
+{
+"time": "1794722400",
+"formattedTime": "Nov 15, 2026 at 6:00\u202fAM",
+"value": [
+98,
+0,
+0,
+0,
+0
+],
+"isPartial": null
+},
+{
+"time": "1794726000",
+"formattedTime": "Nov 15, 2026 at 7:00\u202fAM",
+"value": [
+62,
+0,
+0,
+0,
+0
+],
+"isPartial": null
+},
+{
+"time": "1794729600",
+"formattedTime": "Nov 15, 2026 at 8:00\u202fAM",
+"value": [
+85,
+0,
+0,
+0,
+0
+],
+"isPartial": null
+},
+{
+"time": "1794733200",
+"formattedTime": "Nov 15, 2026 at 9:00\u202fAM",
+"value": [
+77,
+0,
+0,
+0,
+0
+],
+"isPartial": null
+},
+{
+"time": "1794736800",
+"formattedTime": "Nov 15, 2026 at 10:00\u202fAM",
+"value": [
+63,
+0,
+0,
+0,
+0
+],
+"isPartial": null
+},
+{
+"time": "1794740400",
+"formattedTime": "Nov 15, 2026 at 11:00\u202fAM",
+"value": [
+77,
+0,
+0,
+0,
+0
+],
+"isPartial": null
+},
+{
+"time": "1794744000",
+"formattedTime": "Nov 15, 2026 at 12:00\u202fPM",
+"value": [
+45,
+0,
+0,
+0,
+0
+],
+"isPartial": null
+},
+{
+"time": "1794747600",
+"formattedTime": "Nov 15, 2026 at 1:00\u202fPM",
+"value": [
+18,
+0,
+0,
+0,
+0
+],
+"isPartial": null
+},
+{
+"time": "1794751200",
+"formattedTime": "Nov 15, 2026 at 2:00\u202fPM",
+"value": [
+40,
+0,
+0,
+0,
+0
+],
+"isPartial": null
+},
+{
+"time": "1794754800",
+"formattedTime": "Nov 15, 2026 at 3:00\u202fPM",
+"value": [
+48,
+0,
+0,
+0,
+0
+],
+"isPartial": null
+},
+{
+"time": "1794758400",
+"formattedTime": "Nov 15, 2026 at 4:00\u202fPM",
+"value": [
+47,
+0,
+0,
+0,
+0
+],
+"isPartial": null
+},
+{
+"time": "1794762000",
+"formattedTime": "Nov 15, 2026 at 5:00\u202fPM",
+"value": [
+51,
+0,
+9,
+0,
+0
+],
+"isPartial": null
+},
+{
+"time": "1794765600",
+"formattedTime": "Nov 15, 2026 at 6:00\u202fPM",
+"value": [
+48,
+0,
+11,
+0,
+0
+],
+"isPartial": null
+},
+{
+"time": "1794769200",
+"formattedTime": "Nov 15, 2026 at 7:00\u202fPM",
+"value": [
+44,
+0,
+0,
+0,
+0
+],
+"isPartial": null
+},
+{
+"time": "1794772800",
+"formattedTime": "Nov 15, 2026 at 8:00\u202fPM",
+"value": [
+55,
+0,
+0,
+0,
+8
+],
+"isPartial": null
+},
+{
+"time": "1794776400",
+"formattedTime": "Nov 15, 2026 at 9:00\u202fPM",
+"value": [
+57,
+0,
+9,
+0,
+0
+],
+"isPartial": null
+},
+{
+"time": "1794780000",
+"formattedTime": "Nov 15, 2026 at 10:00\u202fPM",
+"value": [
+42,
+0,
+12,
+0,
+0
+],
+"isPartial": null
+},
+{
+"time": "1794783600",
+"formattedTime": "Nov 15, 2026 at 11:00\u202fPM",
+"value": [
+48,
+0,
+8,
+0,
+0
+],
+"isPartial": null
+},
+{
+"time": "1794787200",
+"formattedTime": "Nov 16, 2026 at 12:00\u202fAM",
+"value": [
+51,
+0,
+11,
+0,
+0
+],
+"isPartial": null
+},
+{
+"time": "1794790800",
+"formattedTime": "Nov 16, 2026 at 1:00\u202fAM",
+"value": [
+66,
+0,
+13,
+0,
+0
+],
+"isPartial": null
+},
+{
+"time": "1794794400",
+"formattedTime": "Nov 16, 2026 at 2:00\u202fAM",
+"value": [
+49,
+0,
+14,
+0,
+0
+],
+"isPartial": null
+},
+{
+"time": "1794798000",
+"formattedTime": "Nov 16, 2026 at 3:00\u202fAM",
+"value": [
+57,
+0,
+0,
+0,
+0
+],
+"isPartial": null
+},
+{
+"time": "1794801600",
+"formattedTime": "Nov 16, 2026 at 4:00\u202fAM",
+"value": [
+57,
+0,
+0,
+0,
+0
+],
+"isPartial": null
+},
+{
+"time": "1794805200",
+"formattedTime": "Nov 16, 2026 at 5:00\u202fAM",
+"value": [
+71,
+0,
+0,
+0,
+0
+],
+"isPartial": null
+},
+{
+"time": "1794808800",
+"formattedTime": "Nov 16, 2026 at 6:00\u202fAM",
+"value": [
+79,
+0,
+0,
+0,
+0
+],
+"isPartial": null
+},
+{
+"time": "1794812400",
+"formattedTime": "Nov 16, 2026 at 7:00\u202fAM",
+"value": [
+60,
+0,
+0,
+0,
+0
+],
+"isPartial": null
+},
+{
+"time": "1794816000",
+"formattedTime": "Nov 16, 2026 at 8:00\u202fAM",
+"value": [
+53,
+0,
+0,
+0,
+0
+],
+"isPartial": null
+},
+{
+"time": "1794819600",
+"formattedTime": "Nov 16, 2026 at 9:00\u202fAM",
+"value": [
+0,
+0,
+0,
+0,
+0
+],
+"isPartial": null
+},
+{
+"time": "1794823200",
+"formattedTime": "Nov 16, 2026 at 10:00\u202fAM",
+"value": [
+0,
+0,
+0,
+0,
+0
+],
+"isPartial": null
+},
+{
+"time": "1794826800",
+"formattedTime": "Nov 16, 2026 at 11:00\u202fAM",
+"value": [
+0,
+0,
+0,
+0,
+0
+],
+"isPartial": null
+},
+{
+"time": "1794830400",
+"formattedTime": "Nov 16, 2026 at 12:00\u202fPM",
+"value": [
+35,
+0,
+0,
+0,
+0
+],
+"isPartial": null
+},
+{
+"time": "1794834000",
+"formattedTime": "Nov 16, 2026 at 1:00\u202fPM",
+"value": [
+56,
+0,
+15,
+0,
+0
+],
+"isPartial": null
+},
+{
+"time": "1794837600",
+"formattedTime": "Nov 16, 2026 at 2:00\u202fPM",
+"value": [
+53,
+0,
+0,
+0,
+0
+],
+"isPartial": null
+},
+{
+"time": "1794841200",
+"formattedTime": "Nov 16, 2026 at 3:00\u202fPM",
+"value": [
+59,
+0,
+11,
+0,
+0
+],
+"isPartial": null
+},
+{
+"time": "1794844800",
+"formattedTime": "Nov 16, 2026 at 4:00\u202fPM",
+"value": [
+52,
+0,
+8,
+0,
+0
+],
+"isPartial": null
+},
+{
+"time": "1794848400",
+"formattedTime": "Nov 16, 2026 at 5:00\u202fPM",
+"value": [
+60,
+0,
+14,
+0,
+0
+],
+"isPartial": null
+},
+{
+"time": "1794852000",
+"formattedTime": "Nov 16, 2026 at 6:00\u202fPM",
+"value": [
+47,
+0,
+8,
+0,
+0
+],
+"isPartial": null
+},
+{
+"time": "1794855600",
+"formattedTime": "Nov 16, 2026 at 7:00\u202fPM",
+"value": [
+43,
+0,
+11,
+0,
+0
+],
+"isPartial": null
+},
+{
+"time": "1794859200",
+"formattedTime": "Nov 16, 2026 at 8:00\u202fPM",
+"value": [
+51,
+0,
+9,
+7,
+0
+],
+"isPartial": null
+},
+{
+"time": "1794862800",
+"formattedTime": "Nov 16, 2026 at 9:00\u202fPM",
+"value": [
+50,
+0,
+11,
+0,
+0
+],
+"isPartial": null
+},
+{
+"time": "1794866400",
+"formattedTime": "Nov 16, 2026 at 10:00\u202fPM",
+"value": [
+63,
+0,
+13,
+0,
+0
+],
+"isPartial": null
+},
+{
+"time": "1794870000",
+"formattedTime": "Nov 16, 2026 at 11:00\u202fPM",
+"value": [
+44,
+0,
+12,
+0,
+0
+],
+"isPartial": null
+},
+{
+"time": "1794873600",
+"formattedTime": "Nov 17, 2026 at 12:00\u202fAM",
+"value": [
+52,
+0,
+17,
+0,
+0
+],
+"isPartial": null
+},
+{
+"time": "1794877200",
+"formattedTime": "Nov 17, 2026 at 1:00\u202fAM",
+"value": [
+62,
+0,
+0,
+0,
+0
+],
+"isPartial": null
+},
+{
+"time": "1794880800",
+"formattedTime": "Nov 17, 2026 at 2:00\u202fAM",
+"value": [
+56,
+0,
+13,
+0,
+0
+],
+"isPartial": null
+},
+{
+"time": "1794884400",
+"formattedTime": "Nov 17, 2026 at 3:00\u202fAM",
+"value": [
+70,
+0,
+11,
+0,
+0
+],
+"isPartial": null
+},
+{
+"time": "1794888000",
+"formattedTime": "Nov 17, 2026 at 4:00\u202fAM",
+"value": [
+59,
+0,
+0,
+0,
+0
+],
+"isPartial": null
+},
+{
+"time": "1794891600",
+"formattedTime": "Nov 17, 2026 at 5:00\u202fAM",
+"value": [
+87,
+19,
+25,
+0,
+0
+],
+"isPartial": null
+},
+{
+"time": "1794895200",
+"formattedTime": "Nov 17, 2026 at 6:00\u202fAM",
+"value": [
+81,
+0,
+0,
+0,
+0
+],
+"isPartial": null
+},
+{
+"time": "1794898800",
+"formattedTime": "Nov 17, 2026 at 7:00\u202fAM",
+"value": [
+72,
+0,
+0,
+0,
+0
+],
+"isPartial": null
+},
+{
+"time": "1794902400",
+"formattedTime": "Nov 17, 2026 at 8:00\u202fAM",
+"value": [
+98,
+0,
+0,
+0,
+0
+],
+"isPartial": null
+},
+{
+"time": "1794906000",
+"formattedTime": "Nov 17, 2026 at 9:00\u202fAM",
+"value": [
+74,
+0,
+0,
+0,
+0
+],
+"isPartial": null
+},
+{
+"time": "1794909600",
+"formattedTime": "Nov 17, 2026 at 10:00\u202fAM",
+"value": [
+65,
+0,
+0,
+0,
+0
+],
+"isPartial": null
+},
+{
+"time": "1794913200",
+"formattedTime": "Nov 17, 2026 at 11:00\u202fAM",
+"value": [
+50,
+0,
+0,
+0,
+0
+],
+"isPartial": null
+},
+{
+"time": "1794916800",
+"formattedTime": "Nov 17, 2026 at 12:00\u202fPM",
+"value": [
+56,
+0,
+0,
+0,
+0
+],
+"isPartial": null
+},
+{
+"time": "1794920400",
+"formattedTime": "Nov 17, 2026 at 1:00\u202fPM",
+"value": [
+48,
+0,
+13,
+0,
+0
+],
+"isPartial": null
+},
+{
+"time": "1794924000",
+"formattedTime": "Nov 17, 2026 at 2:00\u202fPM",
+"value": [
+68,
+0,
+10,
+0,
+0
+],
+"isPartial": null
+},
+{
+"time": "1794927600",
+"formattedTime": "Nov 17, 2026 at 3:00\u202fPM",
+"value": [
+70,
+9,
+13,
+0,
+0
+],
+"isPartial": null
+},
+{
+"time": "1794931200",
+"formattedTime": "Nov 17, 2026 at 4:00\u202fPM",
+"value": [
+72,
+0,
+10,
+0,
+0
+],
+"isPartial": null
+},
+{
+"time": "1794934800",
+"formattedTime": "Nov 17, 2026 at 5:00\u202fPM",
+"value": [
+53,
+0,
+13,
+0,
+0
+],
+"isPartial": null
+},
+{
+"time": "1794938400",
+"formattedTime": "Nov 17, 2026 at 6:00\u202fPM",
+"value": [
+60,
+0,
+12,
+0,
+0
+],
+"isPartial": null
+},
+{
+"time": "1794942000",
+"formattedTime": "Nov 17, 2026 at 7:00\u202fPM",
+"value": [
+62,
+0,
+20,
+0,
+0
+],
+"isPartial": null
+},
+{
+"time": "1794945600",
+"formattedTime": "Nov 17, 2026 at 8:00\u202fPM",
+"value": [
+53,
+0,
+7,
+0,
+0
+],
+"isPartial": null
+},
+{
+"time": "1794949200",
+"formattedTime": "Nov 17, 2026 at 9:00\u202fPM",
+"value": [
+69,
+0,
+24,
+0,
+0
+],
+"isPartial": null
+},
+{
+"time": "1794952800",
+"formattedTime": "Nov 17, 2026 at 10:00\u202fPM",
+"value": [
+55,
+0,
+14,
+0,
+0
+],
+"isPartial": null
+},
+{
+"time": "1794956400",
+"formattedTime": "Nov 17, 2026 at 11:00\u202fPM",
+"value": [
+46,
+8,
+15,
+0,
+0
+],
+"isPartial": null
+},
+{
+"time": "1794960000",
+"formattedTime": "Nov 18, 2026 at 12:00\u202fAM",
+"value": [
+56,
+0,
+14,
+0,
+0
+],
+"isPartial": null
+},
+{
+"time": "1794963600",
+"formattedTime": "Nov 18, 2026 at 1:00\u202fAM",
+"value": [
+57,
+0,
+20,
+0,
+0
+],
+"isPartial": null
+},
+{
+"time": "1794967200",
+"formattedTime": "Nov 18, 2026 at 2:00\u202fAM",
+"value": [
+55,
+0,
+18,
+0,
+0
+],
+"isPartial": null
+},
+{
+"time": "1794970800",
+"formattedTime": "Nov 18, 2026 at 3:00\u202fAM",
+"value": [
+51,
+0,
+19,
+0,
+0
+],
+"isPartial": null
+},
+{
+"time": "1794974400",
+"formattedTime": "Nov 18, 2026 at 4:00\u202fAM",
+"value": [
+54,
+0,
+20,
+0,
+0
+],
+"isPartial": null
+},
+{
+"time": "1794978000",
+"formattedTime": "Nov 18, 2026 at 5:00\u202fAM",
+"value": [
+77,
+0,
+40,
+0,
+0
+],
+"isPartial": null
+},
+{
+"time": "1794981600",
+"formattedTime": "Nov 18, 2026 at 6:00\u202fAM",
+"value": [
+72,
+0,
+0,
+0,
+0
+],
+"isPartial": null
+},
+{
+"time": "1794985200",
+"formattedTime": "Nov 18, 2026 at 7:00\u202fAM",
+"value": [
+46,
+0,
+75,
+0,
+0
+],
+"isPartial": null
+},
+{
+"time": "1794988800",
+"formattedTime": "Nov 18, 2026 at 8:00\u202fAM",
+"value": [
+66,
+0,
+0,
+0,
+0
+],
+"isPartial": null
+},
+{
+"time": "1794992400",
+"formattedTime": "Nov 18, 2026 at 9:00\u202fAM",
+"value": [
+100,
+0,
+0,
+0,
+0
+],
+"isPartial": null
+},
+{
+"time": "1794996000",
+"formattedTime": "Nov 18, 2026 at 10:00\u202fAM",
+"value": [
+49,
+0,
+0,
+0,
+0
+],
+"isPartial": null
+},
+{
+"time": "1794999600",
+"formattedTime": "Nov 18, 2026 at 11:00\u202fAM",
+"value": [
+40,
+0,
+0,
+0,
+0
+],
+"isPartial": null
+},
+{
+"time": "1795003200",
+"formattedTime": "Nov 18, 2026 at 12:00\u202fPM",
+"value": [
+39,
+0,
+38,
+0,
+0
+],
+"isPartial": null
+},
+{
+"time": "1795006800",
+"formattedTime": "Nov 18, 2026 at 1:00\u202fPM",
+"value": [
+41,
+17,
+21,
+12,
+0
+],
+"isPartial": null
+},
+{
+"time": "1795010400",
+"formattedTime": "Nov 18, 2026 at 2:00\u202fPM",
+"value": [
+51,
+0,
+36,
+10,
+0
+],
+"isPartial": null
+},
+{
+"time": "1795014000",
+"formattedTime": "Nov 18, 2026 at 3:00\u202fPM",
+"value": [
+65,
+0,
+34,
+0,
+0
+],
+"isPartial": null
+},
+{
+"time": "1795017600",
+"formattedTime": "Nov 18, 2026 at 4:00\u202fPM",
+"value": [
+67,
+10,
+39,
+0,
+0
+],
+"isPartial": null
+},
+{
+"time": "1795021200",
+"formattedTime": "Nov 18, 2026 at 5:00\u202fPM",
+"value": [
+49,
+10,
+32,
+0,
+0
+],
+"isPartial": null
+},
+{
+"time": "1795024800",
+"formattedTime": "Nov 18, 2026 at 6:00\u202fPM",
+"value": [
+49,
+0,
+33,
+0,
+0
+],
+"isPartial": null
+},
+{
+"time": "1795028400",
+"formattedTime": "Nov 18, 2026 at 7:00\u202fPM",
+"value": [
+59,
+8,
+30,
+0,
+0
+],
+"isPartial": null
+},
+{
+"time": "1795032000",
+"formattedTime": "Nov 18, 2026 at 8:00\u202fPM",
+"value": [
+61,
+0,
+30,
+0,
+0
+],
+"isPartial": null
+},
+{
+"time": "1795035600",
+"formattedTime": "Nov 18, 2026 at 9:00\u202fPM",
+"value": [
+56,
+20,
+34,
+11,
+0
+],
+"isPartial": null
+},
+{
+"time": "1795039200",
+"formattedTime": "Nov 18, 2026 at 10:00\u202fPM",
+"value": [
+56,
+20,
+35,
+0,
+0
+],
+"isPartial": null
+},
+{
+"time": "1795042800",
+"formattedTime": "Nov 18, 2026 at 11:00\u202fPM",
+"value": [
+55,
+0,
+32,
+0,
+0
+],
+"isPartial": null
+},
+{
+"time": "1795046400",
+"formattedTime": "Nov 19, 2026 at 12:00\u202fAM",
+"value": [
+61,
+11,
+40,
+10,
+0
+],
+"isPartial": null
+},
+{
+"time": "1795050000",
+"formattedTime": "Nov 19, 2026 at 1:00\u202fAM",
+"value": [
+59,
+14,
+34,
+10,
+0
+],
+"isPartial": null
+},
+{
+"time": "1795053600",
+"formattedTime": "Nov 19, 2026 at 2:00\u202fAM",
+"value": [
+47,
+0,
+44,
+0,
+0
+],
+"isPartial": null
+},
+{
+"time": "1795057200",
+"formattedTime": "Nov 19, 2026 at 3:00\u202fAM",
+"value": [
+51,
+0,
+46,
+0,
+0
+],
+"isPartial": null
+},
+{
+"time": "1795060800",
+"formattedTime": "Nov 19, 2026 at 4:00\u202fAM",
+"value": [
+60,
+0,
+61,
+13,
+0
+],
+"isPartial": null
+},
+{
+"time": "1795064400",
+"formattedTime": "Nov 19, 2026 at 5:00\u202fAM",
+"value": [
+72,
+0,
+62,
+0,
+0
+],
+"isPartial": null
+},
+{
+"time": "1795068000",
+"formattedTime": "Nov 19, 2026 at 6:00\u202fAM",
+"value": [
+46,
+0,
+84,
+0,
+0
+],
+"isPartial": null
+},
+{
+"time": "1795071600",
+"formattedTime": "Nov 19, 2026 at 7:00\u202fAM",
+"value": [
+37,
+0,
+73,
+47,
+0
+],
+"isPartial": null
+},
+{
+"time": "1795075200",
+"formattedTime": "Nov 19, 2026 at 8:00\u202fAM",
+"value": [
+56,
+0,
+72,
+52,
+0
+],
+"isPartial": null
+},
+{
+"time": "1795078800",
+"formattedTime": "Nov 19, 2026 at 9:00\u202fAM",
+"value": [
+0,
+0,
+59,
+0,
+0
+],
+"isPartial": null
+},
+{
+"time": "1795082400",
+"formattedTime": "Nov 19, 2026 at 10:00\u202fAM",
+"value": [
+0,
+0,
+0,
+0,
+0
+],
+"isPartial": null
+},
+{
+"time": "1795086000",
+"formattedTime": "Nov 19, 2026 at 11:00\u202fAM",
+"value": [
+0,
+0,
+0,
+0,
+0
+],
+"isPartial": null
+},
+{
+"time": "1795089600",
+"formattedTime": "Nov 19, 2026 at 12:00\u202fPM",
+"value": [
+38,
+0,
+22,
+24,
+0
+],
+"isPartial": null
+},
+{
+"time": "1795093200",
+"formattedTime": "Nov 19, 2026 at 1:00\u202fPM",
+"value": [
+53,
+0,
+30,
+24,
+0
+],
+"isPartial": null
+},
+{
+"time": "1795096800",
+"formattedTime": "Nov 19, 2026 at 2:00\u202fPM",
+"value": [
+52,
+12,
+47,
+14,
+0
+],
+"isPartial": null
+},
+{
+"time": "1795100400",
+"formattedTime": "Nov 19, 2026 at 3:00\u202fPM",
+"value": [
+56,
+9,
+33,
+18,
+0
+],
+"isPartial": null
+},
+{
+"time": "1795104000",
+"formattedTime": "Nov 19, 2026 at 4:00\u202fPM",
+"value": [
+58,
+9,
+29,
+12,
+0
+],
+"isPartial": null
+},
+{
+"time": "1795107600",
+"formattedTime": "Nov 19, 2026 at 5:00\u202fPM",
+"value": [
+58,
+0,
+31,
+17,
+0
+],
+"isPartial": null
+},
+{
+"time": "1795111200",
+"formattedTime": "Nov 19, 2026 at 6:00\u202fPM",
+"value": [
+65,
+11,
+38,
+12,
+0
+],
+"isPartial": null
+},
+{
+"time": "1795114800",
+"formattedTime": "Nov 19, 2026 at 7:00\u202fPM",
+"value": [
+57,
+0,
+30,
+12,
+0
+],
+"isPartial": null
+},
+{
+"time": "1795118400",
+"formattedTime": "Nov 19, 2026 at 8:00\u202fPM",
+"value": [
+56,
+0,
+32,
+24,
+0
+],
+"isPartial": null
+},
+{
+"time": "1795122000",
+"formattedTime": "Nov 19, 2026 at 9:00\u202fPM",
+"value": [
+57,
+0,
+34,
+10,
+0
+],
+"isPartial": null
+},
+{
+"time": "1795125600",
+"formattedTime": "Nov 19, 2026 at 10:00\u202fPM",
+"value": [
+57,
+0,
+39,
+19,
+0
+],
+"isPartial": null
+},
+{
+"time": "1795129200",
+"formattedTime": "Nov 19, 2026 at 11:00\u202fPM",
+"value": [
+47,
+14,
+47,
+23,
+0
+],
+"isPartial": null
+},
+{
+"time": "1795132800",
+"formattedTime": "Nov 20, 2026 at 12:00\u202fAM",
+"value": [
+46,
+7,
+36,
+17,
+0
+],
+"isPartial": null
+},
+{
+"time": "1795136400",
+"formattedTime": "Nov 20, 2026 at 1:00\u202fAM",
+"value": [
+53,
+10,
+45,
+15,
+0
+],
+"isPartial": null
+},
+{
+"time": "1795140000",
+"formattedTime": "Nov 20, 2026 at 2:00\u202fAM",
+"value": [
+39,
+9,
+50,
+24,
+0
+],
+"isPartial": null
+},
+{
+"time": "1795143600",
+"formattedTime": "Nov 20, 2026 at 3:00\u202fAM",
+"value": [
+53,
+0,
+40,
+37,
+0
+],
+"isPartial": null
+},
+{
+"time": "1795147200",
+"formattedTime": "Nov 20, 2026 at 4:00\u202fAM",
+"value": [
+43,
+16,
+52,
+32,
+0
+],
+"isPartial": null
+},
+{
+"time": "1795150800",
+"formattedTime": "Nov 20, 2026 at 5:00\u202fAM",
+"value": [
+67,
+0,
+49,
+43,
+0
+],
+"isPartial": null
+},
+{
+"time": "1795154400",
+"formattedTime": "Nov 20, 2026 at 6:00\u202fAM",
+"value": [
+61,
+0,
+48,
+55,
+0
+],
+"isPartial": null
+},
+{
+"time": "1795158000",
+"formattedTime": "Nov 20, 2026 at 7:00\u202fAM",
+"value": [
+54,
+38,
+95,
+63,
+0
+],
+"isPartial": null
+},
+{
+"time": "1795161600",
+"formattedTime": "Nov 20, 2026 at 8:00\u202fAM",
+"value": [
+64,
+0,
+77,
+62,
+0
+],
+"isPartial": null
+},
+{
+"time": "1795165200",
+"formattedTime": "Nov 20, 2026 at 9:00\u202fAM",
+"value": [
+0,
+0,
+0,
+0,
+0
+],
+"isPartial": null
+},
+{
+"time": "1795168800",
+"formattedTime": "Nov 20, 2026 at 10:00\u202fAM",
+"value": [
+64,
+0,
+0,
+59,
+0
+],
+"isPartial": null
+},
+{
+"time": "1795172400",
+"formattedTime": "Nov 20, 2026 at 11:00\u202fAM",
+"value": [
+50,
+0,
+30,
+30,
+0
+],
+"isPartial": null
+},
+{
+"time": "1795176000",
+"formattedTime": "Nov 20, 2026 at 12:00\u202fPM",
+"value": [
+38,
+0,
+29,
+25,
+0
+],
+"isPartial": null
+},
+{
+"time": "1795179600",
+"formattedTime": "Nov 20, 2026 at 1:00\u202fPM",
+"value": [
+44,
+0,
+30,
+16,
+0
+],
+"isPartial": null
+},
+{
+"time": "1795183200",
+"formattedTime": "Nov 20, 2026 at 2:00\u202fPM",
+"value": [
+45,
+0,
+23,
+19,
+0
+],
+"isPartial": null
+},
+{
+"time": "1795186800",
+"formattedTime": "Nov 20, 2026 at 3:00\u202fPM",
+"value": [
+76,
+9,
+29,
+21,
+0
+],
+"isPartial": null
+},
+{
+"time": "1795190400",
+"formattedTime": "Nov 20, 2026 at 4:00\u202fPM",
+"value": [
+60,
+0,
+22,
+18,
+0
+],
+"isPartial": null
+},
+{
+"time": "1795194000",
+"formattedTime": "Nov 20, 2026 at 5:00\u202fPM",
+"value": [
+49,
+8,
+27,
+19,
+0
+],
+"isPartial": null
+},
+{
+"time": "1795197600",
+"formattedTime": "Nov 20, 2026 at 6:00\u202fPM",
+"value": [
+53,
+11,
+29,
+20,
+0
+],
+"isPartial": null
+},
+{
+"time": "1795201200",
+"formattedTime": "Nov 20, 2026 at 7:00\u202fPM",
+"value": [
+61,
+0,
+31,
+23,
+0
+],
+"isPartial": null
+},
+{
+"time": "1795204800",
+"formattedTime": "Nov 20, 2026 at 8:00\u202fPM",
+"value": [
+59,
+12,
+36,
+25,
+0
+],
+"isPartial": true
+}
+]
+}
+]
