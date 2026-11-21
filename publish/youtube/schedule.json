@@ -6,7 +6,8 @@
   "time": "13:00",
   "title": "He bought the new game at midnight. It knew his window.",
   "description": "Would you keep playing?\n\nA MOTHWAKE original fiction story. Some things should stay asleep.\nFind the hidden moth in every episode.\nMade for everyone up all night with the new open-world games.\n\n#horror #animatedhorror #gaming",
-  "status": "scheduled"
+  "status": "scheduled",
+  "cover": "covers_v2/01_G1_MidnightLaunch.jpg"
  },
  {
   "n": 2,
@@ -15,7 +16,8 @@
   "time": "18:00",
   "title": "I paused the rain sounds. The tapping didn't.",
   "description": "Did you spot the moth?\n\nA MOTHWAKE original fiction story. Some things should stay asleep.\nFind the hidden moth in every episode.\n\n#horror #animatedhorror #rainsounds",
-  "status": "scheduled"
+  "status": "scheduled",
+  "cover": "covers_v2/02_SH012_RainSounds.jpg"
  },
  {
   "n": 3,
@@ -24,7 +26,8 @@
   "time": "13:00",
   "title": "Everyone's hunting the ghost car. It's in our car park.",
   "description": "Would you get in?\n\nA MOTHWAKE original fiction story. Some things should stay asleep.\nFind the hidden moth in every episode.\nMade for everyone up all night with the new open-world games.\n\n#horror #animatedhorror #gaming",
-  "status": "scheduled"
+  "status": "scheduled",
+  "cover": "covers_v2/03_G2_GhostCar.jpg"
  },
  {
   "n": 4,
@@ -33,7 +36,8 @@
   "time": "18:00",
   "title": "Which door is my front door? Choose before 6 a.m.",
   "description": "Left or right? Most votes decides Part 2.\n\nA MOTHWAKE original fiction story. Some things should stay asleep.\nFind the hidden moth in every episode.\n\n#horror #animatedhorror #whichdoor",
-  "status": "scheduled"
+  "status": "scheduled",
+  "cover": "covers_v2/04_SH025_WhichDoorP1.jpg"
  },
  {
   "n": 5,
@@ -42,7 +46,8 @@
   "time": "13:00",
   "title": "Rules for playing after midnight. Rule 4 isn't a game.",
   "description": "What's your late-night gaming rule?\n\nA MOTHWAKE original fiction story. Some things should stay asleep.\nFind the hidden moth in every episode.\nMade for everyone up all night with the new open-world games.\n\n#horror #animatedhorror #gaming",
-  "status": "scheduled"
+  "status": "scheduled",
+  "cover": "covers_v2/05_G3_RulesAfterMidnight.jpg"
  },
  {
   "n": 6,
@@ -51,7 +56,8 @@
   "time": "18:00",
   "title": "My little brother's nightlight has three rules",
   "description": "Which rule would you break first?\n\nA MOTHWAKE original fiction story. Some things should stay asleep.\nFind the hidden moth in every episode.\n\n#horror #animatedhorror #horrorrules",
-  "status": "scheduled"
+  "status": "scheduled",
+  "cover": "covers_v2/06_SH019_NightlightRules.jpg"
  },
  {
   "n": 7,
@@ -60,7 +66,8 @@
   "time": "13:00",
   "title": "The game gave him a choice. Then someone knocked.",
   "description": "Let him in or keep playing?\n\nA MOTHWAKE original fiction story. Some things should stay asleep.\nFind the hidden moth in every episode.\nMade for everyone up all night with the new open-world games.\n\n#horror #animatedhorror #gaming",
-  "status": "scheduled"
+  "status": "scheduled",
+  "cover": "covers_v2/07_G4_ChooseWisely.jpg"
  },
  {
   "n": 8,
@@ -69,7 +76,8 @@
   "time": "18:00",
   "title": "Night mode blurs anything that moves. Except him.",
   "description": "Pause on the last photo. How many are sharp?\n\nA MOTHWAKE original fiction story. Some things should stay asleep.\nFind the hidden moth in every episode.\n\n#horror #animatedhorror #nightmode",
-  "status": "scheduled"
+  "status": "scheduled",
+  "cover": "covers_v2/08_SH003_HoldStill.jpg"
  },
  {
   "n": 9,
@@ -78,7 +86,8 @@
   "time": "13:00",
   "title": "He found the secret ending. It's our building.",
   "description": "Did you spot the moth in every part?\n\nA MOTHWAKE original fiction story. Some things should stay asleep.\nFind the hidden moth in every episode.\nMade for everyone up all night with the new open-world games.\n\n#horror #animatedhorror #gaming",
-  "status": "scheduled"
+  "status": "scheduled",
+  "cover": "covers_v2/09_G5_SecretEnding.jpg"
  },
  {
   "n": 10,
@@ -87,7 +96,8 @@
   "time": "18:00",
   "title": "They fixed the streetlamp. Who is standing under it?",
   "description": "Would you walk past it?\n\nA MOTHWAKE original fiction story. Some things should stay asleep.\nFind the hidden moth in every episode.\n\n#horror #animatedhorror #winterhorror",
-  "status": "scheduled"
+  "status": "scheduled",
+  "cover": "covers_v2/10_SH015_Streetlamp.jpg"
  },
  {
   "n": 11,
@@ -97,7 +107,8 @@
   "title": "How to survive a sleep paralysis demon (rule 3 matters)",
   "description": "Has this ever happened to you?\n\nA MOTHWAKE original fiction story. Some things should stay asleep.\nFind the hidden moth in every episode.\n\n#creepy #horror #animatedhorror #sleepparalysis",
   "status": "pending (daily upload limit)",
-  "cover_text": "SLEEP PARALYSIS\nDEMON"
+  "cover_text": "SLEEP PARALYSIS\nDEMON",
+  "cover": "covers_v2/11_SH022_SleepParalysis.jpg"
  },
  {
   "n": 12,
@@ -107,7 +118,8 @@
   "title": "Pause at 7 seconds. How many people do you count?",
   "description": "Comment your count before you rewatch.\n\nA MOTHWAKE original fiction story. Some things should stay asleep.\nFind the hidden moth in every episode.\n\n#creepy #horror #animatedhorror #pauseit",
   "status": "pending (daily upload limit)",
-  "cover_text": "PAUSE AT 0:07"
+  "cover_text": "PAUSE AT 0:07",
+  "cover": "covers_v2/12_SH028_PauseAtSeven.jpg"
  },
  {
   "n": 13,
@@ -117,7 +129,8 @@
   "title": "Same customer every night. Her husband died in 2017.",
   "description": "Would you deliver to flat eight?\n\nA MOTHWAKE original fiction story. Some things should stay asleep.\nFind the hidden moth in every episode.\n\n#creepy #horror #animatedhorror #nightshift",
   "status": "pending (daily upload limit)",
-  "cover_text": "THE CREEPY\nCUSTOMER"
+  "cover_text": "THE CREEPY\nCUSTOMER",
+  "cover": "covers_v2/13_SH005_LastPrescription.jpg"
  },
  {
   "n": 14,
@@ -127,7 +140,8 @@
   "title": "I wrote \"hi\" on the bus window. Who wrote back?",
   "description": "Where was it sitting?\n\nA MOTHWAKE original fiction story. Some things should stay asleep.\nFind the hidden moth in every episode.\n\n#creepy #horror #animatedhorror #nightbus",
   "status": "pending (daily upload limit)",
-  "cover_text": "WHO WROTE\nBACK?"
+  "cover_text": "WHO WROTE\nBACK?",
+  "cover": "covers_v2/14_SH010_WrittenFromInHere.jpg"
  },
  {
   "n": 15,
@@ -137,7 +151,8 @@
   "title": "One thing in this kitchen is wrong. Can you find it?",
   "description": "Comment your time.\n\nA MOTHWAKE original fiction story. Some things should stay asleep.\nFind the hidden moth in every episode.\n\n#creepy #horror #animatedhorror #findit",
   "status": "pending (daily upload limit)",
-  "cover_text": "CAN YOU\nFIND IT?"
+  "cover_text": "CAN YOU\nFIND IT?",
+  "cover": "covers_v2/15_SH026_KettleInTheGlass.jpg"
  },
  {
   "n": 16,
@@ -147,7 +162,8 @@
   "title": "Our hallway light has rules. Don't argue with it.",
   "description": "What's your number?\n\nA MOTHWAKE original fiction story. Some things should stay asleep.\nFind the hidden moth in every episode.\n\n#creepy #horror #animatedhorror #horrorrules",
   "status": "pending (daily upload limit)",
-  "cover_text": "DON'T ARGUE"
+  "cover_text": "DON'T ARGUE",
+  "cover": "covers_v2/16_SH016_SixtySecondLight.jpg"
  },
  {
   "n": 17,
@@ -157,7 +173,8 @@
   "title": "Dryer six gave back everything I lost. Then me.",
   "description": "Which one of us is typing this?\n\nA MOTHWAKE original fiction story. Some things should stay asleep.\nFind the hidden moth in every episode.\n\n#creepy #horror #animatedhorror #laundromat",
   "status": "pending (daily upload limit)",
-  "cover_text": "DRYER SIX"
+  "cover_text": "DRYER SIX",
+  "cover": "covers_v2/17_SH001_DryerSix.jpg"
  },
  {
   "n": 18,
@@ -167,6 +184,7 @@
   "title": "Theo always wins hide-and-seek. Now I know why.",
   "description": "How high has it counted now?\n\nA MOTHWAKE original fiction story. Some things should stay asleep.\nFind the hidden moth in every episode.\n\n#creepy #horror #animatedhorror #hideandseek",
   "status": "pending (daily upload limit)",
-  "cover_text": "STILL\nCOUNTING"
+  "cover_text": "STILL\nCOUNTING",
+  "cover": "covers_v2/18_SH009_StillCounting.jpg"
  }
 ]
